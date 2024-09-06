@@ -3,12 +3,24 @@
 
 Questo articolo parla dei possibili pericoli per gli esseri umani relativo allo sviluppo e impiego delle intelligenze artificiale. Fammi un breve riassunto elencandone i punti fondamentali e per ognuno di questi punti proponi una fondata opinione critica rispetto alla posizione dell'autore o un fatto accertato che possa confutare la tesi dell'autore.
 
+### UPLOAD
+
+Il testo dell'articolo di Paolo Benanti intitolato "*intelligenza artificiale e relazioni pericolose*" del 4 settembre 2024:
+
+* https://lnkd.in/dWFf6JBq
+
+oppure
+
+* https://lnkd.in/dWFf6JBq
+
+La seconda immagine di uno o dell'altro di questi due post.
+
+
 <br/>
 
 <br/>
 
 ## CHATGPT 4o
-
 
 L’articolo di Paolo Benanti esplora i potenziali pericoli legati allo sviluppo e all’impiego dell’intelligenza artificiale (IA), con particolare attenzione ai grandi modelli linguistici (Llm) come ChatGPT e Gemini. Ecco un riassunto dei punti principali e un'analisi critica o confutazione basata su fatti accertati:
 
