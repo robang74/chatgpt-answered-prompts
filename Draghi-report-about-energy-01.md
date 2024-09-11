@@ -153,4 +153,4 @@ There are also no **global** democrats values because almost none of the modern 
 
 Unfortunately, **global** in this context only means as the U.S. current presicidency wishes.
 
-This considerations should be necessarly added because one day history or our children will ask to us about all of this.
+These considerations were necessarily mandatory because one day in the future our children will ask us about all of this.
