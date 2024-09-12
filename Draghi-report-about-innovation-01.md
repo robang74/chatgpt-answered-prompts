@@ -165,3 +165,20 @@ The **Cathedral and the Bazaar** metaphor represents one of the best-known model
 That said, for fields driven by knowledge, creativity, and software, this model has proven to be one of the most successful alternatives to top-down approaches, offering **flexibility, inclusivity, and rapid innovation**.
 
 In conclusion, the **Bazaar model** is a powerful alternative, particularly in knowledge-intensive industries, but other models such as **platform economies** and **grassroots innovation** also offer strong decentralized alternatives, depending on the industry and context.
+
+<br/>
+<br/>
+
+## CONSIDERATIONS
+
+Considering the Mario Draghi's report, his relevant backgrounds and experiences, me and the chatbot agreed that he is more affine with a directive/impositive bureaucrats rather than an European Commision president.
+
+Moreover, it seems that he does not have a deep understanding about the dynamics that thrive towards innovation and he has not a strong sensitivity for people's freedom and individual rights but he is more concerned about the mechanics of the system.  
+
+Despite his US presidency policy clear alignment and fidelity, he showed no cloud about what values are at the foundation of the American Dream. Which does not surprise me because also the current US presidency has no clue about them.
+
+Finally, digitalisation in this scenario is nothing else than a mass bureaucratic impositive control. The bureaucracy dictatorship: everything is forbidden unless explicitly allowed. In which harmony in laws sounds like a flat Earth globalisation with no diversity except in scenic irrelevant details.
+
+On top of all of this, it is enough to complete the picture, noticing that quantitative easing is nothing else than a novel form of communism based on the financial paradigm for which the central bank can print by thin air as much money as the wish to control the whole system and to overtake the state sovereignty by debt and financials magic tricks.
+
+I - as a human being - sincerely hope to be completely wrong in all of these considerations.
