@@ -1,6 +1,6 @@
 ## Q&A DIALOG
 
-In this case it is not a single prompt but a dialog, a series of questions about the energy topic and Ukraine proxy war against Russia viewed from the Europe perspective. Prompts are highlighted in italic. Few missing words have been added in the prompt queries just to help the English native speaker to quickly grab the meaning but for sake of correctness those words appear between squared parentheses.
+In this case it is not a single prompt but a dialog, a series of questions about the energy topic and Ukraine proxy war against Russia viewed from the Europe perspective. Prompts are highlighted in italic. Few missing words have been added in the prompt queries just to help the English native speaker to quickly grab the meaning but for sake of correctness those words appear between [squared] parentheses.
 
 ### UPLOAD
 
