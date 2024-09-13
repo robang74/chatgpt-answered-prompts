@@ -182,3 +182,78 @@ Finally, digitalisation in this scenario is nothing else than a mass bureaucrati
 On top of all of this, it is enough to complete the picture, noticing that quantitative easing is nothing else than a novel form of communism based on the financial paradigm for which the central bank can print by thin air as much money as the wish to control the whole system and to overtake the state sovereignty by debt and financials magic tricks.
 
 I - as a human being - sincerely hope to be completely wrong in all of these considerations.
+
+<br/>
+<br/>
+
+## REVIEW
+
+Because GitHub allows access to any version of any files stored in it, this review has been made with the previous version of this file which is still available ([hash ba594de4](https://raw.githubusercontent.com/robang74/chatgpt-answered-prompts/ba594de452abe1676874acf5d19a678c912c1706/Draghi-report-about-innovation-01.md). The review has been made asking others chatbot to evaluate the discussion and comparing the human questions and conclusion with the ChatGPT answers. Google Gemeni refused to answer because the U.S. elections and the question is about a relevant political personality.
+
+<br/>
+
+### CLAUDE 3.5 SONNET
+
+> *Considering the document uploaded, briefly summarize it from three different PoV: 1) what has emerged from this Q&A dialog about the Mario Draghi report; 2) the opinion expressed by the human involved in the chat; 3) are the considerations of the human author correct?* - [upload the document linked here](https://raw.githubusercontent.com/robang74/chatgpt-answered-prompts/ba594de452abe1676874acf5d19a678c912c1706/Draghi-report-about-innovation-01.md)
+
+I'll summarize the document from the three requested points of view:
+
+1. What emerged from the Q&A dialog about the Mario Draghi report:
+The dialog suggests that Draghi's report focuses heavily on improving European competitiveness through top-down approaches, emphasizing digitalization, regulatory harmonization, and large-scale investment plans. The report appears to prioritize systemic efficiency and market integration over individual freedoms or bottom-up innovation. It draws comparisons to the Marshall Plan in terms of scale of investment needed. The report seems to reflect Draghi's background in finance and central banking, with a strong emphasis on bureaucratic solutions and centralized control.
+
+2. Opinion expressed by the human involved in the chat:
+The human participant expresses skepticism towards Draghi's approach, viewing it as overly bureaucratic and potentially stifling to genuine innovation and individual freedom. They criticize the report for not addressing the human aspects of innovation and for potentially creating more bureaucracy in an attempt to reduce it. The human questions whether Draghi's background has led to a bias towards control and systemic management rather than fostering a truly open market. They also express concern that the proposed digitalization efforts may lead to excessive control and data collection, potentially infringing on privacy and freedom.
+
+3. Are the considerations of the human author correct?
+While the human's considerations raise valid points about the potential drawbacks of top-down approaches and the importance of individual freedom in fostering innovation, it's important to note that complex economic and political issues often require nuanced solutions. The human's critique highlights important aspects that may be underrepresented in Draghi's report, such as the role of grassroots innovation and the potential risks of over-centralization. However, determining whether these considerations are entirely "correct" would require a more comprehensive analysis of the report and its context. The human's perspective offers a valuable counterpoint to the approach outlined in the report, emphasizing the need for balance between systemic efficiency and individual liberty in pursuing economic competitiveness and innovation.
+
+<br/>
+
+### MISTRAL 2 LARGE
+
+> *Considering the document in .md format below this prompt, briefly summarize it from three different PoV: 1) what has been emerged from this Q&A dialog about the Mario Draghi report; 2) the opinion expressed by the human involved in the chat; 3) are the considerations of the human author correct?* - [new line, copy & paste the whole text from this link](https://raw.githubusercontent.com/robang74/chatgpt-answered-prompts/ba594de452abe1676874acf5d19a678c912c1706/Draghi-report-about-innovation-01.md)
+
+### Summary from Three Different Points of View
+
+#### 1. What Has Emerged from This Q&A Dialog About the Mario Draghi Report
+The Q&A dialog reveals several key points about Mario Draghi's report on European competitiveness:
+- The report does not propose adopting English as a second official language among EU countries.
+- It focuses on broader competitiveness issues like digitalization, skills development, and innovation, but does not address language policies.
+- The report highlights challenges related to market fragmentation and regulatory barriers but does not specifically address market homogenization through common communication languages or document formats.
+- The report emphasizes the need to reduce bureaucracy and streamline regulatory processes to enhance productivity and innovation.
+- It suggests that streamlining bureaucracy through digitalization would significantly aid in reducing delays and costs for businesses.
+- The report places significant emphasis on companies and regulatory environments, with less focus on language barriers or cultural unification.
+- It discusses the importance of digitalization and regulatory harmonization but does not delve deeply into the human side of innovation.
+- The report frames digital transformation as a necessary step to improve Europe's competitiveness, focusing on areas like AI, automation, and digital infrastructure.
+- It champions stronger privacy protections and data governance but does not extensively explore the balance between innovation and privacy.
+- The report is heavily shaped by Draghi's background in finance and central banking, where control and regulation are vital.
+- It proposes a massive long-term investment plan, drawing comparisons to the Marshall Plan, to meet the challenges of digitalization, decarbonization, and defense.
+
+#### 2. The Opinion Expressed by the Human Involved in the Chat
+The human involved in the chat expresses several opinions and critiques:
+- They believe that the report focuses too much on companies and regulatory environments, forgetting about people.
+- They argue that innovation cannot thrive without considering people's needs and facilitating smoother communication across linguistic divides.
+- They criticize the report for having a mechanistic view of innovation and not understanding the organic, people-driven nature of innovation.
+- They suggest that Draghi's background as a central bank director has biased his report, making people look like his employees rather than free individuals with their own rights and free will.
+- They question whether the report's emphasis on top-down digitization efforts might lead to over-centralization of control and erosion of freedoms.
+- They express concern that the report's focus on bureaucracy might create additional layers of regulation, despite aiming to reduce it.
+- They argue that the report reflects a controlling mindset, prioritizing systemic efficiency over personal freedom and a truly open market.
+- They suggest that Draghi's vision of Europe’s future prioritizes systemic efficiency and competitiveness but does not fully embrace the individualistic freedom often associated with the American model.
+- They rate Draghi highly as a bureaucrat in charge but lower as an American president or a man near the people's needs.
+- They question whether the report's proposed innovation hubs might privilege certain demographics or reinforce existing power structures without sufficiently engaging a broader entrepreneurial community.
+- They suggest that alternative models like the "Cathedral and the Bazaar" might offer more effective approaches to innovation.
+
+#### 3. Are the Considerations of the Human Author Correct?
+The considerations of the human author are a mix of valid critiques and subjective interpretations:
+- It is correct that the report focuses more on institutional solutions and less on the human side of innovation.
+- The critique that the report might overlook the everyday challenges people face when navigating different languages and bureaucratic systems across Europe is valid.
+- The concern that top-down digitization efforts might lead to over-centralization of control and erosion of freedoms is a legitimate risk.
+- The argument that the report reflects a controlling mindset, prioritizing systemic efficiency over personal freedom, is supported by the document’s focus and the underlying assumptions about how to drive innovation and growth.
+- The suggestion that Draghi's background in finance and central banking has influenced his approach is reasonable, given his career history.
+- The critique that the report might create additional layers of regulation, despite aiming to reduce bureaucracy, is a valid concern.
+- The rating of Draghi as a bureaucrat in charge is supported by his expertise in managing complex systems and coordinating across institutions.
+- The lower ratings as an American president or a man near the people's needs are subjective but reflect the report's focus on institutional solutions over individual freedoms and bottom-up empowerment.
+- The question of whether the report's proposed innovation hubs might privilege certain demographics is a valid concern, given the potential for such initiatives to reinforce existing power structures.
+- The suggestion that alternative models like the "Cathedral and the Bazaar" might offer more effective approaches to innovation is supported by the success of such models in areas like open-source software development.
+
+In conclusion, the human author's considerations are a mix of valid critiques and subjective interpretations, reflecting a thoughtful engagement with the report's strengths and weaknesses.
