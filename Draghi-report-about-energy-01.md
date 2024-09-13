@@ -168,7 +168,7 @@ In conclusion, the human author's considerations appear more accurate in capturi
 
 ### MISTRAL 2 LARGE
 
-> *Considering the document in -md format below this prompt, briefly summarize it and tell me: are the considerations of the human author correct? Or the last single word answer provided by the chatbot?* - [new line, copy & paste the whole text from this link](https://raw.githubusercontent.com/robang74/chatgpt-answered-prompts/5194e043de622bb0462e89c210dad8943340f627/Draghi-report-about-energy-01.md)
+> *Considering the document in .md format below this prompt, briefly summarize it and tell me: are the considerations of the human author correct? Or the last single word answer provided by the chatbot?* - [new line, copy & paste the whole text from this link](https://raw.githubusercontent.com/robang74/chatgpt-answered-prompts/5194e043de622bb0462e89c210dad8943340f627/Draghi-report-about-energy-01.md)
 
 #### Summary of the Document
 
