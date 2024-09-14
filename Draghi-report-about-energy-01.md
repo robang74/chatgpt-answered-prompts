@@ -12,7 +12,7 @@ none
 
 ### NOTE
 
-All the answers were presenting the following statment:
+All the answers were presenting the following statement:
 
 + This is an AI experiment to navigate Mario Draghi's report, "The Future of European Competitiveness," and is not affiliated with the real Mario Draghi.
 
