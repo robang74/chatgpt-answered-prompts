@@ -12,6 +12,11 @@ A 1700 x 1296 pixels image saved in PNG format in a 1.5 Mb file.
 
 none, publicly web-available chatbot questioned in a new-from-scratch session without any previous custom pre-training.
 
+### COPYLEFT
+
+(c) 2024, Roberto A. Foglietta <roberto.foglietta<span>@</span>gmail.com>, CC BY-SA 4.0
+
+
 <br/>
 
 ### CLAUDE 3.5 SONNET
