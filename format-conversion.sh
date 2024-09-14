@@ -4,6 +4,7 @@
 #
 
 echo
+mkdir -p html pdf
 
 for i in *.md; do
     if [ "$i" == "README.md" ]; then
