@@ -54,7 +54,7 @@ The image appears to be contrasting a lengthy, formal approach to EU economic po
 
 <br/>
 
-> *The IT man suggestions are presented in a language that mimic the math or a sort of programming language. Rewrite that 3 sentence in plain English but keeping the original meaning.*
+> *The IT man['s] suggestions are presented in a language that mimic[s] the math or a sort of programming language. Rewrite that [those] 3 sentence[s] in plain English but keeping the original meaning.*
 
 You're right, and I apologize for not addressing that aspect in my initial description. Let me rephrase those three suggestions in plain English while maintaining their original meaning:
 
@@ -110,7 +110,7 @@ Please note that in this Q&A dialog the exact same questions asked to Claude hav
 
 This image presents a comparison between two individuals, Mario Draghi, the former president of the European Central Bank (ECB), and an anonymous person described as an "ex-IT nerd." The overall theme of the image contrasts their approaches to addressing large-scale issues facing Europe, particularly economic and political ones.
 
-### **Upper Portion (Black Background) - Mario Draghi**
+#### Upper Portion (Black Background) - Mario Draghi
 
 1. **Image**: Mario Draghi, dressed in a dark suit, stands on the left side. He is well-known for his role as the president of the European Central Bank (ECB), which is suggested in the text next to him.
    
@@ -124,7 +124,7 @@ This image presents a comparison between two individuals, Mario Draghi, the form
 
      - **Interpretation**: This part humorously highlights the bureaucratic and formal approach taken by Mario Draghi and his team, emphasizing a lengthy 400-page report, with the final outcome boiling down to a single strong suggestion: "do that or die!" suggesting the high stakes and formality involved in his recommendations.
 
-### **Lower Portion (Pink Background) - Anonymous IT Nerd**
+#### Lower Portion (Pink Background) - Anonymous IT Nerd
 
 1. **Image**: A man in a light-colored suit and sunglasses is presented in a more relaxed pose compared to Mario Draghi, suggesting an informal, perhaps satirical tone.
    
@@ -135,19 +135,19 @@ This image presents a comparison between two individuals, Mario Draghi, the form
 
 3. **The Anonymous Person’s 3 Suggestions (Bottom)**
 
-   - "1. English as 2nd official EU language."
+   - `1. English as 2nd official EU language.`
 
      - Suggesting that English should be established as the second official language of the European Union.
    
-   - "2. (-) bureaucracy = (+) productivity."
+   - `2. (-) bureaucracy = (+) productivity.`
 
      - Suggesting that reducing bureaucracy will increase productivity.
    
-   - "3. no war vs RU -> cheap energy."
+   - `3. no war vs RU -> cheap energy.`
 
      - Suggesting that avoiding conflict with Russia would lead to cheaper energy, presumably by maintaining access to Russian energy supplies.
 
-### **Overall Meaning**
+#### Overall Meaning
 
 The image is a humorous juxtaposition of two approaches to problem-solving. Mario Draghi represents the formal, bureaucratic, and lengthy process of institutional decision-making, while the anonymous ex-IT nerd represents a quicker, more direct, and practical approach. The contrast points out how sometimes simplicity and common sense can offer clear solutions, whereas formal processes might overcomplicate matters.
 
