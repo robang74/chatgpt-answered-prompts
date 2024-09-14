@@ -6,6 +6,8 @@ In this case, it is not a single prompt but a dialog: a series of answered quest
 
 * [draghi-report-vs-ciuchino-meme.png](draghi-report-vs-ciuchino-meme.png)
 
+A 1700 x 1296 pixels image saved in PNG format in a 1.5 Mb file. 
+
 <br/>
 
 ### CLAUDE 3.5 SONNET
