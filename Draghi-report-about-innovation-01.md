@@ -108,14 +108,11 @@ Thus, while Draghi's report is influenced by his experiences in the U.S., the so
 
 Based on the themes of this conversation and insights from Draghi's report, here’s how I would rate Mario Draghi in the following roles:
 
-1. **Bureaucrat in charge**: **9/10**  
-   Draghi's approach reflects strong expertise in managing complex systems, coordinating across institutions, and reducing regulatory fragmentation—skills typical of a highly effective bureaucrat. His focus on systematization, regulatory harmonization, and institutional efficiency suggests he is deeply aligned with the mindset of a skilled bureaucrat.
+1. **Bureaucrat in charge: 9/10** - Draghi's approach reflects strong expertise in managing complex systems, coordinating across institutions, and reducing regulatory fragmentation—skills typical of a highly effective bureaucrat. His focus on systematization, regulatory harmonization, and institutional efficiency suggests he is deeply aligned with the mindset of a skilled bureaucrat.
 
-2. **An American president**: **4/10**  
-   Draghi’s methods and views, emphasizing centralization and regulatory control, seem at odds with the more decentralized, individualistic, and freedom-focused tradition of American presidents. While his economic ideas draw from U.S. models, his approach lacks the embrace of personal freedom and individualism that defines much of American political culture, especially in the context of leadership.
+2. **An American president: 4/10** - Draghi’s methods and views, emphasizing centralization and regulatory control, seem at odds with the more decentralized, individualistic, and freedom-focused tradition of American presidents. While his economic ideas draw from U.S. models, his approach lacks the embrace of personal freedom and individualism that defines much of American political culture, especially in the context of leadership.
 
-3. **A man near the people's needs**: **5/10**  
-   While Draghi does address important macroeconomic concerns like innovation, productivity, and reducing bureaucratic burdens for businesses, his report is heavily oriented toward institutional solutions. There’s less focus on how these policies directly resonate with the lived experiences of individuals, particularly in terms of personal freedoms and bottom-up empowerment.
+3. **A man near the people's needs: 5/10** - While Draghi does address important macroeconomic concerns like innovation, productivity, and reducing bureaucratic burdens for businesses, his report is heavily oriented toward institutional solutions. There’s less focus on how these policies directly resonate with the lived experiences of individuals, particularly in terms of personal freedoms and bottom-up empowerment.
 
 These ratings are based on the themes we’ve explored, considering both Draghi’s strengths and the potential gaps in his approach, especially in relation to personal freedoms and human-centered innovation.
 
