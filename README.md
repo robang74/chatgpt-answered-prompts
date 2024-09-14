@@ -1,17 +1,17 @@
-## A collection of ChatGPT answered prompts
+## Q&A dialogs with AI chatbots
 
 A collection of some Q&A dialogs with various AI powered chatbots about different subjects
 which get the attention of the media.
 
 <br/>
 
-### COPYLEFT
+## Copyleft
 
 (c) 2024, Roberto A. Foglietta <roberto.foglietta<span>@</span>gmail.com>, CC BY-SA 4.0
 
 <br/>
 
-### DOWNLOAD
+## Download
 
 There are several way to download this github repository:
 
@@ -31,7 +31,7 @@ of every change. Click on the link above will submit the related request for you
 
 <br/>
 
-### VERSIONING
+## Versioning
 
 One of main goals of `git` and the github web interface is to provide a versioning
 control which also means a catalog of every author and changes made by them on
