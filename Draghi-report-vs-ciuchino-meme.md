@@ -191,7 +191,7 @@ Third, asking about performances throughput about the two men performances, both
 
 Finally, the Mario Draghi report has been previously challenged leveraging a similar approach based on AI. In particular, thanks to an Italian Microsoft professional that created a specifically Draghi's report pre-trained ChatGPT 4o agent. Hence, also the report content has been evaluated about two different aspects:
 
-* [Draghi-report-about-innovation-01.md](Draghi-report-about-innovation-01.md)
+* [Draghi-report-about-energy-01.md](Draghi-report-about-energy-01.md)
 
 * [Draghi-report-about-innovation-01.md](Draghi-report-about-innovation-01.md)
 
