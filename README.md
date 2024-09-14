@@ -45,3 +45,20 @@ that also the timestamp is validate by the github infrastructure system which be
 to Microsoft Corporation. In fact, github cannot validate those timestamps that are
 coming from 3rd party systems like the users workstations but just the receiving
 time, date and content. However, for most of the cases this is irrelevant.
+
+<br/>
+
+## Translations
+
+The aim is to provide translations of these .md files in different languages. The translations will be put into a subfolder with the English name of the language in which they have been translated into. The translated .md file will carry a section about how the translation has been made. 
+
+Here below a template in English:
+
+> This document (tag: `$tagstring` or hash: `$hashstring`) has been translated from English into `$language` by a native `$language` speaker who knows English and with the support of `$automatic-tool` to speed up the translation task.
+
+As you can see the translated document should contain a reference about the original version and those which are tagged are the most reliable.
+
+If you wish to send a translation, it is necessary that you know well one of the languages in which this document is available, even better if you know English and can start from the original version, and that you are a native speaker or equivalent in the language in which the translation is being made.
+
+
+
