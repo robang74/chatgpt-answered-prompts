@@ -6,6 +6,9 @@
 echo
 
 for i in *.md; do
+    if [ "$i" == "README.md" ]; then
+        continue
+    fi
     echo "converting $i in html ..."
     markdown $i > html/${i%.md}.html
 done
@@ -27,6 +30,9 @@ done
 
 echo
 for i in *.md; do
+    if [ "$i" == "README.md" ]; then
+        continue
+    fi
     echo "converting $i in pdf ..."
     cp -f $i pdf/$i.tmp
     for k in *.png *.md; do
