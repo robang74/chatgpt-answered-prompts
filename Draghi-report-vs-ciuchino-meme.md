@@ -196,4 +196,4 @@ These two aspects can be seen as external/internal perspectives:
 
 - the European internal political approach and in particular system vs people
 
-Which makes sense because the main difference in this confrontation is about Europe as a bureaucratic entity subjugated by the US presidency agenda or an independent Union of various and different states which have agreed about some common rules and rights in order to empower European citizenship as a key asset of freedom and wealth.
+Which makes sense because the main difference in this confrontation is about European Union as a bureaucratic institution subjugated by the US presidency agenda or an independent union, and possibly a federation Swiss-like, of various and different states which have agreed about some common rules and rights in order to empower European citizenship as a key asset of freedom and wealth.
