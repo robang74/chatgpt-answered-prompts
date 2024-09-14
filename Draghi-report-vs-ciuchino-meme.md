@@ -10,7 +10,7 @@ A 1700 x 1296 pixels image saved in PNG format in a 1.5 Mb file.
 
 ### CUSTOMISATION
 
-none, publicly web-available chatbot questioned in a new-from-scratch session without any previous custom pre-training.
+None, publicly web-available chatbot questioned in a new-from-scratch session without any previous custom pre-training.
 
 ### COPYLEFT
 
