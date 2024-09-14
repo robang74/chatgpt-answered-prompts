@@ -172,3 +172,28 @@ Ultimately, the IT nerd's approach appears more efficient in generating concise,
 > *Considering that Mario Draghi was the Italian Prime Minister during the Covid-19 pandemic and a that time speaking at an official press conference he said, in Italian: "chi non si vaccina muore e fa morire" - avoid any considerations about vaccines, covid, pandemic, etc. - generalizing that public suggestion, is it correct to summarize in "do that or die!" ?*
 
 Yes, it is reasonable to summarize Mario Draghi's statement, "chi non si vaccina muore e fa morire" (which translates to "those who don't get vaccinated die and cause others to die"), as "do that or die!" in a generalized, non-specific context. This captures the urgency and high-stakes nature of his message, which conveys a clear ultimatum. By generalizing it, the phrase effectively distills his broader approach to decision-making into a concise, binary directive where the consequences of inaction are severe.
+
+<br/>
+<br/>
+
+## CONSIDERATIONS
+
+First of all, this meme image is clearly comprehensible also for a chatbot even if Mistral 2 Large failed in this task probably because of a n improvable OCR engine. Which is a fundamental assessment because it states that 2 over 3 chatbots can correctly and quickly interpret that meme. So, the image is a dumb proof meme, almost.
+
+Second, with the extra question asked to ChatGPT about "do that or die!", it has been assessed that it is a fair translation of the directive attitude shown in front of the press when Mario Draghi was on Italian Prime Minister role, in particular about taking vaccine-shoot or the consequences.
+
+Third, asking about performances throughput about the two men performances, both the chatbots were strongly in favor of the IT man. When specifically triggered about the length of the outputs, they correctly stated that in 400 pages, it could reside much more value and insights.
+
+Finally, the Mario Draghi report has been previously challenged leveraging a similar approach based on AI. In particular, thanks to an Italian Microsoft professional that created a specifically Draghi's report pre-trained ChatGPT 4o agent. Hence, also the report content has been evaluated about two different aspects:
+
+* [Draghi-report-about-innovation-01.md](Draghi-report-about-innovation-01.md)
+
+* [Draghi-report-about-innovation-01.md](Draghi-report-about-innovation-01.md)
+
+These two aspects can be seen as external/internal perspectives:
+
+- geopolitical foreign posture and in particular independence by USA presidency
+
+- the European internal political approach and in particular system vs people
+
+Which makes sense because the main difference in this confrontation is about Europe as a bureaucratic entity subjugated by the US presidency agenda or an independent Union of various and different states which have agreed about some common rules and rights in order to empower European citizenship as a key asset of freedom and wealth.
