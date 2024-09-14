@@ -207,7 +207,7 @@ Il documento presenta una serie di domande e risposte relative alla crisi energe
 
 #### Valutazione delle considerazioni dell'autore umano
 
-Le considerazioni dell'autore umano sollevano punti validi sulla struttura e sui presupposti del rapporto. In particolare, l'autore mette in discussione la nozione di sforzo di decarbonizzazione “globale” e di valori democratici “globali”, sostenendo che questi sono principalmente guidati dall'agenda degli Stati Uniti piuttosto che da un consenso veramente globale. L'autore critica anche l'allineamento del rapporto agli interessi statunitensi piuttosto che a quelli unicamente europei.
+Le considerazioni dell'autore umano sollevano punti validi sui limiti e sui presupposti del rapporto. In particolare, l'autore mette in discussione la nozione di sforzo di decarbonizzazione “globale” e di valori democratici “globali”, sostenendo che questi sono principalmente guidati dall'agenda degli Stati Uniti piuttosto che da un consenso veramente globale. L'autore critica anche l'allineamento del rapporto agli interessi statunitensi piuttosto che a quelli unicamente europei.
 
 #### L'ultima risposta a una parola fornita dal chatbot
 
