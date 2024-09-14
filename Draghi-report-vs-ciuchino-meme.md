@@ -183,7 +183,7 @@ Yes, it is reasonable to summarize Mario Draghi's statement, "chi non si vaccina
 
 ## CONSIDERATIONS
 
-First of all, this meme image is clearly comprehensible also for a chatbot even if Mistral 2 Large failed in this task probably because of a n improvable OCR engine. Which is a fundamental assessment because it states that 2 over 3 chatbots can correctly and quickly interpret that meme. So, the image is a dumb proof meme, almost.
+First of all, this meme image is clearly comprehensible also for a chatbot even if Mistral 2 Large failed in this task probably because of an improvable OCR engine. Which is a fundamental assessment because it states that 2 over 3 chatbots can correctly and quickly interpret that meme. So, the image is a dumb proof meme, almost.
 
 Second, with the extra question asked to ChatGPT about "do that or die!", it has been assessed that it is a fair translation of the directive attitude shown in front of the press when Mario Draghi was on Italian Prime Minister role, in particular about taking vaccine-shoot or the consequences.
 
