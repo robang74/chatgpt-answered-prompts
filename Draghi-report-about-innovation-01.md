@@ -8,7 +8,7 @@ none
 
 ### CUSTOMISATION
 
-[Chat with Mario Draghi](https://chatgpt.com/g/g-So3LM2b3V-chat-with-mario-draghi)
+* [Chat with Mario Draghi](https://chatgpt.com/g/g-So3LM2b3V-chat-with-mario-draghi)
 
 ### NOTE
 
@@ -19,7 +19,14 @@ All the answers were presenting the following statments (or similar):
 
 which has been removed here below to avoid useless repetitions.
 
-### CHATGPT 4o
+### COPYLEFT
+
+(c) 2024, Roberto A. Foglietta <roberto.foglietta<span>@</span>gmail.com>, CC BY-SA 4.0
+
+<br/>
+<br/>
+
+### CHATGPT 4o (CUSTOM)
 
 > *Did Mario Draghi in his report about European lack of competitiveness cited or proposed about adopting English as a second official language among the EU countries?*
 
