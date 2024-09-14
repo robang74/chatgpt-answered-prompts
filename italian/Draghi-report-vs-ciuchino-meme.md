@@ -65,7 +65,7 @@ L'immagine sembra contrapporre un approccio lungo e formale alla politica econom
 
 <br/>
 
-> *I suggerimenti dell'informatico sono presentati in un linguaggio che imita la matematica o una sorta di linguaggio di programmazione. Riscrivete queste tre frasi in un inglese semplice, ma mantenendo il significato originale.
+> *I suggerimenti dell'informatico sono presentati in un linguaggio che imita la matematica o una sorta di linguaggio di programmazione. Riscrivete queste tre frasi in un inglese semplice, ma mantenendo il significato originale.*
 
 Hai ragione, e mi scuso per non aver affrontato questo aspetto nella mia descrizione iniziale. Permettetemi di riformulare i tre suggerimenti in inglese semplice, mantenendo il loro significato originale:
 
@@ -116,6 +116,8 @@ Tuttavia, questo confronto non tiene conto della potenziale profondità o comple
 ### CHATGPT 4o
 
 Si noti che in questo dialogo Q&A sono state poste a ChatGPT le stesse identiche domande di Claude, ma grazie a una diversa e più perspicace capacità di cogliere il significato e di descriverlo, sono state necessarie solo due domande, invece di quattro. Pertanto è stata posta un'ulteriore domanda sulla correttezza dell'uso della frase “*fai questo o muori!*” riferita a Mario Draghi nell'immagine caricata.
+
+<br/>
 
 > *Questa immagine è divisa in due parti, una in nero (sopra) e l'altra in rosa (sotto). Entrambe le parti raffigurano due uomini vestiti in giacca e cravatta, sulla sinistra. A destra, invece, c'è un riquadro anch'esso diviso in due metà (sopra e sotto) in cui con due testi molto brevi vengono presentati i rispettivi sforzi nell'esecuzione di un compito e i risultati ottenuti. Entrambi gli uomini offrono suggerimenti che vengono mostrati sopra e sotto il riquadro. Questa immagine contiene un'altissima densità di informazioni e, prima di passare alla domanda successiva, vorrei fare una descrizione più estesa e comprensibile del suo contenuto; questa descrizione dovrebbe cogliere e spiegare il più possibile il significato originale.*
 
