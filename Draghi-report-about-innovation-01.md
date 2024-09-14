@@ -176,7 +176,7 @@ In conclusion, the **Bazaar model** is a powerful alternative, particularly in k
 
 ## CONSIDERATIONS
 
-Considering the Mario Draghi's report, his relevant backgrounds and experiences, me and the chatbot agreed that he is more affine with a directive/impositive bureaucrats rather than an European Commision president.
+Considering the Mario Draghi's report, his relevant backgrounds and experiences, me and the chatbot agreed that he is more affine with a directive/impositive bureaucrats role rather than an European Commision president.
 
 Moreover, it seems that he does not have a deep understanding about the dynamics that thrive towards innovation and he has not a strong sensitivity for people's freedom and individual rights but he is more concerned about the mechanics of the system.  
 
