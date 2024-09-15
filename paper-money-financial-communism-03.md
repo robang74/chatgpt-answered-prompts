@@ -1,10 +1,10 @@
 ## PAPER MONEY IS FINANCIAL COMMUNISM
 
-The paper money (fiat currency + quantitative easing due to monetary mass' inflaction) is financial communism, article [published](https://www.linkedin.com/pulse/paper-money-financial-communism-roberto-a-foglietta-3ag5f) on 31st July 2024 on LinkedIn professional social media platform.
+The paper money - a two-word slang that means fiat currency in combination with a quantitative easing i.e. monetary devaluation due to monetary mass' inflation caused by continuously new issuance - is financial communism.
 
-It has been updated after the completion of this review but the previous version is still available saved in a [PDF](https://drive.google.com/file/d/1BOCa0b7EBgpMcrpsyoPl4bimllyDotVW/view) format.
+The article [published](https://www.linkedin.com/pulse/paper-money-financial-communism-roberto-a-foglietta-3ag5f) on 31st July 2024 on LinkedIn professional social media platform introduces this concept. It was updated after the completion of this review, but the previous version proposed to the chatbot is still available saved as [PDF](https://drive.google.com/file/d/1BOCa0b7EBgpMcrpsyoPl4bimllyDotVW/view) format.
 
-Usually, data used in the chatbot Q&A sessions is saved on human-friendly documents in [data](https://github.com/robang74/chatgpt-answered-prompts/tree/main/data) folder.
+Unless otherwise specified, data used in chatbot Q&A sessions are saved in easily accessible documents and in a format suitable for reading by humans in the [data](https://github.com/robang74/chatgpt-answered-prompts/tree/main/data) folder
 
 <br/>
 
