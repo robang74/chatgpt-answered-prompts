@@ -29,6 +29,8 @@ Se desiderate inviare una traduzione è necessario che conosciate bene una delle
 
 (c) 2024, Roberto A. Foglietta <roberto.foglietta<span>@</span>gmail.com>, CC BY-NC-ND 4.0
 
+Se una versione di questa pagina esiste o è esistita con termini di licenza diversi, si applicano i termini di licenza dell'ultima versione disponibile su questo repository. Anche quando i nuovi termini di licenza sono più restrittivi, perché le concessioni relative qualsiasi contenuto gratuito possono essere revocate in qualsiasi momento per volontà dell'autore e l'aggiornamento di una licenza in modo più restrittivo implica esplicitamente questa volontà.
+
 <br/>
 <br/>
 
