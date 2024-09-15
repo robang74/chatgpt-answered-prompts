@@ -1,6 +1,6 @@
 ## PAPER MONEY IS FINANCIAL COMMUNISM
 
-The paper money is financial communism, article [published](https://www.linkedin.com/pulse/paper-money-financial-communism-roberto-a-foglietta-3ag5f) on 31st July 2024 on LinkedIn professional social media platform.
+The paper money (fiat currency + quantitative easing) is financial communism, article [published](https://www.linkedin.com/pulse/paper-money-financial-communism-roberto-a-foglietta-3ag5f) on 31st July 2024 on LinkedIn professional social media platform.
 
 It has been updated after the completion of this review but the previous version is still available saved in a [PDF](https://drive.google.com/file/d/1BOCa0b7EBgpMcrpsyoPl4bimllyDotVW/view) format.
 
