@@ -188,7 +188,6 @@ In definitiva, l'approccio del nerd informatico sembra più efficiente nel gener
 Sì, è ragionevole riassumere l'affermazione di Mario Draghi, “chi non si vaccina muore e fa morire” [in italiano anche nel testo in inglese], come “o lo fai o muori!” in un contesto generalizzato e non specifico. In questo modo si coglie l'urgenza e l'alta posta in gioco del suo messaggio, che trasmette un chiaro ultimatum. Generalizzando, la frase distilla efficacemente il suo approccio più ampio al processo decisionale in una direttiva concisa e binaria, in cui le conseguenze dell'inazione sono gravi.
 
 <br/>
-<br/>
 
 ## CONSIDERATIONS
 
