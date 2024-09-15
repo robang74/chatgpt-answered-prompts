@@ -11,7 +11,7 @@ which get the attention of the media.
 
 All the files in this gihub repository are published under Creative Commons Attribution Non Commercial No Derivatives 4.0 International licencing terms ([CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)), unless states differently or not applicable due to a different and previous authorship.
 
-If a version of this page exists or has existed under different license terms, the license terms of its last version available on this repository apply. Also when the new licensing terms are more restrictive because any free-of-charge content can be revoked by the authorship will, and updating a license in a more restrictive way explicitly implies this will.
+If a version of this page exists or has existed under different licence terms, the licence terms of the latest version available on this repository apply. Even when the new licence terms are more restrictive, because permissions for any free content may be revoked at any time at the will of the author, and updating a licence to be more restrictive explicitly implies this will.
 
 <br/>
 
