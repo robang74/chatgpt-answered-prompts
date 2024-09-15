@@ -10,7 +10,7 @@ Unless otherwise specified, data used in chatbot Q&A sessions are saved in easil
 
 ### RATIONALE
 
-Critically challenging a theory is the best way to assess it by a scientific approach (cfr. also the Popper's falsifiability principle and its critical reviews, among those "Falsifications and scientific progress: Popper as sceptical optimist" by Carlo Veronesi <sup>[[link](https://link.springer.com/article/10.1007/s40329-014-0031-7)]</sup> seems to me being quite interesting).
+Critically challenging a theory is the best way to assess it through a scientific approach (see also the Popper's falsifiability principle and its critical reviews, and among them "Falsifications and scientific progress: Popper as sceptical optimist" by Carlo Veronesi <sup>[[link](https://link.springer.com/article/10.1007/s40329-014-0031-7)]</sup> seems to me being quite interesting).
 
 Therefore a peer-review of this theory has been produced with the Mistral AI support that played the role of critical challenger (co-competition + adversarial collaboration). In fact, the AI highlighted key points in the theory framework, those in favor of it but also those that seemed lacking adequate factual or argumentative support. This allowed me, in a very quick and focused way to deepen and explain this theory in a more convincing way and therefore strengthen and even assess it.
 
@@ -18,11 +18,17 @@ Note that current LLMs, despite having no rational-logic support for thinking un
 
 Which is not strange because people are not rational agents while AI can be trained over a HUGE amount of information. Hence a fast and complex enough mimic of language is also a good enough mimic of linguistic thinking (but not deep thinking).
 
-In particular the Mistral 2 Large AI is based on a team of experts co-competing in adversarial collaboration model architecture. This peculiarity of design makes the Mistral AI, the top choice as a peer-reviewing tool, a powerful tool when used by knowledgeable and tech-aware people.
+In particular the Mistral 2 Large AI model is based on a team of independently running AI with different expertise, co-competing in adversarial collaboration, model architecture. This peculiarity of design makes the Mistral AI, the top choice as a peer-reviewing tool, a very powerful tool when used by knowledgeable and tech-aware people.
 
-Using this approach me and the chatbot reached, with a confidence of 9/10, the conclusion that fiat-currency combined with quantitative easing monetary policy or nonfactual credit allowance is a novel form of communism because in the long term diluting the real-value of the currency achieves the same results which are typical of the communist systems.
+Using this approach, the chatbot and myself reached, with a confidence level of 9/10, the conclusion that legal tender combined with a monetary policy of quantitative easing or ephemeral credit is a new form of communism, because in the long run, the systematic reduction of the real value of money achieves the same results as in communist systems.
 
-We also agreed to leave the next level 10/10 of confidence to the posterity. In this page, I am presenting this AI supported peer-review process.
+We also agreed to leave it to posterity to reach the next 10/10 level of confidence on this topic. On this page I present this AI-supported peer-review process.
+
+Using this approach, me and the chatbot reached, with a confidence level of 9/10, the conclusion that a legal tender currency combined with a monetary policy of quantitative easing, or with a systemic arbitrary and ephemeral granting of credit, is a novel form of communism, because in the long run it implies a progressive structural reduction of the real value of money, achieving the same results which are typical of the communist systems, only.
+
+We also agreed, on this topic, to leave the reaching of the ultimate level of 10/10 confidence to posterity. On this page I present this artificial intelligence assisted peer-review process.
+
+<br/>
 
 ### COPYLEFT
 
