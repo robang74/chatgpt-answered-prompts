@@ -14,7 +14,7 @@ None, publicly web-available chatbot questioned in a new-from-scratch session wi
 
 ### COPYLEFT
 
-(c) 2024, Roberto A. Foglietta <roberto.foglietta<span>@</span>gmail.com>, CC BY-SA 4.0
+(c) 2024, Roberto A. Foglietta <roberto.foglietta<span>@</span>gmail.com>, CC BY-NC-ND 4.0
 
 
 <br/>
