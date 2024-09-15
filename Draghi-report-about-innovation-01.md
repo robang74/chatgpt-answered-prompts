@@ -21,7 +21,7 @@ which has been removed here below to avoid useless repetitions.
 
 ### COPYLEFT
 
-(c) 2024, Roberto A. Foglietta <roberto.foglietta<span>@</span>gmail.com>, CC BY-SA 4.0
+(c) 2024, Roberto A. Foglietta <roberto.foglietta<span>@</span>gmail.com>, CC BY-NC-ND 4.0
 
 <br/>
 <br/>
@@ -193,7 +193,7 @@ I - as a human being - sincerely hope to be completely wrong in all of these con
 
 ## REVIEW
 
-Because GitHub allows access to any version of any files stored in it, this review has been made with the previous version of this file which is still available ([hash ba594de4](https://raw.githubusercontent.com/robang74/chatgpt-answered-prompts/ba594de452abe1676874acf5d19a678c912c1706/Draghi-report-about-innovation-01.md). The review has been made asking others chatbot to evaluate the discussion and comparing the human questions and conclusion with the ChatGPT answers. Google Gemeni refused to answer because the U.S. elections and the question is about a relevant political personality.
+Because GitHub allows access to any version of any files stored in it, this review has been made with the previous version of this file which is still available ([hash ba594de4](https://raw.githubusercontent.com/robang74/chatgpt-answered-prompts/ba594de452abe1676874acf5d19a678c912c1706/Draghi-report-about-innovation-01.md)). The review has been made asking others chatbot to evaluate the discussion and comparing the human questions and conclusion with the ChatGPT answers. Google Gemeni refused to answer because the U.S. elections and the question is about a relevant political personality.
 
 <br/>
 

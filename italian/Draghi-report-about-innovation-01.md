@@ -27,7 +27,7 @@ Se desiderate inviare una traduzione è necessario che conosciate bene una delle
 
 ### COPYLEFT
 
-(c) 2024, Roberto A. Foglietta <roberto.foglietta<span>@</span>gmail.com>, CC BY-SA 4.0
+(c) 2024, Roberto A. Foglietta <roberto.foglietta<span>@</span>gmail.com>, CC BY-NC-ND 4.0
 
 <br/>
 <br/>
@@ -199,7 +199,7 @@ Io - come essere umano - spero sinceramente di sbagliarmi completamente in tutte
 
 ## REVIEW
 
-Poiché GitHub consente l'accesso a qualsiasi versione di qualsiasi file memorizzato, questa recensione è stata fatta con la versione precedente di questo file, che è ancora disponibile ([hash ba594de4](https://raw.githubusercontent.com/robang74/chatgpt-answered-prompts/ba594de452abe1676874acf5d19a678c912c1706/Draghi-report-about-innovation-01.md). La revisione è stata fatta chiedendo ad altri chatbot di valutare la discussione e confrontando le domande e le conclusioni umane con le risposte di ChatGPT. Google Gemeni si è rifiutato di rispondere per via delle elezioni americane e perché la domanda riguarda una personalità politica rilevante.
+Poiché GitHub consente l'accesso a qualsiasi versione di qualsiasi file memorizzato, questa recensione è stata fatta con la versione precedente di questo file, che è ancora disponibile ([hash ba594de4](https://raw.githubusercontent.com/robang74/chatgpt-answered-prompts/ba594de452abe1676874acf5d19a678c912c1706/Draghi-report-about-innovation-01.md)). La revisione è stata fatta chiedendo ad altri chatbot di valutare la discussione e confrontando le domande e le conclusioni umane con le risposte di ChatGPT. Google Gemeni si è rifiutato di rispondere per via delle elezioni americane e perché la domanda riguarda una personalità politica rilevante.
 
 <br/>
 
