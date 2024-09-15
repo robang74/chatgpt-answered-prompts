@@ -6,8 +6,6 @@ The article [published](https://www.linkedin.com/pulse/paper-money-financial-com
 
 Unless otherwise specified, data used in chatbot Q&A sessions are saved in easily accessible documents and in a format suitable for reading by humans in the [data](https://github.com/robang74/chatgpt-answered-prompts/tree/main/data) folder
 
-<br/>
-
 ### RATIONALE
 
 Critically challenging a theory is the best way to assess it through a scientific approach (see also the Popper's falsifiability principle and its critical reviews, and among them "Falsifications and scientific progress: Popper as sceptical optimist" by Carlo Veronesi <sup>[[link](https://link.springer.com/article/10.1007/s40329-014-0031-7)]</sup> seems to me being quite interesting).
@@ -28,11 +26,23 @@ Using this approach, me and the chatbot reached, with a confidence level of 9/10
 
 We also agreed, on this topic, to leave the reaching of the ultimate level of 10/10 confidence to posterity. On this page I present this artificial intelligence assisted peer-review process.
 
-<br/>
+### Q&A DIALOG
+
+In this case, it is not a single prompt but a dialog: a series of answered questions with aim described in the `rationale` section above. Prompts and the related answers are separated by horizontal lines. Few missing words have been added in the prompt queries just to help the English native speakers to quickly grab the meaning but for sake of correctness those words appear between [squared] parentheses.
+
+### UPLOAD
+
+some links to public web pages have been provided in the first prompt
+
+### CUSTOMISATION
+
+none
 
 ### COPYLEFT
 
 (c) 2024, Roberto A. Foglietta roberto.foglietta<span>@</span>gmail.com>, CC BY-NC-ND 4.0
+
+If a version of this page exists or has existed under different license terms, the license terms of its last version available on this repository apply. Also when the new licensing terms are more restrictive because any free-of-charge content can be revoked by the authorship will, and updating a license in a more restrictive way explicitly implies this will.
 
 <br/>
 
