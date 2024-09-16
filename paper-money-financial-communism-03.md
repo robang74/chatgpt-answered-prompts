@@ -54,7 +54,7 @@ If a version of this page exists or has existed under different licence terms, t
 
 Consider the increase of the price of gold after the end of the gold-standard established with the Brettonwood agreement. Saying that the gold price rises means that the real value of the USD is descending. It is depicted in the image from wikimedia.
 
-Consider that the agreement between Saudi Arabia for the oil price paid in USD ended after 50 years and it has not been renewed. Hence, the USD lost his last back-up in commodities and became a pure fiat currency or paper money.
+Consider that the agreement between Saudi Arabia for the oil price paid in USD ended after 50 years and it has not been renewed. Hence, the USD lost his last back-up in commodities and became a pure fiat currency or [i.e.] paper money.
 
 Consider that role that plays increasing the primary monetary mass (QE monetary policy) which has been explained into the LinkedIn article "paper money is financial communism" and the role that played the bubble of subprime loans in 2007 which is nothing else than a quantitative easing at lower level M2 or M3, depending the loan clauses.
 
@@ -76,7 +76,7 @@ Rate it on a scale from 0 (pure fiction) to 10 (established facts) and provide j
 
 ---
 
-* [1] check the top of this .md document to know in a more precise way about that data input.
+* [1] check the top of this document to know in a more precise way about that data input.
 
 ---
 
@@ -88,19 +88,19 @@ Paper money as a form of novel communism driven by financial surplus:
 
 - **Rating:** 5/10
 
-These rating reflect the additional evidence and context provided, which strengthen some of the claims. The rating for the claim about paper money as a form of novel communism is based on the theoretical arguments presented in the LinkedIn article.
+This rating reflects the additional evidence and context provided, which strengthen some of the claims. The rating for the claim about paper money as a form of novel communism is based on the theoretical arguments presented in the LinkedIn article.
 
 ---
 
 #### Prompt #2
 
-Consider that "paper money" in this context means fiat currency provided without any counter-value as back-up which is a pure fideistic form of money. In fact, in that article it highlights the "in god we trust" motto printed on the $1 banknote. Please update those ratings with these considerations and explain those elements that stopped to give a better rating on that LinkedIn article.
+Consider that "paper money" in this context means fiat currency provided without any counter-value as back-up which is a pure fideistic form of money. In fact, in that article it highlights the "in god we trust" motto printed on the $1 banknote. Please update the rating with these considerations and explain those elements that stopped to give a better rating on that LinkedIn article.
 
 ---
 
 #### 02:06 - LeChat
 
-Given the additional context and clarification regarding the term "paper money" as referring to fiat currency without any counter-value or commodity backing, here are the updated ratings:
+Given the additional context and clarification regarding the term "paper money" as referring to fiat currency without any counter-value or commodity backing, here are the updated rating:
 
 Paper money as a form of novel communism driven by financial surplus:
 
@@ -136,13 +136,13 @@ Entire suburbs in the US have been abandoned, a lot of private property got seiz
 
 Did the 2001 dot-com bubble something similar?
 
-An extreme abundance of fiat-currency with a weak back-up (at that time the agreement with Saudi Arabia was still in place) pushed on tech companies lacking substance.
+An extreme abundance of fiat-currency with a weak back-up (at that time the agreement with Saudi Arabia was still in place) pushed on [forward] tech companies lacking substance.
 
-In that case, again, a lot of propriety passed of hands in favor of the biggest players that suffer but not defaulted like small investors and companies. Why do you claim that there is no evidence?
+In that case, again, a lot of propriety [equity] passed of hands in favor of the biggest players that suffer but not defaulted like small investors and companies. Why do you claim that there is no evidence?
 
-The IT jobs market collapsed in terms of salaries. Despite the IT sector continuing to be fundamental for the economy, industry, finance, etc and growing in size, volume and importance. But not the salary, people got paid less and lesser.
+The IT jobs market collapsed in terms of salaries. Despite the IT sector continuing to be fundamental for the economy, industry, finance, etc and growing in size, volume and importance. But not the salary[ies], people got [are] paid less and lesser.
 
-Exploited of their value, under-paid for their intellectual work. They were means of production and now they are human resources. Isn't this communism by definition?
+Exploited [Stripped] of their value, under-paid for their intellectual work. They were means of production and now they are human resources. Isn't this communism by definition?
 
 A novel form in which the central entity does not directly take away the propriety from the owner but it does with several passages.
 
@@ -204,15 +204,15 @@ Ok, let's engage the traditional definition of communism: "The traditional defin
 
 Collective ownership does not exist. It is just an utopia. A pure idea. In real-world communist systems, the State will own everything and people have no control in the State's decision otherwise it would be a sort of democracy.
 
-Therefore the specific term "collective ownership" implies anarchy, in fact. A sort of society in which nobody can decide alone but all together. It cannot scale up in the real-world. In fact, "the tragedy of commons" , a classic in literature, explains clearly how the "collective ownership" fails when it is scaling up in terms of people involved.
+Therefore the specific term "collective ownership" implies anarchy, in fact. A sort of society in which nobody can decide alone but all together. It cannot scale up [in size] in the real-world. In fact, "the tragedy of commons" , a classic in literature, explains clearly how the "collective ownership" fails when it is scaling up in terms of people involved.
 
 Far west colonial people almost extinguished the bison population due to a fierce hunting without any regulation. Hence, literature is just obsolete in many of those old books and also those are quite recent but still apply the same pattern. Literature evolves but sometimes gets old and then obsolete.
 
-In fact, there is no difference if the State owns everything and the Central Bank reaches the same goal after a limited relatively long period of time. One single entity is able to control the entire system and without the need to face any democratic election or public debate.
+In fact, there is no difference if the State owns everything and [or] the Central Bank reaches the same goal after a limited [though] relatively long period of time. One single entity is able to control the entire system and without the need to face any democratic election[s] or public debate[s].
 
 Second, the abolition of property can happen for many reasons, not just a law. For example, if we buy a large and costly TV borrowing money - whatever the tool we used for that borrowing, it can be the credit card or something mode bureaucratic - unless we paid all the amount completely, OUR property can be seized.
 
-For large goods like real-estate we do not receive the propriety before having paid the debt in full. We are owners in a figurative way: we pay the bills and we are the custody of that real-estate but the day we lose the job, we lose the house as well. Hence it was not our property, in first hand.
+For large goods like real-estate we do not receive the propriety before having paid the debt in full. We are owners in a figurative way: we pay the bills and we are the custody of that real-estate but the day we lose the job, we lose the house as well. Hence it was not our property, in first hand [place].
 
 A novel form of communism means to obtain the same results but "novelty" means that it achieves those goals in a different manner than what we have seen in the past with Russia or China. Otherwise, it would be "traditional communism" not a novel form.
 
