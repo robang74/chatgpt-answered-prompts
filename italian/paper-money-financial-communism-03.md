@@ -40,7 +40,7 @@ Alcune frasi ridondanti come `Valutazione aggiornata per l'articolo di LinkedIn`
 
 ### TRANSLATION
 
-Questo documento (tag: 2024-09-14.r3) è stato tradotto dall'inglese in italiano da persona di madrelingua italiano che conosce l'inglese e con il supporto del traduttore automatico [deepl.com](https://www.deepl.com/) in versione gratuita per velocizzare il compito di traduzione.
+Questo documento (tag: 2024-09-16) è stato tradotto dall'inglese in italiano da persona di madrelingua italiano che conosce l'inglese e con il supporto del traduttore automatico [deepl.com](https://www.deepl.com/) in versione gratuita per velocizzare il compito di traduzione.
 
 Se desiderate inviare una traduzione è necessario che conosciate bene una delle lingue in cui questo documento è disponibile, meglio ancora se conoscete l'inglese e potete partire dalla versione originale, e che siate madrelinga o equivalente nella lingua in cui viene fatta la traduzione.
 
