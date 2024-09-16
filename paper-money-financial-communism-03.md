@@ -268,11 +268,11 @@ I think that we can agree that every QE monetary policy leads to inflationary pr
 
 The price of gold can grow because the need for gold is stronger than its availability (a classic demand-offer balance). However, the gold price can also increase because there is a surplus of fiat currency.
 
-Something that has been created without a finite back-up and thus dilutes its value. Which is exactly what "quantitative easing" means "dilution of value" literally. In fact, "quantity" is necessarily the real value because the nominal value of a banknote will not change. Hence, we need more banknotes.
+Something that has been created without a finite back-up and thus dilutes its value. Which is exactly what "quantitative easing" means[:] "dilution of value" literally. In fact, "quantity" is necessarily the real value because the nominal value of a banknote will not change. Hence, we need more banknotes [to buy the same thing].
 
 Then we have a lot of people that live on a fixed nominal value incoming, they have a job or do a work to earn money. But the prices of everything are going up. They can work more, or they can spend less or they can borrow money.
 
-At this time many US people have more than a job, which means that they are selling their precious finite resource called life-time in bigger volume than before to conduct the same living style or do not lose their real-estate propriety.
+At this time many US people have more than a job, which means that they are selling their precious finite resource called [life-]time in bigger volume than before to conduct the same living style or do not lose their real-estate propriety.
 
 In the long term, the QE will lead them to surrender. They were doomed to give up the ownership of their house after having given up a progressively increasing part of their time.
 
@@ -344,7 +344,7 @@ In conclusion, the updated rating of 9/10 reflects the additional context and in
 
 #### Prompt #6
 
-Well, above 9/10 there is 10/10 and this level of confidence belong to posterity. So, you are right that this novel definition of communism need a specific empirical evidence and that evidence will be delivered by the time. Thus, the posterity can only give the 10/10 ratings. Thank you.
+Well, above 9/10 there is 10/10 and this level of confidence belong to posterity. So, you are right that this novel definition of communism need a specific empirical evidence and that evidence will be delivered by the time. Thus, the posterity can only [only can] give the 10/10 ratings. Thank you.
 
 ---
 
