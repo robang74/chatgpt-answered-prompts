@@ -1,6 +1,6 @@
-## FABULOUS 800 BILLIONS EU PLAN
+## FABULOUS 800 BILLIONS EURO PLAN
 
-I think the time has come to reveal where the fabulous 800 billionS EU support plan would like to be invested in innovation comes from.
+I think the time has come to reveal where the fabulous 800 billions EU support plan would like to be invested in innovation comes from.
 
 ### 1. Sabotage of Nord Stream I & II:
 
@@ -14,17 +14,21 @@ I think the time has come to reveal where the fabulous 800 billionS EU support p
 
 ### 2. War damages and sanctions losses
 
-War damages and related sanctions losses. For the sake of completeness, also indirect ones. In this regard, Angela Merkel's revelations to BILD in September 2022, regarding the Americans' bad faith in signing the Minsk agreements, are already enough to nail the Americans, but for good measure let's also add the bill passed by the US Congress that legalised the financing and military training of neo-Nazi paramilitary groups in Ukraine, which until then were activities only carried out by covert CIA operations.
+* War damages and related sanctions losses. For the sake of completeness, also indirect ones. In this regard, Angela Merkel's revelations to BILD in September 2022, regarding the Americans' bad faith in signing the Minsk agreements, are already enough to nail the Americans, but for good measure let's also add the bill passed by the US Congress that legalised the financing and military training of neo-Nazi paramilitary groups in Ukraine, which until then were activities only carried out by covert CIA operations.
 
 ### 3. Covid-19 frauds compensations
 
-Compensations due to the lobbying activities in connection with the Covid-19 pandemic, a series of practices that easily constitute a criminal offence in Europe, which have mainly, if not exclusively, favoured American pharmaceutical companies thanks to supplies without tenders and elegantly seasoned with partially confidential contracts, which alone, in normal times, would be enough to verge on fraud and for which Ursula von der Leyen has already been convicted but not yet punished because she was re-elected, like Ilaria Salis, just for comparison.
+* Compensations due to the lobbying activities in connection with the Covid-19 pandemic, a series of practices that easily constitute a criminal offence in Europe, which have mainly, if not exclusively, favoured American pharmaceutical companies thanks to supplies without tenders and elegantly seasoned with partially confidential contracts, which alone, in normal times, would be enough to verge on fraud and for which Ursula von der Leyen has already been convicted but not yet punished because she was re-elected. Like Ilaria Salis, just for comparison.
+
+That's where those fabulous €800 billion comes from for the Europe's support plan that Mario Draghi is talking about like a second Marshall Plan but for the whole Europe.
 
 ### Considerations
 
-That's where those fabulous 800 billion EU support plan is talking about as a second Marshall Plan for Europe would otherwise die without a hefty injection of waste paper to spend on expensive American LNG since first they cut off our nuclear industry and then they cut off our gas pipes.
+Otherwise without it, EU will die. Without a hefty injection of waste paper to spend on expensive American LNG since they first cut off our nuclear industry and then they cut off our gas pipes.
 
-But we should go ahead with the green-washing of wind turbines and photovoltaic panels, weather permitting, and we should be the only ones in the world to give up AI because it is restrictively regulated like there is no tomorrow and then switch to electric cars in 2035 for which there is no adequate charging infrastructure and which also create unmanageable problems in the fire-fighting area.
+Should we go ahead with the green-washing of wind turbines and photovoltaic panels, weather permitting, and should we be the only ones in the world to give up on AI because it is restrictively regulated like there is no tomorrow? 
+
+Should we switch to electric cars in 2035 for which there is no adequate charging infrastructure and which also create unmanageable problems in the fire-fighting domain?
 
 Would you accept 800 Monopoly's dollars to have your legs broken?
 
