@@ -31,3 +31,25 @@ Dovremmo andare avanti con il green-washing delle turbine eoliche e dei pannelli
 Dovremmo poi passare alle auto elettriche nel 2035, per le quali non esiste un'infrastruttura di ricarica adeguata e che creano problemi ingestibili anche nel campo dell'antincendio?
 
 Accettereste 800 dollari del Monopolio per farvi spezzare le gambe?
+
+\***<br/>
+Post [published](https://www.linkedin.com/posts/robertofoglietta_i-favolosi-800-miliardi-di-draghi-penso-activity-7239923791705833472-7-Nl) written in italiano pubblicato su LinkedIn il 12 settembre 2024.
+
+<br/>
+</br>
+
+## Q&A DIALOG
+
+In questo caso, non si tratta di un singolo prompt ma di un dialogo: una serie di domande con risposta sul piano di finanziamento da 800 miliardi proposto da Mario Drahi per promuovere l'economia europea e sostenere l'innovazione all'interno del continente. I prompt e le relative risposte sono separati da linee orizzontali. Nelle domande sono state aggiunte alcune parole mancanti per aiutare i madrelingua inglesi a coglierne rapidamente il significato, ma per correttezza tali parole appaiono tra parentesi [quadrate].
+
+### UPLOAD
+
+alcuni link a pagine web pubbliche sono stati forniti dal primo prompt e successivamente
+
+### CUSTOMISATION
+
+nessuna
+
+### COPYLEFT
+
+(c) 2024, Roberto A. Foglietta roberto.foglietta@gmail.com>, CC BY-NC-ND 4.0
