@@ -525,11 +525,13 @@ Updated Ratings:
   
 #### Prompt #7
 
-Russia claimed that UK was involved in the Nordstram pipelines sabotage. However, if they have had any factual proof they should have disclosed. On the other hand that dislousure would have mean a direct war attack against two of their national strategic assets and the Russian public opinion would have pressed Putin to attack back the UK. This would have escalated the UA war towards two military nuclear powers.
+Russia claimed that UK was involved in the Nord Stream pipelines sabotage. However, if they have had any factual proof they should have disclosed. On the other hand that disclosure would have mean a direct war attack against two of their national strategic assets and the Russian public opinion would have pressed Putin to attack back the UK. This would have escalated the UA war towards two military nuclear powers.
 
-It does not sound so good to me if I were in the Putin shoes. Plus Germany is the country that immediately after have given more support to Ukraine, something about $53 billion mostly in weapons. However, those weapons are quite sophisticated and cannot effectively used in a real war scenario unless people are specifically trained and operators can access to US/EU military satellite networks.
+It would not seem like a good idea if I were in Putin's shoes. Plus Germany is the country that immediately after have given more support to Ukraine, something about $53 billion mostly in weapons. However, those weapons are quite sophisticated and cannot effectively used in a real war scenario unless people are specifically trained and operators can access to US/EU military satellite networks.
 
-In such scenario Germany could have made a secret agreement with Russia to not given such training and satellite access to Ukrainian military and Russia kept the secret about UK involvement. A win-win situation, doesn't it? Considering also this news, update the ratings.   
+In such scenario Germany could have made a secret agreement with Russia to not given such training and satellite access to Ukrainian military and Russia kept the secret about UK involvement. A win-win situation, doesn't it?
+
+Considering also this news, update the ratings.
 
 <br/>
 
@@ -543,7 +545,7 @@ In such scenario Germany could have made a secret agreement with Russia to not g
   
 #### ChatGPT Auto #7
 
-**Updated Ratings:**
+Updated Ratings
 
 **1a. Principal Biden (7/10)**
 
@@ -577,7 +579,7 @@ In such scenario Germany could have made a secret agreement with Russia to not g
   
 #### Prompt #8
   
-Considering this wikipedia page, the maps from wikimedia that shows the sabotage point in front of the Poland and "The suspect fled to Ukraine in a car belonging to the Ukrainian embassy in Poland" as written by the Spiegel which article is refereed at note 20.   
+Considering this wikipedia page, the maps from wikimedia that shows the sabotage point in front of the Poland and "The suspect fled to Ukraine in a car belonging to the Ukrainian embassy in Poland" as written by the Spiegel which article is refereed at note 20.
 
 <br/>
 
@@ -597,7 +599,7 @@ It sounds to me not plausible that UK were involved but Poland did not despite i
 
 After the sabotage, they kept their mouth shout for not support the Russia claim about UK involvement. Because Polish never had the military/politica freedom to dare a such kind of sabotage and facing the Russia revenge alone. On the other hand, UK covert operation would have been secured only by Polish military survelice selectively blinded.
 
-Just asking this, would have put the UK into an embarassing situation in case they would admited the order to "not see". Involve them into the whole operation, made them co-responsable or said in another way accomplice and earned their silence. Does it sound reasonable? Because the opposite would not sound plausible to me.   
+Just asking this to Poland, would have put the UK into an embarassing situation in case they would admited the order to "not see". So, involving them into the whole operation, made them co-responsable or said in another way accomplice and they earned their silence. Does it sound reasonable? Because the opposite would not sound plausible to me.  
   
 Update the ratings, present those have changed and then a list of all ratings with the updated values.
 
@@ -639,7 +641,7 @@ In the NATO hierarchy US came first, UK second and Poland, Italy and Ukraine in 
 
 Hence, Poland could not have had a active role in the operation without a direct co-ordination from UK which received a mandate to operate in such way from USA. Consider that military hierarchies also among countries are quite strict.
 
-By definition and in the real world, the military hierarchy is the strictest one. For this reason the rating of UK involvement in co-ordination the sabotage of the Nordstream pipelines should be equal or higher than the Polish logistic support rating.
+By definition and in the real world, the military hierarchy is the strictest one. For this reason the rating of UK involvement in co-ordination the sabotage of the Nord stream pipelines should be equal or higher than the Polish logistic support rating.
 
 Considering this aspects, please update the ratings.
 
