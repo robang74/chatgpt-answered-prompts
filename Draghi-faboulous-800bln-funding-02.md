@@ -33,7 +33,7 @@ Should we switch to electric cars in 2035 for which there is no adequate chargin
 Would you accept 800 Monopoly's dollars to have your legs broken?
 
 \***<br/>
-Post [published](https://www.linkedin.com/posts/robertofoglietta_i-favolosi-800-miliardi-di-draghi-penso-activity-7239923791705833472-7-Nl) written in Italian published on LinkedIn on 12th September 2024.
+Post [published](https://www.linkedin.com/posts/robertofoglietta_i-favolosi-800-miliardi-di-draghi-penso-activity-7239923791705833472-7-Nl) in Italian on LinkedIn, 12th September 2024.
 
 <br/>
 </br>
@@ -78,7 +78,7 @@ Biden did make public comments suggesting the U.S. would take action against Nor
 
 **Sources:**
 
-- [Biden's Remarks on Nord Stream, White House transcript](https://www.whitehouse.gov/)
+- Biden's Remarks on Nord Stream, White House transcript.
 
 - Ongoing investigations by Denmark, Sweden, and Germany into the sabotage have not officially concluded with any clear attribution to Biden or the U.S. government.
 
