@@ -436,7 +436,7 @@ Le fonti aggiuntive rafforzano in modo significativo l'argomento dell'esistenza 
 
 - **Condanna per insider trading**: La condanna di un ex dipendente di Pfizer per insider trading durante la pandemia di Covid-19 solleva ulteriori preoccupazioni etiche sulla cultura interna e sulla governance dell'azienda durante questo periodo critico.
 
-    - Fonte**: Dipartimento di Giustizia degli Stati Uniti, *Ex dipendente Pfizer condannato al processo per insider trading*.
+    - **Fonte**: Dipartimento di Giustizia degli Stati Uniti, *Ex dipendente Pfizer condannato al processo per insider trading*.
 
 - **I messaggi di Von der Leyen su Pfizer**: La controversia in corso sugli scambi di SMS di Ursula von der Leyen con l'amministratore delegato di Pfizer e il rifiuto della Commissione Europea di renderli noti, evidenzia le preoccupazioni sulla trasparenza e sulla potenziale influenza indebita o irregolarità nel processo di approvvigionamento dei vaccini.
 
