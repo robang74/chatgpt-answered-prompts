@@ -32,8 +32,7 @@ Would you accept 800 Monopoly's dollars to have your legs broken?
 Post [published](https://www.linkedin.com/posts/robertofoglietta_i-favolosi-800-miliardi-di-draghi-penso-activity-7239923791705833472-7-Nl) in Italian on LinkedIn on 12th September 2024
 
 <br/>
-
----
+</br>
 
 ## Q&A DIALOG
 
@@ -671,8 +670,7 @@ Final List of All Ratings (with updated values):
 
 In conclusion, both the UK and Poland are rated equally in their involvement, with the UK’s role being more focused on coordination due to NATO’s hierarchical structure, while Poland provided logistical and operational support under UK oversight. This revised framework more accurately reflects the military and geopolitical realities at play.
 
----
-
+</br>
 </br>
 
 ### COMPARING THE TWO SESSIONS  
@@ -801,7 +799,7 @@ These differences, despite a more prepared and detailed conversation with the hu
   
 Easy to understand that the scapegoat communication strategy fails as soon as someone reveil it. Because it is clear that a single man – as much as influencing like Fauci or Biden – cannot exercise such a role of decision maker into a such important matters alone.
 
-After all, history and in particular the Norimberga trial were pretty clear about this point - “We were just executing direct orders” - does not provide any legal protection from individual and collective responsibility, even in time of war. Written in a different way: “wrong orders should not be executed just because the established hierarchy or law”.
+---
 
 Therefore, considering the repetition of the scapegoat pattern and the stakeholders nationality behind the companies that are in charge of developing and training the chatbot, as European, we can confidentely takes the higer ratings of the both sessions:
 
@@ -819,9 +817,14 @@ Therefore, considering the repetition of the scapegoat pattern and the stakehold
  
 **Ratings #3.1: 7-7-7-8-9-9**
 
-Moreover, it is our natural right to make this choice in supporting our cause and it would be perfectly acceptable in any trial, everywhere and in anytime that a counterpart choose to support their own position with the tools and data available. Which is exactly what the other counterpart did in shifting the chatbot baises slighly in their favour and probably as much as possible without make it appear like a constrained puppet which would have gone against the chatbot and their business credibility. The same that has been did here in this document in compensating the chatbot biases drift, after all.  
+Moreover, it is our natural right to make this choice in supporting our cause and it would be perfectly acceptable in any trial, everywhere and in anytime that a counterpart choose to support their own position with the tools and data available. Which is exactly what the other counterpart did in shifting the chatbot baises slighly in their favour and probably as much as possible without make it appear like a constrained puppet which would have gone against the chatbot and their business credibility. The same that has been did here in this document in compensating the chatbot biases drift, after all.
+
+</br>
+</br>
+
+### CONSIDERATIONS
   
-Considering the Geman nationality of Urusula von der Layen, Christine Lagard, Angela Merkel and the role played by Olaf Scholtz plus that the Mario Draghi report please the green-energy agenda that in Germany has been carried on mainly by Siemens Energy as national top player and Germany is the second most generous supporter of the Ukraine defensive war politcs and the most generous in terms of providing weapons and tanks with a €53 billions of elagitions plus it has been the most affected country in absolute and relatively to their GDP in terms of damages by war indirect effects, sanctions and energy prices boost, we might agree that the €770 billions rescued in those 29 funds are nothing else that a compensative agreement with USA for all above states.
+Considering the Geman nationality of Urusula von der Leyen, Angela Merkel and the role played by Olaf Scholtz plus that the Mario Draghi report please the green-energy agenda that in Germany has been carried on mainly by Siemens Energy as national top player and Germany is the second most generous supporter of the Ukraine defensive war politcs and the most generous in terms of providing weapons and tanks with a €53 billions of elagitions plus it has been the most affected country in absolute and relatively to their GDP in terms of damages by war indirect effects, sanctions and energy prices boost, we might agree that the €770 billions rescued in those 29 funds are nothing else that a compensative agreement with USA for all above states.
 
 Therefore the Mario Draghi’s fabolous 800 billions recovery plan has just been assigned, even before he received the duty of writing his 400 pages report. Every one that read that plan (or the part A which is pubblicily available) or read the review that I made, can relate the receipt proposed into it with the interest that are behind these finantial relationship. Which is, again, an evergreen pattern that pop-up despite the propaganda and the censorship proposed as facts-checking.
 
