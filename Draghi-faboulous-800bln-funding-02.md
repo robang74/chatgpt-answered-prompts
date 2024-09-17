@@ -477,11 +477,11 @@ Consider also these news and update the ratings, just the ratings.
 
 <sup>
 
-* https://en.wikipedia.org/wiki/Ursula\_von\_der\_Leyen https://www.reuters.com/markets/europe/special-funds-how-germany-gets-round-debt-brake-2023-11-17/   
+* https://www.bloomberg.com/news/articles/2023-11-16/german-ruling-puts-770-billion-of-government-funding-at-risk
 
 <br/>
 
-* https://www.bloomberg.com/news/articles/2023-11-16/german-ruling-puts-770-billion-of-government-funding-at-risk
+* https://en.wikipedia.org/wiki/Ursula\_von\_der\_Leyen https://www.reuters.com/markets/europe/special-funds-how-germany-gets-round-debt-brake-2023-11-17/   
 
 </sup>
 
