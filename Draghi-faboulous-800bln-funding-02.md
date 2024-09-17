@@ -166,11 +166,11 @@ Are these news not enough to establish that the sabotage of Nordstream pipelines
 
 <sup>
 
-* https://www.aljazeera.com/news/2024/8/14/germany-arrest-warrant-for-ukrainian-diver-in-nord-stream-probe
+ * https://www.politico.eu/article/german-authorities-obtain-first-arrest-warrant-ukraine-nord-stream-bombing
 
 <br/>
 
-* https://www.politico.eu/article/german-authorities-obtain-first-arrest-warrant-ukraine-nord-stream-bombing
+* https://www.aljazeera.com/news/2024/8/14/germany-arrest-warrant-for-ukrainian-diver-in-nord-stream-probe
 
 <br/>
 
@@ -376,12 +376,12 @@ Considering this news and update the ratings
 <br/>
 
 <sup>
-  
-* https://www.reuters.com/article/business/pfizer-to-pay-23-billion-agrees-to-criminal-plea-idUSTRE5813XB/
+
+* https://www.justice.gov/usao-sdny/pr/former-pfizer-employee-convicted-trial-insider-trading
 
 <br/>
 
-* https://www.justice.gov/usao-sdny/pr/former-pfizer-employee-convicted-trial-insider-trading
+* https://www.reuters.com/article/business/pfizer-to-pay-23-billion-agrees-to-criminal-plea-idUSTRE5813XB/
 
 <br/>
 
@@ -578,11 +578,11 @@ Considering this wikipedia page, the maps from wikimedia that shows the sabotage
 
 <sup>
 
-https://en.wikipedia.org/wiki/Nord\_Stream\_pipelines\_sabotage   
+* https://en.wikipedia.org/wiki/Nord\_Stream\_pipelines\_sabotage   
 
 <br/>
 
-https://upload.wikimedia.org/wikipedia/commons/e/e1/Nord\_Stream\_gas\_leaks\_2022.svg
+* https://upload.wikimedia.org/wikipedia/commons/e/e1/Nord\_Stream\_gas\_leaks\_2022.svg
 
 </sup>
 
