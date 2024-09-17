@@ -3,6 +3,8 @@
 # (C) Roberto A. Foglietta <roberto.foglietta@gmail.com> - 3-clause BSD
 #
 
+test -d "$1" && cd "$1"
+
 echo
 mkdir -p html pdf
 
