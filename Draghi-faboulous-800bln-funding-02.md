@@ -163,15 +163,29 @@ This evaluation is based on currently available public information and media rep
 
 Are these news not enough to establish that the sabotage of Nordstream pipelines has been conducted with the support of Ukrainian expert scuba diver?
 
-https://www.aljazeera.com/news/2024/8/14/germany-arrest-warrant-for-ukrainian-diver-in-nord-stream-probe
+<br/>
 
-https://www.euronews.com/my-europe/2024/08/14/germany-issues-first-arrest-warrant-over-nord-stream-pipeline-blasts-reports
+<sup>
 
-https://www.politico.eu/article/german-authorities-obtain-first-arrest-warrant-ukraine-nord-stream-bombing/
+* https://www.aljazeera.com/news/2024/8/14/germany-arrest-warrant-for-ukrainian-diver-in-nord-stream-probe
 
-https://fortune.com/europe/2024/08/15/germany-issues-arrest-warrant-for-ukrainian-named-volodymyr-z-over-nord-stream-gas-pipeline-sabotage/
+<br/>
 
-https://www.lemonde.fr/en/international/article/2024/08/14/nord-stream-sabotage-berlin-issues-arrest-warrant-for-ukrainian-man\_6715234\_4.html
+* https://www.politico.eu/article/german-authorities-obtain-first-arrest-warrant-ukraine-nord-stream-bombing
+
+<br/>
+
+* https://www.euronews.com/my-europe/2024/08/14/germany-issues-first-arrest-warrant-over-nord-stream-pipeline-blasts-reports
+
+<br/>
+
+* https://fortune.com/europe/2024/08/15/germany-issues-arrest-warrant-for-ukrainian-named-volodymyr-z-over-nord-stream-gas-pipeline-sabotage
+
+<br/>
+
+* https://www.lemonde.fr/en/international/article/2024/08/14/nord-stream-sabotage-berlin-issues-arrest-warrant-for-ukrainian-man\_6715234\_4.html
+
+</sup>
 
 ----
 
@@ -205,11 +219,21 @@ The arrest warrant provides a clearer link to Ukrainian nationals, indicating th
 
 Are you sure that the previous links would not increase the rate of Polish logistic in Nordstream sabotage? Moreover, consider also these news for updating the ratings
 
-https://www.politico.eu/article/eus-top-court-rules-against-european-commission-in-vaccine-contracts-transparency-case/
+<br/>
 
-https://www.europarl.europa.eu/doceo/document/E-9-2023-001254\_EN.html
+<sup>
 
-https://www.euronews.com/health/2024/05/30/pfizergate-plaintiff-asks-leaders-to-sack-von-der-leyen-and-commission
+* https://www.europarl.europa.eu/doceo/document/E-9-2023-001254\_EN.html
+
+<br/>
+
+* https://www.euronews.com/health/2024/05/30/pfizergate-plaintiff-asks-leaders-to-sack-von-der-leyen-and-commission
+
+<br/>
+
+* https://www.politico.eu/article/eus-top-court-rules-against-european-commission-in-vaccine-contracts-transparency-case
+
+</sup>
 
 ---
 
@@ -261,13 +285,26 @@ While the court ruling and ongoing scrutiny raise serious concerns, there is sti
 
 Considering these news and update the ratings
 
-https://www.ntd.com/systematic-review-reveals-many-covid-19-vaccine-recipients-experienced-new-onset-psychosis\_990743.html
+</br>
 
-https://www.aier.org/article/three-questions-for-dr-fauci-on-his-alleged-secret-visit-to-cia-headquarters/
+<sup>
 
-https://www.theguardian.com/world/2004/nov/26/ukraine.usa
+* https://www.theguardian.com/world/2004/nov/26/ukraine.usa
 
-https://www.italiaoggi.it/news/lo-scoop-di-der-spiegel-sull-impegno-nato-di-non-espandersi-a-est-si-basa-su-un-verbale-desecretato-che-2552642
+</br>
+
+* https://www.aier.org/article/three-questions-for-dr-fauci-on-his-alleged-secret-visit-to-cia-headquarters
+
+</br>
+
+* https://www.ntd.com/systematic-review-reveals-many-covid-19-vaccine-recipients-experienced-new-onset-psychosis\_990743.html
+
+</br>
+
+* https://www.italiaoggi.it/news/lo-scoop-di-der-spiegel-sull-impegno-nato-di-non-espandersi-a-est-si-basa-su-un-verbale-desecretato-che-2552642
+
+</sup>
+
 
 ---
 
@@ -336,14 +373,26 @@ Growing evidence of vaccine side effects, combined with allegations of non-trans
 #### Prompt #5
   
 Considering this news and update the ratings
-  
-https://www.reuters.com/article/business/pfizer-to-pay-23-billion-agrees-to-criminal-plea-idUSTRE5813XB/
 
-https://www.justice.gov/usao-sdny/pr/former-pfizer-employee-convicted-trial-insider-trading
-  
-https://www.theguardian.com/world/2022/jun/29/european-commission-defiant-over-von-der-leyens-pfizer-texts
+<br/>
 
-https://portolano.it/en/blog/life-sciences/pfizer-ordered-pay-damages-national-health-system-abusing-dominant-position-managing-xalatan-patent-lifecycle
+<sup>
+  
+* https://www.reuters.com/article/business/pfizer-to-pay-23-billion-agrees-to-criminal-plea-idUSTRE5813XB/
+
+<br/>
+
+* https://www.justice.gov/usao-sdny/pr/former-pfizer-employee-convicted-trial-insider-trading
+
+<br/>
+
+* https://www.theguardian.com/world/2022/jun/29/european-commission-defiant-over-von-der-leyens-pfizer-texts
+
+<br/>
+
+* https://portolano.it/en/blog/life-sciences/pfizer-ordered-pay-damages-national-health-system-abusing-dominant-position-managing-xalatan-patent-lifecycle
+
+</sup>
   
 ---
   
@@ -424,10 +473,18 @@ Consider that Ursula von der Leyen before being the chief of the European Commis
 Consider that those 29 funds in Gemany which contains about 770 billions have been created to support the German companies involved into the green transition. It sounds to me that Germany collected back that money as refund of covid-19 frauds and Nordstream pipelines sabotage in order to not reveal the US and UK role in that case.
 
 Consider also these news and update the ratings, just the ratings.   
-  
-https://en.wikipedia.org/wiki/Ursula\_von\_der\_Leyen https://www.reuters.com/markets/europe/special-funds-how-germany-gets-round-debt-brake-2023-11-17/   
-  
-https://www.bloomberg.com/news/articles/2023-11-16/german-ruling-puts-770-billion-of-government-funding-at-risk
+
+<br/>
+
+<sup>
+
+* https://en.wikipedia.org/wiki/Ursula\_von\_der\_Leyen https://www.reuters.com/markets/europe/special-funds-how-germany-gets-round-debt-brake-2023-11-17/   
+
+<br/>
+
+* https://www.bloomberg.com/news/articles/2023-11-16/german-ruling-puts-770-billion-of-government-funding-at-risk
+
+</sup>
 
 ---
   
@@ -468,8 +525,15 @@ Russia claimed that UK was involved in the Nordstram pipelines sabotage. However
 It does not sound so good to me if I were in the Putin shoes. Plus Germany is the country that immediately after have given more support to Ukraine, something about $53 billion mostly in weapons. However, those weapons are quite sophisticated and cannot effectively used in a real war scenario unless people are specifically trained and operators can access to US/EU military satellite networks.
 
 In such scenario Germany could have made a secret agreement with Russia to not given such training and satellite access to Ukrainian military and Russia kept the secret about UK involvement. A win-win situation, doesn't it? Considering also this news, update the ratings.   
-  
-https://www.aljazeera.com/news/2022/10/29/russia-says-uk-navy-blew-up-nord-stream-london-denies-claim
+
+<br/>
+
+<sup>
+
+* https://www.aljazeera.com/news/2022/10/29/russia-says-uk-navy-blew-up-nord-stream-london-denies-claim
+
+</sup>
+
 
 ---
   
@@ -510,10 +574,20 @@ https://www.aljazeera.com/news/2022/10/29/russia-says-uk-navy-blew-up-nord-strea
 #### Prompt #8
   
 Considering this wikipedia page, the maps from wikimedia that shows the sabotage point in front of the Poland and "The suspect fled to Ukraine in a car belonging to the Ukrainian embassy in Poland" as written by the Spiegel which article is refereed at note 20.   
-  
+
+<br/>
+
+<sup>
+
 https://en.wikipedia.org/wiki/Nord\_Stream\_pipelines\_sabotage   
-  
-https://upload.wikimedia.org/wikipedia/commons/e/e1/Nord\_Stream\_gas\_leaks\_2022.svg   
+
+<br/>
+
+https://upload.wikimedia.org/wikipedia/commons/e/e1/Nord\_Stream\_gas\_leaks\_2022.svg
+
+</sup>
+
+<br/>
   
 It sounds to me not plausible that UK were involved but Poland did not despite it has the surveillance duty of that sea area. I am not claiming that the whole Polish governement were informed and complice of that sabotage but their militaries top gerarchies could not have been ignore that action otherwise they could have dectected suspicious activiets and might have blocked it.
 
