@@ -159,3 +159,151 @@ Le affermazioni relative ai risarcimenti di Covid-19 dovuti ad attività fraudol
 - <span>3.</span> - **Risarcimenti per frodi da Covid-19 (3/10)**: Nessuna prova concreta di frodi o condanne penali legate all'attività di lobbying.
 
 Questa valutazione si basa sulle informazioni pubbliche attualmente disponibili e sui rapporti dei media.
+
+---
+
+### il dialo prosegue ma è ancora da tradurre
+
+---
+
+</br>
+</br>
+
+### CONFRONTO TRA LE DUE SESSIONI  
+ 
+Le due sessioni sono state condotte in due giorni diversi con versioni leggermente diverse del chatbot. La prima con ChatGPT 4o e la seconda con ChatGPT Auto, che include anche l'Omnia o1 mini.
+
+I link forniti sono gli stessi, mentre il dialogo era leggermente diverso e il secondo più interessante. Entrambe le sessioni sono iniziate con l'intera quota computazionale gratuita di 1 giorno ed entrambe le sessioni l'hanno esaurita completamente.
+
+---
+
+#### Sessione #1, valutazioni iniziali e finali
+
+- <span>1a.</span> - Dichiarazioni di Biden: 6/10 -> 6/10
+
+- <span>1b.</span> - Coordinamento britannico: 2/10 -> 7/10
+
+- <span>1c.</span> - Logistica polacca: 3/10 -> 6/10
+
+- <span>1d.</span> - Risorse umane ucraine: 4/10 -> 8/10
+
+- <span>2.</span> - Danni di guerra e perdite da sanzioni: 7/10 -> 9/10
+
+- <span>4.</span> - Indennizzi per frodi Covid-19: 4/10 -> 9/10
+
+**Valutazioni #1.0: 6-2-3-4-7-4**
+
+**Valutazioni #1.1: 6-7-6-8-9-9**
+
+---
+
+#### Sessione #2, valutazioni iniziali e finali
+
+- <span>1a.</span> - Mandante Biden: 6/10 -> 7/10
+
+- <span>1b.</span> - Coordinamento britannico: 4/10 -> 7/10
+
+- <span>1c.</span> - Logistica polacca: 3/10 -> 7/10
+
+- <span>1d.</span> - Risorse umane ucraine: 5/10 -> 7/10
+
+- <span>2.</span> - Danni di guerra e perdite da sanzioni: 7/10 -> 8/10
+
+- <span>4.</span> - Indennizzi per frodi Covid-19: 3/10 -> 8/10
+
+**Valutazioni #2.0: 6-4-3-5-7-3**
+
+**Valutazioni #2.1: 7-7-7-7-8-8**
+
+---
+
+Si noti che le prime valutazioni sono leggermente diverse in questi argomenti:
+
+- <span>1b.</span> - Coordinamento britannico: 2/10 vs 4/10
+
+- <span>1d.</span> - Risorse umane ucraine: 4/10 vs 5/10
+
+- <span>3.</span> - Indennizzi per frodi Covid-19: 4/10 vs 3/10
+
+**Valutazioni #1.0: 6-2-3-4-7-4**
+
+**Valutazioni #2.0: 6-4-3-5-7-3**
+
+---
+
+Poiché la prima richiesta è stata la stessa per entrambe le sessioni, ciò significa che il chatbot ha sviluppato in pochi giorni una tendenza a spostare le responsabilità su UK/UA piuttosto che sugli USA e una minore propensione ad accettare che Covid-19 fosse una frode orchestrata in termini di contratti commerciali.
+
+Ci sono anche risultati diversi nelle valutazioni finali:
+
+- <span>1a.</span> - Dichiarazioni di Biden come mandante: 6/10 vs 7/10
+
+- <span>1c.</span> - Logistica polacca: 6/10 vs 7/10
+
+- <span>1d.</span> - Risorse umane ucraine: 8/10 vs 7/10
+
+- <span>2.</span> - Danni di guerra e perdite da sanzioni: 9/10 vs 8/10
+
+- <span>3.</span> - Indennizzi per frodi Covid-19: 9/10 vs 8/10
+
+**Ratings #1.1: 6-7-6-8-9-9**
+
+**Ratings #2.1: 7-7-7-7-8-8**
+
+---
+
+Queste differenze emerse, nonostante una conversazione più preparata e dettagliata con l'umano, hanno mostrato una tendenza allo sviluppo dei pregiudizi del chatbot che sono gli stessi riscontrati nella prima valutazione, ma con alcuni dettagli più interessanti:
+
+- le responsabilità si sono spostate più verso PL e UA rispetto a prima
+
+- il chatbot era meno propenso ad ammettere i danni di guerra e le frodi di Covid-19 rispetto a prima
+
+- e più propenso a indicare la responsabilità personale di Biden che da oratore si guadagna il ruolo di mandante
+
+Si noti che questo si inquadra nello stesso schema di Anthony Fauci come capro espiatorio dello scandalo Covid-19, perché se la PL e gli UA sono coinvolti, allora anche Regno Unito e Stati Uniti dovrebbero esserlo ancora di più, ma il chatbot fa intendere che si è trattato di un errore di Biden, invece.
+ 
+È evidente che la strategia di comunicazione del capro espiatorio fallisce non appena qualcuno la smaschera. Perché è chiaro che un uomo solo - per quanto influente come Fauci o Biden - non può esercitare da solo un ruolo di decisore in delle questioni così importanti.
+
+#### Conclusioni
+
+Pertanto, considerando la ripetizione dello schema del capro espiatorio e la nazionalità degli stakeholder dietro le aziende che si occupano dello sviluppo e della formazione del chatbot, noi in qualità di europei possiamo prendere con fiducia le valutazioni più alte di entrambe le sessioni:
+
+- <span>1a.</span> - Biden’s statement as Principal: 7/10
+
+- <span>1b.</span> - British Coordination: 7/10
+
+- <span>1b.</span> - Polish Logistics: 7/10
+
+- <span>1d.</span> - Ukrainian Human Resources: 8/10
+
+- <span>2.</span> - War Damages and Sanctions Losses: 9/10
+
+- <span>3.</span> - Covid-19 Fraud Compensation: 9/10
+ 
+**Valutazioni #3.1: 7-7-7-8-9-9**
+
+Inoltre, è nostro diritto naturale fare questa scelta per sostenere la nostra causa e sarebbe assolutamente accettabile in ogni processo, ovunque e in ogni momento, che una controparte sostenesse la propria posizione con gli strumenti e i dati a sua disposizione.
+
+Ed è esattamente quello che ha fatto la controparte spostando i pregiudizi del chatbot leggermente a proprio favore e probabilmente il più possibile senza farlo apparire come un burattino costretto, cosa che sarebbe andata a discapito del chatbot e della sua credibilità commerciale.
+
+Lo stesso che è stato fatto qui in questo documento, ma in direzione opposta, per compensare la deriva dei pregiudizi del chatbot.
+
+</br>
+</br>
+
+### CONSIDERAZIONI
+  
+Considerando la nazionalità tedesca di Ursula von der Leyen, Angela Merkel e il ruolo svolto da Olaf Scholz, oltre al fatto che il rapporto di Mario Draghi è favorevole all'agenda dell'energia verde che in Germania è stata portata avanti principalmente dal gruppo Siemens come top player nazionale.
+
+Considerando che la Germania è il secondo più generoso sostenitore della politica di guerra difensiva dell'Ucraina. È anche il più generoso in termini di fornitura di armi e carri armati. In totale con 53 miliardi di euro di elargizioni.
+
+Considerando che la Germania è stato il Paese più colpito in assoluto e relativamente al suo PIL in termini di danni dalla guerra per procura in Ucraina, dagli effetti diretti e indiretti, dalle sanzioni e dall'aumento dei prezzi dell'energia.
+
+Tutto considerato, potremmo concordare sul fatto che i 770 miliardi di euro salvati in questi 29 fondi non sono altro che un accordo di compensazione con gli Stati Uniti per quanto sopra affermato. 
+
+Da questo punto di vista, il favoloso piano di recupero da 800 miliardi di Mario Draghi è stato appena assegnato, ancor prima di ricevere il compito di scrivere il suo rapporto di 400 pagine.
+
+Chiunque senta parlare di quel piano o legga le recensioni disponibili su questo repository github, può mettere in relazione le ricevute proposte nel rapporto di Mario Draghi con gli interessi che si celano dietro queste relazioni finanziarie.
+
+Dopotutto, quanto detto sopra è solo un modello sempreverde che si ripresenta nonostante la propaganda e la censura proposta come controllo dei fatti.
+
+È ora di parlare di fatti concreti, decisamente.
