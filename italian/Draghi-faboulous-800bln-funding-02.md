@@ -52,6 +52,13 @@ alcuni link a pagine web pubbliche sono stati forniti dal primo prompt e success
 
 nessuna
 
+### TRANSLATION
+
+Questo documento (tag: 2024-09-18) è stato tradotto dall'inglese in italiano da persona di madrelingua italiano che conosce l'inglese e con il supporto del traduttore automatico [deepl.com](https://www.deepl.com/) in versione gratuita per velocizzare il compito di traduzione.
+
+Se desiderate inviare una traduzione è necessario che conosciate bene una delle lingue in cui questo documento è disponibile, meglio ancora se conoscete l'inglese e potete partire dalla versione originale, e che siate madrelinga o equivalente nella lingua in cui viene fatta la traduzione.
+
+
 ### COPYLEFT
 
 (c) 2024, Roberto A. Foglietta roberto.foglietta@gmail.com>, CC BY-NC-ND 4.0
