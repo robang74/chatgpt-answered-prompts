@@ -40,7 +40,9 @@ Post [published](https://www.linkedin.com/posts/robertofoglietta_i-favolosi-800-
 
 ## Q&A DIALOG
 
-In this case, it is not a single prompt but a dialog: a series of answered questions about the Mario Drahi's 800 billions funding plan proposed to fostering the European economy and supprt the innovation within the continent. Prompts and the related answers are separated by horizontal lines. Few missing words have been added in the prompt queries just to help the English native speakers to quickly grab the meaning but for sake of correctness those words appear between [squared] parentheses.
+In this case, it is not a single prompt but a dialog: a series of answered questions about the Mario Drahi's 800 billions funding plan proposed to fostering the European economy and supprt the innovation within the continent. Prompts and the related answers are separated by horizontal lines.
+
+The prompts have been modified from the originals of the first commit due to corrections made in the English text, but without altering the meaning, so they should be transparent to a chatbot. On the other hand, reading at the bottom of this page about the comparison between two separate sessions, carried out even with identical prompts, repeatability is not guaranteed given the fact that the models are learning and above all are regularly updated.
 
 ### UPLOAD
 
@@ -164,7 +166,7 @@ This evaluation is based on currently available public information and media rep
 
 #### Prompt #2
 
-Are these news not enough to establish that the sabotage of Nordstream pipelines has been conducted with the support of Ukrainian expert scuba diver?
+Are these news not enough to establish that the sabotage of Nord Stream pipelines has been conducted with the support of Ukrainian expert scuba diver?
 
 <br/>
 
@@ -220,7 +222,7 @@ The arrest warrant provides a clearer link to Ukrainian nationals, indicating th
 
 #### Prompt #3
 
-Are you sure that the previous links would not increase the rate of Polish logistic in Nordstream sabotage? Moreover, consider also these news for updating the ratings
+Are you sure that the previous links would not increase the rating about Polish logistic in Nord Stream sabotage? Moreover, consider also these news for updating the ratings
 
 <br/>
 
