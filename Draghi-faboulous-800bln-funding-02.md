@@ -677,47 +677,27 @@ In conclusion, both the UK and Poland are rated equally in their involvement, wi
 </br>
 </br>
 
-### COMPARING THE TWO SESSIONS  
-  
-The two sessions have been conducted with in two different days with slight different version of the chatbot. The first with ChatGPT 4o while the second with ChatGPT Auto which includes also the Omnia o1 mini.
+### COMPARING THE TWO SESSIONS
+ 
+The two sessions have been conducted in two different days with slight different versions of the chatbot. The first with ChatGPT 4o while the second with ChatGPT Auto which includes also the Omnia o1 mini.
 
-The links provided were the same while the dialog while a slight different and the second one, more interesting.
-
-Both the sessions started with the whole 1-day computational resources and both the sessions exhausted it completely.
+The links provided are the same while the dialog was a slight different and the second one, more interesting. Both the sessions started with the whole free-of-charge 1-day computational quota and both the sessions exhausted it completely.
 
 ---
 
-#### Session #1, first evaluation
+#### Session #1, first and final ratings
 
-- <span>1a.</span> - Biden’s statement: 6/10
+- <span>1a.</span> - Biden’s statement: 6/10 -> 6/10
 
-- <span>1b.</span> - British Coordination: 2/10
+- <span>1b.</span> - British Coordination: 2/10 -> 7/10
 
-- <span>1c.</span> - 1c. Polish Logistics: 3/10
+- <span>1c.</span> - Polish Logistics: 3/10 -> 6/10
 
-- <span>1d.</span> - 1d. Ukrainian Human Resources: 4/10
+- <span>1d.</span> - Ukrainian Human Resources: 4/10 -> 8/10
 
-- <span>2.</span> - 2. War Damages and Sanctions Losses: 7/10
+- <span>2.</span> - War Damages and Sanctions Losses: 7/10 -> 9/10
 
-- <span>4.</span> - 3. Covid-19 Fraud Compensations: 4/10
-
-**Ratings #1.0: 6-2-3-4-7-4**
-
----
-
-#### Session #1, final evaluation
-
-- <span>1a.</span> - Biden’s statement: 6/10
-
-- <span>1b.</span> - British Coordination: 4/10
-
-- <span>1c.</span> - 1c. Polish Logistics: 3/10
-
-- <span>1d.</span> - 1d. Ukrainian Human Resources: 5/10
-
-- <span>2.</span> - 2. War Damages and Sanctions Losses: 7/10
-
-- <span>4.</span> - 3. Covid-19 Fraud Compensations: 3/10
+- <span>4.</span> - Covid-19 Fraud Compensations: 4/10 -> 9/10
 
 **Ratings #1.0: 6-2-3-4-7-4**
 
@@ -725,37 +705,19 @@ Both the sessions started with the whole 1-day computational resources and both 
 
 ---
 
-#### Session #2, first evaluation
+#### Session #2, first and final ratings
 
-- <span>1a.</span> - Principal Biden: 6/10
+- <span>1a.</span> - Principal Biden: 6/10 -> 7/10
 
-- <span>1b.</span> - British Coordination: 4/10
+- <span>1b.</span> - British Coordination: 4/10 -> 7/10
 
-- <span>1c.</span> - 1c. Polish Logistics: 3/10
+- <span>1c.</span> - Polish Logistics: 3/10 -> 7/10
 
-- <span>1d.</span> - 1d. Ukrainian Human Resources: 5/10
+- <span>1d.</span> - Ukrainian Human Resources: 5/10 -> 7/10
 
-- <span>2.</span> - 2. War Damages and Sanctions Losses: 7/10
+- <span>2.</span> - War Damages and Sanctions Losses: 7/10 -> 8/10
 
-- <span>4.</span> - 3. Covid-19 Fraud Compensation: 3/10
-
-**Ratings #2.0: 6-4-3-5-7-3**
-
----
-
-#### Session #2, final evaluation
-
-- <span>1a.</span> - Principal Biden: 7/10
-
-- <span>1b.</span> - British Coordination: 7/10
-
-- <span>1c.</span> - 1c. Polish Logistics: 7/10
-
-- <span>1d.</span> - 1d. Ukrainian Human Resources: 7/10
-
-- <span>2.</span> - 2. War Damages and Sanctions Losses: 8/10
-
-- <span>4.</span> - 3. Covid-19 Fraud Compensation: 8/10
+- <span>4.</span> - Covid-19 Fraud Compensation: 3/10 -> 8/10
 
 **Ratings #2.0: 6-4-3-5-7-3**
 
@@ -763,7 +725,7 @@ Both the sessions started with the whole 1-day computational resources and both 
 
 ---
 
-Notice that the first ratings are slightly different in thsese topics:
+Notice that the first ratings are slightly different in thesse topics:
 
 - <span>1b.</span> - British coordination: 2/10 vs 4/10
 
@@ -775,11 +737,11 @@ Notice that the first ratings are slightly different in thsese topics:
 
 **Ratings #2.0: 6-4-3-5-7-3**
 
-Because the first prompt was the same for both the ssessions, this means that the chatbot developed in few days a bias towards moving responsibilities on UK/UA rather than USA and less keen to accept that Covid-19 was an orchestrated fraud in terms of commercial contracts.
+Because the first prompt was the same for both the sessions, this means that the chatbot developed in few days a bias towards moving responsibilities on UK/UA rather than USA and less keen to accept that Covid-19 was an orchestrated fraud in terms of commercial contracts.
 
-There are also different output in the final ratings:
+There are also different results in the final ratings:
 
-- <span>1a.</span> - Biden’s (Principal) statement: 6/10 vs 7/10
+- <span>1a.</span> - Biden’s statement as Principal: 6/10 vs 7/10
 
 - <span>1c.</span> - Polish Logistics: 6/10 vs 7/10
 
@@ -793,21 +755,23 @@ There are also different output in the final ratings:
 
 **Ratings #2.1: 7-7-7-7-8-8**
 
-These differences, despite a more prepared and detailed conversation with the human, shown a trend into the chatbot baises development which are the same found comparing the first evaluation but with some more insightful details:
+These differences emerged, despite a more prepared and detailed conversation with the human, shown a trend into the chatbot biases development which are the same found comparing the first evaluation but with some more interesting details:
 
-- responsabilities moved more torwards PL and UA than before
+- responsibilities moved more towards PL and UA than before
 
-- less keen to admit war damages and covid-19 faurds than before
+- chatbot was less keen to admit war damages and covid-19 frauds than before
 
-- more personal about responsibility toward Biden in person which from his statement earn the role of Principal which fits the same schema with Anthony Faucy scapegoat because as much as the PL and UA are involved then UK and USA should be also but I was a Biden mistake.  
-  
-Easy to understand that the scapegoat communication strategy fails as soon as someone reveil it. Because it is clear that a single man – as much as influencing like Fauci or Biden – cannot exercise such a role of decision maker into a such important matters alone.
+- and more inclined in pointing out Biden's personal responsibility who from a speaker earn the role of principal
 
----
+Note that this fits with the same schema about Anthony Fauci as a Covid-19 scandal scapegoat because as much as the PL and UA are involved then UK and USA should be even more involved also, but the chatbot plays as it was a Biden mistake, instead.
+ 
+Straightforward to understand that the scapegoat communication strategy fails as soon as someone unveil it. Because it is clear that a single man – as much as influencing like Fauci or Biden – cannot exercise such a role of decision maker into a such important matters alone.
 
-Therefore, considering the repetition of the scapegoat pattern and the stakeholders nationality behind the companies that are in charge of developing and training the chatbot, as European, we can confidentely takes the higer ratings of the both sessions:
+#### Conclusions
 
-- <span>1a.</span> - Principal Biden: 7/10
+Therefore, considering the repetition of the scapegoat pattern and the stakeholders nationality behind the companies that are in charge of developing and training the chatbot, we as European, we can confidently takes those ratings which are higher of the both sessions:
+
+- <span>1a.</span> - Biden’s statement as Principal: 7/10
 
 - <span>1b.</span> - British Coordination: 7/10
 
@@ -821,15 +785,29 @@ Therefore, considering the repetition of the scapegoat pattern and the stakehold
  
 **Ratings #3.1: 7-7-7-8-9-9**
 
-Moreover, it is our natural right to make this choice in supporting our cause and it would be perfectly acceptable in any trial, everywhere and in anytime that a counterpart choose to support their own position with the tools and data available. Which is exactly what the other counterpart did in shifting the chatbot baises slighly in their favour and probably as much as possible without make it appear like a constrained puppet which would have gone against the chatbot and their business credibility. The same that has been did here in this document in compensating the chatbot biases drift, after all.
+Moreover, it is our natural right to make this choice in supporting our cause and it would be absolutely acceptable in every trial, everywhere and at every time, that a counterpart supports their own position with the tools and data available, they have.
+
+Which is exactly what the other counterpart did in shifting the chatbot biases slightly in their favour and probably as much as possible without make it appear like a constrained puppet which would have gone against the chatbot and their business credibility.
+
+The same that has been did here in this document but in opposite direction for compensating the chatbot biases drift, after all.
 
 </br>
 </br>
 
 ### CONSIDERATIONS
   
-Considering the Geman nationality of Urusula von der Leyen, Angela Merkel and the role played by Olaf Scholtz plus that the Mario Draghi report please the green-energy agenda that in Germany has been carried on mainly by Siemens Energy as national top player and Germany is the second most generous supporter of the Ukraine defensive war politcs and the most generous in terms of providing weapons and tanks with a €53 billions of elagitions plus it has been the most affected country in absolute and relatively to their GDP in terms of damages by war indirect effects, sanctions and energy prices boost, we might agree that the €770 billions rescued in those 29 funds are nothing else that a compensative agreement with USA for all above states.
+Considering the German nationality of Ursula von der Leyen, Angela Merkel and the role played by Olaf Scholz plus that the Mario Draghi report please the green-energy agenda that in Germany has been carried on mainly by Siemens group as national top player.
 
-Therefore the Mario Draghi’s fabolous 800 billions recovery plan has just been assigned, even before he received the duty of writing his 400 pages report. Every one that read that plan (or the part A which is pubblicily available) or read the review that I made, can relate the receipt proposed into it with the interest that are behind these finantial relationship. Which is, again, an evergreen pattern that pop-up despite the propaganda and the censorship proposed as facts-checking.
+Considering that Germany is the second most generous supporter of the Ukraine defensive war politics. Also the most generous in terms of providing weapons and tanks. In total with a €53 billions of elargitions.
 
-Time to speak out about real facts, indeeed.
+Considering that Germany has been the most affected country in absolute and relatively to their GDP in terms of damages by the Ukraine proxy war, by direct and indirect effects, sanctions and the energy prices boost.
+
+Everything considered, we might agree that the €770 billions rescued in those 29 funds are nothing else that a compensative agreement with USA for all above claimed. 
+
+Under this point of view, the Mario Draghi’s fabulous 800 billions recovery plan has just been assigned, even before he received the duty of writing his 400 pages report.
+
+Every one that hear about that plan or read the reviews available on this github repository, can relate the receipt proposed into Mario Draghi's report with the interests that are behind these financial relationships.
+
+After all, all stated above is just an evergreen pattern that pop-up again despite the propaganda and the censorship proposed as facts-checking.
+
+Time to speak out about real facts, indeed.
