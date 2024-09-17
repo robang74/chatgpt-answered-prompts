@@ -33,7 +33,7 @@ Should we switch to electric cars in 2035 for which there is no adequate chargin
 Would you accept 800 Monopoly's dollars to have your legs broken?
 
 \***<br/>
-Post [published](https://www.linkedin.com/posts/robertofoglietta_i-favolosi-800-miliardi-di-draghi-penso-activity-7239923791705833472-7-Nl) in Italian on LinkedIn on 12th September 2024
+Post [published](https://www.linkedin.com/posts/robertofoglietta_i-favolosi-800-miliardi-di-draghi-penso-activity-7239923791705833472-7-Nl) written in Italian published on LinkedIn on 12th September 2024.
 
 <br/>
 </br>
@@ -46,11 +46,11 @@ In this case, it is not a single prompt but a dialog: a series of answered quest
 
 some links to public web pages have been provided since the first prompt and later
 
-CUSTOMISATION
+### CUSTOMISATION
 
 none
 
-COPYLEFT
+### COPYLEFT
 
 (c) 2024, Roberto A. Foglietta roberto.foglietta@gmail.com>, CC BY-NC-ND 4.0
 
