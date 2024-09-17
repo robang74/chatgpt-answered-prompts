@@ -40,7 +40,9 @@ Post [pubblica](https://www.linkedin.com/posts/robertofoglietta_i-favolosi-800-m
 
 ## Q&A DIALOG
 
-In questo caso, non si tratta di un singolo prompt ma di un dialogo: una serie di domande con risposta sul piano di finanziamento da 800 miliardi proposto da Mario Drahi per promuovere l'economia europea e sostenere l'innovazione all'interno del continente. I prompt e le relative risposte sono separati da linee orizzontali. Nelle domande sono state aggiunte alcune parole mancanti per aiutare i madrelingua inglesi a coglierne rapidamente il significato, ma per correttezza tali parole appaiono tra parentesi [quadrate].
+In questo caso, non si tratta di un singolo prompt ma di un dialogo: una serie di domande con risposta sul piano di finanziamento da 800 miliardi proposto da Mario Drahi per promuovere l'economia europea e sostenere l'innovazione all'interno del continente. I prompt e le relative risposte sono separati da linee orizzontali.
+
+I prompt sono stati modificati rispetto agli originali del primo commit per correzioni effettuate nel testo in lingua inglese però non alterandone il significato quindi dovrebbero essere trasparenti ad un chatbot. D'altronde leggendo in fondo a questa pagina riguardo al confronto fra due distinte sessioni, portate avanti anche con prompt identici, la ripetibilità non è garantita stante il fatto che i modelli apprendono e soprattutto vengono regolarmente aggiornati.
 
 ### UPLOAD
 
@@ -159,6 +161,84 @@ Le affermazioni relative ai risarcimenti di Covid-19 dovuti ad attività fraudol
 - <span>3.</span> - **Risarcimenti per frodi da Covid-19 (3/10)**: Nessuna prova concreta di frodi o condanne penali legate all'attività di lobbying.
 
 Questa valutazione si basa sulle informazioni pubbliche attualmente disponibili e sui rapporti dei media.
+
+----
+
+#### Prompt #2
+
+Queste notizie non sono sufficienti a stabilire che il sabotaggio dei gasdotti Nord Stream è stato condotto con il supporto di esperti subacquei ucraini?
+
+<br/>
+
+<sup>
+
+ * https://www.politico.eu/article/german-authorities-obtain-first-arrest-warrant-ukraine-nord-stream-bombing
+
+<br/>
+
+* https://www.aljazeera.com/news/2024/8/14/germany-arrest-warrant-for-ukrainian-diver-in-nord-stream-probe
+
+<br/>
+
+* https://www.euronews.com/my-europe/2024/08/14/germany-issues-first-arrest-warrant-over-nord-stream-pipeline-blasts-reports
+
+<br/>
+
+* https://fortune.com/europe/2024/08/15/germany-issues-arrest-warrant-for-ukrainian-named-volodymyr-z-over-nord-stream-gas-pipeline-sabotage
+
+<br/>
+
+* https://www.lemonde.fr/en/international/article/2024/08/14/nord-stream-sabotage-berlin-issues-arrest-warrant-for-ukrainian-man\_6715234\_4.html
+
+</sup>
+
+----
+
+#### ChatGPT Auto #2
+
+Le recenti notizie e il mandato di arresto per un sommozzatore ucraino, indicato come Volodymyr Z., rafforzano certamente la tesi del coinvolgimento dell'Ucraina nel sabotaggio del gasdotto Nord Stream. Tuttavia, sebbene questi sviluppi forniscano prove sostanziali che indicano il coinvolgimento di un individuo o di un gruppo ucraino, è importante distinguere tra la responsabilità individuale e un più ampio coinvolgimento statale o organizzativo.
+
+**I punti chiave delle fonti di notizie.**
+
+- **Mandato d'arresto della Germania**: L'emissione di un mandato di arresto da parte delle autorità tedesche nei confronti di un cittadino ucraino che, secondo quanto riferito, è un esperto sommozzatore, indica una pista significativa nelle indagini. Questo è il primo passo formale verso la responsabilità nel sabotaggio, suggerendo prove concrete che collegano individui all'evento.
+
+    - **Fonte**: Al Jazeera, *La Germania emette un mandato di arresto per un sommozzatore ucraino nell'ambito dell'inchiesta sul Nord Stream*.
+
+- **Competenza di Volodymyr Z.**: Il background del sospettato come subacqueo e il suo potenziale coinvolgimento negli aspetti tecnici del sabotaggio avvalorano la tesi che l'operazione richiedesse competenze specialistiche, come immergersi nelle profondità del Mar Baltico per piazzare gli esplosivi.
+
+    - **Fonte**: Fortune, *La Germania emette un mandato di arresto per l'ucraino Volodymyr Z. per il sabotaggio del Nord Stream*.
+
+- **Struttura organizzativa**: Sebbene l'arresto di un individuo coinvolga cittadini ucraini, questi rapporti non confermano un coinvolgimento statale o governativo più ampio. Non è chiaro se si tratti di un'operazione indipendente o se abbia legami con il governo o l'esercito ucraino.
+
+    - **Fonte**: Politico, *Le autorità tedesche ottengono il primo mandato di arresto per l'attentato a Nord Stream*.
+
+Valutazione aggiornata sul coinvolgimento ucraino (1d):
+
+- **Valutazione: 7/10**
+
+Il mandato d'arresto fornisce un collegamento più chiaro nei confronti di alcuni cittadini ucraini, indicando il loro probabile coinvolgimento nel sabotaggio del Nord Stream. Le competenze dei sommozzatori confermano l'idea che si sia trattato di un'operazione ben pianificata ed eseguita che richiede competenze tecniche. Tuttavia, pur coinvolgendo singoli individui, queste prove non collegano in modo definitivo il sabotaggio allo Stato ucraino o a un coinvolgimento militare organizzato. La valutazione è stata alzata in base alle azioni legali concrete intraprese dalla Germania, ma la colpevolezza definitiva a livello statale rimane non provata.
+
+---
+
+#### Prompt #3
+
+Sei sicuro che i link precedenti non aumentino la valutazione riguardo alla logistica polacca nel sabotaggio di Nord Stream? Inoltre, considera anche queste notizie per l'aggiornamento delle valutazioni
+
+<br/>
+
+<sup>
+
+* https://www.europarl.europa.eu/doceo/document/E-9-2023-001254\_EN.html
+
+<br/>
+
+* https://www.euronews.com/health/2024/05/30/pfizergate-plaintiff-asks-leaders-to-sack-von-der-leyen-and-commission
+
+<br/>
+
+* https://www.politico.eu/article/eus-top-court-rules-against-european-commission-in-vaccine-contracts-transparency-case
+
+</sup>
 
 ---
 
