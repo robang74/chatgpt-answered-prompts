@@ -33,7 +33,7 @@ Dovremmo poi passare alle auto elettriche nel 2035, per le quali non esiste un'i
 Accettereste 800 dollari del Monopolio per farvi spezzare le gambe?
 
 \***<br/>
-Post [published](https://www.linkedin.com/posts/robertofoglietta_i-favolosi-800-miliardi-di-draghi-penso-activity-7239923791705833472-7-Nl) written in italiano pubblicato su LinkedIn il 12 settembre 2024.
+Post [pubblica](https://www.linkedin.com/posts/robertofoglietta_i-favolosi-800-miliardi-di-draghi-penso-activity-7239923791705833472-7-Nl) in itaiano su LinkedIn, 12 settembre 2024.
 
 <br/>
 </br>
@@ -53,3 +53,109 @@ nessuna
 ### COPYLEFT
 
 (c) 2024, Roberto A. Foglietta roberto.foglietta@gmail.com>, CC BY-NC-ND 4.0
+
+<br/>
+
+### CHATGPT AUTO
+
+---
+
+#### Prompt #1
+
+Considerando il testo sottostante in formato .md e basandosi su informazioni pubbliche, notizie mainstream, informazioni divulgate o documenti governativi precedentemente segreti ma ora declassificati per l'accesso al pubblico, riguardo alle affermazioni ai punti 1a, 1b, 1c, 1d, 2, 3 e valutandole tutte su una scala da 0 (pura finzione) a 10 (fatti accertati) ed elencando brevemente le fonti di informazione più rilevanti a cui si fa riferimento per tale valutazione. 
+
+[copia&incolla del testo con il link pubblicato].
+
+---
+
+#### ChatGPT Auto #1
+
+#### 1. Sabotaggio di Nord Stream I e II
+
+**1a. Mandante Biden: 6/10**
+
+Biden ha fatto commenti pubblici suggerendo che gli Stati Uniti avrebbero preso provvedimenti contro il Nord Stream se la Russia avesse invaso l'Ucraina. Le sue dichiarazioni, soprattutto in una conferenza congiunta con Olaf Scholz nel febbraio 2022, hanno lasciato intendere che il gasdotto fosse un potenziale obiettivo. Tuttavia, il coinvolgimento diretto di Biden nel sabotaggio non è confermato da alcuna prova pubblica o declassificata.
+
+**Fonti:**
+
+- Commenti di Biden su Nord Stream, trascrizione della Casa Bianca.
+
+- Le indagini in corso da parte di Danimarca, Svezia e Germania sul sabotaggio non si sono ufficialmente concluse con una chiara attribuzione a Biden o al governo degli Stati Uniti.
+
+<br/>
+
+**1b. Coordinamento britannico delle operazioni: 4/10**
+
+Il coinvolgimento del governo o dei servizi segreti britannici nel coordinamento del sabotaggio del Nord Stream è ipotetico. Nessuna prova diretta proveniente da documenti declassificati o dai principali media collega il Regno Unito a questa operazione. L'idea che sia costata la carica a un Primo Ministro britannico è altamente circostanziale.
+
+**Fonti:**
+
+- Rapporti investigativi sul sabotaggio del Nord Stream (ad esempio, *The Guardian*, *BBC*)
+
+- Mancanza di prove provenienti da indagini ufficiali o documenti declassificati.
+
+<br/>
+
+**1c. Supporto logistico polacco: 3/10**
+
+Non ci sono prove evidenti a sostegno dell'idea che la Polonia abbia fornito supporto logistico per il sabotaggio, soprattutto perché ciò complicherebbe le relazioni all'interno dell'Unione Europea e della NATO. La Polonia si è storicamente opposta al Nord Stream, ma il coinvolgimento diretto nel sabotaggio è ipotetico.
+
+**Fonti:**
+
+- Posizioni del governo polacco sulla politica energetica
+
+- Nessuna accusa formale contro la Polonia nelle indagini in corso.
+
+<br/>
+
+**1d. Risorse umane ucraine: 5/10**
+
+All'inizio del 2023 sono emersi i primi rapporti, comprese le indagini che indicavano un gruppo con potenziali legami ucraini. Tuttavia, l'idea che un piccolo gruppo di ucraini abbia portato a termine un'operazione così sofisticata rimane dibattuta. Alcune scoperte hanno suggerito un coinvolgimento amatoriale, ma i dubbi persistono.
+
+**Fonti:**
+
+- Indagini dalla Germania (*Die Zeit*, *FAZ*)
+
+- Rapporti di intelligence non confermati e discussi dai media internazionali.
+
+<br/>
+
+#### 2. Danni di guerra e perdite da sanzioni: 7/10
+
+I danni di guerra all'Ucraina e le perdite dovute alle sanzioni sono stati ampiamente documentati. I commenti di Angela Merkel a *BILD* nel 2022 indicavano la malafede degli Stati Uniti nella firma degli accordi di Minsk e il sostegno degli Stati Uniti a gruppi controversi in Ucraina, compresi i paramilitari neonazisti, è pubblicamente noto. Gli Stati Uniti hanno fornito addestramento militare alle forze ucraine, alcune con legami estremisti.
+
+**Fonti:**
+
+- Intervista di Angela Merkel del 2022 alla *BILD*.
+
+- Sostegno degli Stati Uniti all'Ucraina, compresi gruppi paramilitari controversi (*Washington Post*, *New York Times*).
+
+<br/>
+
+#### 3. Risarcimenti per frodi da Covid-19: 3/10
+
+Le affermazioni relative ai risarcimenti di Covid-19 dovuti ad attività fraudolente di lobbying sono ipotesi. Sebbene siano state mosse critiche al ruolo dell'industria farmaceutica durante la pandemia, compresi i processi di approvvigionamento dei vaccini, non ci sono prove concrete che in Europa siano state commesse frodi criminali su larga scala. Ursula von der Leyen ha affrontato critiche sulla trasparenza dei contratti per i vaccini, ma non ci sono condanne o sentenze significative che la coinvolgano in attività fraudolente.
+
+**Fonti:**
+
+- Critiche agli appalti per i vaccini nell'UE (*Politico UE*)
+
+- Mancanza di azioni legali ufficiali o condanne relative alla gestione dei contratti Covid da parte della von der Leyen.
+
+<br/>
+
+#### Riassunto delle valutazioni:
+
+- <span>1a.</span> - **Mandante Biden (6/10)**: Le prove suggeriscono che Biden aveva avvertito del Nord Stream, ma il coinvolgimento diretto rimane non provato.
+
+- <span>1b.</span> - **Coordinamento britannico (4/10)**: Nessuna prova sostanziale collega il Regno Unito al coordinamento diretto del sabotaggio.
+
+- <span>1b.</span> - **Logistica polacca (3/10)**: Affermazione ipotetica senza evidenze sostanziali a supporto.
+
+- <span>1d.</span> - **Risorse umane ucraine (5/10)**: Le indagini suggeriscono un possibile coinvolgimento, ma mancano prove definitive.
+
+- <span>2.</span> - **Danni di guerra e perdite da sanzioni (7/10)**: Fatti accertati sulle azioni degli Stati Uniti e sul sostegno paramilitare, anche se le dichiarazioni della Merkel sugli accordi di Minsk è aperta all'interpretazione.
+
+- <span>3.</span> - **Risarcimenti per frodi da Covid-19 (3/10)**: Nessuna prova concreta di frodi o condanne penali legate all'attività di lobbying.
+
+Questa valutazione si basa sulle informazioni pubbliche attualmente disponibili e sui rapporti dei media.
