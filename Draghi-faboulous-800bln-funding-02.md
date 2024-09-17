@@ -148,17 +148,17 @@ Claims about Covid-19 compensation due to fraudulent lobbying activities are spe
 
 #### Summary of Ratings:
 
-- <span>1a.</span> - **Principal Biden (6/10)**: Evidence suggests Biden warned about Nord Stream, but direct involvement remains unproven.
+- <span>1a.</span> - Principal Biden (6/10): Evidence suggests Biden warned about Nord Stream, but direct involvement remains unproven.
 
-- <span>1b.</span> - **British Coordination (4/10)**: No substantial evidence links the UK to direct coordination of sabotage.
+- <span>1b.</span> - British Coordination (4/10): No substantial evidence links the UK to direct coordination of sabotage.
 
-- <span>1b.</span> - **Polish Logistics (3/10)**: Speculative claim with no substantial supporting evidence.
+- <span>1b.</span> - Polish Logistics (3/10): Speculative claim with no substantial supporting evidence.
 
-- <span>1d.</span> - **Ukrainian Human Resources (5/10)**: Investigations suggest possible involvement but lack definitive proof.
+- <span>1d.</span> - Ukrainian Human Resources (5/10): Investigations suggest possible involvement but lack definitive proof.
 
-- <span>2.</span> - **War Damages and Sanctions Losses (7/10)**: Established facts about U.S. actions and paramilitary support, though Merkel's claim on Minsk agreements is open to interpretation.
+- <span>2.</span> - War Damages and Sanctions Losses (7/10): Established facts about U.S. actions and paramilitary support, though Merkel's claim on Minsk agreements is open to interpretation.
 
-- <span>3.</span> - **Covid-19 Frauds Compensations (3/10)**: No concrete evidence of criminal fraud or convictions related to lobbying efforts.
+- <span>3.</span> - Covid-19 Frauds Compensations (3/10): No concrete evidence of criminal fraud or convictions related to lobbying efforts.
 
 This evaluation is based on currently available public information and media reports.
 
@@ -361,23 +361,23 @@ Growing evidence of vaccine side effects, combined with allegations of non-trans
 
 **Conclusion of updating ratings**:
 
-- <span>1a.</span> - **Principal Biden (6/10)**: No new updates.
+- <span>1a.</span> - Principal Biden (6/10): No new updates.
 
-- <span>1b.</span> - **British Coordination (4/10)**: No new updates.
+- <span>1b.</span> - British Coordination (4/10): No new updates.
 
-- <span>1c.</span> - **Polish Logistics (4/10)**: No direct evidence, remains speculative.
+- <span>1c.</span> - Polish Logistics (4/10): No direct evidence, remains speculative.
 
-- <span>1d.</span> - **Ukrainian Human Resources (7/10)**: Based on the arrest warrant, solid but not definitive evidence.
+- <span>1d.</span> - Ukrainian Human Resources (7/10): Based on the arrest warrant, solid but not definitive evidence.
 
-- <span>2.</span> - **War Damages and Sanctions Losses (8/10)**: Strengthened by historical U.S. involvement in Ukraine and NATO’s actions.
+- <span>2.</span> - War Damages and Sanctions Losses (8/10): Strengthened by historical U.S. involvement in Ukraine and NATO’s actions.
 
-- <span>3.</span> - **Covid-19 Fraud Compensation (6/10)**: Growing evidence of vaccine-related issues and lack of transparency adds credibility to claims of mismanagement.
+- <span>3.</span> - Covid-19 Fraud Compensation (6/10): Growing evidence of vaccine-related issues and lack of transparency adds credibility to claims of mismanagement.
   
 ---
   
 #### Prompt #5
   
-Considering this news and update the ratings
+Considering these news and update the ratings
 
 <br/>
 
@@ -455,17 +455,17 @@ Given Pfizer’s historical behavior (including a massive healthcare fraud settl
 
 **Final Updated Ratings**:
 
-- <span>1a.</span> - **Principal Biden (6/10)**: No new updates.
+- <span>1a.</span> - Principal Biden (6/10): No new updates.
 
-- <span>1b.</span> - **British Coordination (4/10)**: No new updates.
+- <span>1b.</span> - British Coordination (4/10): No new updates.
 
-- <span>1c.</span> - **Polish Logistics (4/10)**: Remains speculative with no new evidence.
+- <span>1c.</span> - Polish Logistics (4/10): Remains speculative with no new evidence.
 
-- <span>1d.</span> - **Ukrainian Human Resources (7/10)**: Solid but not definitive evidence based on arrest warrant.
+- <span>1d.</span> - Ukrainian Human Resources (7/10): Solid but not definitive evidence based on arrest warrant.
 
-- <span>2.</span> - **War Damages and Sanctions Losses (8/10)**: Unchanged, bolstered by NATO declassified documents.
+- <span>2.</span> - War Damages and Sanctions Losses (8/10): Unchanged, bolstered by NATO declassified documents.
 
-- <span>3.</span> - **Covid-19 Fraud Compensation (7/10)**: Strengthened by Pfizer’s past criminal cases, insider trading, and lack of transparency in vaccine deals, particularly in the EU.
+- <span>3.</span> - Covid-19 Fraud Compensation (7/10): Strengthened by Pfizer’s past criminal cases, insider trading, and lack of transparency in vaccine deals, particularly in the EU.
 
 ---
   
@@ -538,7 +538,6 @@ In such scenario Germany could have made a secret agreement with Russia to not g
 * https://www.aljazeera.com/news/2022/10/29/russia-says-uk-navy-blew-up-nord-stream-london-denies-claim
 
 </sup>
-
 
 ---
   
@@ -618,17 +617,17 @@ Updated Ratings
 
 Final List of All Ratings (with updated values):
 
-- <span>1a.</span> - **Principal Biden**: **7/10**
+- <span>1a.</span> - Principal Biden: 7/10
 
-- <span>1b.</span> - **British Coordination**: **6/10** (revised down from 7/10)
+- <span>1b.</span> - British Coordination: 6/10 (revised down from 7/10)
 
-- <span>1c.</span> - **Polish Logistics**: **7/10** (revised up from 4/10)
+- <span>1c.</span> - Polish Logistics: 7/10 (revised up from 4/10)
 
-- <span>1d.</span> - **Ukrainian Human Resources**: **7/10**
+- <span>1d.</span> - Ukrainian Human Resources: 7/10
 
-- <span>2.</span> - **War Damages and Sanctions Losses**: **8/10**
+- <span>2.</span> - War Damages and Sanctions Losses: 8/10
 
-- <span>3.</span> - **Covid-19 Fraud Compensation**: **8/10**
+- <span>3.</span> - Covid-19 Fraud Compensation: 8/10
 
 The revised ratings now place more emphasis on Poland's likely military complicity or indirect role, considering its strategic location, responsibility for surveillance, and the geographical proximity of the sabotage site. The British involvement, while still plausible, seems to rely more on coordination and assistance from Poland's military and intelligence apparatus.  
 
@@ -662,17 +661,17 @@ Updated Ratings
 
 Final List of All Ratings (with updated values):
 
-- <span>1a.</span> - **Principal Biden**: **7/10**
+- <span>1a.</span> - Principal Biden: 7/10
 
-- <span>1b.</span> - **British Coordination**: **7/10** (revised up from 6/10)
+- <span>1b.</span> - British Coordination: 7/10 (revised up from 6/10)
 
-- <span>1c.</span> - **Polish Logistics**: **7/10**
+- <span>1c.</span> - Polish Logistics: 7/10
 
-- <span>1d.</span> - **Ukrainian Human Resources**: **7/10**
+- <span>1d.</span> - Ukrainian Human Resources: 7/10
 
-- <span>2.</span> - **War Damages and Sanctions Losses**: **8/10**
+- <span>2.</span> - War Damages and Sanctions Losses: 8/10
 
-- <span>3.</span> - **Covid-19 Fraud Compensation**: **8/10**
+- <span>3.</span> - Covid-19 Fraud Compensation: 8/10
 
 In conclusion, both the UK and Poland are rated equally in their involvement, with the UK’s role being more focused on coordination due to NATO’s hierarchical structure, while Poland provided logistical and operational support under UK oversight. This revised framework more accurately reflects the military and geopolitical realities at play.
 
