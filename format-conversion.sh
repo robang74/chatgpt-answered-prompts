@@ -3,7 +3,18 @@
 # (C) Roberto A. Foglietta <roberto.foglietta@gmail.com> - 3-clause BSD
 #
 
-test -d "$1" && cd "$1"
+
+if [ "$2" != "" ]; then
+    for i in "$@"; do
+        bash $0 "$i"
+    done
+else ###########################################################################
+
+if [ -d "$1" ]; then
+    cd "$1"
+    echo
+    echo "working path: $1 -> $PWD"
+fi
 
 echo
 mkdir -p html pdf
@@ -66,8 +77,5 @@ for i in *.png; do
     done
 done
 
-
-
-
-
+fi #############################################################################
 
