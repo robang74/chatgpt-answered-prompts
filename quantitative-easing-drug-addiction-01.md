@@ -1,26 +1,86 @@
 ## QUANTITATIVE EASING IS LIKE DRUG ADDICTION
 
-Consider these documents linked below and written by the same single human author chatting with an AI. Consider these documents like pieces of a puzzle and describe the whole picture. Or consider these documents like chapters of a story and describe the plot. I know the content of these document, hence you have not to report any part of them. Instead, I want you write the whole picture and the whole plot behind these documents. 
+The quantitative easing monetary policy has been an extended and ciclical way of anesthetize a bad system that otherwise should have faced its own need to change itself for the better. This way of doing has been among us for decades and considering the dot-com bubble as a early precursor sign of the consequences, we might relate to this policy back in time for 30 years and even more. Unsurprinsingly, this policy started to be adopted in USA where giving Fentanyl to people instead of curing them gone so far that it grown up as a geopolitical issue.
 
-https://github.com/robang74/chatgpt-answered-prompts/blob/main/Draghi-faboulous-800bln-funding-02.md 
+### RATIONALE
 
-https://github.com/robang74/chatgpt-answered-prompts/blob/main/Draghi-report-about-energy-01.md 
+The use of a chatbot for critical review of a theory and its improvment of confutation has been shown in another document available on this `github/robang74` repository about [paper money is finantial communism](https://github.com/robang74/chatgpt-answered-prompts/blob/main/paper-money-financial-communism-03.md).
 
-https://github.com/robang74/chatgpt-answered-prompts/blob/main/Draghi-report-about-innovation-01.md 
+In this case the use of the chatbot has been used as an inspirational partner. Like when we tell something to somebody not for a particular reason rather than enjoy a conversation from another point of view hoping to find inspiration, to dive deep into, extending the concept or trying to catch a bigger picture from it.
 
-https://github.com/robang74/chatgpt-answered-prompts/blob/main/Draghi-report-vs-ciuchino-meme.md 
+In fact, I have used this approch - asking for the big picture - in order to find an inspiration.
 
-https://github.com/robang74/chatgpt-answered-prompts/blob/main/paper-money-financial-communism-03.md
+### Q&A DIALOG
 
-2/2
+In this case, it is not a single prompt but a dialog: a series of answered questions with aim described in the `rationale` section above. Prompts and the related answers are separated by horizontal lines. Few missing words have been added in the prompt queries just to help the English native speakers to quickly grab the meaning but for sake of correctness those words appear between [squared] parentheses.
+
+### UPLOAD
+
+some links to public web pages have been provided in the first prompt
+
+### CUSTOMISATION
+
+none
+
+### NOTES
+
+ChatGPT Auto can choose automatically the model that should answer the question. All the prompts has been automatically assigned to GPT 4o engine and therefore the chatbot is named ChatGPT 4o, accordingly.
+
+The first prompt answer was not satisfying because the prompt itself was not written properly in defining the aim and the scope of the question. Hence it has been rewritten and re-submited to the chatbot. In this document the first version of the first prompt and its answer have been ignored to be reported. After all, they would add nothing interesting.
+
+### COPYRIGHT
+
+&copy; 2024, **Roberto A. Foglietta** \<roberto.foglietta<span>@</span>gmail.com\>
+
+This document is entirely published under *Creative Commons Attribution Non-Commercial No-Derivatives 4.0 International* license terms ([CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)) included the part above this statement. Moreover, if a version of this document exists or has existed under different licence terms, the licence terms of the latest version available on `github/robang74` [repository](https://github.com/robang74/chatgpt-answered-prompts/) apply. Even when the new licence terms are more restrictive, because permissions for any free content may be revoked at any time at the will of the author, and updating a licence to be more restrictive explicitly implies this will.
+
+<br/>
+
+### CHATGPT 4o
 
 ---
 
-ChatGPT said:
+#### PROMPT #1
+
+Consider these documents linked below and written by the same single human author chatting with an AI. Consider these documents like pieces of a puzzle and describe the whole picture. Or consider these documents like chapters of a story and describe the plot.
+
+<br/>
+
+<sup>
+
+* https://github.com/robang74/chatgpt-answered-prompts/blob/main/Draghi-faboulous-800bln-funding-02.md
+
+<br/>
+
+* https://github.com/robang74/chatgpt-answered-prompts/blob/main/Draghi-report-about-energy-01.md
+
+<br/>
+
+* https://github.com/robang74/chatgpt-answered-prompts/blob/main/Draghi-report-about-innovation-01.md
+
+<br/>
+
+* https://github.com/robang74/chatgpt-answered-prompts/blob/main/Draghi-report-vs-ciuchino-meme.md
+
+<br/>
+
+* https://github.com/robang74/chatgpt-answered-prompts/blob/main/paper-money-financial-communism-03.md
+
+</sup>
+
+<br/>
+
+I know the content of these document, hence you have not to report any part of them. Instead, I want you write the whole picture and the whole plot behind these documents.
+
+> 2/2
+
+---
+
+#### CHATGPT #1
 
 The documents linked together form a cohesive narrative focused on the political, economic, and social analysis surrounding contemporary financial systems and governance, particularly within the context of Italy and Europe. The common thread revolves around the Italian figure Mario Draghi, his leadership, and his impact on major policy areas such as funding, energy, and innovation.
 
-Whole Picture
+**Whole Picture**
 
 At its core, the documents seem to depict a critical examination of modern European governance, with a specific emphasis on the policies implemented by Mario Draghi, his methods of securing massive financial packages, and the consequences on both national and continental scales. This analysis is interwoven with discussions on the intersection of finance, energy policy, innovation, and the broader socio-political landscape.
 
@@ -28,7 +88,7 @@ The pieces explore the mechanisms through which financial power is wielded, crit
 
 The reports also highlight the ideological conflicts between modern bureaucratic governance and more populist or localized political movements. Through the discussion of memes and popular culture references, the author adds a layer of cultural critique, pointing out the ways political narratives are shaped and perceived by the public.
 
-Plot
+**Plot**
 
 1. **The Fabulous 800 Billion Funding**: The story begins with a massive financial package secured by Draghi, aimed at reviving the economy post-crisis. This sets the stage for a larger debate on the nature of these funds, how they are allocated, and the long-term sustainability of such large-scale interventions. The reader is introduced to the political and economic stakes, as well as the players involved.
 2. **Energy Policy Report**: The plot deepens with an exploration of energy policies, where Draghi's decisions are scrutinized in the context of global energy crises and Europe's dependence on foreign energy sources. This chapter paints a picture of the delicate balance between sustainability, innovation, and geopolitical reality, questioning whether the current policies are forward-thinking or short-sighted.
@@ -36,13 +96,11 @@ Plot
 4. **Draghi vs. Ciuchino Meme**: This chapter introduces a more satirical tone, using a popular meme (Ciuchino) as a metaphor for the public perception of Draghi's policies. It reflects on how political figures like Draghi are often reduced to simplified caricatures in popular discourse, and how these memes can both reflect and distort the political realities they are meant to critique.
 5. **Paper Money and Financial Communism**: The final chapter connects the dots by discussing the broader implications of centralized financial control, questioning the sustainability of paper money as a basis for modern economies. This introduces the concept of "financial communism," critiquing the way monetary policy can create systems of dependency and control, rather than empowering citizens or ensuring economic fairness.
 
-Conclusion
+**Conclusion**
 
 The overarching theme across these documents is a critical dissection of the tension between centralized power and the populist undercurrents in contemporary European governance. The narrative explores how figures like Mario Draghi embody the technocratic approach to governance, which prioritizes financial instruments and innovation at the macro level, while often alienating or simplifying the experiences of everyday citizens.
 
 In essence, these documents weave together economic theory, political critique, and cultural analysis to paint a picture of modern governance grappling with complex challenges in an increasingly interconnected world. They raise profound questions about power, money, and the future of democratic engagement in the face of technocratic rule.
-
-4o
 
 ---
 
