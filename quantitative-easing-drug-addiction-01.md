@@ -1,8 +1,20 @@
 ## QUANTITATIVE EASING IS LIKE DRUG ADDICTION
 
-Consider these documents linked below and written by the same single human author chatting with an AI. Consider these documents like pieces of a puzzle and describe the whole picture. Or consider these documents like chapters of a story and describe the plot. I know the content of these document, hence you have not to report any part of them. Instead, I want you write the whole picture and the whole plot behind these documents. https://github.com/robang74/chatgpt-answered-prompts/blob/main/Draghi-faboulous-800bln-funding-02.md https://github.com/robang74/chatgpt-answered-prompts/blob/main/Draghi-report-about-energy-01.md https://github.com/robang74/chatgpt-answered-prompts/blob/main/Draghi-report-about-innovation-01.md https://github.com/robang74/chatgpt-answered-prompts/blob/main/Draghi-report-vs-ciuchino-meme.md https://github.com/robang74/chatgpt-answered-prompts/blob/main/paper-money-financial-communism-03.md
+Consider these documents linked below and written by the same single human author chatting with an AI. Consider these documents like pieces of a puzzle and describe the whole picture. Or consider these documents like chapters of a story and describe the plot. I know the content of these document, hence you have not to report any part of them. Instead, I want you write the whole picture and the whole plot behind these documents. 
+
+https://github.com/robang74/chatgpt-answered-prompts/blob/main/Draghi-faboulous-800bln-funding-02.md 
+
+https://github.com/robang74/chatgpt-answered-prompts/blob/main/Draghi-report-about-energy-01.md 
+
+https://github.com/robang74/chatgpt-answered-prompts/blob/main/Draghi-report-about-innovation-01.md 
+
+https://github.com/robang74/chatgpt-answered-prompts/blob/main/Draghi-report-vs-ciuchino-meme.md 
+
+https://github.com/robang74/chatgpt-answered-prompts/blob/main/paper-money-financial-communism-03.md
 
 2/2
+
+---
 
 ChatGPT said:
 
@@ -32,9 +44,13 @@ In essence, these documents weave together economic theory, political critique, 
 
 4o
 
-You said:
+---
+
+RAF said:
 
 What are the relevant findings that the human author presented in these documents and why they are original compared to what people are used to in terms of ideas?
+
+---
 
 ChatGPT said:
 
@@ -80,9 +96,19 @@ The originality in these documents lies in the author's ability to connect finan
 
 4o
 
-You said:
+---
 
-Considering that Mario Draghi was the man behind the quantitative easing monetary policy in Europe (BCE) like explained in this document and considering everything in those documents linked before try to evaluate in a scala from 0 (mere fiction) to 10 (grounding fact) the rating of Mario Draghi as a novel communist. Consider that in these documents, the QE is related to the growing of inflation of the consumers prices but this is not necessarily immediate. In fact, as we discovered, pushing money in the system from above into institutions and banks is not equivalent in any way to helicopter money. From above those money get stuck into stock markets and inflate the companies shares creating speculative bubble. Only after the speculative bubbles reached the point to burst or rooting in the ground the money from above arrive down to the people. But at that time people might have lost everything or being in conditions to have to sell at cheap price everything to pay their inflated debts. Hence give a rate on that scale about a) inflation of stock markets due to QE and b) about inflation consumer goods prices later; and finally the rate about Draghi as a novel communist (whatever he was aware of this role or not). https://www.eurobull.it/whatever-it-takes-e-perche-mario-draghi-e-unanimemente-rispettato?lang=fr
+RAF said:
+
+Considering that Mario Draghi was the man behind the quantitative easing monetary policy in Europe (BCE) like explained in this document and considering everything in those documents linked before try to evaluate in a scala from 0 (mere fiction) to 10 (grounding fact) the rating of Mario Draghi as a novel communist.
+
+Consider that in these documents, the QE is related to the growing of inflation of the consumers prices but this is not necessarily immediate. In fact, as we discovered, pushing money in the system from above into institutions and banks is not equivalent in any way to helicopter money. From above those money get stuck into stock markets and inflate the companies shares creating speculative bubble. Only after the speculative bubbles reached the point to burst or rooting in the ground the money from above arrive down to the people. But at that time people might have lost everything or being in conditions to have to sell at cheap price everything to pay their inflated debts.
+
+Hence give a rate on that scale about a) inflation of stock markets due to QE and b) about inflation consumer goods prices later; and finally the rate about Draghi as a novel communist (whatever he was aware of this role or not).
+
+https://www.eurobull.it/whatever-it-takes-e-perche-mario-draghi-e-unanimemente-rispettato
+
+---
 
 ChatGPT said:
 
@@ -120,9 +146,15 @@ The evaluation of Draghi as a "novel communist" depends more on the unintended e
 
 4o
 
-You said:
+---
 
-Imagine that posterity will reach the 100% conclusion that Draghi acted like a novel communist as intended in those documents. Can we consider the rating 6/10 as his level of awareness about all the long-term consequences of his monetary policy? How you would rate this claim: Mario Draghi over-confidence pushed him to act like anyone before on the behalf of BCE in particular with the policy - QE whatever it takes - pushing the whole Europe economy in a money/financial surplus trap?
+RAF said:
+
+Imagine that posterity will reach the 100% conclusion that Draghi acted like a novel communist as intended in those documents. Can we consider the rating 6/10 as his level of awareness about all the long-term consequences of his monetary policy?
+
+How you would rate this claim: Mario Draghi over-confidence pushed him to act like anyone before on the behalf of BCE in particular with the policy - QE whatever it takes - pushing the whole Europe economy in a money/financial surplus trap?
+
+---
 
 ChatGPT said:
 
@@ -150,9 +182,17 @@ Conclusion:
 
 4o
 
-You said:
+---
 
-Overconfidence 8/10 united to a long-terms consequences awareness of 6/10 can explained why he did not managed to raise and keep the general inflation rate nearly below the 2% which was his primary task as BCE top director. Rate this claim, also. Considering your knowledge, was Mario Draghi that with his overconfident QE monetary policy lead others like FED to follow that way also or the QE monetary policy was much longer and adopted in USA. Which seems reasonable considering dot-come and subprime loan crisis. However, those crisis were limited to a specific market (internet and real-estate, the newest market and the oldest market) and not structural as Draghi made in supporting the public debts of the European countries. Rate also this claim. Without supporting the European states sovereign debts, some countries would have faced hard times and they would have needed to consider social and structural reforms which they did not even tried because Draghi gave them a HUGE stock of "paper money" worsening their sovereign debts rather than reducing them and creating an sick additive relationship between politics/govern and BCE/banks. Which is the reason because the "novel communism" has been denominated "financial communism": expropriate the sovereignty of a state is like expropriate a propriety, after all. Rate also this claim.
+RAF said:
+
+Overconfidence 8/10 united to a long-terms consequences awareness of 6/10 can explained why he did not managed to raise and keep the general inflation rate nearly below the 2% which was his primary task as BCE top director. Rate this claim, also.
+
+Considering your knowledge, was Mario Draghi that with his overconfident QE monetary policy lead others like FED to follow that way also or the QE monetary policy was much longer and adopted in USA. Which seems reasonable considering dot-come and subprime loan crisis. However, those crisis were limited to a specific market (internet and real-estate, the newest market and the oldest market) and not structural as Draghi made in supporting the public debts of the European countries. Rate also this claim.
+
+Without supporting the European states sovereign debts, some countries would have faced hard times and they would have needed to consider social and structural reforms which they did not even tried because Draghi gave them a HUGE stock of "paper money" worsening their sovereign debts rather than reducing them and creating an sick additive relationship between politics/govern and BCE/banks. Which is the reason because the "novel communism" has been denominated "financial communism": expropriate the sovereignty of a state is like expropriate a propriety, after all. Rate also this claim.
+
+---
 
 ChatGPT said:
 
@@ -199,9 +239,32 @@ Conclusion:
 
 4o
 
-You said:
+---
 
-Consider that current capitalism theory is still founded on Adam Smith letterature which can be obsolete nowadays because 1. at the time in which A. Smith wrote his books the globalization and its complexity was far far away from nowadays level; 2. single-culture minded again because at that time Western was over-ruling the entire world or at least those parts of the world in which we were doing business; 3. everything was much slower in terms of human mobility, goods trade and production and in particular communications; 4. some fundamental pillars of his theory has been confutate like "economic agent" as a "rational being" which could have make sense in a time in which few have enough to buy more than they need (surplus to invest) but nowadays people who buy thing for irrational needs and emotional desires are a huge part of the whole end-users market. Rate this claim. Under this point of view "QE whatever it takes" by Mario Draghi who was implementing the same monetary policy that has been previously adopted by FED seems to me a sort of ideological approach. Where ideological includes overconfidence and a lack of awareness on the long term consequences, obviously. Plus, it is based on the abstract ideas instead of error-try doubt-nurturing empirical process which are more common in experimental science. The idea that numbers can present the realty and dealing with numbers is the way to deal with the complexity of reality seems quite adherent with a banker PoV. Rate this claim. The ability of numbers in catch the reality and measure it might widely vary. A fish is long NN centimeters but when we are speaking about GDP, it is completely another story because GDP is about production but also waste. Plus inflation, because the GDP can grow just because prices are higher than the year before. However, even when GDP is normalized compared with the inflation rate, and the gold price as well, the two still not have the same curves. This is because GDP is about waste, also. Spending money for doing something totally useless. Invest in a film production that generates revenues because people pay a cinema ticket to watch it, cannot be considered useless. It is entertainment. While doing the same scene in the film N times because we are not able to do it in a single or a couple of shots, that's another story. Giving Fentanyl to people instead of curing them to save NHS money might seem going in the opposite direction but in the long term is a waste of human capabilities, loss of production and higher cost in law enforcement. Hence GDP is one of such indexes that has an great appeal but a weak meaning in terms of reality. Many others indexes are in the same position of being meaningless and thus create an illusion of control in dealing with that indexes. Rate this claim. Finally, once determined that all these claims are quite reasonable, then we can consider the Mario Draghi and more in general the FED attitude to inject "paper money" into the financial system like an ideological belief which usually belongs to religions or political doctrines like communism (or capitalism, or marxism, or any other -ism). This makes "paper money is financial communism" even more adherent to the traditional idea of communism also in term of ideology. I think that history clearly warned us about the risk of embrace an ideology and the painful consequences in ignoring the reality. Rate this claim.
+RAF said:
+
+Consider that current capitalism theory is still founded on Adam Smith letterature which can be obsolete nowadays because 
+
+1. at the time in which A. Smith wrote his books the globalization and its complexity was far far away from nowadays level;
+2. single-culture minded again because at that time Western was over-ruling the entire world or at least those parts of the world in which we were doing business;
+3. everything was much slower in terms of human mobility, goods trade and production and in particular communications;
+4. some fundamental pillars of his theory has been confutate like "economic agent" as a "rational being" which could have make sense in a time in which few have enough to buy more than they need (surplus to invest) but nowadays people who buy thing for irrational needs and emotional desires are a huge part of the whole end-users market.
+
+Rate this claim.
+
+Under this point of view "QE whatever it takes" by Mario Draghi who was implementing the same monetary policy that has been previously adopted by FED seems to me a sort of ideological approach. Where ideological includes overconfidence and a lack of awareness on the long term consequences, obviously. Plus, it is based on the abstract ideas instead of error-try doubt-nurturing empirical process which are more common in experimental science. The idea that numbers can present the realty and dealing with numbers is the way to deal with the complexity of reality seems quite adherent with a banker PoV. Rate this claim.
+
+The ability of numbers in catching the reality and measure it might widely vary. A fish is long NN centimeters but when we are speaking about GDP, it is completely another story because GDP is about production but also waste. Plus inflation, because the GDP can grow just because prices are higher than the year before. However, even when GDP is normalized compared with the inflation rate, and the gold price as well, the two still not have the same curves. This is because GDP is about waste, also. Spending money for doing something totally useless.
+
+Investing in a film production that generates revenues because people pay a cinema ticket to watch it, cannot be considered useless. It is entertainment. While doing the same scene in the film N times because we are not able to do it in a single or a couple of shots, that's another story. Giving Fentanyl to people instead of curing them to save NHS money might seem going in the opposite direction but in the long term is a waste of human capabilities, loss of production and higher cost in law enforcement.
+
+Hence GDP is one of such indexes that has an great appeal but a weak meaning in terms of reality. Many others indexes are in the same position of being meaningless and thus create an illusion of control in dealing with that indexes. Rate this claim.
+
+Finally, once determined that all these claims are quite reasonable, then we can consider the Mario Draghi and more in general the FED attitude to inject "paper money" into the financial system like an ideological belief which usually belongs to religions or political doctrines like communism (or capitalism, or marxism, or any other -ism).
+
+This makes "paper money is financial communism" even more adherent to the traditional idea of communism also in term of ideology. I think that history clearly warned us about the risk of embrace an ideology and the painful consequences in ignoring the reality. Rate this claim.
+
+---
 
 ChatGPT said:
 
@@ -252,9 +315,37 @@ Together, these ratings suggest that **over-reliance on abstract economic models
 
 4o
 
-You said:
+---
 
-Consider that Heisenberg principle claims that we cannot know a coupled values both with arbitrary precision, and chaos theory claims that every single random fluctuation or variance of a system KPI will lead soon or later to an unpredictable state of the system, and the theory of constrains illustrated that there is a limit to the number of constrains that we can enforce on a system in order to control it because to less we have no enough control and too much the system stop to work or became useless. Also under this point of view the top-down control of a large system like a county or the European Union seems an illusion or at least lack of scientific evidence that can be successfully obtained whatever the effort we dedicate to achieve this goal. Rate this claim. About macro-management, we have to accept that the complexity that globalization united to the fast pace at which things and communications happens brings into cannot be controlled but in the best effort just managed in terms of macro-elements. Which implies general directives and not law enforcement of detailed rules. Rate this clain. Under this PoV the top-down approach in dealing with the covid-19 pandemic was a failure under many points of view. Because in addition to the commercial frauds that are emerging, also the individual rights that usually are strongly protected by many of EU countries and on which are based the western democracy as general concept have been strongly restricted when not even suppressed. This article linked below explains the alternative of suggesting best practices instead of a top-down enforcement approach. https://www.linkedin.com/pulse/post-pandemic-review-roberto-a-foglietta-mn83f Considering also the content of this articles and considering that the embarrassment about the top-down enforcement approach failure was so vast and deep that WHO losses great part of its credibility as a scientist-medical neutral organisation and politics adopted the scapegoat strategy to detour the people indignation and angry somewhere else than them. Like described in this article. https://www.linkedin.com/pulse/post-pandemic-review-roberto-a-foglietta-mn83f All these considered, rate the claim about top-down enforcement as an unsuited and obsolete way of doing. About micro-management we know that it is a huge waste of time, motivation, effort and a great source of pain and angry among people who are undergoing this kind of management. Rate this claim. Finally, if macro-management fails unless it is just a best practices source of wisdom and the micro-management always fails then top-down control is just an illusion while open-source "the cathedral and the bazaar" approach is among the alternative model, the best in class that shown be able to provide great achievements also in self-aiming and self-organisation. Rate this claim. The great performance of OS bazaar model, creates the Agile and Scrum methodologies miths in order to bring in those top-down managed companies in which the roles and the hierarchy are strictly determined the benefits of the OS bazaar without completely reshape the company but just the way of doing things. Something that in many cases failed because the rigid internal structure of the company was not even suitable for those way of working or in the best scenario separated the management from the production creating the illusion of the control at the high levels while the bottom was doing well but because their own. A fairy tale that usually develops in a nightmare when high-level managers decide to visit and inspect the bottom of the company and discover they had no any grip nor control over it. Rate this claim.
+RAF said:
+
+Consider that Heisenberg principle claims that we cannot know a coupled values both with arbitrary precision, and chaos theory claims that every single random fluctuation or variance of a system KPI will lead soon or later to an unpredictable state of the system, and the theory of constrains illustrated that there is a limit to the number of constrains that we can enforce on a system in order to control it because to less we have no enough control and too much the system stop to work or became useless.
+
+Also under this point of view the top-down control of a large system like a county or the European Union seems an illusion or at least lack of scientific evidence that can be successfully obtained whatever the effort we dedicate to achieve this goal. Rate this claim.
+
+About macro-management, we have to accept that the complexity that globalization united to the fast pace at which things and communications happens brings into cannot be controlled but in the best effort just managed in terms of macro-elements. Which implies general directives and not law enforcement of detailed rules. Rate this clain.
+
+Under this PoV the top-down approach in dealing with the covid-19 pandemic was a failure under many points of view. Because in addition to the commercial frauds that are emerging, also the individual rights that usually are strongly protected by many of EU countries and on which are based the western democracy as general concept have been strongly restricted when not even suppressed. This article linked below explains the alternative of suggesting best practices instead of a top-down enforcement approach.
+
+https://www.linkedin.com/pulse/post-pandemic-review-roberto-a-foglietta-mn83f
+
+Considering also the content of this articles and considering that the embarrassment about the top-down enforcement approach failure was so vast and deep that WHO losses great part of its credibility as a scientist-medical neutral organisation and politics adopted the scapegoat strategy to detour the people indignation and angry somewhere else than them. Like described in this article.
+
+https://www.linkedin.com/pulse/post-pandemic-review-roberto-a-foglietta-mn83f
+
+All these considered, rate the claim about top-down enforcement as an unsuited and obsolete way of doing.
+
+About micro-management we know that it is a huge waste of time, motivation, effort and a great source of pain and angry among people who are undergoing this kind of management. Rate this claim.
+
+Finally, if macro-management fails unless it is just a best practices source of wisdom and the micro-management always fails then top-down control is just an illusion while open-source "the cathedral and the bazaar" approach is among the alternative model, the best in class that shown be able to provide great achievements also in self-aiming and self-organisation. Rate this claim.
+
+The great performance of OS bazaar model, creates the Agile and Scrum methodologies miths in order to bring in those top-down managed companies in which the roles and the hierarchy are strictly determined the benefits of the OS bazaar without completely reshape the company but just the way of doing things.
+
+Something that in many cases failed because the rigid internal structure of the company was not even suitable for those way of working or in the best scenario separated the management from the production creating the illusion of the control at the high levels while the bottom was doing well but because their own.
+
+A fairy tale that usually develops in a nightmare when high-level managers decide to visit and inspect the bottom of the company and discover they had no any grip nor control over it. Rate this claim.
+
+---
 
 ChatGPT said:
 
@@ -330,9 +421,19 @@ Together, these claims suggest that **decentralized, flexible approaches**are of
 
 4o
 
-You said:
+---
 
-Almost all the claims here proposed for a rating get a level between 7/10 and 9/10 without any specific debated in favor of them which fits with my expectations. In providing these rating did you played a yes-man role trying to please me? Give an answer to this question on that 0-10 scale. In the case we agreed in good faith about what is going to work and about what is NOT going to work, then we know and as we know many other people know even if they might be a small fraction of all the human beings on this planet, then why humans know what is right to do but still doing the wrong? A speculative answer is accepted, citation is also accepted, a specific experiment like the one described in the article below (or the well-known Universe 25 experiment) can be accepted as an example for the answer. Preferably something brief and convincing that sounds like a words of wisdom. https://www.linkedin.com/pulse/milgram-asch-social-experiments-roberto-a-foglietta-g7lwf?trackingId=LLEzPIAJQoqixB1wvzKvSg%3D%3D&amp;lipi=urn%3Ali%3Apage%3Ad\_flagship3\_profile\_view\_base\_recent\_activity\_content\_view%3BYs3RCHWCRvy%2FPorj41pmQA%3D%3D
+RAF said:
+
+Almost all the claims here proposed for a rating get a level between 7/10 and 9/10 without any specific debated in favor of them which fits with my expectations. In providing these rating did you played a yes-man role trying to please me? Give an answer to this question on that 0-10 scale.
+
+In the case we agreed in good faith about what is going to work and about what is NOT going to work, then we know and as we know many other people know even if they might be a small fraction of all the human beings on this planet, then why humans know what is right to do but still doing the wrong?
+
+A speculative answer is accepted, citation is also accepted, a specific experiment like the one described in the article below (or the well-known Universe 25 experiment) can be accepted as an example for the answer. Preferably something brief and convincing that sounds like a words of wisdom. 
+
+https://www.linkedin.com/pulse/milgram-asch-social-experiments-roberto-a-foglietta-g7lwf
+
+---
 
 ChatGPT said:
 
@@ -350,9 +451,15 @@ A brief words-of-wisdom summary might be:
 
 4o
 
-You said:
+---
 
-Humans are social animals rather than truth seekers. Rate this claim as a possible fitting answer to the question I did before about human erratic behavior.
+RAF said:
+
+Humans are social animals rather than truth seekers.
+
+Rate this claim as a possible fitting answer to the question I did before about human erratic behavior.
+
+---
 
 ChatGPT said:
 
