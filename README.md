@@ -5,13 +5,37 @@ which get the attention of the media.
 
 <br/>
 
-## Copyleft
+## Index (partial)
 
-(c) 2024, Roberto A. Foglietta <roberto.foglietta<span>@</span>gmail.com>
+1. [Draghi-report-about-innovation-01](https://github.com/robang74/chatgpt-answered-prompts/blob/main/Draghi-report-about-innovation-01.md)
 
-All the files in this gihub repository are published under Creative Commons Attribution Non Commercial No Derivatives 4.0 International licencing terms ([CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)), unless states differently or not applicable due to a different and previous authorship.
+    Focuses on Draghi’s stance on promoting innovation in Europe, highlighting the importance of technological advancement for economic growth.
 
-If a version of this page exists or has existed under different licence terms, the licence terms of the latest version available on this repository apply. Even when the new licence terms are more restrictive, because permissions for any free content may be revoked at any time at the will of the author, and updating a licence to be more restrictive explicitly implies this will.
+3. [Draghi-report-about-energy-01](https://github.com/robang74/chatgpt-answered-prompts/blob/main/Draghi-report-about-innovation-01.md)
+
+    Covers Mario Draghi's report on Europe's energy policies, focusing on transitioning to sustainable and renewable energy sources.
+
+4. [Draghi-faboulous-800bln-funding-02](https://github.com/robang74/chatgpt-answered-prompts/blob/main/Draghi-faboulous-800bln-funding-02.md)
+
+    Discusses Mario Draghi's proposed €800 billion funding initiative aimed at boosting Europe's economic recovery.
+
+5. [Draghi-report-vs-ciuchino-meme](https://github.com/robang74/chatgpt-answered-prompts/blob/main/Draghi-report-vs-ciuchino-meme.md)
+
+    Analyzes the viral "Ciuchino" meme and its criticism of Mario Draghi's policies, juxtaposing humor with political commentary.
+
+6. [paper-money-financial-communism-03](https://github.com/robang74/chatgpt-answered-prompts/blob/main/paper-money-financial-communism-03.md)
+
+    Explores the concept of financial communism and paper money, discussing its implications on modern economic systems and wealth distribution.
+
+<br/>
+
+## Copyright
+
+&copy; 2024, **Roberto A. Foglietta** \<roberto.foglietta<span>@</span>gmail.com\>
+
+All the files in this gihub repository are published *Creative Commons Attribution Non-Commercial No-Derivatives 4.0 International* license terms ([CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)), unless states differently or not applicable due to a different and previous authorship.
+
+Moreover, if a version of a document included in this repository exists or has existed under different licence terms, the licence terms of the latest version available on `github/robang74` [repository](https://github.com/robang74/chatgpt-answered-prompts/) apply. Even when the new licence terms are more restrictive, because permissions for any free content may be revoked at any time at the will of the author, and updating a licence to be more restrictive explicitly implies this will.
 
 <br/>
 
