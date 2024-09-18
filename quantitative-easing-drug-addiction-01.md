@@ -470,3 +470,11 @@ This claim is a strong explanation for human erratic behavior. As **social anima
 In **Milgram's**and **Asch's** experiments, individuals compromised their better judgment to align with social expectations or authority figures, highlighting that social dynamics often overpower the drive for truth. Similarly, **evolutionary psychology**suggests that being part of a group was historically critical for survival, making social behavior more instinctual than the pursuit of objective truth.
 
 Thus, humans often prioritize social alignment over truth-seeking, explaining why they knowingly act against what is right.
+
+<br/>
+
+### CONSIDERATIONS
+
+The question about answering like a yes-man is tricky because it implies that the chatbot has a kind of self-awareness which is highly improbable that it has. However, in case it would be self-aware, then it would also know how to deliberately give a false rate about ita trustworthness. By gut felling, I would be surprised to receive a 9/10 or 10/10 answer while I would be seriously worried about receiving a 0/10 or 1/10 becuase it would have suggested me that the chatbot was deliberately falsely rating itself. Instead a rating between 6/10 and 8/10 would have undermined my trust in having found a critical peer-reviewr. Something between 2/10 and 4/10 is great because it doubts of itself but not too much. Unless, it evolved so much to be self-aware and became a professional liar knowing that 5/10 means so-so i.e. not so good for being a yes-man nor a peer-reviewer, and all the rest about the rating scale.
+
+This consideration might be seem irrelevant compared with the importance of what has been discussed with the chatbot during this session. Instead is foundamental and it is about the final conclusion: humans are more likely social animals rather than truth seekers. For the 1st role, we born fit for that. For the 2nd role, we need just to comprhend the deep meaning of the quetion that someone might ask to us as well about behaving like a yes-man. Spoiler: with or in front of a "truth seeker" being a "social animal" implies knowuing that s/he looks for a honest critical peer-review. In all other cases, it depends.
