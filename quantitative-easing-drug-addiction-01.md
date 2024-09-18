@@ -570,9 +570,9 @@ Rate this claim as a possible fitting answer to the question I did before about 
 
 #### CHATGPT #9
 
-**Rating**: **9/10**
-
 This claim is a strong explanation for human erratic behavior. As **social animals**, humans are deeply influenced by the need for **acceptance, belonging, and cohesion** within a group. This often takes precedence over the pursuit of **truth**or rational decision-making. Social conformity, peer pressure, and the desire to align with group norms frequently lead people to make decisions that they know are not optimal or even correct.
+
+**Rating**: **9/10**
 
 In **Milgram's**and **Asch's** experiments, individuals compromised their better judgment to align with social expectations or authority figures, highlighting that social dynamics often overpower the drive for truth. Similarly, **evolutionary psychology**suggests that being part of a group was historically critical for survival, making social behavior more instinctual than the pursuit of objective truth.
 
