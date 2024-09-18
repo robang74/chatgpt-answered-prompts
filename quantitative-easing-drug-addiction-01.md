@@ -82,11 +82,11 @@ The documents linked together form a cohesive narrative focused on the political
 
 **Whole Picture**
 
-&nbsp; &nbsp; &nbsp; At its core, the documents seem to depict a critical examination of modern European governance, with a specific emphasis on the policies implemented by Mario Draghi, his methods of securing massive financial packages, and the consequences on both national and continental scales. This analysis is interwoven with discussions on the intersection of finance, energy policy, innovation, and the broader socio-political landscape.
+&nbsp; &nbsp; &bull;&nbsp; At its core, the documents seem to depict a critical examination of modern European governance, with a specific emphasis on the policies implemented by Mario Draghi, his methods of securing massive financial packages, and the consequences on both national and continental scales. This analysis is interwoven with discussions on the intersection of finance, energy policy, innovation, and the broader socio-political landscape.
 
-&nbsp; &nbsp; &nbsp; The pieces explore the mechanisms through which financial power is wielded, critiquing the strategies used by governments and institutions like the European Central Bank (ECB). The author delves into economic theories, particularly around "paper money" and its role in what is termed "financial communism," a term suggesting a critique of centralized financial control and wealth distribution.
+&nbsp; &nbsp; &bull;&nbsp; The pieces explore the mechanisms through which financial power is wielded, critiquing the strategies used by governments and institutions like the European Central Bank (ECB). The author delves into economic theories, particularly around "paper money" and its role in what is termed "financial communism," a term suggesting a critique of centralized financial control and wealth distribution.
 
-&nbsp; &nbsp; &nbsp; The reports also highlight the ideological conflicts between modern bureaucratic governance and more populist or localized political movements. Through the discussion of memes and popular culture references, the author adds a layer of cultural critique, pointing out the ways political narratives are shaped and perceived by the public.
+&nbsp; &nbsp; &bull;&nbsp; The reports also highlight the ideological conflicts between modern bureaucratic governance and more populist or localized political movements. Through the discussion of memes and popular culture references, the author adds a layer of cultural critique, pointing out the ways political narratives are shaped and perceived by the public.
 
 **Plot**
 
