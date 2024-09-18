@@ -42,11 +42,11 @@ none
 
 Some redudant sentences like `Updated Rating for the LinkedIn Article:` has been removed from the chatbot answers.
 
-### COPYLEFT
+### COPYRIGHT
 
-(c) 2024, Roberto A. Foglietta roberto.foglietta<span>@</span>gmail.com>, CC BY-NC-ND 4.0
+&copy; 2024, **Roberto A. Foglietta** \<roberto.foglietta<span>@</span>gmail.com\>
 
-If a version of this page exists or has existed under different licence terms, the licence terms of the latest version available on this repository apply. Even when the new licence terms are more restrictive, because permissions for any free content may be revoked at any time at the will of the author, and updating a licence to be more restrictive explicitly implies this will.
+This document is entirely published under *Creative Commons Attribution Non-Commercial No-Derivatives 4.0 International* license terms ([CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)) included the part above this statement. Moreover, if a version of this document exists or has existed under different licence terms, the licence terms of the latest version available on `github/robang74` [repository](https://github.com/robang74/chatgpt-answered-prompts/) apply. Even when the new licence terms are more restrictive, because permissions for any free content may be revoked at any time at the will of the author, and updating a licence to be more restrictive explicitly implies this will.
 
 <br/>
 

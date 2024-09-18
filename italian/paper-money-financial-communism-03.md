@@ -44,11 +44,11 @@ Questo documento (tag: 2024-09-16) è stato tradotto dall'inglese in italiano da
 
 Se desiderate inviare una traduzione è necessario che conosciate bene una delle lingue in cui questo documento è disponibile, meglio ancora se conoscete l'inglese e potete partire dalla versione originale, e che siate madrelinga o equivalente nella lingua in cui viene fatta la traduzione.
 
-### COPYLEFT
+### COPYRIGHT
 
-(c) 2024, Roberto A. Foglietta roberto.foglietta<span>@</span>gmail.com>, CC BY-NC-ND 4.0
+&copy; 2024, **Roberto A. Foglietta** \<roberto.foglietta<span>@</span>gmail.com\>
 
-Se una versione di questa pagina esiste o è esistita con termini di licenza diversi, si applicano i termini di licenza dell'ultima versione disponibile su questo repository. Anche quando i nuovi termini di licenza sono più restrittivi, perché le concessioni relative qualsiasi contenuto gratuito possono essere revocate in qualsiasi momento per volontà dell'autore e l'aggiornamento di una licenza in modo più restrittivo implica esplicitamente questa volontà.
+Questo documento è pubblicato interamente sotto licenza *Creative Commons Attribution Non-Commercial No-Derivatives 4.0 International* ([CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)) inclusa la parte sopra a questa nota. Inoltre, se una versione di questo documento esiste o è esistito con termini di licenza diversi, si applicano i termini di licenza dell'ultima versione disponibile sul `github/robang74` [repository](https://github.com/robang74/chatgpt-answered-prompts/). Anche quando i nuovi termini di licenza sono più restrittivi, perché le concessioni relative qualsiasi contenuto gratuito possono essere revocate in qualsiasi momento per volontà dell'autore e l'aggiornamento di una licenza in modo più restrittivo implica esplicitamente questa volontà.
 
 <br/>
 
