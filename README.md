@@ -7,23 +7,23 @@ which get the attention of the media.
 
 ## Index (partial)
 
-1. [Draghi-report-about-innovation-01](https://github.com/robang74/chatgpt-answered-prompts/blob/main/Draghi-report-about-innovation-01.md)
+1. **Draghi-report-about-innovation-01** [.md](Draghi-report-about-innovation-01.md) [.html](html/Draghi-report-about-innovation-01.html) [.pdf](pdf/Draghi-report-about-innovation-01.pdf)
 
     Focuses on Draghi’s stance on promoting innovation in Europe, highlighting the importance of technological advancement for economic growth.
 
-3. [Draghi-report-about-energy-01](https://github.com/robang74/chatgpt-answered-prompts/blob/main/Draghi-report-about-innovation-01.md)
+3. **Draghi-report-about-energy-01** [.md](Draghi-report-about-energy-01.md) [.html](html/Draghi-report-about-energy-01.html) [.pdf](pdf/Draghi-report-about-energy-01.pdf)
 
     Covers Mario Draghi's report on Europe's energy policies, focusing on transitioning to sustainable and renewable energy sources.
 
-4. [Draghi-faboulous-800bln-funding-02](https://github.com/robang74/chatgpt-answered-prompts/blob/main/Draghi-faboulous-800bln-funding-02.md)
+4. **Draghi-faboulous-800bln-funding-02** [.md](Draghi-faboulous-800bln-funding-02.md) [.html](html/Draghi-faboulous-800bln-funding-02.html) [.pdf](pdf/Draghi-faboulous-800bln-funding-02.pdf)
 
     Discusses Mario Draghi's proposed €800 billion funding initiative aimed at boosting Europe's economic recovery.
 
-5. [Draghi-report-vs-ciuchino-meme](https://github.com/robang74/chatgpt-answered-prompts/blob/main/Draghi-report-vs-ciuchino-meme.md)
+5. **Draghi-report-vs-ciuchino-meme** [.md](Draghi-report-vs-ciuchino-meme.md) [.html](html/Draghi-report-vs-ciuchino-meme.html) [.pdf](pdf/Draghi-report-vs-ciuchino-meme.pdf)
 
     Analyzes the viral "Ciuchino" meme and its criticism of Mario Draghi's policies, juxtaposing humor with political commentary.
 
-6. [paper-money-financial-communism-03](https://github.com/robang74/chatgpt-answered-prompts/blob/main/paper-money-financial-communism-03.md)
+6. **paper-money-financial-communism-03** [.md](paper-money-financial-communism-03.md) [.html](html/paper-money-financial-communism-03.html) [.pdf](pdf/paper-money-financial-communism-03.pdf)
 
     Explores the concept of financial communism and paper money, discussing its implications on modern economic systems and wealth distribution.
 
