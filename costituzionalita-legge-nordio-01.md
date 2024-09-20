@@ -4,7 +4,7 @@ Analisi di costituzionalità della c.d. legge Nordio sull'abolizione dell'abuso 
 
 ### CUSTOMISATION
 
-Per questa analisi ho utilizzato un chatbot specializzato e l'ho aggiornato secondo le norme vigenti.
+Per questa analisi ho utilizzato un chatbot specializzato, aggiornato con dati aggiuntivi specifici.
 
 ### NOTE
 
@@ -18,7 +18,7 @@ Un'enormità in termini di avanzamento nella consapevolezza dei lavori parlament
 
 ### UPLOAD
 
-Ho inserito come dati aggiuntivi per 2.356 KB di testo includendo:
+Ho inserito dati aggiuntivi per 2.356 KB di testo includendo:
 
 - legge c.d. Nordio
 - la Costituzione Italiana
