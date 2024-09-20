@@ -15,10 +15,9 @@ oppure
 
 La seconda immagine di uno o dell'altro di questi due post.
 
-### COPYLEFT
+### COPYRIGHT
 
 (c) 2024, Roberto A. Foglietta <roberto.foglietta<span>@</span>gmail.com>, CC BY-SA 4.0
-
 
 <br/>
 <br/>
