@@ -53,4 +53,4 @@ This document is entirely published under *Creative Commons Attribution Non-Comm
 
 ### CONSIDERATIONS
 
-Non sono un'esperto ma in Parlamento dovrebbero esserlo e non dovrebbero approvare leggi che sono in dubbio di costituzionalità su 4 punti ognuno al 50% almeno (testa o croce) perché se tiro una moneta onesta 4 volte la probabilità che esca sempre testa è (1/2)^4 = 6.25% ed è un po' bassina come aspettativa di completa costituzionalità.
+Non sono un'esperto ma in Parlamento dovrebbero esserlo e non dovrebbero approvare leggi che sono in dubbio di costituzionalità su 4 punti ognuno al 50% almeno (testa o croce) perché se tiro una moneta onesta 4 volte la probabilità che esca sempre testa è (1/2)^4 = 1/16 = 6.25% ed è un po' bassina come aspettativa di completa costituzionalità per una legge che vada a modificare il diritto penale.
