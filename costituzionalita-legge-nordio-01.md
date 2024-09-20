@@ -23,7 +23,7 @@ Ho inserito dati aggiuntivi per 2.356 KB di testo includendo:
 - il codice di procedura penale
 - il codice penale
 
-In versioni integrali e prese da il sito del [Senato della Repubblica Italiana](https://www.senato.it/) quindi inappellabili come fonti di diritto. Ce ne sono altre di fonti di diritto, e non trascurabili come importanza specifica, ma questa è stata pernsata per essere una prima valutazione da fonti canoniche, quelle che si suppone siano "alla mano" dei legislatori.
+In versioni integrali e prese da il sito del [Senato della Repubblica Italiana](https://www.senato.it/) quindi inappellabili come fonti di diritto. Ce ne sono altre di fonti di diritto, e non trascurabili come importanza specifica, ma questa elaborazione è stata preparata per ottenere una prima valutazione da fonti canoniche, quelle che si suppone siano "*alla mano*" dei legislatori.
 
 ### COPYRIGHT
 
