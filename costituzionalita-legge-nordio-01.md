@@ -35,18 +35,20 @@ This document is entirely published under *Creative Commons Attribution Non-Comm
 
 ### CHATGPT 4o (CUSTOM)
 
-#### 1. Eliminazione dell'abuso d'ufficio (art. 323 c.p.)
+* [answer screenshot 2x resolution](costituzionalita-legge-nordio-01.png)
 
-- Costituzionalità - La legge Nordio abroga l’articolo 323 c.p. sull’abuso d’ufficio. Questa modifica può creare dubbi costituzionali riguardo agli articoli 28 (responsabilità dei funzionari) e 97 (buon andamento della pubblica amministrazione). L'eliminazione dell'abuso potrebbe indebolire i controlli sui funzionari pubblici.
+#### 1. **Eliminazione dell'abuso d'ufficio (art. 323 c.p.)**
 
-- Conformità alle norme europee - La Convenzione UNCAC e il GRECO stabiliscono standard anti-corruzione per gli Stati membri. La rimozione di questa fattispecie, se non compensata da altre misure, potrebbe limitare la capacità dell'Italia di prevenire la corruzione.
+   - **Costituzionalità**: La legge Nordio abroga l’articolo 323 c.p. sull’abuso d’ufficio. Questa modifica può creare **dubbi costituzionali** riguardo agli articoli **28** (responsabilità dei funzionari) e **97** (buon andamento della pubblica amministrazione). L'eliminazione dell'abuso potrebbe indebolire i controlli sui funzionari pubblici.
 
-#### 2. Interrogatorio di garanzia anticipato e intercettazioni
+   - **Conformità alle norme europee**: La **Convenzione UNCAC** e il **GRECO** stabiliscono standard anticorruzione per gli Stati membri. La rimozione di questa fattispecie, se non compensata da altre misure, potrebbe limitare la capacità dell'Italia di prevenire la corruzione.
 
-- Costituzionalità - Le modifiche relative all'interrogatorio di garanzia anticipato potrebbero sollevare problemi di conformità con l'articolo 24 (diritto di difesa) e 111 (giusto processo) della Costituzione, a causa della potenziale riduzione dei tempi di preparazione della difesa.
+#### 2. **Interrogatorio di garanzia anticipato e intercettazioni**
 
-- Privacy e intercettazioni: Le nuove disposizioni sulla gestione delle intercettazioni, sebbene mirino a snellire le procedure, potrebbero violare il principio costituzionale di inviolabilità delle comunicazioni private (art. 15 Costituzione) se non adeguatamente bilanciate.
+   - **Costituzionalità**: Le modifiche relative all'interrogatorio di garanzia anticipato potrebbero sollevare problemi di conformità con l'articolo **24** (diritto di difesa) e **111** (giusto processo) della Costituzione, a causa della potenziale riduzione dei tempi di preparazione della difesa.
 
+   - **Privacy e intercettazioni**: Le nuove disposizioni sulla gestione delle intercettazioni, sebbene mirino a snellire le procedure, potrebbero violare il principio costituzionale di inviolabilità delle comunicazioni private (art. **15** Costituzione) se non adeguatamente bilanciate.
+   
 <br/>
 
 ### CONSIDERATIONS
