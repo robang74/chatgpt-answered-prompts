@@ -8,11 +8,9 @@ Per questa analisi ho utilizzato un chatbot specializzato, aggiornato con dati a
 
 ### NOTE
 
-La richiesta e la preparazione non sono state banali e ho dovuto discuterne con il chatbot per ottenere una risposta semplice ma efficace. Per sapere quali fossero i punti critici da esplorare.
+La richiesta e la preparazione non sono state banali e ho dovuto discuterne con il chatbot per poter poi ottenere una risposta semplice ma efficacem, dopo l'elaborazione dei dati, in modo da sapere quali fossero i punti critici da esplorare in seguito.
 
-Dopo 2 giorni di elaborazione in background ho finalmente ottenuto la risposta e direi che nella sua semplicità e sintesi è molto soddisfacente.
-
-Lungi dall'essere un giudizio tecnico in senso legislativo o un parere legale in senso giuridico, però è sufficiente per farsi un'idea di quali siano gli articoli della Costituzione Italiana che la legge c.d. Nordio potrebbe contrastare con la sua applicazione.
+Dopo 2 giorni di elaborazione in background, finalmente ha risposto e direi che nella sua semplicità e sintesi, tale risposta è molto soddisfacente. Lungi dall'essere un giudizio tecnico in senso legislativo o un parere legale in senso giuridico, però è sufficiente per farsi un'idea di quali siano gli articoli della Costituzione Italiana che la legge c.d. Nordio potrebbe contrastare con la sua applicazione.
 
 Un'enormità in termini di avanzamento nella consapevolezza dei lavori parlamentari e legislativi rispetto al passato.
 
