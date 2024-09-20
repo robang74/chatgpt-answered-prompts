@@ -52,3 +52,5 @@ This document is entirely published under *Creative Commons Attribution Non-Comm
 ### CONSIDERATIONS
 
 Non sono un'esperto ma in Parlamento dovrebbero esserlo e non dovrebbero approvare leggi che sono in dubbio di costituzionalità su 4 punti ognuno al 50% almeno (testa o croce) perché se tiro una moneta onesta 4 volte la probabilità che esca sempre testa è (1/2)^4 = 1/16 = 6.25% ed è un po' bassina come aspettativa di completa costituzionalità per una legge che vada a modificare il diritto penale.
+
+Questo bassa stima di completa costituzionalià spiegherebbe perché il Presidente della Repubblica Italiano, Sergio Mattarella, l'abbia firmata solo l'ultimo giorno utile dopo un incontro di persona con il Ministro Carlo Nordio. Un evento alquanto inconsueto anche considerando che prodotte da questa legislatura di leggi "*un po' naïf*" ne erano passate parecchie prima di questa sotto la penna del Presidente della Repubblica senza che egli abbia creato mai particolari intoppi o ritardi che abbiano avuto risonanza sulla stampa.
