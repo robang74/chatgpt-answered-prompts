@@ -8,7 +8,7 @@ Per questa analisi ho utilizzato un chatbot specializzato, aggiornato con dati a
 
 ### NOTE
 
-La richiesta e la preparazione non sono state banali e ho dovuto discuterne con il chatbot per poter poi ottenere una risposta semplice ma efficacem, dopo l'elaborazione dei dati, in modo da sapere quali fossero i punti critici da esplorare in seguito.
+La richiesta e la preparazione NON sono state banali e ho dovuto discuterne con il chatbot per poter poi, dopo l'elaborazione dei dati, ottenere una risposta semplice ma efficace rispetto ai punti critici da esplorare in seguito.
 
 Dopo 2 giorni di elaborazione in background, finalmente ha risposto e direi che nella sua semplicità e sintesi, tale risposta è molto soddisfacente. Lungi dall'essere un giudizio tecnico in senso legislativo o un parere legale in senso giuridico, però è sufficiente per farsi un'idea di quali siano gli articoli della Costituzione Italiana che la legge c.d. Nordio potrebbe contrastare con la sua applicazione.
 
@@ -23,7 +23,7 @@ Ho inserito dati aggiuntivi per 2.356 KB di testo includendo:
 - il codice di procedura penale
 - il codice penale
 
-In versioni integrali e prese da il sito del Senato quindi inappellabili come fonti di diritto. 
+In versioni integrali e prese da il sito del [Senato della Repubblica Italiana](https://www.senato.it/) quindi inappellabili come fonti di diritto. Ce ne sono altre di fonti di diritto, e non trascurabili come importanza specifica, ma questa è stata pernsata per essere una prima valutazione da fonti canoniche, quelle che si suppone siano "alla mano" dei legislatori.
 
 ### COPYRIGHT
 
