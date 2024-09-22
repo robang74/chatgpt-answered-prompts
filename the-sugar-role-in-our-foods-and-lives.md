@@ -178,7 +178,7 @@ This comparison highlights how much common foods you would need to consume to re
 
 ### CONSIDERATIONS
 
-For assuming the same amount of calories contained in 35 grams of sugar that is contained in a can of original taste Coca-Cola 33cl can, on average, is needed 144 grams of food which is 4.1x more in sugar weight. While a Coca-Cola can contains c.a. 365 grams of liquid (water 330 gr. + sugar 35 gr in the water volume). This makes Coca-Cola being equivalent to apples in terms of calories vs weight of food ratio (42 kcal / 100 ml). Do you think that a solution of 10% of sugar into water can provide all the nutrients of the same amount of apples?  
+For assuming the same amount of calories contained in 35 grams of sugar that is contained in a can of original taste Coca-Cola 33cl can, on average, is needed 144 grams of food which is 4.1x more in sugar weight. While a Coca-Cola can contains c.a. 365 grams of liquid (water 330 gr. + sugar 35 gr in the water volume). This makes Coca-Cola being equivalent to apples in terms of calories vs weight of food ratio (42 kcal / 100 ml eq. to 111 gr.). Do you think that a solution of 10% of sugar into water can provide all the nutrients of the same amount of green apples?  
 
 **Output Check**
 
