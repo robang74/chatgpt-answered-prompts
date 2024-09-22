@@ -138,36 +138,37 @@ Produce a table in which 35 grams of sugar which is the amount of sugar found in
 ### Comparison Table: 35g of Sugar in a 33cl Coca-Cola Can (140 kcal) vs Daily Caloric Needs
 
 | **Demographic**            | **Daily Caloric Needs (kcal)** | **Calories from 35g of Sugar (140 kcal)** |
-|----------------------------|-------------------------------|------------------------------------------|
-| Children (Sedentary)        | 1600                          | 8.75%                                    |
-| Children (Active)           | 2000                          | 7.00%                                    |
-| Adult Women (Sedentary)     | 1800                          | 7.78%                                    |
-| Adult Women (Active)        | 2200                          | 6.36%                                    |
-| Adult Men (Sedentary)       | 2200                          | 6.36%                                    |
-| Adult Men (Active)          | 2800                          | 5.00%                                    |
+|----------------------------|--------------------------------|-------------------------------------------|
+| Children (Sedentary)       | 1600                           | 8.75%                                     |
+| Children (Active)          | 2000                           | 7.00%                                     |
+| Adult Women (Sedentary)    | 1800                           | 7.78%                                     |
+| Adult Women (Active)       | 2200                           | 6.36%                                     |
+| Adult Men (Sedentary)      | 2200                           | 6.36%                                     |
+| Adult Men (Active)         | 2800                           | 5.00%                                     |
 
 ---
 
 ### Equivalent Food Quantities to Reach 140 kcal (35g of Sugar)
 
-| **Food**     | **Grams Equivalent to 140 kcal** |
-|--------------|----------------------------------|
-| Banana       | 157.30 g                         |
-| Apple        | 269.23 g                         |
-| Orange       | 297.87 g                         |
-| Potato       | 181.82 g                         |
-| Carrot       | 341.46 g                         |
-| Bean         | 97.90 g                          |
-| Beef         | 56.00 g                          |
-| Egg          | 97.90 g                          |
-| Milk         | 333.33 g                         |
-| Bread        | 56.00 g                          |
-| Pasta        | 106.87 g                         |
-| Boiled Rice  | 107.69 g                         |
-| Salmon       | 67.31 g                          |
-| Tuna Fish    | 97.22 g                          |
-| Butter       | 19.53 g                          |
-| Olive Oil    | 15.84 g                          |
+| **Food**       | **Grams Equivalent to 140 kcal** | **kcal for 100 grams** |
+|----------------|----------------------------------|------------------------|
+| (data source)  |        (provided by ChatGPT)     |   (by Google search)   |
+| Banana         | 157.30 g                         |                        |
+| Apple          | 269.23 g                         | 52 kcal (38-70 kcal)   |
+| Orange         | 297.87 g                         |                        |
+| Potato         | 181.82 g                         |                        |
+| Carrot         | 341.46 g                         |                        |
+| Bean           | 97.90 g                          |                        |
+| Beef           | 56.00 g                          |                        |
+| Egg            | 97.90 g                          |                        |
+| Milk           | 333.33 g                         |                        |
+| Bread          | 56.00 g                          |                        |
+| Pasta          | 106.87 g                         |                        |
+| Boiled Rice    | 107.69 g                         |                        |
+| Salmon         | 67.31 g                          |                        |
+| Tuna Fish      | 97.22 g                          |                        |
+| Butter         | 19.53 g                          |                        |
+| Olive Oil      | 15.84 g                          |                        |
 
 ---
 
@@ -177,7 +178,13 @@ This comparison highlights how much common foods you would need to consume to re
 
 ### CONSIDERATIONS
 
-For assuming the same quantities of calories, on average, is needed 144 grams of food which is 2.8x more in weight.
+For assuming the same amount of calories contained in 35 grams of sugar that is contained in a can of original taste Coca-Cola 33cl can, on average, is needed 144 grams of food which is 4.1x more in sugar weight. While a Coca-Cola can contains c.a. 365 grams of liquid (water 330 gr. + sugar 35 gr in the water volume). This makes Coca-Cola being equivalent to apples in terms of calories vs weight of food ratio (42 kcal / 100 ml). Do you think that a solution of 10% of sugar into water can provide all the nutrients of the same amount of apples?  
+
+**Output Check**
+
+* In particular, we know that LLMs usually are very bad in math and also arithmetic. Before anything else I am going to check the values in the food tables because the others tables are just a list of standard values which have not math.
+* So, the food table is the one at risk. In fact, apples have 52 kcal as Google search first answered while it is easy to find that different apple varieties provide different nutrients and thus energy amounts (between 38 and 70 kcal).
+* However, we can take 52 as an average. Surprisingly, the chatbot did well with apples. Also 400 kcal for 100 grams of sugar implies 140 kcal for 35 grams.
 
 This bring us to calculate the minimal and the maximum weight of food which are related to the diets listed above:
 
