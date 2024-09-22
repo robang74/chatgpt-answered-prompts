@@ -178,27 +178,25 @@ This comparison highlights how much common foods you would need to consume to re
 
 ### CONSIDERATIONS
 
-For assuming the same amount of calories contained in 35 grams of sugar that is contained in a can of original taste Coca-Cola 33cl can, on average, is needed 144 grams of food which is 4.1x more in sugar weight. While a Coca-Cola can contains c.a. 365 grams of liquid (water 330 gr. + sugar 35 gr in the water volume). This makes Coca-Cola being equivalent to apples in terms of calories vs weight of food ratio (42 kcal / 100 ml eq. to 111 gr.). Do you think that a solution of 10% of sugar into water can provide all the nutrients of the same amount of green apples?  
+For assuming the same amount of calories contained in 35 grams of sugar that is contained in a can of original taste Coca-Cola 33cl can, on average, need 144 grams of food which is 4.1x more in sugar weight. While a Coca-Cola can contains c.a. 365 grams of liquid (water 330 gr. + sugar 35 gr disolved in the water volume). This makes Coca-Cola equivalent to green apples in terms of calories vs weight ratio (42 kcal for 100 ml eq. to 111 gr.). Do you think that a solution of 10% of sugar into water can provide all the nutrients of the same amount of green apples?  
 
-**Output Check**
+**Output check**
 
 * In particular, we know that LLMs usually are very bad in math and also arithmetic. Before anything else I am going to check the values in the food tables because the others tables are just a list of standard values which have not math.
 * So, the food table is the one at risk. In fact, apples have 52 kcal as Google search first answered while it is easy to find that different apple varieties provide different nutrients and thus energy amounts (between 38 and 70 kcal).
-* However, we can take 52 as an average. Surprisingly, the chatbot did well with apples. Also 400 kcal for 100 grams of sugar implies 140 kcal for 35 grams.
+* However, we can take 52 as an average value. Surprisingly, the chatbot did well with apples. Also 400 kcal for 100 grams of sugar implies 140 kcal for 35 grams.
 
 This bring us to calculate the minimal and the maximum weight of food which are related to the diets listed above:
 
-- lightest diet	1.65 Kg	
-- activiest diet 2.88 Kg
+| **diet type**  | **food intake** | **daily kcal** | **two cans** | 
+|----------------|-----------------|----------------|--------------|
+| lightest       |  1.65 Kg	       |   1.600        | 17.5%        |
+| activiest      |  2.88 Kg        |   2.800        | 10.0%        |
 
-However, we need to notice that 2 cans of Coca-Cola original taste with 35 grams of sugar in it, will provide 17% of the calories needed for a sedentary school-home kid living in a city and just 10% for an adult male involved into a workforce activity.
+However, we need to notice that 2 cans of Coca-Cola original taste with 35 grams of sugar in it, will provide 18% of the calories needed for a sedentary school-home kid living in a city and just 10% for an adult male involved into a workforce activity.
 
-Unfortunately, calories are just an aspect of a human diet. All that food brings a lot of nutrients among which vitamins, proteins and fibers.
+Unfortunately, calories are just an aspect of a human diet. All that food brings a lot of nutrients among which vitamins, proteins and fibers. Hence a workforce adult male can drink two cans a day and still receive enough nutrients from the other 90% of its food (2.88 Kg). While on the opposite side (1.65 Kg) a certain amount (18%) of the nutrients are eliminated or 18% more calories are added to the daily nutritional food.
 
-Hence a workforce adult male can drink two cans at day and still receive enought nutrients from the other 90% of its food (2.88 Kg).
-
-While on the opposite side (1.65 Kg) a 17% of the nutrients are eliminated or 17% more calories are added on the daily nutritionial diet.
-
-This clearly has a HUGE impact on sedentary school-home kid livings in a city and less on those people that are consuming a lot of energy.
+This clearly has a HUGE impact on sedentary school-home kids living in a city and way less on those people that are consuming a lot of energy.
 
 [**TODO**] to elaborate further
