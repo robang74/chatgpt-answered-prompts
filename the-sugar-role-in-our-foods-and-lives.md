@@ -27,6 +27,7 @@ none
 This document is entirely published under *Creative Commons Attribution Non-Commercial No-Derivatives 4.0 International* license terms ([CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)) included the part above this statement. Moreover, if a version of this document exists or has existed under different licence terms, the licence terms of the latest version available on `github/robang74` [repository](https://github.com/robang74/chatgpt-answered-prompts/) apply. Even when the new licence terms are more restrictive, because permissions for any free content may be revoked at any time at the will of the author, and updating a licence to be more restrictive explicitly implies this will.
 
 <br/>
+<br/>
 
 ### CHATGPT 4o
 
@@ -143,23 +144,24 @@ Produce a table in which 35 grams of sugar which is the amount of sugar found in
 
 #### CHATGPT #2
 
-### Comparison Table: 35g of Sugar in a 33cl Coca-Cola Can (140 kcal) vs Daily Caloric Needs
+**Comparison Table**: 35g of Sugar in a 33cl Coca-Cola Can (140 kcal) vs Daily Caloric Needs
 
-| **Demographic**            | **Daily Caloric Needs (kcal)** | **Calories from 35g of Sugar (140 kcal)** |
-|----------------------------|--------------------------------|-------------------------------------------|
-| Children (Sedentary)       | 1600                           | 8.75%                                     |
-| Children (Active)          | 2000                           | 7.00%                                     |
-| Adult Women (Sedentary)    | 1800                           | 7.78%                                     |
-| Adult Women (Active)       | 2200                           | 6.36%                                     |
-| Adult Men (Sedentary)      | 2200                           | 6.36%                                     |
-| Adult Men (Active)         | 2800                           | 5.00%                                     |
+| **Demographic**            | **Daily Need** | **140 kcal** | **Ratio** |
+|----------------------------|----------------|--------------|-----------|
+| Children (Sedentary)       | 1600 kcal      | 8.75%        |  11.43    |
+| Children (Active)          | 2000 kcal      | 7.00%        |  14.29    |
+| Adult Women (Sedentary)    | 1800 kcal      | 7.78%        |  12.86    |
+| Adult Women (Active)       | 2200 kcal      | 6.36%        |  15.71    |
+| Adult Men (Sedentary)      | 2200 kcal      | 6.36%        |  15.71    |
+| Adult Men (Active)         | 2800 kcal      | 5.00%        |  20.00    |
 
----
+*This section and the table have been human-edited for being shorter and more informative, especially about Ratios.*
 
-### Equivalent Food Quantities to Reach 140 kcal (35g of Sugar)
+\- - - -
+
+**Equivalent Food Quantities to Reach 140 kcal (35g of Sugar)**
 
 This table below shows the equivalent food quantities to reach 140 kcal, the same supplied by 35g of sugar.
-
 
 | **#** | **Food**        | **Grams for 140 kcal** |          **Kcal for 100 grams**        |
 |-------|-----------------|------------------------|----------------------------------------|
@@ -186,12 +188,15 @@ This table below shows the equivalent food quantities to reach 140 kcal, the sam
 | 15    | Butter          | &nbsp; 20 g            |       717       (714 - 803) kcal       |
 | 16    | Olive Oil       | &nbsp; 16 g            |       884       (884 - 999) kcal       |
 
-*This section and table have been human-edited for being shorter and more informative, especially about classes and ranges.*
+*This section and the table have been human-edited for being shorter and more informative, especially about classes and ranges.*
 
----
+\- - - -
+
+**Conclusions**
 
 This comparison highlights how much common foods you would need to consume to reach the same caloric intake as found in 35 grams of sugar (140 kcal), which is equivalent to what's in a 33cl Coca-Cola can. Additionally, it shows what percentage of daily caloric needs this amount of sugar represents for different groups.
 
+<br/>
 <br/>
 
 ### CONSIDERATIONS
