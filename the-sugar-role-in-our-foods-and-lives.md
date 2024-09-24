@@ -1,22 +1,38 @@
 ## THE SUGAR'S ROLE IN OUR FOODS AND LIVES 
 
-Like the title, section to elaborate further [**TODO**]
+*The etymology of the word "**sugar**" reflects the spread of the commodity. From Sanskrit (śarkarā), meaning "ground or candied sugar", came Persian shakar and Arabic sukkar. The Arabic word was borrowed in Medieval Latin as succarum, whence the 12th century French sucre and the English sugar. Sugar was introduced into Europe by the Arabs in Sicily and Spain.*
+
+*Nearchus, admiral of Alexander the Great, knew of sugar during the year 325 BC, because of his participation in the campaign of India led by Alexander. Crusaders brought sugar back to Europe after their campaigns in the Holy Land, where they encountered caravans carrying "sweet salt". Early in the 12th century, Venice acquired some villages near Tyre and set up estates to produce sugar for export to Europe. It supplemented the use of honey, which had previously been the only available sweetener.*
+
+*There was a drastic change in the mid-15th century, when Madeira and the Canary Islands were settled from Europe and sugar introduced there. By 1492, Madeira was producing over 1,400 metric tons of sugar annually. For a comparison in 2022/23, the world sugar production amounted to approximately 177 million metric tons. Provisional numbers for 2021 put the amount of sugar consumed in the European Union (EU-27) at approximately 16.6 million metric tons (just in EU27, it is 11.857 times more than in 1492).*
+
+**Sources**: Wikipedia and Statista
+
+As you can imagine sugar was not a food for almost all the blinkeye time in our evolution as Homo Sapiens Sapiens. However, this is not such a big issue because we evolved digesting different kinds of "sugars" like glucose, fructose, maltose and galactose.
+
+Despite humans knowing sugar since relatively ancient times, it started to be a food recipient only starting in 1492. At that time, the consumption was quite limited both in quantity and social demographics. Poor people were still relying on expensive but cheaper honey, like in the ancient times.
+
+Nowadays, the picture is quite different: sugar is extremely cheap and it is added in many common foods. For example ketchup has 22% of sugar in its weight. Hence, we eat a lot of sugar behind our awareness of doing that. So, it is the right time to take a second thought at this habit of ours. Or paying more attention to it, at least.
+
+For having an idea, 16.6 million metric tons in EU27 (450 millions people) means 36.9 Kg/year eq. to 101 grams/day eq. 404 kcal/day to each person. For a confrontation in the USA (333 millions people) the sugar consumption in the same 2022/2023 was 11.5 millions metric tons. This means that each person in the USA eats 34.5 Kg/year eq. to 95 grams/day eq. to 348 kcal/day.
+
+For a sedentary kid, this sugar daily dose supplies between 18% and 25% of the daily energy need, but instead provides no other nutrients nor fibers like fruits, vegetables, rice, pasta or grain baked products. Fibers which play a role in the stomach volume filling and feces consistency, thus they also regulate the appetite and the evacuation.
 
 ### Q&A DIALOG
 
-In this case, it is not a single prompt but a dialog: a series of answered questions with aim described in the `rationale` section above [**TODO**].
-Prompts and the related answers are separated by horizontal lines [**TODO**].
+In this case, it is not a single prompt but a dialog: a series of answered questions which aim described in the section above [**TODO**].
+Prompts and the related answers are separated by horizontal lines.
 Few missing words have been added in the prompt queries just to help the English native speakers to quickly grab the meaning but for sake of correctness those words appear between [squared] parentheses.
-
-### UPLOAD
-
-none
 
 ### CUSTOMISATION
 
 none
 
 ### NOTES
+
+none
+
+### UPLOAD
 
 none
 
