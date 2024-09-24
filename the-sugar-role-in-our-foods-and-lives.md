@@ -220,7 +220,7 @@ Unfortunately, calories are just an aspect of a human diet. All that food brings
 
 This clearly has a HUGE impact on sedentary school-home kids living in a city and way less on those people that are consuming a lot of energy.
 
-**16 food classes**
+**16 food rows basket diet**
 
 The foods table contains 16 rows and has been re-ordered in sections: 
 
