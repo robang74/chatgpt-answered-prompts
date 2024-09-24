@@ -79,7 +79,7 @@ In this table below is shown the relative sweetness to sucrose of various sweete
 | Pure Aspartame                  |  200x              | 0.5 gr.         |   2 kcal           |
 | Common Sweetener Blends         |  300x - 700x       | 0.14 - 0.33 gr. | 0.56 - 1.32 kcal   |
 
-This section has been human-edited for being shorter and more meaningful, especially about its aim.
+*This section and table have been human-edited for being shorter and more meaningful, especially about its aim.*
 
 #### **3. Detailed Breakdown**
 
@@ -158,30 +158,35 @@ Produce a table in which 35 grams of sugar which is the amount of sugar found in
 
 ### Equivalent Food Quantities to Reach 140 kcal (35g of Sugar)
 
-| **#** | **Food**       | **Grams Equivalent to 140 kcal** | **kcal for 100 grams**   |
-|-------|----------------|----------------------------------|--------------------------|
-|       | (data source)  |        (provided by ChatGPT)     |   (by Google search)     |
-| 1     | Bananas        | 157.30 g                         | 89 (72 - 135) kcal       |
-| 2     | Apples         | 269.23 g                         | 52 (38 - 70) kcal        |
-| 3     | Oranges        | 297.87 g                         | 47 (45 - 50) kcal        |
-|       |                |                                  |                          |
-| 4     | Potatoes       | 181.82 g                         | 77 (68 - 92) kcal        |
-| 5     | Carrots        | 341.46 g                         | 41 (35 - 54) kcal        |
-| 6     | Beans          | 97.90 g                          | 143 (33 - 333) kcal      |
-|       |                |                                  |                          |
-| 7     | White Bread    | 56.00 g                          | 250 (219 - 294) kcal     |
-| 8     | Pasta (boiled) | 106.87 g                         | 131 (131 - 155) kcal     |
-| 9     | Rice (boiled)  | 107.69 g                         | 130 (113 - 139) kcal     |
-|       |                |                                  |                          |
-| 10    | Beef           | 56.00 g                          | 250 (250 - 295) kcal     |
-| 11    | Salmon         | 67.31 g                          | 206 (127 - 261) kcal     |
-| 12    | Tuna Fish      | 97.22 g                          | 144 (108 - 201) kcal     |
-|       |                |                                  |                          |
-| 13    | Eggs           | 97.90 g                          | 142 (131 - 147) kcal     |
-| 14    | Milk           | 333.33 g                         | 42 (34 - 64) kcal        |
-|       |                |                                  |                          |
-| 15    | Butter         | 19.53 g                          | 717 (714 - 803) kcal     |
-| 16    | Olive Oil      | 15.84 g                          | 884 (884 - 999) kcal     |
+This table below shows the equivalent food quantities to reach 140 kcal, the same supplied by 35g of sugar.
+
+
+| **#** | **Food**        | **Grams for 140 kcal** |          **Kcal for 100 grams**        |
+|-------|-----------------|------------------------|----------------------------------------|
+|       | (*data source*) |      (*ChatGPT 4o*)    |             (*Google search*)          |
+| 1     | Bananas         |       157 g            | &nbsp; 89 &nbsp; (72 - 135) kcal       |
+| 2     | Apples          |       269 g            | &nbsp; 52 &nbsp; (38 - &nbsp; 70) kcal |
+| 3     | Oranges         |       298 g            | &nbsp; 47 &nbsp; (45 - &nbsp; 50) kcal |
+|       |                 |                        |                                        |
+| 4     | Potatoes        |       182 g            | &nbsp; 77 &nbsp; (68 - &nbsp; 92) kcal |
+| 5     | Carrots         |       341 g            | &nbsp; 41 &nbsp; (35 - &nbsp; 54) kcal |
+| 6     | Beans           | &nbsp; 98 g            |       143 &nbsp; (33 - 333) kcal       |
+|       |                 |                        |                                        |
+| 7     | White Bread     | &nbsp; 56 g            |       250       (219 - 294) kcal       |
+| 8     | Pasta (boiled)  |       107 g            |       131       (131 - 155) kcal       |
+| 9     | Rice (boiled)   |       108 g            |       130       (113 - 139) kcal       |
+|       |                 |                        |                                        |
+| 10    | Beef            | &nbsp; 56 g            |       250       (250 - 295) kcal       |
+| 11    | Salmon          | &nbsp; 67 g            |       206       (127 - 261) kcal       |
+| 12    | Tuna Fish       | &nbsp; 97 g            |       144       (108 - 201) kcal       |
+|       |                 |                        |                                        |
+| 13    | Eggs            | &nbsp; 98 g            |       142       (131 - 147) kcal       |
+| 14    | Milk            |       333 g            | &nbsp; 42 &nbsp; (34 - &nbsp; 64) kcal |
+|       |                 |                        |                                        |
+| 15    | Butter          | &nbsp; 20 g            |       717       (714 - 803) kcal       |
+| 16    | Olive Oil       | &nbsp; 16 g            |       884       (884 - 999) kcal       |
+
+*This section and table have been human-edited for being shorter and more informative, especially about classes and ranges.*
 
 ---
 
