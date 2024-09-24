@@ -153,22 +153,22 @@ Produce a table in which 35 grams of sugar which is the amount of sugar found in
 | **Food**       | **Grams Equivalent to 140 kcal** | **kcal for 100 grams** |
 |----------------|----------------------------------|------------------------|
 | (data source)  |        (provided by ChatGPT)     |   (by Google search)   |
-| Banana         | 157.30 g                         |                        |
-| Apple          | 269.23 g                         | 52 kcal (38-70 kcal)   |
-| Orange         | 297.87 g                         |                        |
-| Potato         | 181.82 g                         |                        |
-| Carrot         | 341.46 g                         |                        |
-| Bean           | 97.90 g                          |                        |
-| Beef           | 56.00 g                          |                        |
-| Egg            | 97.90 g                          |                        |
-| Milk           | 333.33 g                         |                        |
-| Bread          | 56.00 g                          |                        |
-| Pasta          | 106.87 g                         |                        |
-| Boiled Rice    | 107.69 g                         |                        |
-| Salmon         | 67.31 g                          |                        |
-| Tuna Fish      | 97.22 g                          |                        |
-| Butter         | 19.53 g                          |                        |
-| Olive Oil      | 15.84 g                          |                        |
+| Banana         | 157.30 g                         | 89 (72-135) kcal       |
+| Apple          | 269.23 g                         | 52 (38-70) kcal        |
+| Orange         | 297.87 g                         | 47 (45-50) kcal        |
+| Potato         | 181.82 g                         | 77 (68-92) kcal        |
+| Carrot         | 341.46 g                         | 41 (35-54) kcal        |
+| Bean           | 97.90 g                          | 143 (33-333) kcal      |
+| Beef           | 56.00 g                          | 250 (250-295) kcal     |
+| Egg            | 97.90 g                          | 142 (131-147) kcal     |
+| Milk           | 333.33 g                         | 42 (34-64) kcal        |
+| White Bread    | 56.00 g                          | 250 (219-294) kcal     |
+| Pasta (boiled) | 106.87 g                         | 131 (131-155) kcal     |
+| Rice (boiled)  | 107.69 g                         | 130 (113-139) kcal     |
+| Salmon         | 67.31 g                          | 206 (127-261) kcal     |
+| Tuna Fish      | 97.22 g                          | 144 (108-201) kcal     |
+| Butter         | 19.53 g                          | 717 (714-803) kcal     |
+| Olive Oil      | 15.84 g                          | 884 (884-999) kcal     |
 
 ---
 
@@ -178,13 +178,29 @@ This comparison highlights how much common foods you would need to consume to re
 
 ### CONSIDERATIONS
 
-For assuming the same amount of calories contained in 35 grams of sugar that is contained in a can of original taste Coca-Cola 33cl can, on average, need 144 grams of food which is 4.1x more in sugar weight. While a Coca-Cola can contains c.a. 365 grams of liquid (water 330 gr. + sugar 35 gr disolved in the water volume). This makes Coca-Cola equivalent to green apples in terms of calories vs weight ratio (42 kcal for 100 ml eq. to 111 gr.). Do you think that a solution of 10% of sugar into water can provide all the nutrients of the same amount of green apples?  
-
+For assuming the same amount of calories contained in 35 grams of sugar that is contained in a can of original taste Coca-Cola 33cl can, on average, need 144 grams of food which is 4.1x more in sugar weight. While a Coca-Cola can contains c.a. 365 grams of liquid (water 330 gr. + sugar 35 gr disolved in the water volume). This makes Coca-Cola equivalent to green apples in terms of calories vs weight ratio (42 kcal for 100 ml eq. to 111 gr.). Do you think that a solution of 10% of sugar into water can provide all the nutrients of the same amount of green apples?
+ 
 **Output check**
 
 * In particular, we know that LLMs usually are very bad in math and also arithmetic. Before anything else I am going to check the values in the food tables because the others tables are just a list of standard values which have not math.
 * So, the food table is the one at risk. In fact, apples have 52 kcal as Google search first answered while it is easy to find that different apple varieties provide different nutrients and thus energy amounts (between 38 and 70 kcal).
 * However, we can take 52 as an average value. Surprisingly, the chatbot did well with apples. Also 400 kcal for 100 grams of sugar implies 140 kcal for 35 grams.
+
+**Table adjustaments** (*suggested*):
+
+* beans variety (green, white, spring, etc.) has wide range
+* beans cooked/fresh also vary calories but less than variety
+* beef energy apport can var, better using 270 kcal for 100 gr.
+* potato w o w/ skin differs, boiled potato w/ skin in the table
+* carrots raw/cooked differ but inversely than beans, potato or rice
+* like carrots tuna fish gets more calories when cooked and smoked
+* rice variety (basmati, italian, parboiled, etc.) creats a range
+* about boiling: 100g of uncooked rice = 300g of cooked rice
+* pasta and rise are listed both in boiled (cooked) serving
+* bread variety (black, brown, white, etc.) creats a range
+* white bread has been chosen because the most common
+
+**Daily food intake**
 
 This bring us to calculate the minimal and the maximum weight of food which are related to the diets listed above:
 
