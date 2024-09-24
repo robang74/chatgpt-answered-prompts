@@ -45,59 +45,67 @@ Certainly! Here's a comparative overview of **High Fructose Corn Syrup (HFCS)**,
 #### **1. Overview of Sweeteners**
 
 - **Table Sugar (Sucrose):**
+
   - **Source:** Extracted from sugar cane or sugar beets.
   - **Composition:** A disaccharide composed of glucose and fructose (1:1 ratio).
   - **Usage:** Widely used in beverages, baking, and general sweetening.
 
 - **High Fructose Corn Syrup (HFCS):**
+
   - **Source:** Derived from corn starch.
   - **Composition:** Varies, commonly HFCS-55 (55% fructose, 45% glucose) used in soft drinks.
   - **Usage:** Predominantly used in processed foods and beverages as a sweetener.
 
 - **Pure Aspartame:**
+
   - **Source:** Synthetic sweetener.
   - **Composition:** Composed of two amino acids, aspartic acid and phenylalanine.
   - **Usage:** Used in low-calorie and diet beverages, as well as tabletop sweeteners.
 
 - **Common Sweetener Blends:**
+
   - **Source:** Combination of multiple high-intensity sweeteners.
   - **Composition:** Often includes aspartame, acesulfame potassium (Ace-K), sucralose, and others.
   - **Usage:** Designed to mimic the sweetness profile of sugar while minimizing calories, used in various diet and "zero-calorie" products.
 
 #### **2. Comparative Table**
 
-| **Sweetener**           | **Relative Sweetness to Sucrose** | **Grams Needed per Liter for Equivalent Sweetness** | **Calories per Gram** | **Total Calories per Liter** |
-|-------------------------|------------------------------------|-----------------------------------------------------|-----------------------|------------------------------|
-| **Sucrose (Table Sugar)** | 1x                                 | ~100 grams                                           | 4 kcal/g              | ~400 kcal                    |
-| **High Fructose Corn Syrup (HFCS)** | ~1.1x                              | ~90 grams                                            | 4 kcal/g              | ~360 kcal                    |
-| **Pure Aspartame**      | ~200x                              | ~0.5 grams                                           | 4 kcal/g              | ~2 kcal                      |
-| **Common Sweetener Blend** | ~300-700x (varies based on blend) | ~0.14 - 0.33 grams                                   | ~4 kcal/g              | ~0.56 - 1.32 kcal            |
+In this table below is shown the relative sweetness to sucrose of various sweeteners and their energy supply for obtaining a liter of water as sweet as it would be using the sugar instead.
+
+| **Sweetener**                   | **Sucrose Ratio**  | **Grams/Liter** | **Kcal per Liter** |
+|---------------------------------|--------------------|-----------------|--------------------|
+| Sucrose (Table Sugar)           |  1x                | 100 gr.         | 400 kcal           |
+| High Fructose Corn Syrup (HFCS) |  1.1x              |  90 gr.         | 360 kcal           |
+| Pure Aspartame                  |  200x              | 0.5 gr.         |   2 kcal           |
+| Common Sweetener Blends         |  300x - 700x       | 0.14 - 0.33 gr. | 0.56 - 1.32 kcal   |
+
+This section has been human-edited for being shorter and more meaningful, especially about its aim.
 
 #### **3. Detailed Breakdown**
 
-**Sucrose (Table Sugar)**
+- **Sucrose (Table Sugar)**
 
-- **Sweetness:** Baseline (1x). It serves as the standard for measuring other sweeteners.
-- **Usage:** Approximately 100 grams per liter (g/L) are needed to achieve desired sweetness in water-based drinks.
-- **Calories:** Provides about 4 kilocalories (kcal) per gram, totaling roughly 400 kcal per liter.
+    - **Sweetness:** Baseline (1x). It serves as the standard for measuring other sweeteners.
+    - **Usage:** Approximately 100 grams per liter (g/L) are needed to achieve desired sweetness in water-based drinks.
+    - **Calories:** Provides about 4 kilocalories (kcal) per gram, totaling roughly 400 kcal per liter.
 
-**High Fructose Corn Syrup (HFCS)**
+- **High Fructose Corn Syrup (HFCS)**
 
-- **Sweetness:** Slightly sweeter than sucrose (~1.1 times). This means less HFCS is needed compared to sucrose to achieve the same sweetness.
-- **Usage:** Around 90 grams per liter are typically required.
-- **Calories:** Similar to sucrose, HFCS provides approximately 4 kcal per gram, totaling about 360 kcal per liter.
+    - **Sweetness:** Slightly sweeter than sucrose (~1.1 times). This means less HFCS is needed compared to sucrose to achieve the same sweetness.
+    - **Usage:** Around 90 grams per liter are typically required.
+    - **Calories:** Similar to sucrose, HFCS provides approximately 4 kcal per gram, totaling about 360 kcal per liter.
 
-**Pure Aspartame**
+- **Pure Aspartame**
 
-- **Sweetness:** Approximately 200 times sweeter than sucrose.
-- **Usage:** Only about 0.5 grams per liter are needed to match the sweetness of sucrose.
-- **Calories:** While aspartame contains about 4 kcal per gram, the total caloric contribution is minimal (~2 kcal per liter) due to the small amounts used.
+    - **Sweetness:** Approximately 200 times sweeter than sucrose.
+    - **Usage:** Only about 0.5 grams per liter are needed to match the sweetness of sucrose.
+    - **Calories:** While aspartame contains about 4 kcal per gram, the total caloric contribution is minimal (~2 kcal per liter) due to the small amounts used.
 
-**Common Sweetener Blends**
+- **Common Sweetener Blends**
 
-- **Sweetness:** Varies widely, typically ranging from 300 to 700 times sweeter than sucrose depending on the specific blend.
-- **Usage:** Typically between 0.14 to 0.33 grams per liter are required to achieve equivalent sweetness.
-- **Calories:** Despite having similar caloric content per gram as sucrose and HFCS (~4 kcal/g), the total calories contributed are negligible (~0.56 to 1.32 kcal per liter) because of the minimal quantities used.
+    - **Sweetness:** Varies widely, typically ranging from 300 to 700 times sweeter than sucrose depending on the specific blend.
+    - **Usage:** Typically between 0.14 to 0.33 grams per liter are required to achieve equivalent sweetness.
+    - **Calories:** Despite having similar caloric content per gram as sucrose and HFCS (~4 kcal/g), the total calories contributed are negligible (~0.56 to 1.32 kcal per liter) because of the minimal quantities used.
 
 #### **4. Practical Implications**
 
@@ -150,30 +158,30 @@ Produce a table in which 35 grams of sugar which is the amount of sugar found in
 
 ### Equivalent Food Quantities to Reach 140 kcal (35g of Sugar)
 
-| **#** | **Food**       | **Grams Equivalent to 140 kcal** | **kcal for 100 grams** |
-|-------|----------------|----------------------------------|------------------------|
-|       | (data source)  |        (provided by ChatGPT)     |   (by Google search)   |
-| 1     | Bananas        | 157.30 g                         | 89 (72-135) kcal       |
-| 2     | Apples         | 269.23 g                         | 52 (38-70) kcal        |
-| 3     | Oranges        | 297.87 g                         | 47 (45-50) kcal        |
-|       |                |                                  |                        |
-| 4     | Potatoes       | 181.82 g                         | 77 (68-92) kcal        |
-| 5     | Carrots        | 341.46 g                         | 41 (35-54) kcal        |
-| 6     | Beans          | 97.90 g                          | 143 (33-333) kcal      |
-|       |                |                                  |                        |
-| 7     | White Bread    | 56.00 g                          | 250 (219-294) kcal     |
-| 8     | Pasta (boiled) | 106.87 g                         | 131 (131-155) kcal     |
-| 9     | Rice (boiled)  | 107.69 g                         | 130 (113-139) kcal     |
-|       |                |                                  |                        |
-| 10    | Beef           | 56.00 g                          | 250 (250-295) kcal     |
-| 11    | Salmon         | 67.31 g                          | 206 (127-261) kcal     |
-| 12    | Tuna Fish      | 97.22 g                          | 144 (108-201) kcal     |
-|       |                |                                  |                        |
-| 13    | Eggs           | 97.90 g                          | 142 (131-147) kcal     |
-| 14    | Milk           | 333.33 g                         | 42 (34-64) kcal        |
-|       |                |                                  |                        |
-| 15    | Butter         | 19.53 g                          | 717 (714-803) kcal     |
-| 16    | Olive Oil      | 15.84 g                          | 884 (884-999) kcal     |
+| **#** | **Food**       | **Grams Equivalent to 140 kcal** | **kcal for 100 grams**   |
+|-------|----------------|----------------------------------|--------------------------|
+|       | (data source)  |        (provided by ChatGPT)     |   (by Google search)     |
+| 1     | Bananas        | 157.30 g                         | 89 (72 - 135) kcal       |
+| 2     | Apples         | 269.23 g                         | 52 (38 - 70) kcal        |
+| 3     | Oranges        | 297.87 g                         | 47 (45 - 50) kcal        |
+|       |                |                                  |                          |
+| 4     | Potatoes       | 181.82 g                         | 77 (68 - 92) kcal        |
+| 5     | Carrots        | 341.46 g                         | 41 (35 - 54) kcal        |
+| 6     | Beans          | 97.90 g                          | 143 (33 - 333) kcal      |
+|       |                |                                  |                          |
+| 7     | White Bread    | 56.00 g                          | 250 (219 - 294) kcal     |
+| 8     | Pasta (boiled) | 106.87 g                         | 131 (131 - 155) kcal     |
+| 9     | Rice (boiled)  | 107.69 g                         | 130 (113 - 139) kcal     |
+|       |                |                                  |                          |
+| 10    | Beef           | 56.00 g                          | 250 (250 - 295) kcal     |
+| 11    | Salmon         | 67.31 g                          | 206 (127 - 261) kcal     |
+| 12    | Tuna Fish      | 97.22 g                          | 144 (108 - 201) kcal     |
+|       |                |                                  |                          |
+| 13    | Eggs           | 97.90 g                          | 142 (131 - 147) kcal     |
+| 14    | Milk           | 333.33 g                         | 42 (34 - 64) kcal        |
+|       |                |                                  |                          |
+| 15    | Butter         | 19.53 g                          | 717 (714 - 803) kcal     |
+| 16    | Olive Oil      | 15.84 g                          | 884 (884 - 999) kcal     |
 
 ---
 
