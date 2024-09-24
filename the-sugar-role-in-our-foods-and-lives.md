@@ -245,9 +245,7 @@ This should not be considered a diet suggestion even if it resembles the Mediter
 
 For example, in this 2.3Kg food basket for 2.240 kcal/daily diet, meats weighs 221 grams and intake 420 kcal which is 19% of the daily energy allowance. However, proteins came also from beans, eggs, milk and butter. Maily eggs and beans contribute to the protein's supply and thus we have 417 grams of protein foods which bring in 700 kcal which is 31% of the daily energy intake.
 
-In this specific frame, it is quite easy to to check that 1/4 pound hamburger (113gr.) is about half of the daily intake for meats food class. This means that a double hamburger reaches full allowance for that class.
-
-Considering that it takes 13-16 liters of milk to produce a 1kg of cheese. Thus, 24 grams of cheese can be equivalent to the 333 gr. of milk in the food table. While it takes 9-10 liters of milk to have 1kg of yogurt. Thus, 37 grams of yogurt can be equivalent to the 333 gr. of milk in the food table.
+In this specific frame, it is quite easy to to check that 1/4 pound hamburger (113gr.) is about half of the daily intake for meats food class. This means that a double hamburger reaches full allowance for that class. Moreover, consider that it takes 13-16 liters of milk to produce a 1kg of cheese or 9-10 liters of milk to have 1kg of yogurt. Therefore, 24 grams of cheese or 37 grams of yogurt can be equivalent to the 333 gr. of milk in the food table.
 
 A fast-food double cheeseburger  will intake 740 kcal which is about 5.3x rows. For comparison, we can decide to prepare the double cheeseburger at home with real foods: bread (1 row), meat (3 rows), fresh onion, salad and tomatoes (1 row), cheese (1 row, milk) and mayonnaise (1 row, eggs). There are 7 rows, each with 140 kcal intake, thus 980 kcal. Put on top of it a 33cl can of coke and it reaches 50% of your daily energy intake.
 
