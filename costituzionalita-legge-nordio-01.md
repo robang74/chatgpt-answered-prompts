@@ -68,3 +68,78 @@ Entrambe queste normative sono state integrate nell'ordinamento italiano (2009-1
 Il lavoro fatto nella preparazione dell'elaborazione batch è servito per produrre una risposta comprensibile al cittadino comune (aka elettore) basata sulle norme che si presume i legislatori (aka parlamentari) conoscano "*alla mano*". Cioè come dovrebbe funzionare il Parlamento, in teoria, nel momento in cui decide se approvare o bocciare una legge. Questo era lo scopo della simulazione AI e, giusto per chiarire, non sostituirsi alla Corte Costituzionale. 
 
 Entro il restante della quota di computazione giornaliera del secondo giorno è stato chiesto al chatbot di fare una ragionevole stima di conflitto con la Costituzione Italiana e le normi internazionali in materia di contrasto alla corruzione. Spoiler: l'AI ha bocciato tutti e 4 i pilastri della legge Nordio.
+
+<br/>
+
+### AGGIORNAMENTO 25.09.2024
+
+Con ordinanza del 24 settembre 2024, il Tribunale di Firenze ha sollevato questione di legittimità costituzionale della c.d. legge Nordio. Quindi ho convertito la sentenza in testo (108 Kb) e l'ho sottoposta la chatbot per un'analisi come parere specialistico. Con l'occasione ho anche chiesto un aggiornamento ed eventuale integrazione del giudizio che aveva dato e che però non ho pubblicato fra le risposte sopra.
+
+#### UPLOAD
+
+Ordinanza del 24 settembre 2024 di rimessione alla corte costituzionale questione di legittimità costituzionale emessa presso il tribunale di firenze, III sezione penale, in composizione collegiale. Disponibile nella cartella [data](data/tribunale-firenze-sulla-legge-nordio.pdf).
+
+---
+
+#### PROMPT #1
+
+Con ordinanza del 24 settembre 2024, (qui allegata) il Tribunale di Firenze ha sollevato questione di legittimità costituzionale dell’art. 1, co. 1, lett. b) della l. n. 114/2024 (c.d. legge Nordio), nella parte in cui abroga l’art. 323 c.p.. Il Tribunale di Firenze, in particolare, ha ritenuto rilevante e non manifestamente infondata la questione per violazione degli artt. 11, 117, co. 1 e 97 della Costituzione.
+
+Spiegami perché secondo la Corte la c.d. legge Nordio potrebbe violare gli artt. 11, 117, co. 1 e 97 della Costituzione. Fare anche una stima su una scala da 0 (impossibile) a 10 (certamente) di quale sia la violazione della Costituzione per ogni articolo sopra citato.
+
+---
+
+#### CHATGPT 4o (CUSTOM)
+
+### Potenziale violazione della Costituzione secondo la Corte:
+
+1. **Articolo 11 (Limitazioni della sovranità per l'adesione a organizzazioni internazionali)**:
+
+   - La Corte evidenzia che l'Italia, avendo ratificato la Convenzione di Merida, è vincolata a mantenere nel proprio ordinamento penale reati anticorruzione come l'abuso d'ufficio. La cancellazione viola i principi di collaborazione internazionale per la lotta alla corruzione.
+
+   - **Rating di violazione**: **8/10**
+
+2. **Articolo 117, comma 1 (Rispetto degli obblighi internazionali)**:
+
+   - L'abrogazione dell'art. 323 c.p. contrasta con gli obblighi internazionali, in particolare con l’art. 19 della Convenzione di Merida, che impone di mantenere strumenti penali contro la corruzione già esistenti.
+
+   - **Rating di violazione**: **9/10**
+
+3. **Articolo 97 (Buon andamento e imparzialità della pubblica amministrazione)**:
+   - L'eliminazione dell'abuso d'ufficio potrebbe ridurre la trasparenza e la responsabilità della pubblica amministrazione, minando i principi di efficienza e imparzialità.
+
+   - **Rating di violazione**: **7/10**
+
+Queste valutazioni riflettono l'impatto della legge Nordio sugli standard costituzionali e internazionali secondo l'analisi del Tribunale di Firenze.
+
+---
+
+#### PROMPT #2
+
+Alla luce di questa sentenza fai un aggiornamento del "rating preciso" che avevi fornito rispetto alla prima analisi fatta ed eventualmente integra le motivazioni con quelle della Corte di Firenze.
+
+---
+
+#### CHATGPT 4o (CUSTOM)
+
+Ecco l'aggiornamento del "rating preciso" alla luce dell'ordinanza del Tribunale di Firenze:
+
+### 1. **Eliminazione dell'abuso d'ufficio (art. 323 c.p.)**
+
+   - **Contrasto con la Costituzione (art. 28 e 97)**: **8/10** (era 7/10)
+
+     - **Motivazione aggiornata**: Oltre alla riduzione del controllo sui funzionari pubblici, l'eliminazione compromette il buon andamento e l'imparzialità della pubblica amministrazione, come evidenziato dal Tribunale, che sottolinea il rischio di una “zona franca” per i reati contro la P.A.
+
+   - **Contrasto con le norme europee (UNCAC e GRECO)**: **9/10** (era 8/10)
+
+     - **Motivazione aggiornata**: L'abrogazione del reato viola l’art. 19 della Convenzione di Merida, che impone all’Italia di mantenere strumenti contro la corruzione già esistenti. Questa omissione costituisce una grave violazione degli obblighi internazionali, limitando la capacità dello Stato di prevenire la corruzione.
+
+### 2. **Interrogatorio di garanzia anticipato e intercettazioni**
+
+   - **Contrasto con la Costituzione (art. 24 e 111)**: **6/10** (invariato)
+     - **Motivazione**: Le criticità permangono principalmente nell’equilibrio tra efficienza delle indagini e tutela del diritto di difesa, senza aggravamenti significativi rispetto alla situazione precedente.
+
+   - **Contrasto con la privacy nelle intercettazioni (art. 15 Costituzione e norme internazionali)**: **5/10** (invariato)
+     - **Motivazione**: Il focus rimane sul bilanciamento delle necessità investigative e il rispetto della privacy, con possibili ma non gravi violazioni delle tutele previste dalla Costituzione.
+
+L'aggiornamento riflette la maggiore attenzione alla conformità costituzionale e internazionale emersa nell'analisi del Tribunale.
