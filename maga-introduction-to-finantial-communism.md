@@ -78,27 +78,27 @@ While US grocery stores are enforced by law to accept USD banknotes or credit ca
 
 Arabs, like every other person on this planet, can refuse to exchange goods for USD. Unless they get bombed in their heads and children's heads until they change that idea. Still, without an agreement, the oil price is made by "the market" and the market knows. Hence the price rises, unless constantly bombing someone to lower the price and the rest of the world demands.
 
-As you can imagine, for enforcing the USD accpetance and granting to it as a highly valuable currency, the USA should keep running a immensely large and powerful war machine that can strike in every part of the globe, at every time they will. Under this meance, the USD has been accepted for being the ONLY international commercial transactions way of payiment and therefore the currency for the global finantial reserve fund.
+As you can imagine, for enforcing the USD acceptance and granting it as a highly valuable currency, the USA should keep running an immensely large and powerful war machine that can strike in every part of the globe, at every time they will. Under this menace, the USD has been accepted for being the ONLY international commercial transaction way of payment and therefore the currency for the global financial reserve fund.
 
-This role is quite unique in the history of the Western civilisation, for something else apart the gold, obviously. Before the USD, the universal currency was the gold and everything else included the silver or copper or everything else valuable would have been rated in gold, in one way or another. Which is the reason behind the gold standard which initially the USD get into.
+This role is quite unique in the history of the Western civilisation, for something else apart from gold, obviously. Before the USD, the universal currency was the gold and everything else including the silver or copper or everything else valuable would have been rated in gold, in one way or another. Which is the reason behind the gold standard which initially the USD got into.
 
-Intialliy becuase otherwise nobody around the world would have accepted it as their favorite currency, whatever the amount of bombs would have fall on their heads and their childrend heads. In fact, after the WW2 the US war machine did not win any war. Apart in Iraq, and it is quite amusing to know why it remains a unique spot of light among three decades of shadows.
+Initially because otherwise nobody around the world would have accepted it as their favorite currency, whatever the amount of bombs would have fallen on their heads and their children's heads. In fact, after WW2 the US war machine did not win any war. Apart in Iraq, and it is quite amusing to know why it remains a unique spot of light among three decades of shadows.
 
-Saddam Hussain took the control of Iraq thanks to the support from US. After few decades of being in power it was considered a danger. Sheeps love the pastor that took care of them for decades despite s/he is good or less than good. In literature this is named "Stokholm Syndrome", the acceptance and also the love for those subjugated us.
+Saddam Hussain took control of Iraq thanks to the support from the US. After a few decades of being in power it was considered a danger. Sheeps love the pastor that took care of them for decades despite s/he is good or less than good. In literature this is called "Stockholm Syndrome", the acceptance and also the love for those who subjugated us.
 
-Because of this CIA decide to convince him and the people in power nearby him that attacking Qwait and subduing them to the USA interest was a great opportunity for him. Naturally, he asked the placet for the Qwait invasion to the US political leadershio, in the same fashion recently Stramer the new UK prime minister asked the permission to use the NATO most advanced weapons to attack Russia from Ukraine.
+Because of this the CIA decided to convince him and the people in power nearby him that attacking Kuwait and subduing them to the USA interest was a great opportunity for him. Naturally, he asked the placet for the Kuwait invasion to the US political leadership, in the same fashion recently Stramer the new UK prime minister asked the permission to use the NATO most advanced weapons to attack Russia from Ukraine.
 
-Differntly than Stramer, Saddam received their placet, the ok-go and it fall in their traps. Soon he inveded the Qwait, the war for liberating Qwait and Iraq by that tyrant was in place. They killed him, and almost all of the people that was in power with him. Just in case, they might have spoken about the whole story in details.
+Differently from Steamer, Saddam received their placet, the ok-go and it fell in their traps. Soon he invaded Kuwait, the war for liberating Kuwait and Iraq by that tyrant was in place. They killed him, and almost all of the people that were in power with him. Just in case, they might have spoken about the whole story in detail.
 
-The libaration of Iraq and Qwait was a completely success. In fact, US army took all the gold reserve and the control of more than 80% of the production. Wise enough to leave beahid something for buying people applauding that operation as a democracy value exportation. Did you see any democracy overthere? Me neither.
+The liberation of Iraq and Kuwait was a complete success. In fact, the US army took all the gold reserves and the control of more than 80% of the production. Wise enough to leave behind something for buying people applauding that operation as a democracy value exportation. Did you see any democracy overthere? Me neither.
 
-The same with Arabs springs, great hopes, a lot of people involved, a lot of police repression with may deaths, incarcerations and torture to finally reach almost everywhere a Taliban-like teocratic states. Included, Iran which before the holy revolution was a civilised country in which women were enjyoing the same freedom than Europe, at least.
+The same with Arabs springs, great hopes, a lot of people involved, a lot of police repression with may deaths, incarcerations and torture to finally reach almost everywhere a Taliban-like teocratic states. Included, Iran which before the holy revolution was a civilised country in which women were enjoying the same freedom than Europe, at least.
 
-All of this came for a very cheap (sarcastically speaking) price. One trillion of US dollars per year, every year on the shoulders of those are US tax payers "*voluntary*" contributors. Because those are getting the food stamps are not involved in it, apart being feeded and provided by legal drugs for keep them quiet and socially hidden.
+All of this came for a very cheap (sarcastically speaking) price. One trillion of US dollars per year, every year on the shoulders of those are US taxpayers "*voluntary*" contributors. Because those who are getting the food stamps are not involved in it, apart from being feeded and provided by legal drugs to keep them quiet and socially hidden.
 
-Useless to say that a global "*war as business*" policy had meny consequences, including the 100x fold ratio of military stuff. A certified military grade steel bolt or rivet that can be bought at 10 for $1 in the around-the-corner hardware shop, it is arrived to be priced $10 each. The price of the silence, obviously.
+Needless to say that a global "*war as business*" policy had many consequences, including the 100x fold ratio of military stuff. A certified military grade steel bolt or rivet that can be bought at 10 for $1 in the around-the-corner hardware shop, it is arrived to be priced $10 each. The price of the silence, obviously.
 
-Under this point of view, it is irrelavant loosing all the wars as long as those came later accepted the US dollar as their unique and true currency. As printed in the $1 banknote: "*in god we trust*" and now you know who is the god - real and unque god - worshipped by the USA govt: the FED bill named US dollar.
+Under this point of view, it is irrelevant losing all the wars as long as those who came later accepted the US dollar as their unique and true currency. As printed in the $1 banknote: "*in god we trust*" and now you know who is the god - real and unique god - worshipped by the USA govt: the FED bill named US dollar.
 
 ---
 
@@ -114,9 +114,9 @@ Moreover, these two are just half of all the story and in order to tell the whol
 
 At that time Vladimir Putin was working for the KGB in the Russian embassy in Berlin. Which is the main reason because he speaks German fluently. Just to say that what we are seeing nowadays is just the peak of a deep iceberg.
 
-The URSS did not fall apart because we won over them. Nor because Mikhail Gorbachev was too soft in dealing with the USA alliance, as Russian people think about him. The URSS fallen apart because they were bureocratic dicatorship communists and their power over the people was relying on the obscurity of their doing.
+The URSS did not fall apart because we won over them. Nor because Mikhail Gorbachev was too soft in dealing with the USA alliance, as Russian people think about him. The URSS fell apart because they were bureaucratic dictatorship communists and their power over the people was relying on the obscurity of their doing.
 
-In the `Control of the Systems Theory` literature can be seen as a control impaired by a "*limited and opaque feed-back*" where "*limited and opaque*" might also be intedended as "*self-referencing*" + "cancel culture". The same attributes of the "*Woke Madness*", right? In fact, they are the same.
+In the `Control of the Systems Theory` literature can be seen as a control impaired by a "*limited and opaque feed-back*" where "*limited and opaque*" might also be intended as "*self-referencing*" + "cancel culture". The same attributes of the "*Woke Madness*", right? In fact, they are the same.
 
 
 
