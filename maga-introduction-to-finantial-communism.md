@@ -76,47 +76,47 @@ Order is order and it has its own laws.
 
 While US grocery stores are enforced by law to accept USD banknotes or credit cards, Arabs are not enforced by US law in favour of the FED paper money as legal tender.
 
-Arabs, like every other person on this planet, can refuse to exchange goods for USD. Unless they get bombed in their heads and children's heads until they change that idea. Still, without an agreement, the oil price is made by "the market" and the market knows. Hence the price rises, unless constantly bombing someone to lower the price and the rest of the world demands.
+Arabs, like every other person on this planet, can refuse to exchange their goods for USD. Unless they get bombed in their heads and children's heads until they change that idea. Still, without an agreement, the oil price is made by "the market" and the market knows. Hence the price rises, unless constantly bombing someone to lower the price and the rest of the world demand.
 
 As you can imagine, for enforcing the USD acceptance and granting it as a highly valuable currency, the USA should keep running an immensely large and powerful war machine that can strike in every part of the globe, at every time they will. Under this menace, the USD has been accepted for being the ONLY international commercial transaction way of payment and therefore the currency for the global financial reserve fund.
 
 This role is quite unique in the history of the Western civilisation, for something else apart from gold, obviously. Before the USD, the universal currency was the gold and everything else including the silver or copper or everything else valuable would have been rated in gold, in one way or another. Which is the reason behind the gold standard which initially the USD got into.
 
-Initially because otherwise nobody around the world would have accepted it as their favorite currency, whatever the amount of bombs would have fallen on their heads and their children's heads. In fact, after WW2 the US war machine did not win any war. Apart in Iraq, and it is quite amusing to know why it remains a unique spot of light among three decades of shadows.
+Initially because otherwise nobody around the world would have accepted it as their favorite currency, whatever the amount of bombs would have fallen on their heads and their children's heads. In fact, after WW2 the US war machine did not win any war. Apart in Iraq, and it is quite amusing to know why it remains a unique win among eight decades of defeates.
 
 Saddam Hussain took control of Iraq thanks to the support from the US. After a few decades of being in power it was considered a danger. Sheeps love the pastor that took care of them for decades despite s/he is good or less than good. In literature this is called "Stockholm Syndrome", the acceptance and also the love for those who subjugated us.
 
 Because of this the CIA decided to convince him and the people in power nearby him that attacking Kuwait and subduing them to the USA interest was a great opportunity for him. Naturally, he asked the placet for the Kuwait invasion to the US political leadership, in the same fashion recently Stramer the new UK prime minister asked the permission to use the NATO most advanced weapons to attack Russia from Ukraine.
 
-Differently from Steamer, Saddam received their placet, the ok-go and it fell in their traps. Soon he invaded Kuwait, the war for liberating Kuwait and Iraq by that tyrant was in place. They killed him, and almost all of the people that were in power with him. Just in case, they might have spoken about the whole story in detail.
+Differently from Steamer, Saddam received their placet, he gave his ok-go and he fell in their trap. As soon as he invaded Kuwait, the war for liberating Kuwait and Iraq by that tyrant was in place. They killed him, and almost all of the people that were in power with him. Just in case, they might have spoken about the whole story with embarrassing details.
 
-The liberation of Iraq and Kuwait was a complete success. In fact, the US army took all the gold reserves and the control of more than 80% of the production. Wise enough to leave behind something for buying people applauding that operation as a democracy value exportation. Did you see any democracy overthere? Me neither.
+The liberation of Iraq and Kuwait was a complete success. In fact, the US army took all the gold reserves and the US oil companies earned control of more than 80% of the production. They were wise enough to leave something behind for buying people applauding that operation as a democracy value exportation. Did you see any democracy overthere? Me neither.
 
-The same with Arabs springs, great hopes, a lot of people involved, a lot of police repression with may deaths, incarcerations and torture to finally reach almost everywhere a Taliban-like teocratic states. Included, Iran which before the holy revolution was a civilised country in which women were enjoying the same freedom than Europe, at least.
+The same with Arabs springs: great hopes, a lot of people involved, a lot of police repression with may deaths, incarcerations and torture to finally reach almost everywhere a Taliban-like teocratic states. Included, Iran which before the holy revolution was a civilised country in which women were enjoying the same freedom than Europe, at least.
 
-All of this came for a very cheap (sarcastically speaking) price. One trillion of US dollars per year, every year on the shoulders of those are US taxpayers "*voluntary*" contributors. Because those who are getting the food stamps are not involved in it, apart from being feeded and provided by legal drugs to keep them quiet and socially hidden.
+All of this came for a very cheap (sarcastically speaking) price. One trillion of US dollars per year, every year on the shoulders of those are US taxpayers "*voluntary*" contributors. Because those who are getting the food stamps are not involved in it, apart from being feeded and provided by legal drugs for keeping them quiet and socially hidden.
 
-Needless to say that a global "*war as business*" policy had many consequences, including the 100x fold ratio of military stuff. A certified military grade steel bolt or rivet that can be bought at 10 for $1 in the around-the-corner hardware shop, it is arrived to be priced $10 each. The price of the silence, obviously.
+Needless to say that a global "*war as business*" policy had many consequences, including a price inflation that peaked at 100x folds ratio for the military-grade stuff. A certified military grade steel bolt or rivet that can be bought at 10 for $1 in the around-the-corner hardware shop, it is arrived to be priced $10 each. The price of the silence, obviously.
 
-Under this point of view, it is irrelevant losing all the wars as long as those who came later accepted the US dollar as their unique and true currency. As printed in the $1 banknote: "*in god we trust*" and now you know who is the god - real and unique god - worshipped by the USA govt: the FED bill named US dollar.
+Under this point of view, it is irrelevant losing all the wars as long as those who came after the war accepted the US dollar as their unique and true currency. As printed in the $1 banknote: "*in god we trust*" and now you know who is the god - real and unique god - worshipped by the USA govt: the FED bill named US dollar.
 
 ---
 
-### Financial communism, the begin
+### Financial communism, the begins
 
 (**\*!!\***) *Skip this part, if you think that can understand the today having forgot the yesterdy or you just know.*
 
-Therefore, if you think having discovered a US deep-state in conjunction with the FED plot about the "paper money is financial communism" you had reached just half of it, in the optimistic scenario.
+Therefore, if you think having discovered a US deep-state plot in conjunction with a FED plot about the "paper money is financial communism" you have reached just half of it, in the optimistic scenario.
 
-Because the same has been done with BCE and Mario Draghi "*whatever it takes*" quantitative easing monetary policy on Euro. Which is the main reason because in this `github/robang74` repository there are some documents about its "*Marshall plan**" for Europe. Two halves between the two sides of the Atlantic ocean.
+Because the same has been done with BCE and Mario Draghi "*whatever it takes*" quantitative easing monetary policy on Euro. Which is the main reason because in this `github/robang74` repository there are some documents about its "*Marshall plan**" for Europe. Two siblings halve between the two sides of the Atlantic ocean, but the same story.
 
-Moreover, these two are just half of all the story and in order to tell the whole story - at least the official part of it which is the publicly known of it - we had to going back to the time in which Russia was leading the Soviet Union (named URSS in Europe) and the Berlin wall was cutting in two halves the city.
+Moreover, these two are just half of all the story and in order to tell the whole story - at least the official part of it which is the publicly known of it - we had to going back to the time in which Russia was leading the Soviet Union (named URSS in Europe) and the Berlin wall was cutting in two halves that city.
 
-At that time Vladimir Putin was working for the KGB in the Russian embassy in Berlin. Which is the main reason because he speaks German fluently. Just to say that what we are seeing nowadays is just the peak of a deep iceberg.
+At that time Vladimir Putin was working for the KGB in the Russian embassy in Berlin. Which is the main reason because he speaks German fluently. Just to say that what we are seeing nowadays is just the peak of a quite deep iceberg.
 
 The URSS did not fall apart because we won over them. Nor because Mikhail Gorbachev was too soft in dealing with the USA alliance, as Russian people think about him. The URSS fell apart because they were bureaucratic dictatorship communists and their power over the people was relying on the obscurity of their doing.
 
-In the `Control of the Systems Theory` literature can be seen as a control impaired by a "*limited and opaque feed-back*" where "*limited and opaque*" might also be intended as "*self-referencing*" + "cancel culture". The same attributes of the "*Woke Madness*", right? In fact, they are the same.
+In the `Control of the Systems Theory` literature, they way of ruling can be seen as a control impaired by a "*limited and opaque feed-back*" where "*limited and opaque*" might also be intended as "*self-referencing*" + "cancel culture". The same attributes of the "*Woke Madness*", right? In fact, they are the same.
 
 
 
