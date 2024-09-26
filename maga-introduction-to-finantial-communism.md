@@ -122,7 +122,7 @@ The USA army returned home as quick as midnight to the next morning time was ove
 
 Moreover, the US army in their as quick as immediate retire, left behind $7 billions of US weapons, artillery, guns, light and armoured vehicles which have been displayed into a public parade soon after by Afghans winners. Soon after but not immediately after. As soon as the Afghan talibans had finished to torture and murder all the US supporters left behind, and their families as well. Life is a matter of priorities, right? As well as in making a war.
 
-Well, for sake of completeness should be wrote that they did not torture and murdered all of them, some girls and women young enough to be brides were spared to became slaves for the winner soldiers, unless they took their own lives by themselves or killed by their husbands, fathers or brothers before being caught. Which is not so insane as you might think in first place because women under the taleban's theocracy have less rights and fortune than goats.
+Well, for sake of completeness should be wrote that they did not torture and murdered all of them, some girls and women young enough to be brides were spared to became slaves for the winner soldiers. But not those who took their own lives by themselves or killed by their husbands, fathers or brothers before being caught. Which is not as insane as you might think in the first place because women under the Taliban's theocracy have less rights and fortune than goats, and it is worsening.
 
 ---
 
