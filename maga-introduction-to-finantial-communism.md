@@ -72,7 +72,7 @@ Order is order and it has its own laws.
 
 ### American imperialism
 
-(**\*!!\***) *Skip this part, if you don't give a sh*t about the rest of the world or you just know.*
+(**\*!!\***) *Skip this part, if you don't give a sh*t about the rest of the world or you just know already.*
 
 While US grocery stores are enforced by law to accept USD banknotes or credit cards, Arabs are not enforced by US law in favour of the FED paper money as legal tender.
 
@@ -104,6 +104,8 @@ Under this point of view, it is irrelevant losing all the wars as long as those 
 
 ### Afghanistan the Empires' tomb
 
+(**\*!!\***) *Skip this part, if you are fainth of heart and senetivive or you just know already.*
+
 Historically speaking the Afghanistan is called the "*Empires' tomb", for a good reason, in fact. However, the story about the wars in Afganistan is quite amusign as well as the Iraq war but with a complete different outcome more similar to the Vietnam war. So, how could a group of goat herders walking in sandals managed to win a war against the most powerful war machine in the world?
 
 Due to the Russia support, you may think and you are not completely wrong about it but in a surprising different fashion. Initially, the USA trained and armed the Afghanistan people to fight against URSS and then later Russia.
@@ -126,7 +128,7 @@ Well, for sake of completeness should be wrote that they did not torture and mur
 
 ### Financial communism, the begins
 
-(**\*!!\***) *Skip this part, if you think that can understand the today having forgot the yesterdy or you just know.*
+(**\*!!\***) *Skip this part, if you think that can understand the today having forgot the yesterdy or you just know already.*
 
 Therefore, if you think having discovered a US deep-state plot in conjunction with a FED plot about the "paper money is financial communism" you have reached just half of it, in the optimistic scenario.
 
