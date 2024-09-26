@@ -108,21 +108,43 @@ Under this point of view, it is irrelevant losing all the wars as long as those 
 
 Historically speaking the Afghanistan is called the "*Empires' tomb", for a good reason, in fact. However, the story about the wars in Afganistan is quite amusign as well as the Iraq war but with a complete different outcome more similar to the Vietnam war. So, how could a group of goat herders walking in sandals managed to win a war against the most powerful war machine in the world?
 
-Due to the Russia support, you may think and you are not completely wrong about it but in a surprising different fashion. Initially, the USA trained and armed the Afghanistan people to fight against URSS and then later Russia.
+1. **Most powerful, it depends**
 
-Because fostering their independence war was politically embarrassing and somehow dangerous to do in plain front-face at the time of cold war, CIA supported their opium production selling it around the world in the form of heroin. Yes, an international illegal drug trafficking for providing covert war support.
+    First of all, it is the most powerful war machine in the world because it is the most expensive in terms of USD. Great, but its cost has nothing to do with its "*power*" on the battlefield. Because on the battlefield it does not matter if you paid a rivet $0.10 or $10 as long as the steel on which it is made is the same.
 
-Finally the Afghan people won the war against Russia & Co. but soon they turned against the USA. It was not the first time in the history of American imperialism that it was happening and not also the only one, and it will happen again.
+    Which is the same story with the GDP which sums up all the transactions without separating the "*product*" from the "*waste*". Baltimora bridget, docet. It collapsed and the GDP rose. The fairy tale about GDP has been debunked a long time ago.
 
-Because of this, Russia started to support them but blandly because they were aware about their head-turning attitude. So, Russia helped them to replace the CIA in the international illegal drug trafficking. Quite easy to understand, better in the hand of the Afghans rather than in the pocket of the CIA.
+   Despite being quite obvious debunking, still everyone uses that term hence everybody listening thinks that it matters because everybody is talking about it. However, the same happens about a star divorce or a VIP sexual scandal: everybody talks about it. Right?
 
-I am sure you got informed by news about how that war ended. It lasted so long and it was briefed to the top decision makers in such optimistic fashion that to bring US soldiers back to home alive was a defeat on the top of the defeat.
+    In politics and in finance, they think GDP matters because they have no better index nor are they interested in having one better. In the real world, it is useless, hence the control of the real world by those indexes is just an illusion. Controlling a system by obscurity and meaningless indexes, URSS down fall docet.
 
-The USA army returned home as quick as midnight to the next morning time was over. Leaving behind all those people who supported them at risk of their lives and families lives. Rather than facing alone and unprotected such horrible destiny, some of them preferred to die frozen trying to fly away tucked in the non-pressurized compartment of takeoff and landing gears. 
+    How much is this ratio between inflation, waste and product in the war business? In Italy in Q2/2024, the Meloni's government signed a contract for having 24 airfighters. By Wikipedia each of them costs less than €70 millions but the whole contract is about €7 billions. It is a HUGE difference compared with their price on the market, right?
 
-Moreover, the US army in their as quick as immediate retire, left behind $7 billions of US weapons, artillery, guns, light and armoured vehicles which have been displayed into a public parade soon after by Afghans winners. Soon after but not immediately after. As soon as the Afghan talibans had finished to torture and murder all the US supporters left behind, and their families as well. Life is a matter of priorities, right? As well as in making a war.
+    The ratio is about 4.2x folds because the airfighter price is made by the market. Instead, the maintenance is provided in full exclusivity. Then the price of maintenance can be inflated after the "*lock-in*". After all, an unmaintained or unsupported airfighter is useless. Ukraine docet.
 
-Well, for sake of completeness should be wrote that they did not torture and murdered all of them, some girls and women young enough to be brides were spared to became slaves for the winner soldiers. But not those who took their own lives by themselves or killed by their husbands, fathers or brothers before being caught. Which is not as insane as you might think in the first place because women under the Taliban's theocracy have less rights and fortune than goats, and it is worsening.
+    However, some maintenance is necessary. Say it can be as much as the initial cost of the warfare for covering its average life of use. Otherwise there is a pitfall in its design and cost allocation. Optimistically the ratio between price and real value is 2:1, which means that the real value is half of the cost paid.
+
+    Unfortunately, it is just the tip of the iceberg because training, infrastructure, buildings, missions around the globe, etc. can be leveraged to inflate the budget. We know about this mantra: more budget, more power. Until their "*credit card issuer*" calls back their debt.
+
+3. **Russia helped them, may be**
+
+    Due to the Russia support, you may think and you are not completely wrong about it but in a surprising different fashion. Initially, the USA trained and armed the Afghanistan people to fight against URSS and then later Russia.
+
+    Because fostering their independence war was politically embarrassing and somehow dangerous to do in plain front-face at the time of cold war, CIA supported their opium production selling it around the world in the form of heroin. Yes, an international illegal drug trafficking for providing covert war support.
+
+    Finally the Afghan people won the war against Russia & Co. but soon they turned against the USA. It was not the first time in the history of American imperialism that it was happening and not also the only one, and it will happen again.
+
+    Because of this, Russia started to support them but blandly because they were aware about their head-turning attitude. So, Russia helped them to replace the CIA in the international illegal drug trafficking. Quite easy to understand, better in the hand of the Afghans rather than in the pocket of the CIA.
+
+4. **Opacity in the information chain**
+
+    I am sure you got informed by news about how that war ended. It lasted so long and it was briefed to the top decision makers in such optimistic fashion that to bring US soldiers back to home alive was a defeat on the top of the defeat.
+
+    The USA army returned home as quick as midnight to the next morning time was over. Leaving behind all those people who supported them at risk of their lives and families lives. Rather than facing alone and unprotected such horrible destiny, some of them preferred to die frozen trying to fly away tucked in the non-pressurized compartment of takeoff and landing gears. 
+
+    Moreover, the US army in their as quick as immediate retire, left behind $7 billions of US weapons, artillery, guns, light and armoured vehicles which have been displayed into a public parade soon after by Afghans winners. Soon after but not immediately after. As soon as the Afghan talibans had finished to torture and murder all the US supporters left behind, and their families as well. Life is a matter of priorities, right? As well as in making a war.
+
+    Well, for sake of completeness should be wrote that they did not torture and murdered all of them, some girls and women young enough to be brides were spared to became slaves for the winner soldiers. But not those who took their own lives by themselves or killed by their husbands, fathers or brothers before being caught. Which is not as insane as you might think in the first place because women under the Taliban's theocracy have less rights and fortune than goats, and it is worsening.
 
 ---
 
