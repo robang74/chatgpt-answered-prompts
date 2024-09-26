@@ -50,7 +50,7 @@ In fact, while the lord of "glebae servus" was able to establish how much people
 
 Hence, pass to the posterity the old says by St. Augustine (5th century a.C.), who states that 
 
-kingdoms without justice are mere robberies, and robberies are like small kingdoms, but large Empires are piracy writ large.
+> kingdoms without justice are mere robberies, and robberies are like small kingdoms, but large empires are piracy writ large.
 
 Hence creating more than 2%-4% of thin air money in the govt bank accout by a sort of magic for each transaction would be enough to run a civilized state and with 10% a great empire like Romans ruled for centuries.
 
@@ -126,11 +126,31 @@ Well, for sake of completeness should be wrote that they did not torture and mur
 
 ---
 
+### Imperialism -vs- Empire
+
+(**\*!!\***) *Skip this part, if you are not concerned about missing fundamentals differences or you just know already.*
+
+Despite all of this, things were bad but not so bad. After all, we still were into the St. Augustine citation frame, and our sorrow was just limited to see that American imperialism was not even far away comparable with the ancient Roman Empire. Which is the reason because of the term "*imperialism*" with the "*-ism*" at the end of that adjective.
+
+The term "*Imperialism*" stays in relationship with "*building up an Empire*" action in the same manner as a "*just wanna be a King*" therefore I dress for that role, but in fact behaving like the lord of thieves, instead. How much effort and propagada have been wasted in trying to present the USA like the "good boys" who were exporting democracy? Countless, anyway.
+
+The differences are appaling. The SPQR troops were invading countries but to stay and rule those lands rather than conquer them. It sounds strange but probably because we have not been educated enough about history. They were bringing, to the people of that nation, law and order, streets, bridges, aqueducts, theaters, sauna and public baths, trustworthy gold-worthing currency, rights also for the women as much as possible, freedom a lot for that time, commerce and economy boosting.
+
+Some kings and countries referred to surrender in front of the SPQR legions rather than fight. Being won by them in some cases was better than not being challenged at all. This is because, as much as the enemy surrendered without opposing fierce resistance, Romans were used to keeping in place the local authorities, local traditions, local religions, etc.
+
+In few words, they were adding not replacing, they were bringin a more sophisticated civilisation, culture and engineering skills. All of this, just for a 10% of proprierty tax collection every year. Plus, just half of those taxes in gold was transported in Rome, the other half was used to foster the local country development.
+
+Because all of this, at a certain point of that times, being inveded by Romans were a good luck rather than a misfortune or a defeat. Which easily explain why common people recruited to defend their country, were soo keen to surrender without even trying to fight back: please save us from ourselves and our unfair lords.
+
+---
+
 ### Financial communism, the begins
 
 (**\*!!\***) *Skip this part, if you think that can understand the today having forgot the yesterdy or you just know already.*
 
-Therefore, if you think having discovered a US deep-state plot in conjunction with a FED plot about the "paper money is financial communism" you have reached just half of it, in the optimistic scenario.
+Financial communism is far away outside the St. Augustine frame. It is not simply unfair, it is a novel form of a real-world communism despite its apperently soft touch. It has a soft touch, to put consciences to sleep (TV watching, not acting), just as opium does. When the mass is sleeping, the touch is getting stronger and stronger against those who are still awake (critical thinking) and system followers should not know about it, they did not even want to know or have the desire to know (curiosity).
+
+Therefore, if you think having discovered a US deep-state plot in conjunction and intertwisted with a FED plot about the "**paper money is financial communism**" you have just catch half of the whole picture, optimistically speaking.
 
 Because the same has been done with BCE and Mario Draghi "*whatever it takes*" quantitative easing monetary policy on Euro. Which is the main reason because in this `github/robang74` repository there are some documents about its "*Marshall plan**" for Europe. Two siblings halve between the two sides of the Atlantic ocean, but the same story.
 
