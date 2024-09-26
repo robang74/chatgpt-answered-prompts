@@ -102,6 +102,28 @@ Under this point of view, it is irrelevant losing all the wars as long as those 
 
 ---
 
+### Afghanistan the Empires' tomb
+
+Historically speaking the Afghanistan is called the "*Empires' tomb", for a good reason, in fact. However, the story about the wars in Afganistan is quite amusign as well as the Iraq war but with a complete different outcome more similar to the Vietnam war. So, how could a group of goat herders walking in sandals managed to win a war against the most powerful war machine in the world?
+
+Due to the Russia support, you may think and you are not completely wrong about it but in a surprising different fashion. Initially, the USA trained and armed the Afghanistan people to fight against URSS and then later Russia.
+
+Because fostering their independence war was politically embarrassing and somehow dangerous to do in plain front-face at the time of cold war, CIA supported their opium production selling it around the world in the form of heroin. Yes, an international illegal drug trafficking for providing covert war support.
+
+Finally the Afghan people won the war against Russia & Co. but soon they turned against the USA. It was not the first time in the history of American imperialism that it was happening and not also the only one, and it will happen again.
+
+Because of this, Russia started to support them but blandly because they were aware about their head-turning attitude. So, Russia helped them to replace the CIA in the international illegal drug trafficking. Quite easy to understand, better in the hand of the Afghans rather than in the pocket of the CIA.
+
+I am sure you got informed by news about how that war ended. It lasted so long and it was briefed to the top decision makers in such optimistic fashion that to bring US soldiers back to home alive was a defeat on the top of the defeat.
+
+The USA army returned home as quick as midnight to the next morning time was over. Leaving behind all those people who supported them at risk of their lives and families lives. Rather than facing alone and unprotected such horrible destiny, some of them preferred to die frozen trying to fly away tucked in the non-pressurized compartment of takeoff and landing gears. 
+
+Moreover, the US army in their as quick as immediate retire, left behind $7 billions of US weapons, artillery, guns, light and armoured vehicles which have been displayed into a public parade soon after by Afghans winners. Soon after but not immediately after. As soon as the Afghan talibans had finished to torture and murder all the US supporters left behind, and their families as well. Life is a matter of priorities, right? As well as in making a war.
+
+Well, for sake of completeness should be wrote that they did not torture and murdered all of them, some girls and women young enough to be brides were spared to became slaves for the winner soldiers, unless they took their own lives by themselves or killed by their husbands, fathers or brothers before being caught. Which is not so insane as you might think in first place because women under the taleban's theocracy have less rights and fortune than goats.
+
+---
+
 ### Financial communism, the begins
 
 (**\*!!\***) *Skip this part, if you think that can understand the today having forgot the yesterdy or you just know.*
