@@ -78,4 +78,46 @@ While US grocery stores are enforced by law to accept USD banknotes or credit ca
 
 Arabs, like every other person on this planet, can refuse to exchange goods for USD. Unless they get bombed in their heads and children's heads until they change that idea. Still, without an agreement, the oil price is made by "the market" and the market knows. Hence the price rises, unless constantly bombing someone to lower the price and the rest of the world demands.
 
+As you can imagine, for enforcing the USD accpetance and granting to it as a highly valuable currency, the USA should keep running a immensely large and powerful war machine that can strike in every part of the globe, at every time they will. Under this meance, the USD has been accepted for being the ONLY international commercial transactions way of payiment and therefore the currency for the global finantial reserve fund.
+
+This role is quite unique in the history of the Western civilisation, for something else apart the gold, obviously. Before the USD, the universal currency was the gold and everything else included the silver or copper or everything else valuable would have been rated in gold, in one way or another. Which is the reason behind the gold standard which initially the USD get into.
+
+Intialliy becuase otherwise nobody around the world would have accepted it as their favorite currency, whatever the amount of bombs would have fall on their heads and their childrend heads. In fact, after the WW2 the US war machine did not win any war. Apart in Iraq, and it is quite amusing to know why it remains a unique spot of light among three decades of shadows.
+
+Saddam Hussain took the control of Iraq thanks to the support from US. After few decades of being in power it was considered a danger. Sheeps love the pastor that took care of them for decades despite s/he is good or less than good. In literature this is named "Stokholm Syndrome", the acceptance and also the love for those subjugated us.
+
+Because of this CIA decide to convince him and the people in power nearby him that attacking Qwait and subduing them to the USA interest was a great opportunity for him. Naturally, he asked the placet for the Qwait invasion to the US political leadershio, in the same fashion recently Stramer the new UK prime minister asked the permission to use the NATO most advanced weapons to attack Russia from Ukraine.
+
+Differntly than Stramer, Saddam received their placet, the ok-go and it fall in their traps. Soon he inveded the Qwait, the war for liberating Qwait and Iraq by that tyrant was in place. They killed him, and almost all of the people that was in power with him. Just in case, they might have spoken about the whole story in details.
+
+The libaration of Iraq and Qwait was a completely success. In fact, US army took all the gold reserve and the control of more than 80% of the production. Wise enough to leave beahid something for buying people applauding that operation as a democracy value exportation. Did you see any democracy overthere? Me neither.
+
+The same with Arabs springs, great hopes, a lot of people involved, a lot of police repression with may deaths, incarcerations and torture to finally reach almost everywhere a Taliban-like teocratic states. Included, Iran which before the holy revolution was a civilised country in which women were enjyoing the same freedom than Europe, at least.
+
+All of this came for a very cheap (sarcastically speaking) price. One trillion of US dollars per year, every year on the shoulders of those are US tax payers "*voluntary*" contributors. Because those are getting the food stamps are not involved in it, apart being feeded and provided by legal drugs for keep them quiet and socially hidden.
+
+Useless to say that a global "*war as business*" policy had meny consequences, including the 100x fold ratio of military stuff. A certified military grade steel bolt or rivet that can be bought at 10 for $1 in the around-the-corner hardware shop, it is arrived to be priced $10 each. The price of the silence, obviously.
+
+Under this point of view, it is irrelavant loosing all the wars as long as those came later accepted the US dollar as their unique and true currency. As printed in the $1 banknote: "*in god we trust*" and now you know who is the god - real and unque god - worshipped by the USA govt: the FED bill named US dollar.
+
+---
+
+### Financial communism, the begin
+
+(**\*!!\***) *Skip this part, if you think that can understand the today having forgot the yesterdy or you just know.*
+
+Therefore, if you think having discovered a US deep-state in conjunction with the FED plot about the "paper money is financial communism" you had reached just half of it, in the optimistic scenario.
+
+Because the same has been done with BCE and Mario Draghi "*whatever it takes*" quantitative easing monetary policy on Euro. Which is the main reason because in this `github/robang74` repository there are some documents about its "*Marshall plan**" for Europe. Two halves between the two sides of the Atlantic ocean.
+
+Moreover, these two are just half of all the story and in order to tell the whole story - at least the official part of it which is the publicly known of it - we had to going back to the time in which Russia was leading the Soviet Union (named URSS in Europe) and the Berlin wall was cutting in two halves the city.
+
+At that time Vladimir Putin was working for the KGB in the Russian embassy in Berlin. Which is the main reason because he speaks German fluently. Just to say that what we are seeing nowadays is just the peak of a deep iceberg.
+
+The URSS did not fall apart because we won over them. Nor because Mikhail Gorbachev was too soft in dealing with the USA alliance, as Russian people think about him. The URSS fallen apart because they were bureocratic dicatorship communists and their power over the people was relying on the obscurity of their doing.
+
+In the `Control of the Systems Theory` literature can be seen as a control impaired by a "*limited and opaque feed-back*" where "*limited and opaque*" might also be intedended as "*self-referencing*" + "cancel culture". The same attributes of the "*Woke Madness*", right? In fact, they are the same.
+
+
+
 **TODO**: complete this document/section.
