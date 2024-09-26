@@ -114,7 +114,7 @@ Historically speaking the Afghanistan is called the "*Empires' tomb", for a good
 
     Which is the same story with the GDP which sums up all the transactions without separating the "*product*" from the "*waste*". Baltimora bridget, docet. It collapsed and the GDP rose. The fairy tale about GDP has been debunked a long time ago.
 
-   Despite being quite obvious debunking, still everyone uses that term hence everybody listening thinks that it matters because everybody is talking about it. However, the same happens about a star divorce or a VIP sexual scandal: everybody talks about it. Right?
+   Despite being [quite obvious debunking](https://github.com/robang74/chatgpt-answered-prompts/blob/main/quantitative-easing-drug-addiction-01.md#chatgpt-6), still everyone uses that term hence everybody listening thinks that it matters because everybody is talking about it. However, the same happens about a star divorce or a VIP sexual scandal: everybody talks about it. Right?
 
     In politics and in finance, they think GDP matters because they have no better index nor are they interested in having one better. In the real world, it is useless, hence the control of the real world by those indexes is just an illusion. Controlling a system by obscurity and meaningless indexes, URSS down fall docet.
 
