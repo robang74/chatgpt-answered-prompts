@@ -191,7 +191,37 @@ After the collapse of the USA, that silent hope was sparking again. Unfortunatel
 
 The "*Boeing downfall*" is an exemplary school case that shows how much rotten the American dream has gotten. Not of its own, but because of the ideological and thus unverified belief in “*greed is good*,” the mantra of the Wall Street wolves.
 
-[**TODO**] based on a LinkedIn post [here](https://www.linkedin.com/posts/robertofoglietta_boeing-downfall-una-tragedia-annunciata-activity-7246110884475916288-hmin) and LinkedIn article [here](https://www.linkedin.com/pulse/anthony-fauci-un-utile-capro-espiatorio-roberto-a-foglietta-aqqnf)
+[**TODO**] based on a LinkedIn post [here](https://www.linkedin.com/posts/robertofoglietta_boeing-downfall-una-tragedia-annunciata-activity-7246110884475916288-hmin) and LinkedIn article [here](https://www.linkedin.com/pulse/anthony-fauci-un-utile-capro-espiatorio-roberto-a-foglietta-aqqnf) The following text is going to be translated in English:
+
+<sub>
+
+```
+Considerata la lunga tradizione di eccellenza nella produzione di Boeing che il successo mondiale del 737 prima della versione max ampiamente dimostrò, l'origine del problema è da ricercarsi nella finanziarizzazione di Boeing, come lucidamente spiegato da Rory Kennedy, il direttore del documentario "downfall: il caso Boeing".
+
+Ovvero che il 737 max non era solo un progetto di ingegneria aeronautica ma anche un prodotto finanziario. Infatti, le vendite del 737 max portarono Boeing ad ottenere dei risultati strabilianti in borsa.
+
+Però tutte quelle vendite furono ottenute nascondendo il sistema software, di correzione automatica di un difetto strutturale a cabrare, per impedire che le compagnie aeree mettessero in conto anche il costo dell'aggiornamento della formazione dei piloti.
+
+All'oscuro di questa peculiarità, quando il sensore si rompe, l'aereo precipita in picchiata senza che i piloti possano intervenire. Dopo due incidenti, il computo delle vittime era già salito a 346 morti. Ovunque tranne che negli USA, i 737 max erano stati messi a terra ma Boeing continuava a negare ogni addebito.
+
+La vicenda è ben documentata nell'inchiesta e raccontata nel documentario  che evidenzia come Boeing fosse consapevole del problema e dei rischi annessi, ma tentò di minimizzarne la gravità e di nascondere i problemi per proteggere il proprio business e il valore della loro quotazione in borsa.
+
+Questo è un caso esemplare di come la finanza crei le condizioni per
+
+- la cancel-culture nella quale i whistle-blower sono perseguitati e coloro che agiscono per il bene comune piuttosto che per avidità (greed is good) siano considerati outsider;
+
+- influenzi pesantemente gli organi amministrativi e di controllo pubblico al punto dal portarli a non essere più in grado di svolgere il loro ruolo di contenimento delle derive;
+
+- corrompa la politica per ottenere norme favorevoli e sopprimere il pensiero critico;
+
+- diriga l'industria a prediligere e promuovere gli yes-men con la conseguenza di abbattere gli standard qualitativi e di sicurezza;
+
+- infine alla collusione sistemica per evitarne il fallimento.
+
+Tutto questo ancora prima di essere entrati nel vivo di quello che è il novello comunismo finanziario generato dalle politiche monetarie di espansione della massa monetaria, che in concreto è il motore di questa deriva che sta devastando, sia la cultura dell'Occidente, sia la sua capacità di far fronte alla gestione di una realtà sempre più globale e complessa.
+```
+
+</sub>
 
 ---
 
