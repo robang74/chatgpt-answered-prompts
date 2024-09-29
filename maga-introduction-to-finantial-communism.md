@@ -187,15 +187,21 @@ After the collapse of the USA, that silent hope was sparking again. Unfortunatel
 
 ---
 
-### Finance made rotting the American dream
+### Greed made rotting the American dream
 
-The Boeing downfall as an examplary school case which shown how much rotten is the American dream. Not because itself, but because and ideological attirude towards the USD and finance. [**TODO**] based on a LinkedIn post [here](https://www.linkedin.com/posts/robertofoglietta_boeing-downfall-una-tragedia-annunciata-activity-7246110884475916288-hmin) and LinkedIn article [here](https://www.linkedin.com/pulse/anthony-fauci-un-utile-capro-espiatorio-roberto-a-foglietta-aqqnf)
+The "*Boeing downfall*" is an exemplary school case that shows how much rotten the American dream has gotten. Not of its own, but because of the ideological and thus unverified belief in “*greed is good*,” the mantra of the Wall Street wolves.
+
+[**TODO**] based on a LinkedIn post [here](https://www.linkedin.com/posts/robertofoglietta_boeing-downfall-una-tragedia-annunciata-activity-7246110884475916288-hmin) and LinkedIn article [here](https://www.linkedin.com/pulse/anthony-fauci-un-utile-capro-espiatorio-roberto-a-foglietta-aqqnf)
 
 ---
 
-### Antony Faucy, just an useful scapegoat
+### Antony Fauci, just an useful scapegoat
 
-The Boeing downfall as an examplary school case which shown how much rotten is the American dream. Not because itself, but because and ideological attirude towards the USD and finance. [**TODO**] based on a LinkedIn post [here](https://www.linkedin.com/posts/robertofoglietta_boeing-downfall-una-tragedia-annunciata-activity-7246110884475916288-hmin) and LinkedIn article [here](https://www.linkedin.com/pulse/anthony-fauci-un-utile-capro-espiatorio-roberto-a-foglietta-aqqnf)
+Another exemplary school case in which the "*greed is good*" mantra goes much behyond any reasonable limit. Not only in USA but on the world-wide scale. Compared to the "*Boeing downfall*" case, this is even much worse because just a single critical mistake overlooked would have had lead toward a catastrophe potentially causing a billion of deaths around the globe.
+
+Such a great evaded ethical responsibility and its related risks are now being ridiculously dumped on the shoulders of a single individual - Antony Fauci, who is just one of many yes-men grateful to serve - but who in front of the enraged public opinion will be punished for the faults of all of them in order to save the whole system.
+
+[**TODO**] based on a LinkedIn post [here](https://www.linkedin.com/posts/robertofoglietta_boeing-downfall-una-tragedia-annunciata-activity-7246110884475916288-hmin) and LinkedIn article [here](https://www.linkedin.com/pulse/anthony-fauci-un-utile-capro-espiatorio-roberto-a-foglietta-aqqnf)
 
 ---
 
