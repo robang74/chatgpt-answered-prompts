@@ -166,6 +166,39 @@ Because all of this, at a certain point of that times, being inveded by Romans w
 
 ---
 
+### The Wolfowitz doctrine (1992)
+
+[TODO] based on the linkedIn article titles "*la guerra del dollaro contro l'euro*" [here](https://www.linkedin.com/pulse/la-guerra-del-dollaro-contro-leuro-roberto-a-foglietta-fx6qf)
+
+How the end of the cold war after the URSS collapse created the preconditions for the events we are happing nowadays. Because nothing more that the end of an Empire (or an imperialism) is more tied with its early begins (or doctrine as their foreign policy).
+
+
+### The USD war against EUR
+
+[TODO] based on the linkedIn article titles "*la guerra del dollaro contro l'euro*" [here](https://www.linkedin.com/pulse/la-guerra-del-dollaro-contro-leuro-roberto-a-foglietta-fx6qf)
+
+The madness to sink Europe because after the WW2 people living in the *old continent* started to dream developing a union, not like United States of America but a federation of indipendent states like Switzerland, having a language in common, a common market homogeneously rules and obviusly their own common currency. Because in the original idea, Europe (from ancient Greek language) would have been the definitive NO answer to one more world ware in the continent.
+
+Unfortunately, this sane and natural ambitions of the Wester Europe's countries was silently put apart in favour of the USA leadership against the Soviet communism which was threatening to spread also in some European countries as a poltiical ideology. Especially in Italy where the PCI (Partito Comunista Italiano), which was quite different from the Soviet communism, was collecting enough consensus and votes that convinced Aldo Moro that it was the time to accept them in in his government.
+
+We know how that political experience ended up: Moro was abducted and killed, officially by a group of people that - in mere theory - were tied with PCI. Which sounds as reasonable as a friend that kill a friend's friend because the friend's friend is going to help his friend have its own part in the power. Despite many American citizens do not probably hear about Aldo Moro, it was our JFK as well as Enrico Mattei.
+
+After the collapse of the USA, that silent hope was sparking again. Unfortunately, such European Union was perceived by USA as a firece competitor about USD being the only currency accepted worl-wide. In particular, when the EU founder countries decided that with the common market area, we also need to have our oqn currency issued by our own central bamk (BCE).
+
+---
+
+### Finance made rotting the American dream
+
+The Boeing downfall as an examplary school case which shown how much rotten is the American dream. Not because itself, but because and ideological attirude towards the USD and finance. [**TODO**] based on a LinkedIn post [here](https://www.linkedin.com/posts/robertofoglietta_boeing-downfall-una-tragedia-annunciata-activity-7246110884475916288-hmin) and LinkedIn article [here](https://www.linkedin.com/pulse/anthony-fauci-un-utile-capro-espiatorio-roberto-a-foglietta-aqqnf)
+
+---
+
+### Antony Faucy, just an useful scapegoat
+
+The Boeing downfall as an examplary school case which shown how much rotten is the American dream. Not because itself, but because and ideological attirude towards the USD and finance. [**TODO**] based on a LinkedIn post [here](https://www.linkedin.com/posts/robertofoglietta_boeing-downfall-una-tragedia-annunciata-activity-7246110884475916288-hmin) and LinkedIn article [here](https://www.linkedin.com/pulse/anthony-fauci-un-utile-capro-espiatorio-roberto-a-foglietta-aqqnf)
+
+---
+
 ### Financial communism, the begins
 
 (**\*!!\***) *Skip this part, if you think that can understand the today having forgot the yesterdy or you just know already.*
@@ -184,6 +217,6 @@ The URSS did not fall apart because we won over them. Nor because Mikhail Gorbac
 
 In the `Control of the Systems Theory` literature, they way of ruling can be seen as a control impaired by a "*limited and opaque feed-back*" where "*limited and opaque*" might also be intended as "*self-referencing*" + "cancel culture". The same attributes of the "*Woke Madness*", right? In fact, they are the same.
 
-
+---
 
 **TODO**: complete this document/section.
