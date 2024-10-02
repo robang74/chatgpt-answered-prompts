@@ -3,7 +3,7 @@
 A collection of some Q&A dialogs with various AI powered chatbots about different subjects
 which get the attention of the media.
 
-**please, notice this**
+### please, notice this
 
 * I wrote these papers and published them on a github repository in order to track their changes and evolution. Often, I wrote them using the AI as a critical argumentative partner or a peer-review or an antagonist counter-speaker, for example.
 
@@ -11,7 +11,7 @@ which get the attention of the media.
 
 * Hence, these papers were NOT written by the AI,  instead the chatbot had a mere assistant role, whatever it was, allowing me to better understand how to explain my idea. Like it was an advanced text editor!
 
-**please, avoid this**
+### please, avoid this
 
 * Stop expecting that the AI would give you a useful answer or even a wise answer. The correct use of an AI, it is not querying it as it were the [Delphi's Oracle](https://en.wikipedia.org/wiki/Pythia), an ancient Greek myth, but as a tool to avoid asking real-living people doing {dumb, boring, repeating} tasks.
 
@@ -19,7 +19,7 @@ which get the attention of the media.
 
 * In fact, the more that ideas are far from the obvious (common-sense vs insightful wisdom) , the more they are statistically left behind by the LLM. And also humans do the same, by the way. Which means that unless a specific pre-training, without a skilled and without  an experienced human driving the chatbot, the AI is just an advanced "*fortune cookies*" messages provider.
 
-**be classic, or else**
+### be classic, or else
 
 * In case you wish not abandon your habit to decide or act on driven by random inputs also known as "*the art of divination*" or "*ghosts' suggestion*", then using the "*traditional*" tools - like reading cards, tea spots in the tea cup, fractal images in coffee grounds, arbitrary recognition of structures in animal entrails - is way lesser energy intensive approach with grants you even better results. Be traditional!
 
