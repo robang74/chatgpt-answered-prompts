@@ -11,6 +11,12 @@ which get the attention of the media.
 
 * Hence, these papers were NOT written by the AI,  instead the chatbot had a mere assistant role, whatever it was, allowing me to better understand how to explain my idea. Like it was an advanced text editor!
 
+### mostly LLM, almost AI
+
+* The chatbot is not exactly artificial intelligence but specifically **LLM** which is an acronym of **Large Language Models**. On top of that, techies put some more features like the ability to browse the internet, querying databases, do math, write text, code and documentation formatting, etc. Specific skills have been added on the top of a LLM engine (like ChatGPT or DALL-E) and these models are HUGE not only in terms of parameters (knowledge or rules ability to learn) but also in terms of architectural design like Mistral AI.
+
+* Therefore, for those started to get their hands dirty at that time in which AI was named "*neural network*" or in some more humile but specific terms like "*perceptron" or "data classifier" or "*patter reconignisation*" or in more generic terms "*linear algebra*" and "*step functions*", this topic and the advancement are exiting. For all the others, AI is a purely marketing definition which mostly means **LLM** but they should read it as **Largely Limited Mind\ness** and wonder why that `\` in their alternative definition instead of any other bar-like character.
+
 ### please, avoid this
 
 * Stop expecting that the AI would give you a useful answer or even a wise answer. The correct use of an AI, it is not querying it as it were the [Delphi's Oracle](https://en.wikipedia.org/wiki/Pythia), an ancient Greek myth, but as a tool to avoid asking real-living people doing {dumb, boring, repeating} tasks.
@@ -22,6 +28,8 @@ which get the attention of the media.
 ### be classic, or else
 
 * In case you wish not abandon your habit to decide or act on driven by random inputs also known as "*the art of divination*" or "*ghosts' suggestion*", then using the "*traditional*" tools - like reading cards, tea spots in the tea cup, fractal images in coffee grounds, arbitrary recognition of structures in animal entrails - is way lesser energy intensive approach with grants you even better results. Be traditional!
+
+
 
 <br/>
 
