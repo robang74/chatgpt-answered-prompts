@@ -30,7 +30,11 @@ none
 
 ### NOTES
 
-none
+This is an article written in Italian related to this topic.
+
+-> [Zucchero, alimentazione e salute](https://www.linkedin.com/pulse/zucchero-alimentazione-e-salute-roberto-a-foglietta-rs10f)
+
+However, this article has not been used as data input for the chatbot which is the reason because its link is reported here in the "*notes*" section instead of in the "*upload*" section.
 
 ### UPLOAD
 
