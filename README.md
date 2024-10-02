@@ -7,7 +7,7 @@ which get the attention of the media.
 
 * I wrote these papers and published them on a github repository in order to track their changes and evolution. Often, I wrote them using the AI as a critical argumentative partner or a peer-review or an antagonist counter-speaker, for example.
 
-* These roles-playing are well-know in the literature as "co-competition", "antagonist collaboration", "adversarial team working", "ideas funneling", "serendipity brainstorming" and "explain to understand" which is "learning by doing" but declined in idea development and refinement area.
+* These roles-playing are well-know in the literature as "*co-competition*", "*antagonist collaboration*", "*adversarial team working*", "*ideas funneling*", "*serendipity brainstorming*", "*fair-play antagonism*" and "*explain to understand*" which is "*learning by doing*" but declined in idea development and refinement area.
 
 * Hence, these papers were NOT written by the AI,  instead the chatbot had a mere assistant role, whatever it was, allowing me to better understand how to explain my idea. Like it was an advanced text editor!
 
