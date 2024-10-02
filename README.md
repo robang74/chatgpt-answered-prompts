@@ -3,6 +3,26 @@
 A collection of some Q&A dialogs with various AI powered chatbots about different subjects
 which get the attention of the media.
 
+**please, notice this**
+
+* I wrote these papers and published them on a github repository in order to track their changes and evolution. Often, I wrote them using the AI as a critical argumentative partner or a peer-review or an antagonist counter-speaker, for example.
+
+* These roles-playing are well-know in the literature as "co-competition", "antagonist collaboration", "adversarial team working", "ideas funneling", "serendipity brainstorming" and "explain to understand" which is "learning by doing" but declined in idea development and refinement area.
+
+* Hence, these papers were NOT written by the AI,  instead the chatbot had a mere assistant role, whatever it was, allowing me to better understand how to explain my idea. Like it was an advanced text editor!
+
+**please, avoid this**
+
+* Stop expecting that the AI would give you a useful answer or even a wise answer. The correct use of an AI, it is not querying it as it were the [Delphi's Oracle](https://en.wikipedia.org/wiki/Pythia), an ancient Greek myth, but as a tool to avoid asking real-living people doing {dumb, boring, repeating} tasks.
+
+* Very skilled people can use the AI also for peer-reviewing a paper, playing a role in a conversation, etc. Those who are also experienced know that the AI is usually failing to summarize a text because it is not even able to identify the concepts expressed in that text that is worth being noticed.
+
+* In fact, the more that ideas are far from the obvious (common-sense vs insightful wisdom) , the more they are statistically left behind by the LLM. And also humans do the same, by the way. Which means that unless a specific pre-training, without a skilled and without  an experienced human driving the chatbot, the AI is just an advanced "*fortune cookies*" messages provider.
+
+**be classic, or else**
+
+* In case you wish not abandon your habit to decide or act on driven by random inputs also known as "*the art of divination*" or "*ghosts' suggestion*", then using the "*traditional*" tools - like reading cards, tea spots in the tea cup, fractal images in coffee grounds, arbitrary recognition of structures in animal entrails - is way lesser energy intensive approach with grants you even better results. Be traditional!
+
 <br/>
 
 ## Index (partial)
