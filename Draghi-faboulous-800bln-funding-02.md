@@ -955,6 +955,6 @@ Considering these factors, here are the updated ratings:
 
 `[unchanged ratings, removed]`
 
-1a. **Principal Biden (8/10)** - Increased: Given the clear alignment of the EU with Biden’s administration, the U.S. appears to be playing an even more significant role in guiding the strategic actions taken in Europe, including the Nord Stream sabotage. The broader energy strategy, in which the U.S. seeks to replace Russian energy with more expensive LNG from the U.S., reinforces Biden's leading role in pushing this agenda.
+- 1a. **Principal Biden (8/10)** - Increased: Given the clear alignment of the EU with Biden’s administration, the U.S. appears to be playing an even more significant role in guiding the strategic actions taken in Europe, including the Nord Stream sabotage. The broader energy strategy, in which the U.S. seeks to replace Russian energy with more expensive LNG from the U.S., reinforces Biden's leading role in pushing this agenda.
 
 These updates reflect the strengthened role of the U.S. under Biden's administration in shaping the geopolitical and energy-related decisions in Europe, especially in connection to the Nord Stream sabotage and its aftermath.
