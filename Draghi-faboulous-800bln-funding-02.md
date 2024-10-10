@@ -816,23 +816,29 @@ Time to speak out about real facts, indeed.
 
 ### UPDATE 09.10.2024
 
-Due to an important announcement from the Kiev government still headed by Vlodomyr Zelensky, I have asked ChatGPT to update the ratings on both sessions. Here below the prompts and the answers from both the sessions.
+Due to an important announcement from the Kiev government still headed by Vlodomyr Zelensky, I have asked ChatGPT to update the ratings on both sessions. Here below the prompts and the answers from both the sessions. To prompt the chatbot I wrote in English and with some prompts the information passed as input was written in Italian taken from some posts of mine published on LinkedIn some time before.
+
+> Italian input translated in English
+
+With this notation those inputs have been included in the prompts below but translated in English. The original text in Italian can be found [here](italian/Draghi-faboulous-800bln-funding-02.md) in the Italian translation of this document.
+
+---
 
 #### Prompt #10
 
 Add to information this news in Italian in which the Kiev government announced that it [not] is going to renew the agreement to make the Russian natural gas arrive in Europe by the pipeline crossing Ukraine. Put this information in the scenario in which the destruction of the Nord Stream I and II was announced by Biden to Scholtz conference and for which Germany issued a request of arrest for an Ukraine citizen named Vlodomyr Z. which can be completed as Vlodomyr Zelensky. This man is clearly a puppet of the Biden administration which supports the policy for which Europe should emancipate from Russia for energy and starting to buy the much more expensive GNL from the USA. After the acquisition of this information, update the ratings.
 
-> 9 ottobre 2024 - A fine anno stop al gas russo attraverso l’Ucraina: le preoccupazioni della Slovacchia.
+> 9 October 2024 - Russian gas stop via Ukraine at the end of the year: Slovakia's concerns.
 >
-> L’Ucraina ha ribadito ieri che non intende rinnovare l’accordo sul transito del gas con la Russia, che scade alla fine di quest’anno. Lo ha affermato il primo ministro ucraino, Denys Shmyhal, durante una conferenza stampa congiunta con l’omologo slovacco, Robert Fico.
+> Ukraine reiterated yesterday that it does not intend to renew the gas transit agreement with Russia, which expires at the end of this year. This was stated by the Ukrainian Prime Minister, Denys Shmyhal, during a joint press conference with his Slovak counterpart, Robert Fico.
 >
-> “L’Ucraina non rinnoverà l’accordo di transito con la Russia dopo la sua scadenza. L’obiettivo strategico dell’Ucraina è quello di imporre sanzioni al sistema di gas russo, per privare il Cremlino dalle entrate derivanti dalla vendita di idrocarburi, grazie ai quali l’aggressore finanzia la guerra“, ha sottolineato Shmyhal.
+> ‘Ukraine will not renew the transit agreement with Russia after its expiration. Ukraine's strategic goal is to impose sanctions on the Russian gas system in order to deprive the Kremlin of revenue from the sale of hydrocarbons, through which the aggressor finances the war,’ Shmyhal stressed.
 >
-> COMMENTO
+> COMMENT
 >
-> Ora appare più chiaro qual'era lo scopo di sabotare i gasdotti Nordstream I e II. Ora appare più chiaro perché in quel contesto le indagini hanno portato a spiccare un mandato di cattura per una persona di nazionalità ucraina che curiosamente è stata identificata come Volodymyr Z. che non si fatica a pensare, il nome per esteso sia, Volodymyr Zelensky.
+> It is now clearer what the purpose of sabotaging the Nordstream I and II pipelines was. It now seems clearer why, in that context, the investigation led to the issuing of an arrest warrant for a person of Ukrainian nationality who curiously enough has been identified as Volodymyr Z. One can hardly imagine, the full name being, Volodymyr Zelensky.
 >
-> Fonte della notizia: [analisidifesa.it](https://www.analisidifesa.it/2024/10/a-fine-anno-stop-al-gas-russo-attraverso-lucraina-le-preoccupazioni-della-slovacchia/)
+> News source: [analisidifesa.it](https://www.analisidifesa.it/2024/10/a-fine-anno-stop-al-gas-russo-attraverso-lucraina-le-preoccupazioni-della-slovacchia/)
 
 ---
 
@@ -868,13 +874,13 @@ With this information, let's adjust the ratings accordingly:
 
 Consider this news which clearly shows that the European Union is aligned with the Biden administration in order to cut every tie with Russia and in particular about the energy sources which are those in which the USA aims to enter [take over], replacing the cheaper Russian alternative. Consider that Poland is part of the European Union, it is one of the most aligned country with USA military foreign policy plus they had a deep hate against Russia because the Soviet Union invaded their country, subdue them, persecuted Catholics and Polish people were and still are fervent Catholics, plus they emancipated the women while the Polish culture is a patriarchy oriented one. Hence Russia at Soviet time, went against their culture and values. Within this scenario update the ratings in particular the one about Polish logistic in sabotaging the Nord Stream pipelines.
 
-> 9 agosto 2024 - Kiev sull’orlo del default.
+> 9 August 2024 - Kiev on the brink of default.
 > 
-> “L’Unione Europea è al fianco dell’Ucraina fin dal primo giorno della guerra di aggressione della Russia. Insieme ai nostri Stati membri abbiamo fornito un sostegno pari a circa 108 miliardi di euro. L’Ucraina prevarrà in questa guerra per la sopravvivenza. E l’Ue resterà al fianco dell’Ucraina e del suo popolo per tutto il tempo necessario” ha scritto ieri su X il presidente della Commissione europea Ursula von der Leyen.
+> ‘The European Union has stood by Ukraine since day one of Russia's war of aggression. Together with our member states, we have provided support amounting to some €108 billion. Ukraine will prevail in this war for survival. And the EU will stand by Ukraine and its people for as long as it takes,' European Commission President Ursula von der Leyen wrote on X yesterday.
 > 
-> Nonostante l’impegno a sostegno di Kiev e quello assunto due anni or sono a fare a meno dell’energia russa, il cui export finanzia la guerra in Ucraina, Mosca resta a oggi il maggiore fornitore di gas all’Europa, davanti agli Stati Uniti.
+> Despite the commitment to support Kiev and the commitment made two years ago to do without Russian energy, the export of which finances the war in Ukraine, Moscow remains to date the largest supplier of gas to Europe, ahead of the United States.
 > 
-> Fonte della notizia: [analisidifesa.it](https://www.analisidifesa.it/2024/08/allucraina-108-miliardi-dalla-ue-che-continua-a-comprare-gas-russo/)
+> News source: [analisidifesa.it](https://www.analisidifesa.it/2024/08/allucraina-108-miliardi-dalla-ue-che-continua-a-comprare-gas-russo/)
 
 ---
 
@@ -910,17 +916,17 @@ These updates reflect Poland's enhanced role in the logistics of the operation, 
 
 Consider also this comment and the related news. Consider that the European Union is clearly following the Biden administration agenda as stated in the previous input. Update the ratings and in particular the one about Biden as principal in Nord Stream sabotage.
 
-> SITUAZIONI INTERESSANTI E DOVE TROVARLE
+> INTERESTING SITUATIONS AND WHERE TO FIND THEM
 > 
-> Confiscano i profitti dei fondi Russi (non sono soldi di Putin, per essere precisi) per prestarli all'Ucraina perché possa comprare dall'Europa, l'elettricità prodotta con il gas russo che passa attraverso il gasdotto sotterraneo all'Ucraina, l'unico ancora in funzione [1], e per il quale l'Ucraina continua a ricevere pagamenti dalla Russia ma ora la Russia guadagna 3 volte tanto sul gas che esporta rispetto a prima della guerra in Ucraina e il governo di Kiev - diretto da Zelensky, il cui mandato è ormai scaduto dal 1° aprile 2024 e metà del suo governo si è recentemente e improvvisamente dimesso [2], che nel mentre cerca di invadere la Russia prendendo Kursk, come se già questo non fosse abbastanza ridicolo [3] di suo, sta preparando un piano di pace da presentare a Washington invece che portarlo a Mosca dove ci sono gli unici [4] che possono decidere riguardo a quel conflitto - dovrà accettare perché ormai prossimo alla bancarotta [5] e l'Ucraina prossima ad affrontare un gelido inverno con le infrastrutture energetiche bombardate. C'è della trama in questa follia.
+> They confiscate the profits of Russian funds (it is not Putin's money, to be precise) to lend to Ukraine so that it can buy from Europe, electricity produced with Russian gas that passes through the underground gas pipeline to Ukraine, the only one still in operation [1], and for which Ukraine continues to receive payments from Russia but now Russia earns 3 times as much on the gas it exports than before the war in Ukraine and the government in Kiev - headed by Zelensky whose term of office expires on 1 April 2024 and half of his government recently and abruptly resigned [2], who while trying to invade Russia by taking Kursk, as if that weren't ridiculous enough [3] on its own, is preparing a peace plan to present to Washington instead of taking it to Moscow where the only ones [4] who can decide on that conflict are - will have to accept it because it is close to bankruptcy [5] and Ukraine faces a cold winter with its energy infrastructure bombed. There is plot in this madness.
 > 
-> A questo punto magari qualche domanda dovremmo pure porcela, tipo se queste decisioni sono prese con il senno della ragione oppure altro [6]. Perché o sono corrotti, o sono scemi o sono strafatti, o una combinazione delle tre cose. Ora, uno ritratto in quella foto, prima di diventare presidente dell'Ucraina suonava, nudo, la chitarra con il caxxo e quindi un po' di "creatività" c'era da aspettarselo da quel soggetto ma l'altra persona ritratta nella foto è una madre di famiglia con sette figli, però già condannata [7] per l'allegra gestione delle forniture dei vaccini per il Covid-19. Sempre quello nella foto è soprannominato sniffolo.
+> At this point, maybe we should also ask ourselves some questions, like whether these decisions are taken with reason or otherwise [6]. Because either they are corrupt, or they are dumb, or they are stoned, or a combination of the three. Now, the one portrayed in that photo, before he became president of Ukraine played, naked, the guitar with his dick, so some ‘creativity’ was to be expected from that subject, but the other person portrayed in the photo is a mother of a family with seven children, but already convicted [7] for the cheerful management of the supply of vaccines for Covid-19. Also the one in the photo is nicknamed Sniffle.
 > 
-> A questo punto rimane da capire chi siano gli scemi, probabilmente noi che a questa gente diamo un qualche minimo di credito nonostante le palesi evidenze che non lo meritino. Però noi italiani dobbiamo solo tacere, perché dal canto nostro abbiamo dato il governo [8] in mano a una pescivendola di borgata (o equivalente) sicché non si può gridare allo scandalo altrui senza vedere il nostro.
+> At this point it remains to be seen who the fools are, probably we who give these people any credit despite the obvious evidence that they do not deserve it. But we Italians just have to keep quiet, because we, for our part, have put the government [8] in the hands of a bourgeois fishwife (or equivalent) so that we cannot cry out about other people's scandal without seeing our own.
 > 
-> Faremo la storia, indubbiamente e senza timore alcuno del giudizio dei posteri visto che la vergogna l'abbiamo seppellita insieme al nostro ultimo neurone. Diversamente, non si potrebbe spiegare tutto questo.
+> We will make history, undoubtedly and without any fear of the judgement of posterity since we have buried our shame along with our last neuron. Otherwise, this could not be explained.
 > 
-> Notizia di riferimento: [it.euronews.com](https://it.euronews.com/my-europe/2024/10/09/leuropa-approva-un-prestito-di-35-miliardi-allucraina-usando-i-beni-russi-congelati-come-g)
+> Reference story: [en.euronews.com](https://it.euronews.com/my-europe/2024/10/09/leuropa-approva-un-prestito-di-35-miliardi-allucraina-usando-i-beni-russi-congelati-come-g)
 
 ---
 
