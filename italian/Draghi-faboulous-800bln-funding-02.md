@@ -829,7 +829,13 @@ Dopotutto, quanto detto sopra è solo un modello sempreverde che si ripresenta n
 
 ### UPDATE 09.10.2024
 
-A causa di un importante annuncio del governo di Kiev, ancora guidato da Vlodomyr Zelensky, ho chiesto a ChatGPT di aggiornare le valutazioni di entrambe le sessioni. Qui di seguito i quesiti e le risposte di entrambe le sessioni.
+A causa di un importante annuncio del governo di Kiev, ancora guidato da Vlodomyr Zelensky, ho chiesto a ChatGPT di aggiornare le valutazioni di entrambe le sessioni. Qui di seguito i quesiti e le risposte di entrambe le sessioni. Nel dare i prompt al chatbot ho scritto in inglese e in alcuni prompt le informazioni passate come input erano scritte in italiano tratte da alcuni miei post pubblicati su LinkedIn qualche tempo prima.
+
+> input in italiano, in originale
+
+Con questa notazione questi input sono stati inclusi nei prompt sottostanti, in originale. La traduzione in inglese anche degli input in italiano si trova [qui] (../Draghi-faboulous-800bln-funding-02.md).
+
+---
 
 #### Prompt #10
 
