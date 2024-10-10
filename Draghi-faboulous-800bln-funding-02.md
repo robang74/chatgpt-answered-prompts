@@ -746,7 +746,7 @@ Because the first prompt was the same for both the sessions, this means that the
 
 There are also different results in the final ratings:
 
-- <span>1a.</span> - Biden’s statement as Principal: 6/10 vs 7/10 (**9/10 vs 8/10** check the update 09.10.2024 below)
+- <span>1a.</span> - Biden’s statement as Principal: *6/10 vs 7/10* (**9/10 vs 8/10** check the update 09.10.2024 below)
 
 - <span>1d.</span> - Ukrainian Human Resources: *8/10 vs 7/10* (**9/10 vs 8/10** check the update 09.10.2024 below)
 
