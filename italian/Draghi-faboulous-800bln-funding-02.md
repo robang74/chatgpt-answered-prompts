@@ -699,7 +699,7 @@ I link forniti sono gli stessi, mentre il dialogo era leggermente diverso e il s
 
 - <span>1b.</span> - Coordinamento britannico: 2/10 -> 7/10
 
-- <span>1c.</span> - Logistica polacca: 3/10 -> 6/10
+- <span>1c.</span> - Logistica polacca: 3/10 -> 7/10
 
 - <span>1d.</span> - Risorse umane ucraine: 4/10 -> 8/10
 
@@ -709,7 +709,7 @@ I link forniti sono gli stessi, mentre il dialogo era leggermente diverso e il s
 
 **Valutazioni #1.0: 6-2-3-4-7-4**
 
-**Valutazioni #1.1: 6-7-6-8-9-9**
+**Valutazioni #1.1: 6-7-7-8-9-9**
 
 ---
 
@@ -753,15 +753,13 @@ Ci sono anche risultati diversi nelle valutazioni finali:
 
 - <span>1a.</span> - Dichiarazioni di Biden come mandante: 6/10 vs 7/10
 
-- <span>1c.</span> - Logistica polacca: 6/10 vs 7/10
-
 - <span>1d.</span> - Risorse umane ucraine: 8/10 vs 7/10
 
 - <span>2.</span> - Danni di guerra e perdite da sanzioni: 9/10 vs 8/10
 
 - <span>3.</span> - Indennizzi per frodi Covid-19: 9/10 vs 8/10
 
-**Ratings #1.1: 6-7-6-8-9-9**
+**Ratings #1.1: 6-7-7-8-9-9**
 
 **Ratings #2.1: 7-7-7-7-8-8**
 
