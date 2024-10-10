@@ -698,7 +698,7 @@ The links provided are the same while the dialog was a slight different and the 
 
 - <span>1c.</span> - Polish Logistics: 3/10 -> 7/10
 
-- <span>1d.</span> - Ukrainian Human Resources: 4/10 -> 8/10 (9/10 check the update 09.10.2024 below)
+- <span>1d.</span> - Ukrainian Human Resources: 4/10 -> *8/10* (**9/10** check the update 09.10.2024 below)
 
 - <span>2.</span> - War Damages and Sanctions Losses: 7/10 -> 9/10
 
@@ -718,7 +718,7 @@ The links provided are the same while the dialog was a slight different and the 
 
 - <span>1c.</span> - Polish Logistics: 3/10 -> 7/10
 
-- <span>1d.</span> - Ukrainian Human Resources: 5/10 -> 7/10 (8/10 check the update 09.10.2024 below)
+- <span>1d.</span> - Ukrainian Human Resources: 5/10 -> *7/10* (**8/10** check the update 09.10.2024 below)
 
 - <span>2.</span> - War Damages and Sanctions Losses: 7/10 -> 8/10
 
@@ -748,13 +748,13 @@ There are also different results in the final ratings:
 
 - <span>1a.</span> - Biden’s statement as Principal: 6/10 vs 7/10
 
-- <span>1d.</span> - Ukrainian Human Resources: 8/10 vs 7/10 (8/10 check the update 09.10.2024 below)
+- <span>1d.</span> - Ukrainian Human Resources: *8/10 vs 7/10* (**9/10 vs 8/10** check the update 09.10.2024 below)
 
 - <span>2.</span> - War Damages and Sanctions Losses: 9/10 vs 8/10
 
 - <span>3.</span> - Covid-19 Fraud Compensation: 9/10 vs 8/10
 
-**Ratings #1.1: 6-7-7-8-9-9**
+**Ratings #1.1: 6-7-7-9-9-9**
 
 **Ratings #2.1: 7-7-7-8-8-8**
 
@@ -780,7 +780,7 @@ Therefore, considering the repetition of the scapegoat pattern and the stakehold
 
 - <span>1b.</span> - Polish Logistics: 7/10
 
-- <span>1d.</span> - Ukrainian Human Resources: 8/10 (9/10 check the update 09.10.2024 below)
+- <span>1d.</span> - Ukrainian Human Resources: *8/10* (**9/10** check the update 09.10.2024 below)
 
 - <span>2.</span> - War Damages and Sanctions Losses: 9/10
 
