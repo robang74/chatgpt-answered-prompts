@@ -748,15 +748,17 @@ There are also different results in the final ratings:
 
 - <span>1a.</span> - Biden’s statement as Principal: *6/10 vs 7/10* (**9/10 vs 8/10** check the update 09.10.2024 below)
 
+- <span>1b.</span> - British coordination: 8/10 vs 7/10 (check the update 09.10.2024 below)
+
 - <span>1d.</span> - Ukrainian Human Resources: *8/10 vs 7/10* (**9/10 vs 8/10** check the update 09.10.2024 below)
 
 - <span>2.</span> - War Damages and Sanctions Losses: 9/10 vs 8/10
 
 - <span>3.</span> - Covid-19 Fraud Compensation: 9/10 vs 8/10
 
-**Ratings #1.1: 9-9-8-9-9-9**
+**Ratings #1.1: 9-8-8-9-9-9**
 
-**Ratings #2.1: 8-8-8-8-8-8**
+**Ratings #2.1: 8-7-8-8-8-8**
 
 These differences emerged, despite a more prepared and detailed conversation with the human, shown a trend into the chatbot biases development which are the same found comparing the first evaluation but with some more interesting details:
 
