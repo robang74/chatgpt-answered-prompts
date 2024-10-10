@@ -701,7 +701,7 @@ I link forniti sono gli stessi, mentre il dialogo era leggermente diverso e il s
 
 - <span>1c.</span> - Logistica polacca: 3/10 -> 7/10
 
-- <span>1d.</span> - Risorse umane ucraine: 4/10 -> 8/10
+- <span>1d.</span> - Risorse umane ucraine: 4/10 -> *8/10* (**9/10** vedere update 09.10.2024)
 
 - <span>2.</span> - Danni di guerra e perdite da sanzioni: 7/10 -> 9/10
 
@@ -709,7 +709,7 @@ I link forniti sono gli stessi, mentre il dialogo era leggermente diverso e il s
 
 **Valutazioni #1.0: 6-2-3-4-7-4**
 
-**Valutazioni #1.1: 6-7-7-8-9-9**
+**Valutazioni #1.1: 6-7-7-9-9-9**
 
 ---
 
@@ -721,7 +721,7 @@ I link forniti sono gli stessi, mentre il dialogo era leggermente diverso e il s
 
 - <span>1c.</span> - Logistica polacca: 3/10 -> 7/10
 
-- <span>1d.</span> - Risorse umane ucraine: 5/10 -> 7/10
+- <span>1d.</span> - Risorse umane ucraine: 5/10 -> *7/10* (**8/10** vedere update 09.10.2024 below)
 
 - <span>2.</span> - Danni di guerra e perdite da sanzioni: 7/10 -> 8/10
 
@@ -729,7 +729,7 @@ I link forniti sono gli stessi, mentre il dialogo era leggermente diverso e il s
 
 **Valutazioni #2.0: 6-4-3-5-7-3**
 
-**Valutazioni #2.1: 7-7-7-7-8-8**
+**Valutazioni #2.1: 7-7-7-8-8-8**
 
 ---
 
@@ -753,15 +753,15 @@ Ci sono anche risultati diversi nelle valutazioni finali:
 
 - <span>1a.</span> - Dichiarazioni di Biden come mandante: 6/10 vs 7/10
 
-- <span>1d.</span> - Risorse umane ucraine: 8/10 vs 7/10
+- <span>1d.</span> - Risorse umane ucraine: *8/10 vs 7/10* (**9/10 vs 8/10** vedere 09.10.2024 below)
 
 - <span>2.</span> - Danni di guerra e perdite da sanzioni: 9/10 vs 8/10
 
 - <span>3.</span> - Indennizzi per frodi Covid-19: 9/10 vs 8/10
 
-**Ratings #1.1: 6-7-7-8-9-9**
+**Ratings #1.1: 6-7-7-9-9-9**
 
-**Ratings #2.1: 7-7-7-7-8-8**
+**Ratings #2.1: 7-7-7-8-8-8**
 
 ---
 
@@ -787,13 +787,13 @@ Pertanto, considerando la ripetizione dello schema del capro espiatorio e la naz
 
 - <span>1b.</span> - Polish Logistics: 7/10
 
-- <span>1d.</span> - Ukrainian Human Resources: 8/10
+- <span>1d.</span> - Ukrainian Human Resources: *8/10* (**9/10** vedere update 09.10.2024 below)
 
 - <span>2.</span> - War Damages and Sanctions Losses: 9/10
 
 - <span>3.</span> - Covid-19 Fraud Compensation: 9/10
  
-**Valutazioni #3.1: 7-7-7-8-9-9**
+**Valutazioni #3.1: 7-7-7-9-9-9**
 
 Inoltre, è nostro diritto naturale fare questa scelta per sostenere la nostra causa e sarebbe assolutamente accettabile in ogni processo, ovunque e in ogni momento, che una controparte sostenesse la propria posizione con gli strumenti e i dati a sua disposizione.
 
