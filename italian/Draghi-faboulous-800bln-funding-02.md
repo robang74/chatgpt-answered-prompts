@@ -833,7 +833,7 @@ A causa di un importante annuncio del governo di Kiev, ancora guidato da Vlodomy
 
 > input in italiano, in originale
 
-Con questa notazione questi input sono stati inclusi nei prompt sottostanti, in originale. La traduzione in inglese anche degli input in italiano si trova [qui] (../Draghi-faboulous-800bln-funding-02.md).
+Con questa notazione questi input sono stati inclusi nei prompt sottostanti, in originale. La traduzione in inglese anche degli input in italiano si trova [qui](../Draghi-faboulous-800bln-funding-02.md).
 
 ---
 
