@@ -52,6 +52,12 @@ some links to public web pages have been provided since the first prompt and lat
 
 none
 
+### TRANSLATION
+
+Some parts of this document (tag: 2024-10-09) were originally written in Italian. The English translation of those parts have been made by an Italia native speaker fluently in English, who has been supported by the automatic translator [deepl.com](https://www.deepl.com/) in free-of-charge version to fasten the translation.
+
+If you wish to send a translation in any other language, it is necessary that you are familiar with one of the languages in which this document is available, even better if you know English and can start from the original version, and that you are a native speaker or equivalent in the language into which the translation is being made.
+
 ### COPYRIGHT
 
 &copy; 2024, **Roberto A. Foglietta** \<roberto.foglietta<span>@</span>gmail.com\>
