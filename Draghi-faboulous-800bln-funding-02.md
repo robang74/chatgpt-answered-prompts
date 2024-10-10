@@ -4,13 +4,13 @@ I think the time has come to reveal where the fabulous 800 billions EU support p
 
 ### 1. Sabotage of Nord Stream I & II:
 
-  * a. - **Biden as principal** - see the joint interview immediately after the bilateral meeting with Olaf Scholtz in Berlin in which Biden, as president of the USA, said that if Russia invaded Ukraine those pipelines would cease to exist;
+* a. - **Biden as principal** - see the joint interview immediately after the bilateral meeting with Olaf Scholtz in Berlin in which Biden, as president of the USA, said that if Russia invaded Ukraine those pipelines would cease to exist;
 
-  * b. - **co-ordination of operations** to the British and even if it is little less obvious, it costed the role of prime minister to the very rich Indian tycoon;
+* b. - **co-ordination of operations** to the British and even if it is little less obvious, it costed the role of prime minister to the very rich Indian tycoon;
 
 *  c. - **logistics** to the Poles by exclusion, given that the Germans had no interest in sabotage, as the journalist who spoke at the above-mentioned press conference demonstrated by asking rather irreverent questions to Biden, the only ones, together with the Italians who were so deficient (from the Latin, deficere, lacking) in common sense that out of hatred for the Russians they surrendered sovereignty to the USA and the ones who would have lost the most from the opening of those pipelines, given that the one that passes through Ukraine emerges in Poland;
 
- * d. - **human resources** to the Ukrainians, this is now well established, albeit with overtones that verge on the ridiculous like four drunk men on a boat who, bored, blow up a transnational submarine pipeline in the depths of the Baltic Sea.
+* d. - **human resources** to the Ukrainians, this is now well established, albeit with overtones that verge on the ridiculous like four drunk men on a boat who, bored, blow up a transnational submarine pipeline in the depths of the Baltic Sea.
 
 ### 2. War damages and sanctions losses
 
