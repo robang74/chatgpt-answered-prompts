@@ -29,8 +29,6 @@ which get the attention of the media.
 
 * In case you wish not abandon your habit to decide or act on driven by random inputs also known as "*the art of divination*" or "*ghosts' suggestion*", then using the "*traditional*" tools - like reading cards, tea spots in the tea cup, fractal images in coffee grounds, arbitrary recognition of structures in animal entrails - is way lesser energy intensive approach with grants you even better results. Be traditional!
 
-
-
 <br/>
 
 ## Index (partial)
@@ -75,7 +73,8 @@ There are several way to download this github repository:
 
 - choose a tagged release among [those available](https://github.com/robang74/chatgpt-answered-prompts/tags) and download the archive
 
-- clone the repository with the specific `git clone` command, in this way: 
+- clone the repository with the specific `git clone` command, in this way:
+
 ```
 git clone https://github.com/robang74/chatgpt-answered-prompts.git
 ```
@@ -115,6 +114,3 @@ Here below a template in English:
 As you can see the translated document should contain a reference about the original version and those which are tagged are the most reliable.
 
 If you wish to send a translation, it is necessary that you know well one of the languages in which this document is available, even better if you know English and can start from the original version, and that you are a native speaker or equivalent in the language in which the translation is being made.
-
-
-
