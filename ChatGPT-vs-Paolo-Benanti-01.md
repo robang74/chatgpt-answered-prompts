@@ -1,6 +1,6 @@
 ## ChatGPT vs Paolo Benanti
 
-Questo articolo dovrebbe appartenere ad una collezione recentemente creata **chatbot for fun** e probabilmente verrà spostao in quella.
+Questo articolo dovrebbe appartenere ad una collezione recentemente creata [chatbot for fun](https://github.com/robang74/chatbots-for-fun?tab=readme-ov-file#chatbots-for-fun) e probabilmente verrà spostao in quella.
 
 ### UPLOAD
 
