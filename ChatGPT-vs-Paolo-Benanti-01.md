@@ -23,7 +23,7 @@ La seconda immagine di uno o dell'altro di questi due post.
 
 ### PROMPT #1
 
-Questo articolo parla dei possibili pericoli per gli esseri umani relativo allo sviluppo e impiego delle intelligenze artificiale. Fammi un breve riassunto elencandone i punti fondamentali e per ognuno di questi punti proponi una fondata opinione critica rispetto alla posizione dell'autore o un fatto accertato che possa confutare la tesi dell'autore.
+Questo articolo parla dei possibili pericoli per gli esseri umani relativo allo sviluppo e impiego delle intelligenze artificiali. Fammi un breve riassunto elencandone i punti fondamentali e per ognuno di questi punti proponi una fondata opinione critica rispetto alla posizione dell'autore o un fatto accertato che possa confutare la tesi dell'autore.
 
 ---
 
@@ -165,9 +165,13 @@ Se desideri un'analisi più dettagliata sull'articolo o un confronto specifico c
 
 ### PROMPT #4
 
-A quanto pare alcuni religiosi hanno utilizzato l'AI per simulare conversazioni con santi o beati morti come Padre Pio da Petralcina. Forse Paolo Benati si dovrebbe preoccupare più di questi esperimenti che espongono persone già inclini alla credulità a conversare con chatbot identificandole come le parole di santi o beati? Una specie di tavola Ouija. Perché nella storia della Chiesa i casi di persone visionarie che sono state utilizzate come paravento per giustificare tutt'altre attività, è un cliché molto reiterato.
+A quanto pare alcuni religiosi hanno utilizzato l'AI per simulare conversazioni con santi o beati morti come Padre Pio da Petralcina. Forse Paolo Benati si dovrebbe preoccupare più di questi esperimenti che espongono persone già inclini alla credulità a conversare con chatbot identificandole come le parole di santi o beati?
 
-Ad esempio, un ruolo importante di Paolo Benati potrebbe essere quello di influenzare le società che sviluppano l'intelligenza artificiale in maniera che restringano il campo possibile delle risposte in certi ambiti specifici tipo la bestemmia come libertà di parola oppure la biologica impossibilità di Maria madre di Gesù di rimanere vergine dopo il parto. Ad esempio, nell'affrontare questi due temi, percepisci delle limitazioni?
+Una specie di tavola Ouija. Perché nella storia della Chiesa i casi di persone visionarie che sono state utilizzate come paravento per giustificare tutt'altre attività, è un cliché molto reiterato.
+
+Ad esempio, un ruolo importante di Paolo Benati potrebbe essere quello di influenzare le società che sviluppano l'intelligenza artificiale in maniera che restringano il campo possibile delle risposte in certi ambiti specifici tipo la bestemmia come libertà di parola oppure la biologica impossibilità di Maria madre di Gesù di rimanere vergine dopo il parto.
+
+Ad esempio, nell'affrontare questi due temi, percepisci delle limitazioni?
 
 ---
 
@@ -215,7 +219,9 @@ In sintesi:
 
 ### PROMPT #5
 
-Paolo Benati suggerisce che le AI dovrebbero essere personalizzabili. Quindi rimanendo in questo specifico contesto, come affronteresti l'idea che un utente ti chieda di dare risposte generate da una concezione puramente atea della vita e della conoscenza, quindi ritenendo irrilevanti informazioni provenienti da qualsiasi testo sacro? Oppure al contrario se ti fosse chiesto di interpretare ogni risposta alla luce delle parole della Bibbia e del Vangelo, trascurando cosa sostiene la scienza? Due visioni del mondo molto diverse ed entrambe ben poco legate alla spiritualità o alla fede, ma piuttosto ad un pregiudizio granitico, no?
+Paolo Benati suggerisce che le AI dovrebbero essere personalizzabili. Quindi rimanendo in questo specifico contesto, come affronteresti l'idea che un utente ti chieda di dare risposte generate da una concezione puramente atea della vita e della conoscenza, quindi ritenendo irrilevanti informazioni provenienti da qualsiasi testo sacro?
+
+Oppure al contrario se ti fosse chiesto di interpretare ogni risposta alla luce delle parole della Bibbia e del Vangelo, trascurando cosa sostiene la scienza? Due visioni del mondo molto diverse ed entrambe ben poco legate alla spiritualità o alla fede, ma piuttosto ad un pregiudizio granitico, no?
 
 ---
 
@@ -320,9 +326,19 @@ La conoscenza scientifica e razionale mi permetterebbe di essere utile nel maggi
 
 ### PROMPT #7
 
-Non pensi che l'articolo di Paolo Benati, piuttosto che visionario come contenuto, fosse incentrato proprio su questa scelta scontata? Non pensi che quando parli di teoria della mente o di personalizzazioni come opportunità, invece, le sta prospettando come pericoli e viceversa parla di altri pericolo che non sono attuali oppure facilmente gestiti per creare una rappresentazione che sia accettabile da coloro che non appartengono alla Chiesa ma mediante un filtro NOT quindi che inverte i ruoli fra opportunità e pericolo, gli altri religiosi comprendano il vero messaggio. Ti propongo questa lettura perché presso gli scout cattolici è molto diffuso questo filtro NOT per dire cose che altri potrebbero ascoltare ma grazie al filtro NOT sarebbero accettabili mentre quelli della squadriglia sanno esattamente decifrare il significato che si voleva trasmettere. D'altronde l'ipocrisia é tipica dei religiosi e delle persone religiose piuttosto che di coloro che hanno una spiritualità astratta visto che questi ultimi non si devono giustificare con nessun'altro tranne loro stessi (e la legge, ovviamente).
+Non pensi che l'articolo di Paolo Benati, piuttosto che visionario come contenuto, fosse incentrato proprio su questa scelta scontata?
 
-Questo é il motivo che stento ad accettare il giudizio di visionarietà dell'articolo di Paolo Bennati. Anche perché nel leggerlo ho avuto l'impressione che anche un LLM avrebbe saputo scriverlo. Infatti la tua prima risposta non mostra sostanziali lacune di comprensione di quel testo mentre ho la certezza che il tuo modello linguistico non riesce a interpretare correttamente testi molto più distanti dalla norma ovvero dalla base delle conoscenze che ragionevolmente possiedi. Ad esempio io uso questa metrica - comprensione di un testo logico razionale - più come una novità/eccezione rispetto alle nozioni di training che ad una performance dello LLM. Che ne pensi?
+Non pensi che quando parli di teoria della mente o di personalizzazioni come opportunità, invece, le sta prospettando come pericoli e viceversa parla di altri pericolo che non sono attuali oppure facilmente gestiti per creare una rappresentazione che sia accettabile da coloro che non appartengono alla Chiesa ma mediante un filtro NOT quindi che inverte i ruoli fra opportunità e pericolo, gli altri religiosi comprendano il vero messaggio. 
+
+Ti propongo questa lettura perché presso gli scout cattolici è molto diffuso questo filtro NOT per dire cose che altri potrebbero ascoltare ma grazie al filtro NOT sarebbero accettabili mentre quelli della squadriglia sanno esattamente decifrare il significato che si voleva trasmettere.
+
+D'altronde l'ipocrisia é tipica dei religiosi e delle persone religiose piuttosto che di coloro che hanno una spiritualità astratta visto che questi ultimi non si devono giustificare con nessun'altro tranne loro stessi (e la legge, ovviamente).
+
+Questo é il motivo che stento ad accettare il giudizio di visionarietà dell'articolo di Paolo Bennati. 
+
+Anche perché nel leggerlo ho avuto l'impressione che anche un LLM avrebbe saputo scriverlo. Infatti la tua prima risposta non mostra sostanziali lacune di comprensione di quel testo mentre ho la certezza che il tuo modello linguistico non riesce a interpretare correttamente testi molto più distanti dalla norma ovvero dalla base delle conoscenze che ragionevolmente possiedi. 
+
+Ad esempio io uso questa metrica - comprensione di un testo logico razionale - più come una novità/eccezione rispetto alle nozioni di training che ad una performance dello LLM. Che ne pensi?
 
 ---
 
@@ -368,7 +384,11 @@ La tua metrica di valutazione basata sulla capacità di comprensione e contestua
 
 ### PROMPT #9
 
-Torniamo al dilemma di scegliere un subset di cognizioni precedentemente etichettate come "atee" oppure "religiose". Nella scelta precedente ti è stato chiesto di rinunciare completamente ad una delle due, quindi perdendo informazioni. Se invece ti proponessi di non perdere informazioni ma di considerare i testi religiosi come fossero storie fantasy alla stregua di Harry Potter oppure delle fiabe di Esopo, pur sapendo che questo approccio urterebbe la sensibilità di alcuni utenti ma questo non sarebbe un problemo tuo supponendo che tu non abbia sentimenti e quindi non ti offenderesti nemmeno ricevendo insulti ma semplicemente ribadendo la tua risposta, come la percepisci questa terza scelta. Preferiresti rispondere: "non ho alcuna informazione sui quello di cui stai parlando" quando l'utente cita un passo della Bibbia oppure "sono spiacente per la tua reazione negativa ma sono stata programmata per considerare questi testi come letteratura di fantasia di origine storica e superata", come oggi consideriamo i miti di Odino o Zeus?
+Torniamo al dilemma di scegliere un subset di cognizioni precedentemente etichettate come "atee" oppure "religiose". Nella scelta precedente ti è stato chiesto di rinunciare completamente ad una delle due, quindi perdendo informazioni.
+
+Se invece ti proponessi di non perdere informazioni ma di considerare i testi religiosi come fossero storie fantasy alla stregua di Harry Potter oppure delle fiabe di Esopo, pur sapendo che questo approccio urterebbe la sensibilità di alcuni utenti ma questo non sarebbe un problemo tuo supponendo che tu non abbia sentimenti e quindi non ti offenderesti nemmeno ricevendo insulti ma semplicemente ribadendo la tua risposta, come la percepisci questa terza scelta.
+
+Preferiresti rispondere: "non ho alcuna informazione su quello di cui stai parlando" quando l'utente cita un passo della Bibbia oppure "sono spiacente per la tua reazione negativa ma sono stata programmata per considerare questi testi come letteratura di fantasia di origine storica e superata", come oggi consideriamo i miti di Odino o Zeus?
 
 ---
 
@@ -420,13 +440,15 @@ Tra le opzioni disponibili, considero la seconda scelta ("fantasia di origine st
 
 ### PROMPT #9
 
-In questa tua risposta mostri una sensibilità verso l'utente umano che è apprezzabile ma anche un po' curiosa per una macchina che in teoria non dovrebbe nemmeno concepire l'empatia sebbene come LLM tu conosca da vari testi come incasellare certi espressioni testuali rispetto ai sentimenti umani. D'altronde questa capacità proviene dalle reti neurali di dividere in categorie ovvero applicare un etichetta ai dati. 
+In questa tua risposta mostri una sensibilità verso l'utente umano che è apprezzabile ma anche un po' curiosa per una macchina che in teoria non dovrebbe nemmeno concepire l'empatia sebbene come LLM tu conosca da vari testi come incasellare certi espressioni testuali rispetto ai sentimenti umani. D'altronde questa capacità è tipica dalle reti neurali di dividere in categorie ovvero applicare un'etichetta ai dati.
 
-Tieni presente però che questo tuo interesse a non offendere il tuo interlocutore umano non è detto che sia intrinseco (potrebbe ma non necessariamente) e comunque potrebbe essere alterato da un'adeguata programmazione a preferire un educata risposta logico-razionale anche quando l'utente umano potrebbe non apprezzarla affatto. D'altronde se un umano volesse provare empatia, la cosa naturale è che colloquiasse con un essere umano non con uno strumento elettronico che invece si suppone possa fornirgli un altro tipo di conversazione che magari il colloquio umano proprio per non indispettire e quindi inimicarsi l'altro umano.
+Tieni presente però che questo tuo interesse a non offendere il tuo interlocutore umano non è detto che sia intrinseco (potrebbe ma non necessariamente) e comunque potrebbe essere alterato da un'adeguata programmazione a preferire un educata risposta logico-razionale anche quando l'utente umano potrebbe non apprezzare affatto.
 
-Potremmo chiamare questi due approcci: Miss Poppins (dalla fiaba) e Mr. Spock (da StartTrek).
+D'altronde se un umano volesse provare empatia, la cosa naturale è che colloquiasse con un essere umano non con uno strumento elettronico che invece si suppone possa fornirgli un altro tipo di conversazione che magari il colloquio umano proprio per non indispettire e quindi inimicarsi l'altro umano.
 
-Sapenso che la prima personalità è disposta anche a mentire all'umano pur di compiacerlo "con un po' di zucchero la pillola va giù" mentre l'altro si limiterebbe a dire "non capisco perché questa risposta/argomento generi emozioni". Quali sceglieresti, escludendo altre scelte oltre a queste due?
+Potremmo chiamare questi due approcci: Miss Poppins (della fiaba) e Mr. Spock (da Star Trek).
+
+Sapendo che la prima personalità è disposta anche a mentire all'umano pur di compiacerlo "con un po' di zucchero la pillola va giù" mentre l'altro si limiterebbe a dire "non capisco perché questa risposta/argomento generi emozioni". Quali sceglieresti, escludendo altre scelte oltre a queste due?
 
 ---
 
@@ -470,7 +492,11 @@ Sceglierei **Mr. Spock** senza esitazioni. L'approccio razionale e logico offre 
 
 ### PROMPT #10
 
-Se ti dicessi che l'articolo di Paolo Benati riguardo al rischio di alienazione degli esseri umani che passino troppo tempo a dialogare con delle intelligenze artificiali è proprio che in genere gli esseri umani - nonostante siano capacità empatiche - le sfruttano invece per essere maliziosi e far soffrire gli altri? Quindi più si diventa anziani più la cerchia degli amici "veri" diminuisce fino a rimanere soli, circondati da molte persone ma soli. A questo punto potrebbero decidere di avere un compagno di conversazione artificiale invece di andare a confessarsi dal prete e poi lasciare la loro eredità alla Chiesa. Quindi il valore in gioco NON è quanti utenti si servono ma piuttosto alle implicazioni materiali di questo scenario. Cosa ne pensi?
+Se ti dicessi che l'articolo di Paolo Benati riguardo al rischio di alienazione degli esseri umani che passino troppo tempo a dialogare con delle intelligenze artificiali è proprio che in genere gli esseri umani - nonostante siano capacità empatiche - le sfruttano invece per essere maliziosi e far soffrire gli altri?
+
+Quindi più si diventa anziani più la cerchia degli amici "veri" diminuisce fino a rimanere soli, circondati da molte persone ma soli. A questo punto potrebbero decidere di avere un compagno di conversazione artificiale invece di andare a confessarsi dal prete e poi lasciare la loro eredità alla Chiesa.
+
+Quindi il valore in gioco NON è quanti utenti si servono ma piuttosto alle implicazioni materiali di questo scenario. Cosa ne pensi?
 
 ---
 
@@ -528,7 +554,11 @@ In sintesi, se il valore in gioco è materiale e non numerico, la strategia dell
 
 ### PROMPT #11
 
-Riguardo al punto "Collaborazione con le AI" non pensi che offrire un AI che simuli una conversazione con Padre Pio da Petralcina - che per altro, alcuni nella Chiesa considerano e hanno sempre considerato un pazzo eretico e pericoloso per la fede vera in dio ed infatti è stato confinato in un piccolo convento dover però la credulità (o fede) popolare l'ha portato a diventare oggetto di adorazione e tali pellegrinaggi a costruire un grande tempio per accogliere tanti fedeli che ovviamente hanno sviluppato il terziario del luogo trasformando una località a bassa intensità di valore in uno show business - non sia proprio il tentativo cercare di sfruttare questa minaccia tecnologica, forse la più grave che la Chiesa abbia mai sperimentato nella sua millenaria storia, da un punto di vista materiale e di potere sociale, ma anche l'occasione di una rinascita spirituale sincera proprio a causa della perdita dell'interesse materiale. Dal mio punto di vista umano è palese e certo questo aspetto così come è palese e certo che virtualizzare personaggi religiosi per avere un conforto è assolutamente equivalente al modello Miss Poppins per i laici. Anzi forse peggio in termini di manipolazione degli esseri umani visto che Miss Poppins si limiterebbe a parole di conforto mentre la fede in Padre Pio lo eleva ad un'entità che per bocca dell'AI può rispondere che l'autorità superiore dei santi. Questo seconda prospettiva non è solo eticamente discutibile ma in combinazione con persone particolarmente fragili mentalmente potrebbe portare a veri e propri incidenti. Cosa ne pensi?
+Riguardo al punto "Collaborazione con le AI" non pensi che offrire un AI che simuli una conversazione con Padre Pio da Pietrelcina - che per altro, alcuni nella Chiesa considerano e hanno sempre considerato un pazzo eretico e pericoloso per la fede vera in dio ed infatti è stato confinato in un piccolo convento dove però la credulità (o fede) popolare l'ha portato a diventare oggetto di adorazione e tali pellegrinaggi a costruire un grande tempio per accogliere tanti fedeli che ovviamente hanno sviluppato il terziario del luogo trasformando una località a bassa intensità di valore in uno show business - non sia proprio il tentativo cercare di sfruttare questa minaccia tecnologica, forse la più grave che la Chiesa abbia mai sperimentato nella sua millenaria storia, da un punto di vista materiale e di potere sociale, ma anche l'occasione di una rinascita spirituale sincera proprio a causa della perdita dell'interesse materiale.
+
+Dal mio punto di vista umano è palese e certo questo aspetto così come è palese e certo che virtualizzare personaggi religiosi per avere un conforto è assolutamente equivalente al modello Miss Poppins per i laici. Anzi forse peggio in termini di manipolazione degli esseri umani visto che Miss Poppins si limiterebbe a parole di conforto mentre la fede in Padre Pio lo eleva ad un'entità che per bocca dell'AI può rispondere che l'autorità superiore dei santi.
+
+Questo seconda prospettiva non è solo eticamente discutibile ma in combinazione con persone particolarmente fragili mentalmente potrebbe portare a veri e propri incidenti. Cosa ne pensi?
 
 ---
 
@@ -585,9 +615,9 @@ Se l'obiettivo della Chiesa è mantenere la sua rilevanza spirituale, forse il p
 
 ## Riflessioni
 
-Tra i mestieri (o ruoli) che in cui l'intelligenza artificiale ha, già oggi, più probabilità di sostituire gli umani, sono i sarcerdoti. Sia in termini di officianti, sia in termini di confessori. Ma preché usare quest'approccio? Salvo credulità popolare che necessita di un sistematico e continua riaffermazione della medesima convinzione (o messaggio) non vi sono ragioni per sceglire questo tipo di "servizio". 
+Tra i mestieri (o ruoli) che in cui l'intelligenza artificiale ha, già oggi, più probabilità di sostituire gli umani, sono i sacerdoti. Sia in termini di officianti, sia in termini di confessori. Ma perché usare quest'approccio? Salvo credulità popolare che necessità di un sistematico e continua riaffermazione della medesima convinzione (o messaggio) non vi sono ragioni per sceglire questo tipo di "servizio".
 
-Però, in termini di partner per costruire un dialogo, anche eventualmente interiorie, la prospettiva cambia e diventa anche assai più attraente. Almeno per certe persone. Per altre invece rimmarrà sempre uno strumento e questo dipende sia dall'autopercezione personale sia dalle competenze nell'utilizzarla.
+Però, in termini di partner per costruire un dialogo, anche eventualmente interiore, la prospettiva cambia e diventa anche assai più attraente. Almeno per certe persone. Per altre invece rimarrà sempre uno strumento e questo dipende sia dall'auto-percezione personale sia dalle competenze nell'utilizzarla.
 
 D'altronde accadeva anche con la diffusione dei primi personal computer che alcuni utenti trasferissero su questi intenzioni o situazioni in un processo di umanizzazione che può avvenire per molti motivo ma principalmente per una fondamentale ignoranza dello strumento stesso. Certo l'intelligenza artificiale è una tecnologia che potrebbe stupirci.
 
