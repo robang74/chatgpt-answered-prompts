@@ -2,11 +2,31 @@
 
 In questo documento si utilizza il chatbot per analizzare un commento fatto in inglese che apparentemente non aveva alcuna relazione con l'argomento riferito nel titolo di questo documento. Solo apparentemente però perché la relazione fra propaganda e sistema educativo è molto profonda, anche se non così evidente. D'altronde è noto quel detto che afferma che il pesce non percepisce l'acqua, così come noi non percepiamo l'aria come la libertà finché non ci vengono a mancare.
 
+### Q&A DIALOG
+
 Quindi immediatamente dopo l'analisi del commento si procede con lo sviluppo di una sessione di domande e risposte. Si noti però che le domande, nemmeno la prima riguardo al commento, sono brevi e puramente interrogative. Anzi, sono molto informative e la domanda è quasi una formalità di cortesia. Questo è un modo pratico per continuare a fornire input al chatbot dirigendo la conversazione e restringendola a quell'argomento specifico - o aspetto di un argomento - che ci interessa.
 
 Ovviamente é possibile fare anche l'opposto e allargare un dato argomento. In effetti, in questo dialogo è stato fatto con il prompt #9, limitandosi a chiedere cosa non fosse stato ancora considerato fino a quel momento. La lista delle cose emerse però - in un contesto reale, di cui il chatbot non ha esperienza - erano già implicitamente incluse.
 
 Così nello spiegare come nella realtà questi sette elementi fossero già inclusi il chatbot ha dimostrato nell'ultima risposta #10 di aver raggiunto il limite della sua utilità. In definitiva il ragionamento ha avuto un procedere lineare e solido, in cui il primo prompt è stato un incipit quasi di pretesto (rompere il ghiaccio) e l'ultima risposta, il naturale esaurimento dell'argomento.
+
+### UPLOAD
+
+none
+
+### CUSTOMISATION
+
+none
+
+### NOTES
+
+L'ultima risposta del chatbot é stata successivamente al primo commit ridotta preferendo la fludità di lettura ad informazioni non rilevanti.
+
+### COPYRIGHT
+
+&copy; 2024, Roberto A. Foglietta &lt;&nbsp;roberto.foglietta&nbsp;&#64;&nbsp;gmail.com&nbsp;&gt;, CC BY-SA 4.0
+
+This document is entirely published under *Creative Commons Attribution Non-Commercial No-Derivatives 4.0 International* license terms ([CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)) included the part above this statement. Moreover, if a version of this document exists or has existed under different licence terms, the licence terms of the latest version available on `github/robang74` [repository](https://github.com/robang74/chatgpt-answered-prompts/) apply. Even when the new licence terms are more restrictive, because permissions for any free content may be revoked at any time at the will of the author, and updating a licence to be more restrictive explicitly implies this will.
 
 <br/>
 
@@ -692,9 +712,3 @@ La critica che l'educazione sia troppo astratta e non prepari al lavoro è in pa
 Però, il chatbot é stato estremamente utile per mettere insieme l'impalcatura, portare nel quadro ulteriori informazioni, permettere di sviluppare un ragionamento attraverso un dialogo in maniera da creare un confronto, oltre alla straordinaria velocità di scrittura.
 
 Quindi ancora una volta questro strumento si dimostra come quella novità che permette di scrivere velocemente un testo, frutto di un pensiero maturato nel tempo, talvolta negli anni, e che ad un certo punto si materializza perché il chatbot velocizza tutti quei processi di ricerca lessicale e revisione di bozza che sono lenti e di una noia mortale.
-
-<br/>
-
-## Copyright
-
-&copy; 2024, Roberto A. Foglietta &lt;&nbsp;roberto.foglietta&nbsp;&#64;&nbsp;gmail.com&nbsp;&gt;, CC BY-SA 4.0
