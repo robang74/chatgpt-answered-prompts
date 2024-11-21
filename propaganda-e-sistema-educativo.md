@@ -1,6 +1,12 @@
 ## Propaganda e sistema educativo
 
-Bozza in seconda stesura, appena formattata ma non ancora adattata al modello Q&A standard degli altri documenti.
+In questo documento si utilizza il chatbot per analizzare un commento fatto in inglese che apparentemente non aveva alcuna relazione con l'argomento riferito nel titolo di questo documento. Solo apparentemente però perché la relazione fra propaganda e sistema educativo è molto profonda, anche se non così evidente. D'altronde è noto quel detto che afferma che il pesce non percepisce l'acqua, così come noi non percepiamo l'aria come la libertà finché non ci vengono a mancare.
+
+Quindi immediatamente dopo l'analisi del commento si procede con lo sviluppo di una sessione di domande e risposte. Si noti però che le domande, nemmeno la prima riguardo al commento, sono brevi e puramente interrogative. Anzi, sono molto informative e la domanda è quasi una formalità di cortesia. Questo è un modo pratico per continuare a fornire input al chatbot dirigendo la conversazione e restringendola a quell'argomento specifico - o aspetto di un argomento - che ci interessa.
+
+Ovviamente é possibile fare anche l'opposto e allargare un dato argomento. In effetti, in questo dialogo è stato fatto con il prompt #9, limitandosi a chiedere cosa non fosse stato ancora considerato fino a quel momento. La lista delle cose emerse però - in un contesto reale, di cui il chatbot non ha esperienza - erano già implicitamente incluse.
+
+Così nello spiegare come nella realtà questi sette elementi fossero già inclusi il chatbot ha dimostrato nell'ultima risposta #10 di aver raggiunto il limite della sua utilità. In definitiva il ragionamento ha avuto un procedere lineare e solido, in cui il primo prompt è stato un incipit quasi di pretesto (rompere il ghiaccio) e l'ultima risposta, il naturale esaurimento dell'argomento.
 
 <br/>
 
