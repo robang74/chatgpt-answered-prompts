@@ -101,7 +101,7 @@ Il tuo paragone con il Medioevo e la verità rivelata è calzante. La struttura 
 
 ### PROMPT #4
 
-In un video di propaganda del sistema educativo cinese, indirizzato agli occidentali - una propaganda piacevole nel senso che presentava il loro modello educativo come bucolico e felice, senza attriti, ma d'altronde potremmo usare la parola pubblicità piuttosto che propaganda, perché in effetti praticamente ogni prodotto e servizio commercializzato viene presentato con quegli schemi - venivano valorizzate le attività manuali nell'apprendimento scolastico. Si vedevano dei bambini piccoli, maschi e femmine, che svolgevano attività domestiche tipo bollire un uovo o cucire un vestito, etc. La parte impressionante é che queste attività che un tempo erano molto comuni, oggi in occidente, non solo non le fanno più i bambini ma sempre più spesso nemmeno gli adolescenti o gli adulti che delegano queste attività ai domestici. Quanto pensi queste attività così come piccoli lavori di falegnameria o simili possano influire sull'equilibrato sviluppo cognitivo? Più in generale, quanto realmente l'homo sapiens sapiens è tale per il suo cervello piuttosto che per il suo pollice opponibile nelle mani? 
+In un video di propaganda del sistema educativo cinese, indirizzato agli occidentali - una propaganda piacevole nel senso che presentava il loro modello educativo come bucolico e felice, senza attriti, ma d'altronde potremmo usare la parola pubblicità piuttosto che propaganda, perché in effetti praticamente ogni prodotto e servizio commercializzato viene presentato con quegli schemi - venivano valorizzate le attività manuali nell'apprendimento scolastico. Si vedevano dei bambini piccoli, maschi e femmine, che svolgevano attività domestiche tipo bollire un uovo o cucire un vestito, etc. La parte impressionante é che queste attività che un tempo erano molto comuni, oggi in occidente, non solo non le fanno più i bambini ma sempre più spesso nemmeno gli adolescenti o gli adulti che delegano queste attività ai domestici. Quanto pensi queste attività così come piccoli lavori di falegnameria o simili possano influire su l'equilibrato sviluppo cognitivo? Più in generale, quanto realmente l'homo sapiens sapiens è tale per il suo cervello piuttosto che per il suo pollice opponibile nelle mani? 
 
 ---
 
@@ -167,7 +167,7 @@ L’homo sapiens è il prodotto di un’evoluzione che ha intrecciato il cervell
 
 ### PROMPT #5
 
-Quanto lo sport può compensare questa mancanza di attività pratica. Perché lo sport è anche competizione oppure lavoro di squadra ma non è attività specificatamente essenziale come il cucinarsi un uovo, o rammendarsi un orlo. Lo sport aiuta a sviluppare fiducia in noi stessi e le capacità sensoriali motorie, ma le attività pratiche sviluppano in noi la consapevolezza di saper gestire la realtà, il quotidiano e badare a noi stessi senza che si abbia la necessità di qualcuno che ci sproni o ci sfidi o dal quale siamo dipendenti. Sotto questo punto di vista sport e attività manuali sono complementari e accessorie ma non completamente sovrapponibili ed equivalenti quindi entrambe necessarie. Che ne pensi?
+Quanto lo sport può compensare questa mancanza di attività pratica. Perché lo sport è anche competizione oppure lavoro di squadra ma non è attività specificatamente essenziale come il cucinare un uovo, o rammendare un orlo. Lo sport aiuta a sviluppare fiducia in noi stessi e le capacità sensoriali motorie, ma le attività pratiche sviluppano in noi la consapevolezza di saper gestire la realtà, il quotidiano e badare a noi stessi senza che si abbia la necessità di qualcuno che ci sproni o ci sfidi o dal quale siamo dipendenti. Sotto questo punto di vista sport e attività manuali sono complementari e accessorie ma non completamente sovrapponibili ed equivalenti quindi entrambe necessarie. Che ne pensi?
 
 ---
 
@@ -421,7 +421,7 @@ In un’educazione completa, i giochi di ruolo meritano di essere integrati come
 
 ### PROMPT #8
 
-Quanto pensi possa lo scoutismo laico - laico perché in un mondo multiculturale lo scautismo cristiano molto comune in certi paesi come l'Italia creerebbe delle esclusioni o degli attriti sociali - possa essere un'attività formativa complementare a questo modello Montessori integrato? Considerando che non é necessario che lo scoutismo debba essere previsto fin dalla scuola primaria ma magari fra i 14 e i 18 anni, come un'alternativa al servizio militare e a quello civile, quinidi entro certi limiti anche obbligatorio, per far maturare nell adolescenza sia la disciplina sia la capacità di gestirsi in ambienti non urbani e anche potenzialmente selvaggi come campi in boschi lontani oppure in attività come arrampicate, esplorazioni delle grotte, etc?
+Quanto pensi possa lo scoutismo laico - laico perché in un mondo multiculturale lo scautismo cristiano molto comune in certi paesi come l'Italia creerebbe delle esclusioni o degli attriti sociali - possa essere un'attività formativa complementare a questo modello Montessori integrato? Considerando che non é necessario che lo scoutismo debba essere previsto fin dalla scuola primaria ma magari fra i 14 e i 18 anni, come un'alternativa al servizio militare e a quello civile, quindi entro certi limiti anche obbligatorio, per far maturare nell adolescenza sia la disciplina sia la capacità di gestirsi in ambienti non urbani e anche potenzialmente selvaggi come campi in boschi lontani oppure in attività come arrampicate, esplorazioni delle grotte, etc?
 
 ---
 
@@ -621,13 +621,13 @@ L'educazione finanziaria, economica e gestionale presuppone il concetto di do-ut
 
 L'educazione alla multiculturalità, in alcuni paesi come l'Italia è già implicita, perché ci sono molti immigrati e quindi molti figli di immigrati. Anche l'integrazione fra di essi riguarda più i genitori che i bambini, che per loro natura sono aperti alle novità e curiosi, quando non vengono indottrinati per comportarsi o pensare diversamente. Quindi su questo punto, il sistema educativo deve lavorare sui genitori piuttosto che sui bambini e il resto verrà da sé.
 
-Quello delle competenze emotivo è un ambito estremamente delicato che potrebbe creare enormi conflitti fra scuola e genitori. Anche in questo caso, il sistema educativo deve agire più sull'ambiente familiare che sui bambini. Salvo casi molto particolari che allora richiedono interventi di sostegno, servizi sociali e psicologi, etc. Ma questi esistono e in teoria dovrebbero funzionare, quindi concentriamoci sugli aspetti principali. E meglio trattare le eccezioni come tali piuttosto che complicare inutilmente il sistema educativo e quindi renderlo più costoso e quindi meno efficiente.
+Quello delle competenze emotivo è un ambito estremamente delicato che potrebbe creare enormi conflitti tra scuola e genitori. Anche in questo caso, il sistema educativo deve agire più sull'ambiente familiare che sui bambini. Salvo casi molto particolari che allora richiedono interventi di sostegno, servizi sociali e psicologi, etc. Ma questi esistono e in teoria dovrebbero funzionare, quindi concentriamoci sugli aspetti principali. E meglio trattare le eccezioni come tali piuttosto che complicare inutilmente il sistema educativo e quindi renderlo più costoso e quindi meno efficiente.
 
 Il rispetto dell'ambiente come quello civico si impara in famiglia e a scuola. Quello per la natura si impara principalmente vivendo la natura. Quindi avendo la possibilità di entrare in contatto con animali. Per esempio potrebbe esserci il cane e il gatto della scuola. Principalmente però la gestione del footprint ecologico lo sposterei nelle attività dello scoutismo settimanale nella fascia 14-18 così da coniugare teoria con pratica. Uguale per l'impegno e la responsabilità civica.
 
 L'apprendimento personalizzabile e adattabile, si aggancia con il metodo Montessori e più avanti nei gradi scolastici successivi nella possibilità per gli alunni di scegliersi entro certi limiti i piani di studio per valorizzare i loro talenti o inclinazioni naturali. D'altronde dalle primarie al post-dottorato, i percorsi di studi passano da generici a specialistici, quindi sotto questo aspetto non mi pare una novità. Il mentoring si ha nello sport, e nello scoutismo. Che sono due contesti in cui le attività di gruppo e sociali permettono di inquadrare meglio la personalità.
 
-Trovi questa collocazione dei setti punti corretta? Milgiorabile? E in tal caso come? Tieni presente che le ore di scuola e gli anni di scuola non sono infiniti e nemmeno le risorse del sistema educative lo sono. Quindi necessariamente di deve fare dei compromessi.
+Trovi questa collocazione dei setti punti corretta? Migliorabile? E in tal caso come? Tieni presente che le ore di scuola e gli anni di scuola non sono infiniti e nemmeno le risorse del sistema educativo lo sono. Quindi necessariamente di deve fare dei compromessi.
 
 ---
 
@@ -711,13 +711,13 @@ La tua proposta di collocare le attività educative per fascia d’età è solid
 
 ## Riflessioni
 
-Nell'ultima risposta il chatbot ha dimostrato di aver raggiunto il limite della sua capacità cognitiva. Si ripete, entrando in dettagli che però sono marginalmente significativi e che dovrebbero essere lasciati al giudizione dell'essere umano o del contesto reale.
+Nell'ultima risposta il chatbot ha dimostrato di aver raggiunto il limite della sua capacità cognitiva. Si ripete, entrando in dettagli che però sono marginalmente significativi e che dovrebbero essere lasciati al giudizio dell'essere umano o del contesto reale.
 
-In particolare, riguardo a quest'ultimo si percepisce chiaramente il suo difetto di esperienza del contesto reale quando propone una pre-digitalizzazione dai 6-12 anni quando fino ai 12 anni, é all'interno della famiglia l'opera maggiore da effettuare per convicere i genitori a non dare il loro cellulare ai figli, non comprargli console (o solo la domenica per due ore al massimo e con la presenza di un adulto, per esempio), di non tenere la TV accesa specialmente quando si mangia, etc.
+In particolare, riguardo a quest'ultimo si percepisce chiaramente il suo difetto di esperienza del contesto reale quando propone una pre-digitalizzazione dai 6-12 anni quando fino ai 12 anni, é all'interno della famiglia l'opera maggiore da effettuare per convincere i genitori a non dare il loro cellulare ai figli, non comprargli console (o solo la domenica per due ore al massimo e con la presenza di un adulto, per esempio), di non tenere la TV accesa specialmente quando si mangia, etc.
 
 Però, il chatbot é stato estremamente utile per mettere insieme l'impalcatura, portare nel quadro ulteriori informazioni, permettere di sviluppare un ragionamento attraverso un dialogo in maniera da creare un confronto, oltre alla straordinaria velocità di scrittura.
 
-Quindi ancora una volta questro strumento si dimostra come quella novità che permette di scrivere velocemente un testo che nellà é frutto di un pensiero maturato nel tempo, talvolta negli anni e che ad un certo punto si materializza perché il chatbot velocizza tutti quei processi di ricerca lessicale e revisione di bozza che sono lenti e di una noia mortale.
+Quindi ancora una volta questro strumento si dimostra come quella novità che permette di scrivere velocemente un testo, frutto di un pensiero maturato nel tempo, talvolta negli anni, e che ad un certo punto si materializza perché il chatbot velocizza tutti quei processi di ricerca lessicale e revisione di bozza che sono lenti e di una noia mortale.
 
 <br/>
 
