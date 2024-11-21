@@ -579,3 +579,18 @@ Se l'uso di AI per simulare figure religiose diventa una realtà, è essenziale 
 La virtualizzazione di figure religiose come Padre Pio rappresenta una tentazione per la Chiesa, ma è un’arma a doppio taglio. Potrebbe attrarre nuovi fedeli e risorse, ma al prezzo di snaturare la fede stessa, trasformandola in una simulazione manipolatoria e pericolosa. 
 
 Se l'obiettivo della Chiesa è mantenere la sua rilevanza spirituale, forse il percorso più saggio è quello di non cedere a questa tentazione, ma di utilizzare l'AI per educare, accompagnare e promuovere un'etica condivisa, senza sostituirsi a ciò che rende unica la relazione tra l'essere umano e il trascendente.
+
+<br/>
+<br/>
+
+## Riflessioni
+
+Tra i mestieri (o ruoli) che in cui l'intelligenza artificiale ha, già oggi, più probabilità di sostituire gli umani, sono i sarcerdoti. Sia in termini di officianti, sia in termini di confessori. Ma preché usare quest'approccio? Salvo credulità popolare che necessita di un sistematico e continua riaffermazione della medesima convinzione (o messaggio) non vi sono ragioni per sceglire questo tipo di "servizio". 
+
+Però, in termini di partner per costruire un dialogo, anche eventualmente interiorie, la prospettiva cambia e diventa anche assai più attraente. Almeno per certe persone. Per altre invece rimmarrà sempre uno strumento e questo dipende sia dall'autopercezione personale sia dalle competenze nell'utilizzarla.
+
+D'altronde accadeva anche con la diffusione dei primi personal computer che alcuni utenti trasferissero su questi intenzioni o situazioni in un processo di umanizzazione che può avvenire per molti motivo ma principalmente per una fondamentale ignoranza dello strumento stesso. Certo l'intelligenza artificiale è una tecnologia che potrebbe stupirci.
+
+Potrebbe stupirci e speriamo anche che lo faccia.
+
+
