@@ -1,6 +1,30 @@
 ## Valutazione di un nuovo modello monetario
 
-In questa conversazione viene valutato un nuovo modello monetario globale ad accesso neutrale, il cui valore della moneta è sostenuto da panieri di materie prime e metalli preziosi quindi valori materialmente concreti e da una riserva di bitcoin (la prima criptovaluta e anche quella che ha un limite massimo di emissione e il cui mining è valore-energia correlato) come serbatoio di compensazione delle fluttuazioni mentre gli scambi (saldo a fine contrattazioni o ad intervalli di tempo prefissati) fra i vari panieri e il mercato delle materie prime sarebbe gestito mediante la piattaforma Ethereum la quale piattaforma include gli smart-contracts che sono degli automatismi molto utili per gestire anche opzioni e futures. Lo scopo di questo modello è quello di evitare i conflitti bellici causati sia dall'indebita acquisizione delle risorse naturali sia dall'imposizione forzosa e unilaterale delle valute a corso legali senza collaterale associato.
+In questa conversazione viene valutato un nuovo modello monetario globale
+
+- ad accesso neutrale,
+- il cui valore della moneta è sostenuto da panieri di materie prime e metalli preziosi
+- quindi valori materialmente concreti
+- e da una riserva di [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin)¹ come serbatoio di compensazione delle fluttuazioni
+
+Gli scambi² fra i vari panieri e il mercato delle materie prime sarebbe gestito mediante la piattaforma [Ethereum](https://en.wikipedia.org/wiki/Ethereum) la quale piattaforma include anche gli smart-contracts che sono degli automatismi molto utili per gestire anche opzioni e futures. 
+
+<sub>
+
+<br/>
+
+- 1 - la prima criptovaluta e anche quella che ha un limite massimo di emissione e il cui mining è valore-energia correlato.
+
+<br/>
+
+- 2 - saldo a fine contrattazioni o ad intervalli di tempo prefissati.
+
+<br/>
+
+</sub>
+
+Lo scopo di questo modello monetario è quello di evitare i conflitti bellici causati sia dall'indebita acquisizione delle risorse naturali sia dall'imposizione forzosa e unilaterale delle valute a corso legali senza collaterale associato.
+
 
 ### UPLOAD
 
