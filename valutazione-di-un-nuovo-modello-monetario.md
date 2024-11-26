@@ -26,6 +26,11 @@ Gli scambi² fra i vari panieri e il mercato delle materie prime sarebbe gestito
 Lo scopo di questo modello monetario è quello di evitare i conflitti bellici causati sia dall'indebita acquisizione delle risorse naturali sia dall'imposizione forzosa e unilaterale delle valute a corso legali senza collaterale associato.
 
 
+### Q&A DIALOG
+
+In this case, it is not a single prompt but a dialog: a series of answered questions with aim described in the section above. Prompts and the related answers are separated by horizontal lines. Few missing words have been added in the prompt queries just to help the English native speakers to quickly grab the meaning but for sake of correctness those words appear between [squared] parentheses.
+
+
 ### UPLOAD
 
 * [261-La_guerra_del_dollaro_contro_l_euro.pdf](https://raw.githubusercontent.com/robang74/chatgpt-answered-prompts/refs/heads/main/data/261-La_guerra_del_dollaro_contro_l_euro.pdf)
@@ -37,6 +42,11 @@ Lo scopo di questo modello monetario è quello di evitare i conflitti bellici ca
 * [quantitative-easing-drug-addiction-01.md](https://raw.githubusercontent.com/robang74/chatgpt-answered-prompts/refs/heads/main/quantitative-easing-drug-addiction-01.md)
 
 * [euro-lira-la-natura-della-moneta.txt](https://raw.githubusercontent.com/robang74/chatgpt-answered-prompts/refs/heads/main/data/euro-lira-la-natura-della-moneta.txt)
+
+
+### CUSTOMISATION
+
+none
 
 <br/>
 
