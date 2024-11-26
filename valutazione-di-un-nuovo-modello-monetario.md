@@ -94,15 +94,15 @@ Ai punti 1, 2 e 3 di cui sopra dai un rate da 0 (assolutamente confutato) a 10 (
 
 Ecco la valutazione per i punti 1, 2 e 3:
 
-1. **Natura della moneta e sistema bancario (Rating: 8)**
+1. Natura della moneta e sistema bancario **(Rating: 8)**
 
    Le teorie economiche accettate confermano che il sistema bancario si adatta alla natura della moneta. Un sistema basato su monete a riserva (es. standard aureo) richiede banche conservative. Con monete fiat, le banche espandono credito e rischio. La storia moderna, come l'abolizione dello standard aureo (1971), supporta questa correlazione.
 
-2. **Sistema finanziario e politiche monetarie (Rating: 9)**
+2. Sistema finanziario e politiche monetarie **(Rating: 9)**
 
    Gli strumenti finanziari e politiche come il QE sono un risultato diretto della natura fiat della moneta, evidenziato dalla crescita esponenziale della leva finanziaria. Ampiamente accettato e dimostrato dagli eventi post-2008.
 
-3. **Uso della forza per imporre monete (Rating: 7)**
+3. Uso della forza per imporre monete **(Rating: 7)**
 
    Esistono chiari esempi storici (es. petrodollaro, guerre economiche), ma è meno universalmente accettato. Le teorie geopolitiche lo sostengono, ma non è un assioma per tutte le situazioni.
    
@@ -132,11 +132,11 @@ Ai due paragrafi della risposta che hai dato fornisci un rate da 0 a 10, con la 
 
 Ecco il rating per i due paragrafi:
 
-1. **Influenza di Confindustria e progetto "Cina d'Europa" (Rating: 8)**
+1. Influenza di Confindustria e progetto "Cina d'Europa" **(Rating: 8)**
 
    La valutazione è basata su evidenze storiche. Confindustria sosteneva politiche industriali per rendere l'Italia competitiva nei settori a basso costo, con l'appoggio alla svalutazione della lira per favorire le esportazioni. Tuttavia, la globalizzazione ha reso questa strategia obsoleta, come confermato da molte analisi economiche.
 
-2. **Fallimento del modello in seguito all'euro e al WTO (Rating: 9)**
+2. Fallimento del modello in seguito all'euro e al WTO **(Rating: 9)**
 
    Il legame tra l'ingresso nell'euro e la difficoltà di competere con la Cina dopo il WTO è documentato. L'Italia, senza più leva sulla svalutazione, ha visto peggiorare la competitività di molte imprese, soprattutto in settori tradizionali. Ampiamente accettato nelle analisi economiche contemporanee.
 
@@ -152,15 +152,15 @@ Riguardo al documento n.2, su una scala da 0 a 10, quanto ritieni che quel model
  
 Attribuire un punteggio preciso a un modello teorico richiede considerazioni su fattibilità tecnica, accettazione politica e sociale, oltre che su prove storiche. Tuttavia, possiamo analizzare i punti principali:
 
-1. **Riserve garantite da più stati e bitcoin come collaterale limitato**: (Rating: 8)
+1. Riserve garantite da più stati e bitcoin come collaterale limitato **(Rating: 8)**
 
    La scarsità del bitcoin e la diversificazione delle riserve (oro, materie prime) ridurrebbero il rischio di manipolazione e aumenterebbero la fiducia internazionale. Questo modello ha basi solide, ma l'adozione pratica dipenderebbe dalla volontà politica e dalla stabilità dei meccanismi di controllo.
 
-2. **Piattaforma Ethereum per scambi e smart contract**: (Rating: 7)
+2. Piattaforma Ethereum per scambi e smart contract **(Rating: 7)**
 
    L'uso di blockchain offre trasparenza e sicurezza. Tuttavia, problemi di scalabilità, governance decentralizzata e volatilità delle criptovalute potrebbero ostacolare un'adozione universale.
 
-3. **Prevenzione di guerre per imposizione monetaria**: (Rating: 6)
+3. Prevenzione di guerre per imposizione monetaria **(Rating: 6)**
 
    Un sistema neutrale potrebbe ridurre conflitti legati al predominio valutario. Tuttavia, potenze globali potrebbero continuare a preferire sistemi più controllabili, mantenendo potenziali tensioni.
 
@@ -186,15 +186,15 @@ Anche in questo caso, ignoriamo la naturale o culturale propensione alla violenz
 
 Valutando esclusivamente la teoria descritta e ignorando limiti tecnici o di volontà politica:
 
-1. **Riserve garantite da più stati e bitcoin come collaterale limitato**: **Rating: 9**
+1. Riserve garantite da più stati e bitcoin come collaterale limitato **(Rating: 9)**
 
    La proposta sfrutta una diversificazione tra beni materiali (oro, materie prime) e un asset digitale scarsamente inflazionabile (bitcoin). Teoricamente, ciò riduce i rischi sistemici e aumenta la resilienza del modello contro crisi legate a singoli beni o valute. La combinazione è bilanciata e adattabile.
 
-2. **Piattaforma Ethereum per scambi e smart contract**: **Rating: 8**
+2. Piattaforma Ethereum per scambi e smart contract **(Rating: 8)**
 
    La teoria di utilizzare contratti intelligenti per transazioni compensative intra-day è solida, grazie a trasparenza e sicurezza intrinseche. L'automazione ridurrebbe gli attriti operativi e aumenterebbe la fiducia reciproca.
 
-3. **Prevenzione di guerre per imposizione monetaria**: **Rating: 9**
+3. Prevenzione di guerre per imposizione monetaria **(Rating: 9)**
 
    Un modello neutrale basato su asset condivisi e accessibili a più stati ridurrebbe la necessità di conflitti per il controllo delle valute. Teoricamente, elimina il principale incentivo alla coercizione monetaria.
    
