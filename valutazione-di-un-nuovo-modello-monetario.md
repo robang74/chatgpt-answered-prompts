@@ -28,16 +28,17 @@ Lo scopo di questo modello monetario è quello di evitare i conflitti bellici ca
 
 ### UPLOAD
 
-* link 1
+* [261-La_guerra_del_dollaro_contro_l_euro.pdf](https://raw.githubusercontent.com/robang74/chatgpt-answered-prompts/refs/heads/main/data/261-La_guerra_del_dollaro_contro_l_euro.pdf)
 
-* link 2
+* [265-The_BRICS_financial_system_hope_or_WW3-rev2.pdf](https://raw.githubusercontent.com/robang74/chatgpt-answered-prompts/refs/heads/main/data/265-The_BRICS_financial_system_hope_or_WW3-rev2.pdf)
 
-* link 3
+* [278-The_paper_money_is_financial_communism.pdf](https://raw.githubusercontent.com/robang74/chatgpt-answered-prompts/refs/heads/main/data/278-The_paper_money_is_financial_communism.pdf)
 
-* link 4
+* [quantitative-easing-drug-addiction-01.md](https://raw.githubusercontent.com/robang74/chatgpt-answered-prompts/refs/heads/main/quantitative-easing-drug-addiction-01.md)
 
-* link 5
+* [euro-lira-la-natura-della-moneta.txt](https://raw.githubusercontent.com/robang74/chatgpt-answered-prompts/refs/heads/main/data/euro-lira-la-natura-della-moneta.txt)
 
+<br/>
 
 ### PROMPT #1
 
