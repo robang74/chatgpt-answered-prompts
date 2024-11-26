@@ -50,15 +50,15 @@ Acquisisci il contenuto documenti. Dei PDF ignora le immagini ed acquisiscine il
 
 Ora disponiamo dei seguenti contenuti:
 
-1. **"La guerra del dollaro contro l'euro"**
+1. **La guerra del dollaro contro l'euro**
 
-2. **"The BRICS financial system, hope or WW3"**
+2. **The BRICS financial system, hope or WW3**
 
-3. **"The paper money is financial communism"**
+3. **The paper money is financial communism**
 
-4. **"L'alleggerimento quantitativo della moneta è come la droga"**
+4. **L'alleggerimento quantitativo della moneta è come la droga**
 
-5. **"Sulla natura della moneta e il contesto pubblico vs privato"**
+5. **Sulla natura della moneta e il contesto pubblico vs privato**
 
 Puoi specificare un argomento o una sezione da approfondire, oppure desideri una panoramica generale su un tema specifico?
 
