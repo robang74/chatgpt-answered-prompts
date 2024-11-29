@@ -33,11 +33,11 @@ In this case, it is not a single prompt but a dialog: a series of answered quest
 
 ### UPLOAD
 
-* [261-La_guerra_del_dollaro_contro_l_euro.pdf](https://raw.githubusercontent.com/robang74/chatgpt-answered-prompts/refs/heads/main/data/261-La_guerra_del_dollaro_contro_l_euro.pdf)
+* [261-La_guerra_del_dollaro_contro_l_euro.txt](https://raw.githubusercontent.com/robang74/chatgpt-answered-prompts/refs/heads/main/data/261-La_guerra_del_dollaro_contro_l_euro.txt)
 
-* [265-The_BRICS_financial_system_hope_or_WW3-rev2.pdf](https://raw.githubusercontent.com/robang74/chatgpt-answered-prompts/refs/heads/main/data/265-The_BRICS_financial_system_hope_or_WW3-rev2.pdf)
+* [265-The_BRICS_financial_system_hope_or_WW3-rev2.txt](https://raw.githubusercontent.com/robang74/chatgpt-answered-prompts/refs/heads/main/data/265-The_BRICS_financial_system_hope_or_WW3-rev2.txt)
 
-* [278-The_paper_money_is_financial_communism.pdf](https://raw.githubusercontent.com/robang74/chatgpt-answered-prompts/refs/heads/main/data/278-The_paper_money_is_financial_communism.pdf)
+* [278-The_paper_money_is_financial_communism.txt](https://raw.githubusercontent.com/robang74/chatgpt-answered-prompts/refs/heads/main/data/278-The_paper_money_is_financial_communism.txt)
 
 * [quantitative-easing-drug-addiction-01.md](https://raw.githubusercontent.com/robang74/chatgpt-answered-prompts/refs/heads/main/quantitative-easing-drug-addiction-01.md)
 
