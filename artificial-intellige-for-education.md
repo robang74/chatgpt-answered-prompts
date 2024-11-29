@@ -530,7 +530,7 @@ My proposition is that among all religions, Buddhism is the one which name is we
 
 For example, the Dalai Lama interviewed about abortion said that he is against this practice but he also highlighted that it is a personal choice. When a future mother genuinely thinks that it is better to do a wrong thing today than causing sufference and long-lasting distress to the future born or something alike, then being an self-aware meditated choice can be acceptable.
 
-Under this point of view Buddhism is not constraining dogmatic religion but more an ethic and spiritual path for self-growing, self-awareness and achieving illumination. Including that has not a strict dogmatic description of god, can be complementary to other religions.
+Under this point of view Buddhism is not constraining dogmatic religion but more an ethic and spiritual path for self-growing, self-awareness and achieving illumination. Including that it has not a strict dogmatic description of god, can be complementary to other religions.
 
 There are people who are buddhist-christians or buddhist-islamic, but it is a bit rare. Because those who feel that Buddhism is the right path, usually are not very confident to mix it with more dogmatic indoctrinating faith. But the viceversa can work.
 
