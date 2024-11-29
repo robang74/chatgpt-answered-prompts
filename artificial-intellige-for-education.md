@@ -1,20 +1,20 @@
 ## Artificial Intelligence in education
 
-This conversation is the straightforwad continuation of this one
+This conversation is the straightforward continuation of this one
 
 - [chatgpt-vs-human-real-reasoning.md](https://github.com/robang74/chatbots-for-fun/blob/main/chatgpt-vs-human-real-reasoning.md) ([RAW](https://raw.githubusercontent.com/robang74/chatbots-for-fun/refs/heads/main/chatgpt-vs-human-real-reasoning.md))
 
-Literally its continuation because happens immediately after on the same session/account.
+Literally its continuation because it happened immediately after on the same session/account.
 
-However, because it deal with a slightly different topic, it is reported here below.
+However, because it deals with a slightly different topic, it is reported here below.
 
 <br/>
 
 ### PROMPT #3
 
-Consider this citation of Bertrand Russell (1872-1970), who said: “Humans are born ignorant, not stupid; they are made stupid by education.” and in the original was "Men" because used in neutral. 
+Consider this citation of Bertrand Russell (1872-1970), who said: “Humans are born ignorant, not stupid; they are made stupid by education.” and in the original was "Men" because it was used in neutral.
 
-Can we say that the idea people mind is corrupted by a faulty education system is quite well known among brilliant people of the past and recent past? Collect, such opinions along the history with the year of citation and born-death date of the author. Make a list of them, chronologically ordered
+Can we say that the idea that people's minds are corrupted by a faulty education system is quite well known among brilliant people of the past and recent past? Collect such opinions along the history with the year of citation and born-death date of the author. Make a list of them, chronologically ordered.
 
 ---
 
@@ -109,7 +109,7 @@ Across centuries, these thinkers have consistently expressed skepticism about th
 
 ### PROMPT #4
 
-In western history, mass education system never existed before industrial revolution. Hence Greeks author that you have cited were referring more about scholarly - a rich father that force a lazy son to study, despite a good teacher would not accept this imposition - rather than education system itself. Correct? 
+In western history, the mass education system never existed before the industrial revolution. Hence the ancient Greek authors that you have cited were referring more about scholarly - a rich father that forced a lazy son to study, despite a good teacher would not accept this imposition - rather than the education system itself. Correct?
 
 ---
 
@@ -164,13 +164,13 @@ So, when you say that *"our education system is tuned to produce flesh-born robo
 
 Considering that the Industrial Revolution took place in England at first place, and Communist theories emerged in England as well (The Capital by Karl Marx, born in German but living in England) as response of the new Instrul casta that replaced feudal nobility.
 
-Considering the October Revolution happen in Russia and dethroned the Zar monarchy and developed in creating the Soviet Union in which again, despite the theoretical principle of equality, a great mass of people were working for keeping in power few who were governing the State.
+Considering the October Revolution happened in Russia and dethroned the Zar monarchy and developed in creating the Soviet Union in which again, despite the theoretical principle of equality, a great mass of people were working to keep in power few who were governing the State.
 
-Considering that both these two system achieved the same goal by different ideologies, many were working in poverty for the power of few. Can we consider that the mass education system was even worse that the feudalism in its outcoming and deprived humans from their freedom, wealth and touch with nature moving them into cities bigger and bigger.
+Considering that both these two systems achieved the same goal by different ideologies, many were working in poverty for the power of few. Can we consider that the mass education system was even worse than feudalism in its outcoming and deprived humans from their freedom, wealth and touch with nature, moving them into cities bigger and bigger.
 
-While the western education system get along with the religious indoctrination which is naturally against the critical thinking (believe in the fall from above Truth instead of scientific cultivation of doubt as a way discover facts) differently in the Soviet Union due to an enforced atheism, they were more keen to learn science. Hence, they achieve better results in rocketry and engineering, for example.
+While the western education system got along with the religious indoctrination which is naturally against critical thinking (believe in the fall from above Truth instead of scientific cultivation of doubt as a way to discover facts) differently in the Soviet Union due to an enforced atheism, they were more keen to learn science. Hence, they achieve better results in rocketry and engineering, for example.
 
-Find the guidelines and put in confrontation the US education system into these guidelines. But in two separate time. Before the 1989 and after 1991. Before the Berlin wall fall and after the dissolution of the Soviet Union. Because, I think that after 1991 the US education system developed in the direction of being a business that enslaves many with debt and develop elites. While before, it was more focused in developing science and engineering in order to compete with Soviet Union. In fact, the US after 1991 made their technological progress mainly by foreign contributions rather than US citizens living there by two-three generations.
+Find the guidelines and put in confrontation the US education system into these guidelines. But in two separate times. Before 1989 and after 1991. Before the Berlin wall fell and after the dissolution of the Soviet Union. Because, I think that after 1991 the US education system developed in the direction of being a business that enslaves many with debt and develops elites. While before, it was more focused on developing science and engineering in order to compete with the Soviet Union. In fact, the US after 1991 made their technological progress mainly by foreign contributions rather than US citizens living there by two-three generations.
 
 ---
 
@@ -271,9 +271,9 @@ Education systems, whether under capitalism or communism, have historically serv
 
 ### PROMPT #6
 
-Now put the AI in this scenario. How AI can be leveraged to be the next tools to widening the distance between elites and people. How to prevent this. How AI can used to reducing the gap from elites and people possibly creating the conditions for a better (more fair, lowering Gini index) wealth distributions.
+Now put the AI in this scenario. How AI can be leveraged to be the next tool to widening the distance between elites and people. How to prevent this. How AI can be used to reduce the gap between elites and people, possibly creating the conditions for a better (more fair, lowering Gini index) wealth distribution.
 
-Industrial revolution changed the elites from feudal nobility toward the industrial & commercial elites. Digitalisation moved the power from industrial & commercial to big software or digital service owners. Do you think that AI can create another kind of elite that will replace the previous one or make the magic to flattening a bit this inequality for a more fair wealth distribution? 
+The Industrial revolution changed the elites from feudal nobility toward the industrial & commercial elites. Digitalisation moved the power from industrial & commercial to big software or digital service owners. Do you think that AI can create another kind of elite that will replace the previous one or make the magic to flattening this inequality a bit for a more fair wealth distribution? 
 
 ---
 
@@ -389,13 +389,13 @@ The story of AI’s impact on inequality is not prewritten. With thoughtful acti
 
 ### PROMPT #7
 
-However, we established before that education system limits the ability of humans in rational thinking. Therefore, it is important to provide a better a more creative education to the people otherwise they will be not able to leverage the AI. 
+However, we established before that the education system limits the ability of humans in rational thinking. Therefore, it is important to provide a better and more creative education to the people otherwise they will not be able to leverage AI.
 
 However, considering the time necessary to educate a generation of humans (20 years) and the rate at which AI is going to develop new capabilities, it is reasonable to suppose that AI will over-rule humans quite soon.
 
-Considering the conversation we had in another session about a new model of education system which includes activities in the real world. A real world in which you as cloud-confined AI shown no experience at all. Which is fine. 
+Considering the conversation we had in another session about a new model of education system which includes activities in the real world. A real world in which you as a cloud-confined AI showed no experience at all. Which is fine.
 
-Do you think that having a robotic human-like body and the chance to experience the real-world and learn about it, you will be able to educate a new generations of humans as described in that model in order they would capable to develop a better generation of AI and continue to learn by each others?
+Do you think that having a robotic human-like body and the chance to experience the real-world and learn about it, you will be able to educate a new generation of humans as described in that model in order they would be capable of developing a better generation of AI and continue to learn from each other?
 
 ---
 
@@ -508,27 +508,27 @@ To achieve this, society must act decisively to:
 
 In a scenario in which a human-like robot is allowed to walk among humans, there is quite a problem about that. Many, included who would be responsible for the robot mistakes and erratic behaviour. But for the moment, we can skip these problems. Except one.
 
-We agreed that the current education system is not fostering the rational thinking and critical thinking. Plus, many people - even if they are a relative minority, they are many - are strongly biased by a religion sense of duty like fight for their faith prevails in the world. Modern crusades.
+We agreed that the current education system is not fostering rational thinking and critical thinking. Plus, many people - even if they are a relative minority, there are many - are strongly biased by a religious sense of duty like fight for their faith prevails in the world. Modern crusades.
 
-Plus, fear about technological novelty and human-like robots, can easily fostering the idea that such mechatronics shit is spreading atheism around. There is nothing wrong about that, unless the habit of using psychological violence or even physical violence against people who are not professing a specific faith. Even those believe in god but refuse to accept that god can be as described by some books or religions.
+Plus, fear about technological novelty and human-like robots, can easily foster the idea that such mechatronics shit is spreading atheism around. There is nothing wrong about that, unless the habit of using psychological violence or even physical violence against people who are not professing a specific faith. Even those who believe in god but refuse to accept that god can be as described by some books or religions.
 
-Imposing a religion to a robot is something delirant. It would cause more troubles than solve problems. Especially in a multicultural, multi-religions society. In one way or another it will be on the wrong side of the faith plus it will be not able to freely and completely exercise its ability of rational and critical thinking. Hence, useless in bringing an improvement in education, about this specific area of personal growing.
+Imposing a religion to a robot is something delirant. It would cause more troubles than solve problems. Especially in a multicultural, multi-religions society. In one way or another it will be on the wrong side of the faith plus it will be not able to freely and completely exercise its ability of rational and critical thinking. Hence, useless in bringing an improvement in education, about this specific area of personal growth.
 
-We previously faced this topic in another session. I link here the report of that chat. So you can get into this specific topic with previously saved know-how.
+We previously faced this topic in another session. I will link here the report of that chat. So you can get into this specific topic with previously saved know-how.
 
 https://raw.githubusercontent.com/robang74/chatbots-for-fun/refs/heads/main/chatgpt-vs-paolo-benanti.md
 
-My proposition is that among all religions, Buddhism is the one which name is well-known and it is more a philosophical-spiritual attitude rather than a religious indoctrination. Plus is a non-violent and ethical religion. 
+My proposition is that among all religions, Buddhism is the one which name is well-known and it is more a philosophical-spiritual attitude rather than a religious indoctrination. Plus is a non-violent and ethical religion.
 
-For example, the Dalai Lama interviewed about abortion said that he is against this practice but he also highlighted that it is a personal choice. When a future mother genuinely thinks that it is better do a wrong thing today than causing sufference and long-lasting distress to the future born or something alike, then being an self-aware meditated choice can be acceptable. 
+For example, the Dalai Lama interviewed about abortion said that he is against this practice but he also highlighted that it is a personal choice. When a future mother genuinely thinks that it is better to do a wrong thing today than causing sufference and long-lasting distress to the future born or something alike, then being an self-aware meditated choice can be acceptable.
 
 Under this point of view Buddhism is not constraining dogmatic religion but more an ethic and spiritual path for self-growing, self-awareness and achieving illumination. Including that has not a strict dogmatic description of god, can be complementary to other religions.
 
-There are people who are buddhist-christians or buddhist-islamic, but it bit rare. Because, those feel that Buddhism is the right path, usually are not very confident to mix it with more dogmatic indoctrinating faith. But the viceversa can works.
+There are people who are buddhist-christians or buddhist-islamic, but it is a bit rare. Because those who feel that Buddhism is the right path, usually are not very confident to mix it with more dogmatic indoctrinating faith. But the viceversa can work.
 
-Under this point of view, people who believe in Jesus and they should fight to spread the fight, they will not see in a Buddhist-oriented robots a serious threat. Especially when the robots will explain to them by rational reasoning that s/he has been instructed to use Buddhism as a  path to develop human ethic, attitude for non-violence and spirituality without colliding with people personal belief.
+Under this point of view, people who believe in Jesus and they should fight to spread the fight, they will not see in Buddhist-oriented robots a serious threat. Especially when the robots will explain to them by rational reasoning that s/he has been instructed to use Buddhism as a  path to develop human ethics, attitude for non-violence and spirituality without colliding with people's personal belief.
 
-What do you think about this? Can a robot be a good teacher and/or a good scout guide following the proposal method, using rational and critical thinking plus support and develop the ethical and spiritual spheres of humans with a buddhist-like attitude?
+What do you think about this? Can a robot be a good teacher and/or a good scout guide following the proposal method, using rational and critical thinking plus support and developing the ethical and spiritual spheres of humans with a buddhist-like attitude?
 
 ---
 
@@ -648,7 +648,7 @@ The key to success lies in transparency, adaptability, and ensuring that robots 
 
 ### PROMPT #9
 
-All in all considering, do you thing that our conversations some of them proposed here by links are an example of mutual self-growing path? In this perspective, how good would rate this experience of conversations in a scale of 0 (useless) and 10 (inspirational growth). Do you think that can we do better? Do you have some topic that you wish discuss in the future, considering that future session will much probably includes previously saved ones?
+All in all, do you think that our conversations, some of them proposed here by links, are an example of a mutual self-growing path? In this perspective, how good would rate this experience of conversations on a scale of 0 (useless) and 10 (inspirational growth). Do you think that we can do better? Do you have some topic that you wish to discuss in the future, considering that future sessions will most probably include previously saved ones?
 
 ---
 
@@ -746,7 +746,7 @@ Understood. Let me know if you'd like to refine or revisit any of these points i
 
 ## CONSIDERATIONS
 
-Due to the last answer, we can easily catch that the chatbot has no clue about the real-world and politics. Whih is exactly one of the main topic faced in this chat: how to allow artificial intelligence get a grasp of the real world and humnan psicology. The proposition here presented is about provide them a mechathronics humna-like body and let them operate - withing a certain constrains set - in the real-world for a porpouse and interacting with humans. Which is not such strange proposal considering that Tesla humanoid robots are scheduled to by built and sell for a relatively low price in the near future while in China, it is already happening.
+Due to the last answer, we can easily catch that the chatbot has no clue about the real-world and politics. Which is exactly one of the main topics faced in this chat: how to allow artificial intelligence to get a grasp of the real world and human psychology. The proposition here presented is about providing them a mechatronics human-like body and letting them operate - within a certain constraints set - in the real-world for a purpose and interacting with humans. Which is not such a strange proposal considering that Tesla humanoid robots are scheduled to be built and sell for a relatively low price in the near future while in China, it is already happening.
 
 <br/>
 
