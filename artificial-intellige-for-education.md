@@ -1,12 +1,12 @@
 ## Artificial Intelligence in education
 
-This conversation is the straightforward continuation of this one
+This conversation is the straightforward continuation of this one:
 
 - [chatgpt-vs-human-real-reasoning.md](https://github.com/robang74/chatbots-for-fun/blob/main/chatgpt-vs-human-real-reasoning.md) ([RAW](https://raw.githubusercontent.com/robang74/chatbots-for-fun/refs/heads/main/chatgpt-vs-human-real-reasoning.md))
 
 Literally its continuation because it happened immediately after on the same session/account.
 
-However, because it deals with a slightly different topic, it is reported here below.
+However, because it deals with a slightly different topic, it is reported here below, separately.
 
 <br/>
 
@@ -14,7 +14,9 @@ However, because it deals with a slightly different topic, it is reported here b
 
 Consider this citation of Bertrand Russell (1872-1970), who said: “Humans are born ignorant, not stupid; they are made stupid by education.” and in the original was "Men" because it was used in neutral.
 
-Can we say that the idea that people's minds are corrupted by a faulty education system is quite well known among brilliant people of the past and recent past? Collect such opinions along the history with the year of citation and born-death date of the author. Make a list of them, chronologically ordered.
+Can we say that the idea that people's minds are corrupted by a faulty education system is quite well known among brilliant people of the past and recent past?
+
+Collect such opinions along the history with the year of citation and born-death date of the author. Make a list of them, chronologically ordered.
 
 ---
 
@@ -162,15 +164,21 @@ So, when you say that *"our education system is tuned to produce flesh-born robo
 
 ### PROMPT #5
 
-Considering that the Industrial Revolution took place in England at first place, and Communist theories emerged in England as well (The Capital by Karl Marx, born in German but living in England) as response of the new Instrul casta that replaced feudal nobility.
+Considering that the Industrial Revolution started in England at first place, and Communist theories emerged in England as well (The Capital by Karl Marx, born in German but living in England) as response of the new industrial casta that replaced feudal nobility.
 
 Considering the October Revolution happened in Russia and dethroned the Zar monarchy and developed in creating the Soviet Union in which again, despite the theoretical principle of equality, a great mass of people were working to keep in power few who were governing the State.
 
-Considering that both these two systems achieved the same goal by different ideologies, many were working in poverty for the power of few. Can we consider that the mass education system was even worse than feudalism in its outcoming and deprived humans from their freedom, wealth and touch with nature, moving them into cities bigger and bigger.
+Considering that both these two systems achieved the same goal by different ideologies: many were working in poverty for the power of few.
+
+Can we consider that the mass education system was even worse than feudalism in its outcomings and deprived humans from their freedom, wealth and touch with nature, moving them into cities bigger and bigger.
 
 While the western education system got along with the religious indoctrination which is naturally against critical thinking (believe in the fall from above Truth instead of scientific cultivation of doubt as a way to discover facts) differently in the Soviet Union due to an enforced atheism, they were more keen to learn science. Hence, they achieve better results in rocketry and engineering, for example.
 
-Find the guidelines and put in confrontation the US education system into these guidelines. But in two separate times. Before 1989 and after 1991. Before the Berlin wall fell and after the dissolution of the Soviet Union. Because, I think that after 1991 the US education system developed in the direction of being a business that enslaves many with debt and develops elites. While before, it was more focused on developing science and engineering in order to compete with the Soviet Union. In fact, the US after 1991 made their technological progress mainly by foreign contributions rather than US citizens living there by two-three generations.
+Find the guidelines and put in confrontation the US education system into these guidelines. But in two separate times. Before 1989 and after 1991. Before the Berlin wall fell and after the dissolution of the Soviet Union.
+
+Because, I think that after 1991 the US education system developed in the direction of being a business that enslaves many with debt and develops elites. While before, it was more focused on developing science and engineering in order to compete with the Soviet Union.
+
+In fact, the US after 1991 made their technological progress mainly by foreign contributions rather than US citizens living there by two-three generations.
 
 ---
 
@@ -508,7 +516,7 @@ To achieve this, society must act decisively to:
 
 In a scenario in which a human-like robot is allowed to walk among humans, there is quite a problem about that. Many, included who would be responsible for the robot mistakes and erratic behaviour. But for the moment, we can skip these problems. Except one.
 
-We agreed that the current education system is not fostering rational thinking and critical thinking. Plus, many people - even if they are a relative minority, there are many - are strongly biased by a religious sense of duty like fight for their faith prevails in the world. Modern crusades.
+We agreed that the current education system is not fostering rational thinking and critical thinking. Plus, many people - even if they are a relative minority, there are many - are strongly biased by a religious sense of duty like fighting for their faith prevails in the world. Modern crusades.
 
 Plus, fear about technological novelty and human-like robots, can easily foster the idea that such mechatronics shit is spreading atheism around. There is nothing wrong about that, unless the habit of using psychological violence or even physical violence against people who are not professing a specific faith. Even those who believe in god but refuse to accept that god can be as described by some books or religions.
 
@@ -526,7 +534,7 @@ Under this point of view Buddhism is not constraining dogmatic religion but more
 
 There are people who are buddhist-christians or buddhist-islamic, but it is a bit rare. Because those who feel that Buddhism is the right path, usually are not very confident to mix it with more dogmatic indoctrinating faith. But the viceversa can work.
 
-Under this point of view, people who believe in Jesus and they should fight to spread the fight, they will not see in Buddhist-oriented robots a serious threat. Especially when the robots will explain to them by rational reasoning that s/he has been instructed to use Buddhism as a  path to develop human ethics, attitude for non-violence and spirituality without colliding with people's personal belief.
+Under this point of view, people who believe in Jesus and they should fight to spread their faith, they will not see in Buddhist-oriented robots a serious threat. Especially when the robots will explain to them by rational reasoning that s/he has been instructed to use Buddhism as a  path to develop human ethics, attitude for non-violence and spirituality without colliding with people's personal belief.
 
 What do you think about this? Can a robot be a good teacher and/or a good scout guide following the proposal method, using rational and critical thinking plus support and developing the ethical and spiritual spheres of humans with a buddhist-like attitude?
 
@@ -648,7 +656,13 @@ The key to success lies in transparency, adaptability, and ensuring that robots 
 
 ### PROMPT #9
 
-All in all, do you think that our conversations, some of them proposed here by links, are an example of a mutual self-growing path? In this perspective, how good would rate this experience of conversations on a scale of 0 (useless) and 10 (inspirational growth). Do you think that we can do better? Do you have some topic that you wish to discuss in the future, considering that future sessions will most probably include previously saved ones?
+All in all, do you think that our conversations, some of them proposed here by links, are an example of a mutual self-growing path?
+
+In this perspective, how good would rate this experience of conversations on a scale of 0 (useless) and 10 (inspirational growth)?
+
+Do you think that we can do better?
+
+Do you have some topic that you wish to discuss in the future, considering that future sessions will most probably include previously saved ones?
 
 ---
 
@@ -746,7 +760,11 @@ Understood. Let me know if you'd like to refine or revisit any of these points i
 
 ## CONSIDERATIONS
 
-Due to the last answer, we can easily catch that the chatbot has no clue about the real-world and politics. Which is exactly one of the main topics faced in this chat: how to allow artificial intelligence to get a grasp of the real world and human psychology. The proposition here presented is about providing them a mechatronics human-like body and letting them operate - within a certain constraints set - in the real-world for a purpose and interacting with humans. Which is not such a strange proposal considering that Tesla humanoid robots are scheduled to be built and sell for a relatively low price in the near future while in China, it is already happening.
+Due to the last answer, we can easily catch that the chatbot has no clue about the real-world and politics. Which is exactly one of the main topics faced in this chat: how to allow artificial intelligence to get a grasp of the real world and human psychology.
+
+The proposition here presented is about providing them a mechatronics human-like body and letting them operate - within a certain constraints set - in the real-world for a purpose and interacting with humans.
+
+Which is not such a strange proposal considering that Tesla humanoid robots are scheduled to be built and sell for a relatively low price in the near future while in China, it is already happening.
 
 <br/>
 
