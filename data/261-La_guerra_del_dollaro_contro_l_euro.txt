@@ -117,7 +117,7 @@ espandendosi - andava progressivamente migliorando e appena è diventata positiv
 è scoppiata la bolla dei mutui sub-prime che ha invertito il trend a nostro
 svantaggio.
 
-### Europe Cina import export balance sheet and charts
+[Europe Cina import export balance sheet and charts]
 
 Le tabelle e i grafici qui sopra sono stati creati a partire da dati forniti da
 ChatGPT 4o riportando Eurostat come fonte. Ciò non implica che questi dati siano
