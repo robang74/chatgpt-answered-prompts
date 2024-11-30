@@ -22,6 +22,10 @@ none
 
 L'ultima risposta del chatbot é stata successivamente al primo commit ridotta preferendo la fludità di lettura ad informazioni non rilevanti.
 
+### RELATED
+
+* [artificial-intellige-for-education.md](https://github.com/robang74/chatgpt-answered-prompts/blob/main/artificial-intellige-for-education.md) ([RAW](https://raw.githubusercontent.com/robang74/chatgpt-answered-prompts/refs/heads/main/artificial-intellige-for-education.md))
+
 ### COPYRIGHT
 
 &copy; 2024, Roberto A. Foglietta &lt;&nbsp;roberto.foglietta&nbsp;&#64;&nbsp;gmail.com&nbsp;&gt;, CC BY-SA 4.0
