@@ -8,6 +8,12 @@ Literally its continuation because it happened immediately after on the same ses
 
 However, because it deals with a slightly different topic, it is reported here below, separately.
 
+- [propaganda-e-sistema-educativo.md](https://github.com/robang74/chatgpt-answered-prompts/blob/main/propaganda-e-sistema-educativo.md) ([RAW](https://raw.githubusercontent.com/robang74/chatgpt-answered-prompts/refs/heads/main/propaganda-e-sistema-educativo.md))
+
+Above a link related to another paper regarding the education system and its weakness to propaganda.
+
+It is written in Italian but can be automatically translated. One easy way is to put the RAW link into Google Translate.
+
 <br/>
 
 ### PROMPT #3
