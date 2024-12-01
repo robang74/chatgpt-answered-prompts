@@ -374,3 +374,4 @@ It is fundamental to propose a new paradigm in our mass education system than fu
 
 Moreover, it is fundamental to notice that "**technological awareness**" is a composition of two terms which are complementary concepts. An advanced enough technology can be seen as a kind of magic. However, it is about **HOW**. Instead, the awareness is about **WHY** and that why cannot be "*to impose our god and values to them*". For that aim, violence, weapons, wars, robbery had shown to work nicely, up to now. Again "*up to now*", it does not mean "*foreever*" and here we are, why we have to change.
 
+Afrer all, for those who fear the changement is worth to cite this quote: "**evolution is not a necessery when extinsion is an option**".
