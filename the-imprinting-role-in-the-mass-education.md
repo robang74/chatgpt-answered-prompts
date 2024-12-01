@@ -12,13 +12,13 @@ This conversation with an AI chatbot started from a paper that I have found on L
 
 During this conversation different documents have been used as data uploads:
 
-* https://raw.githubusercontent.com/robang74/chatbots-for-fun/refs/heads/main/data/ai-driven-evangelism-opportunities.txt
+* [ai-driven-evangelism-opportunities.txt](https://raw.githubusercontent.com/robang74/chatgpt-answered-prompts/refs/heads/main/data/ai-driven-evangelism-opportunities.txt)
 
-* https://raw.githubusercontent.com/robang74/chatbots-for-fun/refs/heads/main/chatgpt-vs-human-real-reasoning.md
+* [chatgpt-vs-human-real-reasoning.md](https://raw.githubusercontent.com/robang74/chatbots-for-fun/refs/heads/main/chatgpt-vs-human-real-reasoning.md)
 
-* https://raw.githubusercontent.com/robang74/chatgpt-answered-prompts/refs/heads/main/propaganda-e-sistema-educativo.md
+* [propaganda-e-sistema-educativo.md](https://raw.githubusercontent.com/robang74/chatgpt-answered-prompts/refs/heads/main/propaganda-e-sistema-educativo.md)
 
-* https://raw.githubusercontent.com/robang74/chatgpt-answered-prompts/refs/heads/main/artificial-intellige-for-education.md
+* [artificial-intellige-for-education.md](https://raw.githubusercontent.com/robang74/chatgpt-answered-prompts/refs/heads/main/artificial-intellige-for-education.md)
 
 The last three are a collection of saved chats about my idea, the first is the challenging alternative.
 
@@ -28,7 +28,7 @@ none
 
 ### COPYRIGHT
 
-[cpyright notice]
+&copy; 2024, Roberto A. Foglietta &lt;&nbsp;roberto.foglietta&nbsp;&#64;&nbsp;gmail.com&nbsp;&gt;, CC BY-SA 4.0
 
 <br/>
 <br/>
