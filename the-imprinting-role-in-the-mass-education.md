@@ -1,12 +1,26 @@
 ## The imprinting role in the mass education
 
-The organised mass education system is quite a novelty in the human history. For example, western coutries did not have one until industrial revolution. Because people are used to kept the same values set and thinking schemas that they received before adolescence, it is extremely important to recognise the imprinting role into every mass eduction system. In fact, the main problem stays in the "mass" ajective: something that affects the large majority of the people generation after generation, potentially. Therefore, a fundamental mistake into a **mass** education system develops into a fundamental problem into society. Have you ever wondered why modern society seems so dystopical? Here we are!
+The organised mass education system is quite a novelty in human history. For example, western countries did not have one until the industrial revolution.
+
+Because people are used to keeping the same values set and thinking schemas that they received before adolescence, it is extremely important to recognise the imprinting role into every mass education system.
+
+In fact, the main problem stays in the "mass" adjective: something that affects the large majority of the people generation after generation, potentially.
+
+Therefore, a fundamental mistake in the **mass** education system develops into a fundamental problem in society. Have you ever wondered why modern society seems so dystopical? Here we are!
 
 ### RATIONALE
 
-Having a conversation with an AI cahtbot is useful to unfold, check and improve our ideas. We have an idea, and that idea is clear for us. Sometimes, at the point of being obvious. But the obvious is quite relative, and in speaking about something obvious for us, we leave behind a lot of implicit assumptions. Assumptions that others who read or listen us are not aware about. Nor they are aware about the reasoning that links the assumptions to the conclusions. Debating with an AI chatbot helps people to express themeselves quicker and better.
+Having a conversation with an AI chatbot is useful to unfold, check and improve our ideas. We have an idea, and that idea is clear for us. Sometimes, at the point of being obvious.
 
-This conversation with an AI chatbot started from a paper that I have found on LinkedIn. This paper is proposing to use the AI as education tool. From my personal point of view, it is proposing the AI as tool for increasing the indoctrination or increase the number of people that can be exposed to a specific indoctrination. Hence, it is proposing the opposite of what I am proposing for the AI role in the education. For this reason, it is "*interesting*" for me because it is challenging my idea.
+But the obvious is quite relative, and in speaking about something obvious for us, we leave behind a lot of implicit assumptions. Assumptions that others who read or listen to us are not aware about. Nor are they aware about the reasoning that links the assumptions to the conclusions.
+
+Debating with an AI chatbot helps people to express themselves quicker and better.
+
+This conversation with an AI chatbot started from a paper that I have found on LinkedIn. That paper is proposing to use AI as an education tool.
+
+From my personal point of view, it is proposing AI as a tool for increasing indoctrination or increasing the number of people that can be exposed to a specific indoctrination.
+
+Hence, it is proposing the opposite of what I am proposing for the AI role in education. For this reason, it is "*interesting*" for me because it is challenging my idea.
 
 ### UPLOAD
 
@@ -20,7 +34,7 @@ During this conversation different documents have been used as data uploads:
 
 * [artificial-intellige-for-education.md](https://raw.githubusercontent.com/robang74/chatgpt-answered-prompts/refs/heads/main/artificial-intellige-for-education.md)
 
-The last three are a collection of saved chats about my idea, the first is the challenging alternative.
+The last three are a collection of conversations with a chatbot about my idea, the first is the alternative to challenge.
 
 ### CUSTOMISATION
 
