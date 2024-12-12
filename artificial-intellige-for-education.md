@@ -1,4 +1,4 @@
-## Artificial Intelligence in education
+## Artificial Intelligence for education
 
 This conversation is the straightforward continuation of this one:
 
