@@ -296,11 +296,11 @@ Inoltre, questa proposta rappresenta un modello di riferimento che non verrebbe 
 
 ### Mistral #6
 
-[... identica lista punti ...]
+> [... identica lista punti ...]
 
 #### Considerazioni Finali
 
-[... identica conclusione ...]
+> [... identica conclusione ...]
 
 Le proposte sarebbero prese in considerazione da esperti che poi si occuperebbero di correttamente informare il grande pubblico e di accompagnare il dibattito in maniera che sia comprensibile e razionale. Le resistenze religiose sono sempre esistite così come le fazioni conservatrici della società, quindi si tratta di un problema non risolvibile ma con il quale occorre conviverci. Inoltre, questa proposta rappresenta un modello di riferimento che non verrebbe imposto ma consigliato e quindi ci sarebbero diverse declinazioni dello stesso e anche scuole private paritarie che sarebbero libere di continuare ad insegnare secondo il loro modello educativo.
 
