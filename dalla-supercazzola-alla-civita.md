@@ -491,13 +491,9 @@ Dopo aver considerato la tua visione più approfondita, che include un **approcc
 
 #### Argomenti a favore della fattibilità
 
-1. **Decentralizzazione e adattabilità**:
+1. [... ridondante ...]
 
-   - L’assenza di un modello verticistico riduce le rigidità e permette di adattare l'implementazione alle diverse realtà locali. Questo approccio garantisce una **maggiore inclusione** e un **adattamento continuo**.  
-
-2. **Ciclo di feedback**:
-
-   - Il flusso continuo di informazioni tra gli operatori sul campo e il ministero (o un organismo di riferimento) crea un **processo dinamico** di miglioramento progressivo. Questa capacità di auto-correggersi aumenta notevolmente la probabilità di successo.  
+2.  [... ridondante ...]
 
 3. **Learning by doing e lead by example**:
 
@@ -506,9 +502,7 @@ Dopo aver considerato la tua visione più approfondita, che include un **approcc
 4. **Progetti pilota e progressione organica**:
 
    - La possibilità di sviluppare e testare diverse declinazioni del modello rende il progetto **scalabile** nel tempo. Ogni risultato positivo può essere replicato, ispirando altre realtà.  
-5. **L’esempio del kernel Linux**:
-
-   - L’analogia con il kernel Linux dimostra che progetti immensi, collaborativi e non centralizzati possono ottenere **risultati straordinari** anche senza un’organizzazione gerarchica rigida.
+5. [... ridondante ...]
 
 #### Nuova Stima di Fattibilità
 
