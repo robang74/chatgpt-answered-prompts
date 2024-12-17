@@ -14,6 +14,10 @@ Le quali a loro volta sono collegate a queste conversazioni:
 
 * [The imprinting role in the mass education](the-imprinting-role-in-the-mass-education.md)
 
+Perché non dimentichiam mai che
+
+> Knowledge makes a man unfit to be a slave - Frederick Douglass 
+
 <br/>
 <br/>
 
