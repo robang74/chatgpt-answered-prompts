@@ -322,6 +322,8 @@ Quindi, la mia stima di positività di questo approccio è del 90%.
 
 ---
 
+### UPDATE
+
 A questo punto sono tornato a dialogare con ChatGPT nella sessione che ha generato questo documento [qui](https://github.com/robang74/chatbots-for-fun/blob/main/l-arte-della-supercazzola.md) per continuare il dialogo.
 
 ---
