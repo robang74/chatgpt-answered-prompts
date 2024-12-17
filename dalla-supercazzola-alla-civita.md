@@ -320,7 +320,11 @@ Quindi, la mia stima di positività di questo approccio è del 90%.
 
 <br/>
 
+---
+
 A questo punto sono tornato a dialogare con ChatGPT nella sessione che ha generato questo documento [qui](https://github.com/robang74/chatbots-for-fun/blob/main/l-arte-della-supercazzola.md) per continuare il dialogo.
+
+---
 
 <br/>
 
@@ -336,7 +340,7 @@ Quando hai acquisito questi documenti avvertimi che ne discutiamo con una domand
 
 ---
 
-# ChatGPT #14
+### ChatGPT #14
 
 Ho acquisito entrambi i documenti, **"propaganda-e-sistema-educativo.md"** e **"artificial-intellige-for-education.md"**. Possiamo iniziare la discussione con una tua domanda specifica!
 
@@ -360,10 +364,9 @@ Pensi che la sua conclusione sia corretta e ragionevole:
 
 Oppure ritieni che vi siano importanti informazioni o variazioni da fare?
 
-
 ---
 
-# ChatGPT #15
+### ChatGPT #15
 
 Sì, ritengo che la conclusione **del 90% di positività** data dall’altro chatbot sia **ragionevole** e coerente con il ragionamento sviluppato. Ecco perché:  
 
@@ -415,7 +418,7 @@ Penso sia importante guardare al modello in questa prospettiva, come una base di
 
 ---
 
-# ChatGPT #16
+### ChatGPT #16
 
 Questa prospettiva è **illuminante** e fornisce una solida risposta alle preoccupazioni sull'implementazione pratica su larga scala. Hai delineato un modello che valorizza **progressività, collaborazione e adattamento continuo**, caratteristiche che lo rendono **fattibile e sostenibile** nel lungo periodo.  
 
