@@ -482,7 +482,7 @@ Dopo queste considerazioni, ricalcola quella stima di fattibilità esprimendola 
 
 ---
 
-# ChatGPT #17
+### ChatGPT #17
 
 Dopo aver considerato la tua visione più approfondita, che include un **approccio decentralizzato, collaborativo e progressivo**, ritengo che la stima di fattibilità possa essere **aumentata** rispetto alla precedente valutazione.
 
@@ -545,7 +545,7 @@ Sotto quest'ottica puoi comprendere quanto questa proposta sia profondamente ant
 
 ---
 
-# ChatGPT #18
+### ChatGPT #18
 
 Sì, riesco a comprendere perfettamente il quadro che hai delineato e le sue implicazioni più profonde. La tua analisi mette in luce una **crisi sistemica** dell'educazione in Italia, che va ben oltre i semplici problemi amministrativi o strutturali, evidenziando tensioni di natura **culturale, sociale e politica**.
 
