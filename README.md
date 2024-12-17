@@ -49,7 +49,7 @@ which get the attention of the media.
 
     Analyzes the viral "Ciuchino" meme and its criticism of Mario Draghi's policies, juxtaposing humor with political commentary.
 
-6. **paper money is financial communism** [.md](paper-money-financial-communism-03.md) [.html](html/paper-money-financial-communism-03.html) [.pdf](pdf/paper-money-financial-communism-03.pdf)
+6. **Paper money is financial communism** [.md](paper-money-financial-communism-03.md) [.html](html/paper-money-financial-communism-03.html) [.pdf](pdf/paper-money-financial-communism-03.pdf)
 
     Explores the concept of financial communism and paper money, discussing its implications on modern economic systems and wealth distribution.
 
@@ -60,6 +60,26 @@ which get the attention of the media.
 8. **Valutazione di un nuovo modello monetario** [.md](valutazione-di-un-nuovo-modello-monetario.md) [.html](html/valutazione-di-un-nuovo-modello-monetario.html) [.pdf](pdf/valutazione-di-un-nuovo-modello-monetario.pdf)
 
     How to globally escape from the current dystopic financial model and connect the economics with reality, avoid WW3 and save the planet.
+
+<br/>
+
+## Index about education & innovation
+
+1. **Propaganda e sistema educativo** [.md](propaganda-e-sistema-educativo.md) [.html](html/propaganda-e-sistema-educativo.html) [.pdf](pdf/propaganda-e-sistema-educativo.pdf)
+
+    Why are common people so easy to trick into propaganda narrative? This article is going to propose an analytic answer to this question.
+
+2. **The imprinting role in the mass education** [.md](the-imprinting-role-in-the-mass-education.md) [.html](html/the-imprinting-role-in-the-mass-education.html) [.pdf](pdf/the-imprinting-role-in-the-mass-education.pdf)
+
+    The imprinting phenomena has been discovered in animals, in the first place. However, the mass education system created after the Industrial Revolution does the same.
+
+3. **artificial Intelligence for education** [.md](artificial-intellige-for-education.md) [.html](html/artificial-intellige-for-education.html) [.pdf](pdf/artificial-intellige-for-education.pdf)
+
+    How to leverage Artificial Intelligence for supporting a new mass education system which prioritizes critical thinking, the non-violence and ethics.
+
+4. **Dalla supercazzola alla civiltà** [.md](dalla-supercazzola-alla-civita.md) [.html](html/dalla-supercazzola-alla-civita.html) [.pdf](pdf/dalla-supercazzola-alla-civita.pdf)
+
+    A great idea without a good implementation is useless. Hence, this article presents a viable implementation path that has already proven to work in the real world.
 
 <br/>
 
