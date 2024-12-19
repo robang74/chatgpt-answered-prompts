@@ -151,4 +151,4 @@ This table was produced by having ChatGPT interact with Gemini in such a way tha
 
 <div align="center"><img src="ai-chatbots-ratings-table-dark.png" width="800"><br/></div>
 
-Both chatbots changed their ratings by a total of 18% and 19%. However, in some, albeit a few cases, they changed their opinion completely, changing their grades by 7 or 5 points out of 10. Both relied on Chatbot Arena LLM Leaderboard, also.
+Both chatbots changed their ratings by a total of 18% and 19%. However, in some, albeit a few cases, they changed their opinion completely, changing their grades by 7 or 5 points out of 10. Both relied on [Chatbot Arena](https://lmarena.ai/) LLM Leaderboard, also.
