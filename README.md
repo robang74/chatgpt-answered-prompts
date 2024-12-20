@@ -81,6 +81,8 @@ which get the attention of the media.
 
     A great idea without a good implementation is useless. Hence, this article presents a viable implementation path that has already proven to work in the real world.
 
+5. **Se la verità li uccide, lasciate che muoiano** [.md](se-la-verita-li-uccide-lasciate-che-muoiano.md)
+
 <br/>
 
 ## Copyright
