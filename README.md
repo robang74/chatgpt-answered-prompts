@@ -83,6 +83,8 @@ which get the attention of the media.
 
 5. **Se la verità li uccide, lasciate che muoiano** [.md](se-la-verita-li-uccide-lasciate-che-muoiano.md)
 
+    Starting from an contro-meme challenge about a citation popularly attributed to Immanuel Kant toward a rule of thumb how to deal with the lies, the truth and their expectations.
+
 <br/>
 
 ## Copyright
