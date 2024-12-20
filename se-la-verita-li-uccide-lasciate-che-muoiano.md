@@ -309,6 +309,146 @@ L’idea di **"alzare l’asticella" senza sembrare elitisti o pedanti** è una 
 
 Non serve essere una star per dire cose che contano, ma serve dire le cose giuste al pubblico giusto nel modo giusto. Questo post fa un buon lavoro nel far riflettere senza pontificare, dimostrando che anche in un contesto di social media, un pensiero ben espresso può alzare il livello senza risultare fuori luogo.
 
+
+<br/>
+
+---
+
+## Controverifica con altri chatbot
+
+---
+
+<br/>
+
+### Prompt #1
+
+Ignora i link in questo testo formattato markdown. Illustrami il percorso di ragionamento di questa discussione.
+
+[... la trascrizione della discussione ...]
+
+---
+
+### Gemini #1
+
+**Ottima analisi!**
+
+Concordo pienamente con la tua valutazione. Il post originale, pur nella sua semplicità, riesce a toccare un punto cruciale: la necessità di un'etica pragmatica che possa guidare le scelte quotidiane senza appesantirle con eccessive complessità filosofiche.
+
+**Hai sottolineato alcuni punti fondamentali**
+
+* **Il contesto è tutto:** il linguaggio e lo stile devono adattarsi al pubblico e al mezzo. Un approccio troppo formale o filosofico potrebbe risultare alienante per un pubblico abituato ai ritmi veloci dei social media.
+
+* **L'importanza della semplificazione:** non è necessario essere un genio per comunicare un concetto importante. A volte, la semplicità è la chiave per raggiungere un pubblico più ampio.
+
+* **L'alzare l'asticella senza essere pedanti:** il post dimostra che è possibile offrire una riflessione etica senza cadere nel moralismo o nella presunzione.
+
+**Aggiungerei un'ulteriore considerazione**
+
+* **La forza della metafora:** la metafora del "deposito" e del "debito" è particolarmente efficace perché crea un'associazione immediata con un concetto familiare a tutti: la gestione del denaro. Questo rende il concetto di reputazione più tangibile e comprensibile.
+
+**In conclusione**
+
+Il post rappresenta un ottimo esempio di come un'idea complessa possa essere comunicata in modo semplice e efficace, senza sacrificare la profondità del messaggio. È un modello che potrebbe essere replicato per affrontare altri temi etici, rendendo la filosofia più accessibile e utile alla vita quotidiana.
+
+<br/>
+
+### Prompt #1
+
+Ignora i link in questo testo formattato markdown. Illustrami il percorso di ragionamento di questa discussione.
+
+[... la trascrizione della discussione, in allegato ...]
+
+---
+
+### Claude #1
+
+Questa discussione segue un interessante percorso di analisi che parte da una citazione attribuita a Kant ("Se la verità li uccide, lasciate che muoiano") e si sviluppa attraverso varie riflessioni sulla verità, la morale e l'etica pratica. Ecco i passaggi chiave:
+
+1. **Punto di partenza**
+
+- Discussione sulla citazione di Kant e chiarimento che, sebbene spesso attribuita a lui, non appare nei suoi scritti
+
+- Introduzione di un post che usa questa citazione come spunto per una riflessione più ampia
+
+2. **Sviluppo della metafora economica**
+
+- La bugia viene paragonata a un debito
+
+- Si introduce il concetto di "deposito" come reputazione personale
+
+- Si esplora come questo capitale di credibilità può essere speso o perso
+
+3. **Discussione sulla morale**
+
+- Distinzione tra etica universale e morale personale
+
+- Critica del concetto di morale assoluta
+
+- Esplorazione dei rischi di interpretazioni estreme della filosofia (come nel caso del nazismo)
+
+4. **Valore educativo e pratico**
+
+- Valutazione dell'efficacia del post come strumento educativo
+
+- Discussione su come rendere concetti filosofici accessibili alle persone comuni
+
+- Importanza delle "rules of thumb" (regole pratiche) per decisioni quotidiane
+
+5. **Raffinamento dell'analisi**
+
+- Riconoscimento che i dilemmi morali complessi sono un ambito separato
+
+- Focalizzazione sull'importanza del pragmatismo funzionale
+
+- Discussione sul livello appropriato di semplificazione per il pubblico target
+
+6. **Conclusione**
+
+- Riconoscimento del valore del post nel suo contesto specifico (social media)
+
+- Apprezzamento per come riesce ad "alzare l'asticella" del discorso senza risultare elitario
+
+- Comprensione dell'importanza di calibrare il messaggio per il pubblico di riferimento
+
+La discussione mostra come si possa passare da un concetto filosofico astratto a una guida pratica per la vita quotidiana, mantenendo un equilibrio tra profondità concettuale e accessibilità.
+
+<br/>
+
+### Prompt #2
+
+Pensi che il ragionamento seguito sia corretto? Pensi che le conclusioni di ChatGPT e dell'umano suo interlocutore siano corrette?
+
+---
+
+### Claude #2
+
+Il ragionamento seguito nella discussione appare solido e ben strutturato. Mi colpiscono particolarmente alcuni aspetti chiave:
+
+1. **Pragmatismo educativo**
+
+La conclusione che le persone hanno bisogno di guide pratiche e comprensibili per prendere decisioni quotidiane è particolarmente valida. L'approccio di tradurre concetti filosofici complessi in metafore accessibili (come quella del debito) serve efficacemente questo scopo.
+
+2. **Distinzione tra livelli di complessità**
+
+È appropriato il riconoscimento che i dilemmi morali complessi appartengono a un ambito separato dalle decisioni quotidiane. Non tutto deve essere affrontato con lo stesso grado di profondità filosofica.
+
+3. **Comprensione del contesto comunicativo**
+
+La discussione mostra una buona consapevolezza dell'importanza del mezzo (Facebook) e del pubblico di riferimento. La critica alla proposta di aggiungere una frase conclusiva "stile Grillo Parlante" è particolarmente acuta.
+
+4. **Valutazione realistica dell'impatto**
+
+L'osservazione che alzare leggermente l'asticella del ragionamento morale rispetto al puro interesse personale è già un risultato significativo dimostra una comprensione realistica di come funziona il cambiamento culturale.
+
+5. **Equilibrio tra teoria e pratica**
+
+Il dialogo mantiene un buon equilibrio tra riferimenti filosofici (Kant, Nietzsche) e applicazioni pratiche, senza cadere nell'eccesso di semplificazione o di complessità.
+
+Mi sembra che sia ChatGPT che l'umano abbiano contribuito a sviluppare un'analisi equilibrata e pragmatica, arrivando a conclusioni ragionevoli e ben motivate. Il loro scambio ha permesso di affinare progressivamente il ragionamento, correggendo alcuni eccessi iniziali (come la proposta della frase conclusiva) e arrivando a una comprensione più sfumata e pratica del tema.
+
+<br/>
+<br/>
+
 ## Share alike
 
 &copy; 2024, **Roberto A. Foglietta** &lt;roberto.foglietta<span>@</span>gmail.com&gt;, [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
