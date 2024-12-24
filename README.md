@@ -101,15 +101,17 @@ Moreover, if a version of a document included in this repository exists or has e
 
 There are several way to download this github repository:
 
-- using the green button in its homepage and download the [last ZIP archive](https://github.com/robang74/chatgpt-answered-prompts/archive/refs/heads/main.zip)
+- using the green button in its homepage and download the [last archive](https://github.com/robang74/chatgpt-answered-prompts/archive/refs/heads/main.zip)
 
-- choose a tagged release among [those available](https://github.com/robang74/chatgpt-answered-prompts/tags) and download the archive
+or
+
+- choose a tagged release among [those available](https://github.com/robang74/chatgpt-answered-prompts/tags) and download that archive
+
+or
 
 - clone the repository with the specific `git clone` command, in this way:
 
-```
-git clone https://github.com/robang74/chatgpt-answered-prompts.git
-```
+   - `git clone https://github.com/robang74/chatgpt-answered-prompts.git`
 
 The advantage of downloading a tagged release is having an archive 'freezed' by
 the author while the ZIP contains the last version uploaded. Instead, the
