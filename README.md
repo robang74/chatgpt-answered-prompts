@@ -111,7 +111,7 @@ or
 
 - clone the repository with the specific `git clone` command, in this way:
 
-   - `git clone https://github.com/robang74/chatgpt-answered-prompts.git`
+> `git clone https://github.com/robang74/chatgpt-answered-prompts.git`
 
 The advantage of downloading a tagged release is having an archive 'freezed' by
 the author while the ZIP contains the last version uploaded. Instead, the
