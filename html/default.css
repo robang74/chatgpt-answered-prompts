@@ -55,17 +55,26 @@ blockquote.dqt {
     width: 720px;
 }
 table {
-  width: 800px;
-  border-collapse: collapse;
+    width: 800px;
+    border-collapse: collapse;
 }
 td, th {
-  padding: 10px;
-  text-align: left;
-  border: 1px solid #808080;
+    padding: 10px;
+    text-align: left;
+    border: 1px solid #808080;
 }
 th {
-  text-align: center;
+    text-align: center;
 }
 tr.trline td {
-  padding: 1px;
+    padding: 1px;
+}
+li.li2in {
+    padding-left: 20px;
+}
+li.li3in {
+    padding-left: 40px;
+}
+li.li4in {
+    padding-left: 60px;
 }
