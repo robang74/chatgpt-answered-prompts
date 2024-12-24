@@ -29,4 +29,5 @@ for f in ${@:-html/*.html}; do
     wkhtmltopdf -ql $opt $f ${f%.html}.pdf
     echo
 done
+mkdir -p pdf
 mv html/*.pdf pdf
