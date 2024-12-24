@@ -4,8 +4,10 @@
 #
 
 function md2htmlfunc() {
-    local str=$(basename ${2%.html}) dir="html/";
-    test "$str" = "index" || dir=""
+    local str=$(basename ${2%.html}) idx="" dir=""
+    test "$str" == "index" && dir="html/"
+    test "$str" == "index" && idx="idx"
+    #echo "str:$str idx:$idx dir:$dir" >&2
     echo -n "<!DOCTYPE html>
 <html>
     <head>
@@ -16,7 +18,7 @@ function md2htmlfunc() {
     </head>
     <body>
 " >$2
-    if [ "$str" = "index" ]; then
+    if [ -n "$idx" ]; then
         sed -e "s, - (\[...raw...\]([^)]*\.md)) , - ," $1
     else
         cat $1
@@ -75,9 +77,17 @@ function md2htmlfunc() {
     </body>
 </html>" >> $2
 
-    sed -e "s,href=\"\([^h][^\"]*\).md\",href=\"${dir}\1.html\",g" \
-        -e "s,href='\([^h][^']*\).md',href='${dir}\\1.html',g" \
-        -e "s/<a [^>]*href=.http[^>]*/& target='_blank'/g" -i $2
+    if [ -z "$idx" ]; then
+        sed -e "s,\( src=.\)\([^ ]*\.png\),\\1../\\2,"  \
+            -e "s,\( src=.\)\([^ ]*\.jpg\),\\1../\\2,"  \
+            -e "s,\( href=.\)\([^ ]*\.md\),\\1../\\2,"  \
+            -e "s,\( href=.\)\([^ ]*\.pdf\),\\1../\\2," \
+            -e "s,\( href=.\)\.\./\(http.://\),\\1\\2," \
+            -e "s,\( href=.\)html/,\\1,g" -i $2
+#   else
+#       sed -e "s,\( href=.\)\([^ ]*\)\.md,\\1${dir}\\2.html,g" -i $2
+    fi
+    sed -e "s/<a [^>]*href=.http[^>]*/& target='_blank'/g" -i $2
 }
 
 if [ "$2" != "" ]; then
@@ -101,31 +111,30 @@ echo
 mkdir -p html
 test -n "$1" || rm -f html/[0-9]*.html
 
+list=""
 for i in ${@:-*.md}; do
     if [ "$i" == "template.md" ]; then
         continue
     elif [ "$i" == "README.md" ]; then
        echo "converting $i in index.html ..."
        md2htmlfunc "$i" index.html
+       #list="$list index.html"
        continue
     fi
     echo "converting $i in html ..."
     md2htmlfunc "$i" "html/${i%.md}.html"
+    list="$list html/${i%.md}.html"
 done
 
 echo
 echo "redirecting html links ..."
-
-for i in img/*.png img/*.jpg; do
-    for j in html/*.html; do
-        sed -i "s,\(src=\"\)$i,\\1../${i%.md},g" $j
-        sed -i "s,\(href=\"\)$i,\\1../${i%.md},g" $j
+for j in $list; do
+    for i in img/*.png img/*.jpg *.png *.jpg; do
+        sed -e "s,\(href=.\)$i>$i,\\1../$i>$i,g" \
+            -e "s,\(src=.\)$i>$i,\\1../$i>$i,g" -i $j
     done
-done
-
-for i in *.md; do
-    for j in html/*.html; do
-        sed -i "s,\(href=\"\)$i\">$i,\\1${i%.md}.html\">${i%.md}.html,g" $j
+    for i in *.md; do
+        sed -e "s,\(href=.\)$i\">$i,\\1${i%.md}.html\">${i%.md}.html,g" -i $j
     done
 done
 
