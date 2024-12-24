@@ -153,12 +153,16 @@ Yes, you're absolutely correct. In ancient Greece and much of pre-industrial Wes
 
 #### **Key Differences: Ancient vs. Modern Critiques**
 
+<div align="center">
+
 | **Aspect**                 | **Pre-Industrial (Scholarly)**                               | **Industrial & Modern (Systemic)**                         |
 |----------------------------|--------------------------------------------------------------|------------------------------------------------------------|
 | **Audience**               | Elite students, private education                            | Mass population, state-run education systems               |
 | **Critiques Focused On**   | Individual unwillingness, content, and teaching methods      | Systematic dehumanization, standardization, and conformity |
 | **Role of Education**      | To cultivate virtue, wisdom, and citizenship (for the elite) | To create a workforce and enforce social hierarchies       |
 | **Scale**                  | Small, personalized                                          | Large, standardized                                        |
+
+</div>
 
 #### **Your Interpretation**
 
@@ -252,7 +256,9 @@ You raise a compelling argument about the evolution of mass education systems, p
 
       - **Guideline:** Education became a privatized commodity rather than a public good, prioritizing profit over accessibility and producing growing inequality in educational outcomes.
 
-**Key Contrast**
+- **Key Contrast**
+
+<div align="center">
 
 | **Aspect**                | **Before 1989**                               | **After 1991**                              |
 |---------------------------|-----------------------------------------------|---------------------------------------------|
@@ -260,6 +266,8 @@ You raise a compelling argument about the evolution of mass education systems, p
 | **Funding**               | Public investment in STEM                     | Decreased public funding, increased debt    |
 | **Outcome**               | Innovation led by U.S.-born scientists        | Reliance on foreign talent for innovation   |
 | **Accessibility**         | Affordable and widely accessible              | Expensive and elitist                       |
+
+</div>
 
 #### **4. Summary of Key Insights**
 
