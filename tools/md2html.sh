@@ -88,7 +88,7 @@ function md2htmlfunc() {
     sed -e "s/<a [^>]*href=.http[^>]*/& target='_blank'/g" -i $2
 
     for i in 3 2 1; do
-        let b=i*3 a=b-2 c=i+1; a=${a/1/2}; echo "$i $a $b $c" >&2
+        let b=i*3 a=b-2 c=i+1; a=${a/1/2}; #echo "$i $a $b $c" >&2
         sed -e "s/ \{$a,$b\}<li\([ >]\)/<li class='li${c}in'\\1/" -i $2
     done
 }
@@ -149,7 +149,7 @@ fi
 
 echo
 echo "converting md tables ..."
-source tools/tabl2html.sh $list
+source tools/tabl2html.sh $list 2>/dev/null
 
 zipfle="archivio-html.zip"
 if [ "$zip" == "1" ]; then
@@ -157,9 +157,9 @@ if [ "$zip" == "1" ]; then
     zip -r $zipfle img/ html/*.html html/*.css index.html -x $0
     zip -j $zipfle zip/README.md
     du -sk $zipfle
+    echo
 fi
 
-echo
 fi; exit #######################################################################
 #
 # PDF creation is ignored
