@@ -10,7 +10,7 @@ A collection of some Q&A dialogs with various AI powered chatbots about differen
 
 #### Related
 
-* [Chatbots for Fun (humor!)](https://github.com/robang74/chatbots-for-fun?tab=readme-ov-file#chatbots-for-fun) (2024-11-17)
+* [Chatbots for Fun (humor!)](https://robang74.github.io/chatbots-for-fun) source on [github](https://github.com/robang74/chatbots-for-fun?tab=readme-ov-file#chatbots-for-fun) (2024-11-17)
 
 * [Roberto A. Foglietta (blog)](https://robang74.github.io/roberto-a-foglietta) source on [github](https://github.com/robang74/roberto-a-foglietta) (2024-12-14)
 
