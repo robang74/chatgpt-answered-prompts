@@ -1,4 +1,4 @@
-<div align="center"><img src="warp-speed-jump.jpg"><br/></div>
+<br><div align="center"><img src="warp-speed-jump.jpg"><br/></div>
 
 ## Q&A dialogs with AI chatbots
 
