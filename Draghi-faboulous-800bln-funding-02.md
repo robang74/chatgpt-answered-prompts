@@ -32,8 +32,7 @@ Should we switch to electric cars in 2035 for which there is no adequate chargin
 
 Would you accept 800 Monopoly's dollars to have your legs broken?
 
-\***<br/>
-Post [published](https://www.linkedin.com/posts/robertofoglietta_i-favolosi-800-miliardi-di-draghi-penso-activity-7239923791705833472-7-Nl) in Italian on LinkedIn, 12th September 2024.
+* Post [published](https://www.linkedin.com/posts/robertofoglietta_i-favolosi-800-miliardi-di-draghi-penso-activity-7239923791705833472-7-Nl) in Italian on LinkedIn, 12th September 2024.
 
 <br/>
 </br>
@@ -176,29 +175,15 @@ This evaluation is based on currently available public information and media rep
 
 Are these news not enough to establish that the sabotage of Nord Stream pipelines has been conducted with the support of Ukrainian expert scuba diver?
 
-<br/>
+* [German authorities obtain first arrest warrant Ukraine Nord Stream bombing](https://www.politico.eu/article/german-authorities-obtain-first-arrest-warrant-ukraine-nord-stream-bombing) (Politico)
 
-<sup>
+* [Germany arrest warrant for Ukrainian diver in Nord Stream probe](https://www.aljazeera.com/news/2024/8/14/germany-arrest-warrant-for-ukrainian-diver-in-nord-stream-probe) (Al Jazeera)
 
- * https://www.politico.eu/article/german-authorities-obtain-first-arrest-warrant-ukraine-nord-stream-bombing
+* [Germany issues first arrest warrant over Nord Stream pipeline blasts reports](https://www.euronews.com/my-europe/2024/08/14/germany-issues-first-arrest-warrant-over-nord-stream-pipeline-blasts-reports) (Euro News)
 
-<br/>
+* [Germany issues arrest warrant for Ukrainian man over Nord Stream sabotage](https://fortune.com/europe/2024/08/15/germany-issues-arrest-warrant-for-ukrainian-named-volodymyr-z-over-nord-stream-gas-pipeline-sabotage) (Fortune)
 
-* https://www.aljazeera.com/news/2024/8/14/germany-arrest-warrant-for-ukrainian-diver-in-nord-stream-probe
-
-<br/>
-
-* https://www.euronews.com/my-europe/2024/08/14/germany-issues-first-arrest-warrant-over-nord-stream-pipeline-blasts-reports
-
-<br/>
-
-* https://fortune.com/europe/2024/08/15/germany-issues-arrest-warrant-for-ukrainian-named-volodymyr-z-over-nord-stream-gas-pipeline-sabotage
-
-<br/>
-
-* https://www.lemonde.fr/en/international/article/2024/08/14/nord-stream-sabotage-berlin-issues-arrest-warrant-for-ukrainian-man\_6715234\_4.html
-
-</sup>
+* [Nord Stream sabotage Berlin issues arrest warrant for Ukrainian man](https://www.lemonde.fr/en/international/article/2024/08/14/nord-stream-sabotage-berlin-issues-arrest-warrant-for-ukrainian-man_6715234_4.html) (Le Monde)
 
 ----
 
@@ -232,21 +217,11 @@ The arrest warrant provides a clearer link to Ukrainian nationals, indicating th
 
 Are you sure that the previous links would not increase the rating about Polish logistic in Nord Stream sabotage? Moreover, consider also these news for updating the ratings
 
-<br/>
+* [Criminal complaint against President von der Leyen and Pfizer](https://www.europarl.europa.eu/doceo/document/E-9-2023-001254_EN.html) (Euro Parlamento)
 
-<sup>
+* [Pfizergate plaintiff asks leaders to sack Von der Leyen and commission](https://www.euronews.com/health/2024/05/30/pfizergate-plaintiff-asks-leaders-to-sack-von-der-leyen-and-commission) (Euro News)
 
-* https://www.europarl.europa.eu/doceo/document/E-9-2023-001254\_EN.html
-
-<br/>
-
-* https://www.euronews.com/health/2024/05/30/pfizergate-plaintiff-asks-leaders-to-sack-von-der-leyen-and-commission
-
-<br/>
-
-* https://www.politico.eu/article/eus-top-court-rules-against-european-commission-in-vaccine-contracts-transparency-case
-
-</sup>
+* [EUS top court rules against European Commission in vaccine contracts transparency case](https://www.politico.eu/article/eus-top-court-rules-against-european-commission-in-vaccine-contracts-transparency-case) (Politico)
 
 ---
 
@@ -298,26 +273,17 @@ While the court ruling and ongoing scrutiny raise serious concerns, there is sti
 
 Considering these news and update the ratings
 
-</br>
+* [US campaign behind the turmoil in Kiev](https://www.theguardian.com/world/2004/nov/26/ukraine.usa) (The Guardian)
 
-<sup>
+* [Three questions for Dr Fauci on his alleged secret visit to CIA headquarters](https://www.aier.org/article/three-questions-for-dr-fauci-on-his-alleged-secret-visit-to-cia-headquarters) (The Daily Economy)
 
-* https://www.theguardian.com/world/2004/nov/26/ukraine.usa
+* [Systematic review reveals many Covid-19 vaccine recipients experienced new onset psychosis](https://www.ntd.com/systematic-review-reveals-many-covid-19-vaccine-recipients-experienced-new-onset-psychosis_990743.html) (NTD)
 
-</br>
+   - **Note of 2024-12-25**: this link above is no longer active but [the study](https://pmc.ncbi.nlm.nih.gov/articles/PMC11046000/) referred to, it can still be found on the National Library of Medicine and in PDF format has also been added to the [data](https://github.com/robang74/chatgpt-answered-prompts/tree/main/data#readme) folder.
 
-* https://www.aier.org/article/three-questions-for-dr-fauci-on-his-alleged-secret-visit-to-cia-headquarters
+* [Lo scoop di Der Spiegel sull'impegno NATO di non espandersi a est](https://www.italiaoggi.it/news/lo-scoop-di-der-spiegel-sull-impegno-nato-di-non-espandersi-a-est-si-basa-su-un-verbale-desecretato-che-2552642) (Italia Oggi)
 
-</br>
-
-* https://www.ntd.com/systematic-review-reveals-many-covid-19-vaccine-recipients-experienced-new-onset-psychosis\_990743.html
-
-</br>
-
-* https://www.italiaoggi.it/news/lo-scoop-di-der-spiegel-sull-impegno-nato-di-non-espandersi-a-est-si-basa-su-un-verbale-desecretato-che-2552642
-
-</sup>
-
+   - **Note of 2024-12-25**: this article is no longer available, but this [other article](https://rivistaetnie.com/scoop-di-der-spiegel-su-impegno-nato-di-non-espandersi-a-est-133826) refers precisely to the article published by ‘italia Oggi’ and reports part of that desecretised report.
 
 ---
 
@@ -387,25 +353,13 @@ Growing evidence of vaccine side effects, combined with allegations of non-trans
   
 Considering these news and update the ratings
 
-<br/>
+* [Pfizer to pay 23 billion agrees to criminal plea](https://www.reuters.com/article/business/pfizer-to-pay-23-billion-agrees-to-criminal-plea-idUSTRE5813XB/) (Reuters)
 
-<sup>
+* [Former Pfizer employee convicted trial insider trading](https://www.justice.gov/usao-sdny/pr/former-pfizer-employee-convicted-trial-insider-trading) (US DoJ)
 
-* https://www.justice.gov/usao-sdny/pr/former-pfizer-employee-convicted-trial-insider-trading
+* [European commission defiant over Von der Leyens Pfizer texts](https://www.theguardian.com/world/2022/jun/29/european-commission-defiant-over-von-der-leyens-pfizer-texts) (The Guardian)
 
-<br/>
-
-* https://www.reuters.com/article/business/pfizer-to-pay-23-billion-agrees-to-criminal-plea-idUSTRE5813XB/
-
-<br/>
-
-* https://www.theguardian.com/world/2022/jun/29/european-commission-defiant-over-von-der-leyens-pfizer-texts
-
-<br/>
-
-* https://portolano.it/en/blog/life-sciences/pfizer-ordered-pay-damages-national-health-system-abusing-dominant-position-managing-xalatan-patent-lifecycle
-
-</sup>
+* [Pfizer ordered pay damages National Health System abusing dominant position](https://portolano.it/en/blog/life-sciences/pfizer-ordered-pay-damages-national-health-system-abusing-dominant-position-managing-xalatan-patent-lifecycle) (blog, 17 source links)
   
 ---
   
@@ -487,17 +441,11 @@ Consider that those 29 funds in Gemany which contains about 770 billions have be
 
 Consider also these news and update the ratings, just the ratings.   
 
-<br/>
+* [German ruling puts 770 billion of government funding at risk](https://www.bloomberg.com/news/articles/2023-11-16/german-ruling-puts-770-billion-of-government-funding-at-risk) (Bloomberg)
 
-<sup>
+* [Special funds how Germany gets round debt brake](https://www.reuters.com/markets/europe/special-funds-how-germany-gets-round-debt-brake-2023-11-17/) (Bloomberg)
 
-* https://www.bloomberg.com/news/articles/2023-11-16/german-ruling-puts-770-billion-of-government-funding-at-risk
-
-<br/>
-
-* https://en.wikipedia.org/wiki/Ursula\_von\_der\_Leyen https://www.reuters.com/markets/europe/special-funds-how-germany-gets-round-debt-brake-2023-11-17/   
-
-</sup>
+* [Ursula von der Leyen](https://en.wikipedia.org/wiki/Ursula_von_der_Leyen) (Wikipedia)
 
 ---
   
@@ -541,13 +489,7 @@ In such scenario Germany could have made a secret agreement with Russia to not g
 
 Considering also this news, update the ratings.
 
-<br/>
-
-<sup>
-
-* https://www.aljazeera.com/news/2022/10/29/russia-says-uk-navy-blew-up-nord-stream-london-denies-claim
-
-</sup>
+* [Russia says UK navy blew up Nord Stream London denies claim](https://www.aljazeera.com/news/2022/10/29/russia-says-uk-navy-blew-up-nord-stream-london-denies-claim) (Al Jazeera)
 
 ---
   
@@ -589,19 +531,9 @@ Updated Ratings
   
 Considering this wikipedia page, the maps from wikimedia that shows the sabotage point in front of the Poland and "The suspect fled to Ukraine in a car belonging to the Ukrainian embassy in Poland" as written by the Spiegel which article is refereed at note 20.
 
-<br/>
+* [Nord Stream pipelines sabotage](https://en.wikipedia.org/wiki/Nord_Stream_pipelines_sabotage) (Wikipedia)
 
-<sup>
-
-* https://en.wikipedia.org/wiki/Nord\_Stream\_pipelines\_sabotage   
-
-<br/>
-
-* https://upload.wikimedia.org/wikipedia/commons/e/e1/Nord\_Stream\_gas\_leaks\_2022.svg
-
-</sup>
-
-<br/>
+* [Nord Stream gas leaks 2022 svg](https://upload.wikimedia.org/wikipedia/commons/e/e1/Nord_Stream_gas_leaks_2022.svg) (Wikimedia)
   
 It sounds to me not plausible that UK were involved but Poland did not despite it has the surveillance duty of that sea area. I am not claiming that the whole Polish governement were informed and complice of that sabotage but their militaries top gerarchies could not have been ignore that action otherwise they could have dectected suspicious activiets and might have blocked it.
 
@@ -835,15 +767,15 @@ With this notation those inputs have been included in the prompts below but tran
 Add to information this news in Italian in which the Kiev government announced that it [not] is going to renew the agreement to make the Russian natural gas arrive in Europe by the pipeline crossing Ukraine. Put this information in the scenario in which the destruction of the Nord Stream I and II was announced by Biden to Scholtz conference and for which Germany issued a request of arrest for an Ukraine citizen named Vlodomyr Z. which can be completed as Vlodomyr Zelensky. This man is clearly a puppet of the Biden administration which supports the policy for which Europe should emancipate from Russia for energy and starting to buy the much more expensive GNL from the USA. After the acquisition of this information, update the ratings.
 
 > 9 October 2024 - Russian gas stop via Ukraine at the end of the year: Slovakia's concerns.
->
+> 
 > Ukraine reiterated yesterday that it does not intend to renew the gas transit agreement with Russia, which expires at the end of this year. This was stated by the Ukrainian Prime Minister, Denys Shmyhal, during a joint press conference with his Slovak counterpart, Robert Fico.
->
+> 
 > ‘Ukraine will not renew the transit agreement with Russia after its expiration. Ukraine's strategic goal is to impose sanctions on the Russian gas system in order to deprive the Kremlin of revenue from the sale of hydrocarbons, through which the aggressor finances the war,’ Shmyhal stressed.
->
+> 
 > COMMENT
->
+> 
 > It is now clearer what the purpose of sabotaging the Nordstream I and II pipelines was. It now seems clearer why, in that context, the investigation led to the issuing of an arrest warrant for a person of Ukrainian nationality who curiously enough has been identified as Volodymyr Z. One can hardly imagine, the full name being, Volodymyr Zelensky.
->
+> 
 > News source: [analisidifesa.it](https://www.analisidifesa.it/2024/10/a-fine-anno-stop-al-gas-russo-attraverso-lucraina-le-preoccupazioni-della-slovacchia/)
 
 ---
