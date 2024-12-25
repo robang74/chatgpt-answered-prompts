@@ -83,6 +83,8 @@ function md2htmlfunc() {
             -e "s,\( href=.\)\([^ ]*\.md\),\\1../\\2,"  \
             -e "s,\( href=.\)\([^ ]*\.pdf\),\\1../\\2," \
             -e "s,\( href=.\)\.\./\(http.://\),\\1\\2," \
+            -e "s,\( href=.\)\.\./\([^ ]*\)\.md,\\1\\2.html," \
+            -e "s,\( href=.\)italian/\([^ ]*.html\),\\1../italian/html/\\2," \
             -e "s,\( href=.\)html/,\\1,g" -i $2
     fi
     sed -e "s/<a [^>]*href=.http[^>]*/& target='_blank'/g" -i $2
