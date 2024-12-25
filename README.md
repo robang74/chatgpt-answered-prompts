@@ -1,9 +1,26 @@
+<div align="center"><img src="warp-speed-jump.jpg"><br/></div>
+
 ## Q&A dialogs with AI chatbots
 
-A collection of some Q&A dialogs with various AI powered chatbots about different subjects
-which get the attention of the media.
+A collection of some Q&A dialogs with various AI powered chatbots about different subjects which get the attention of the media.
 
-### please, notice this
+#### Website
+
+* [robang74.github.io/chatgpt-answered-prompts](https://robang74.github.io/chatgpt-answered-prompts)
+
+#### Related
+
+* [Chatbots for Fun (humor!)](https://github.com/robang74/chatbots-for-fun?tab=readme-ov-file#chatbots-for-fun) (2024-11-17)
+
+* [Roberto A. Foglietta (blog)](https://robang74.github.io/roberto-a-foglietta) source on [github](https://github.com/robang74/roberto-a-foglietta) (2024-12-14)
+
+<br/>
+
+## Warnings
+
+Few but relevant warnings for those are not aware how artificial intelligence and chatbots are working under the hood. Just to say that these are very powerful tools that can achieve some impressive results. However, like most of the IT tools, they are not trivial to use and to trust. Here below are some tips to grasp the essential concepts, limits and opportunities.
+
+#### please, notice this
 
 * I wrote these papers and published them on a github repository in order to track their changes and evolution. Often, I wrote them using the AI as a critical argumentative partner or a peer-review or an antagonist counter-speaker, for example.
 
@@ -11,13 +28,13 @@ which get the attention of the media.
 
 * Hence, these papers were NOT written by the AI,  instead the chatbot had a mere assistant role, whatever it was, allowing me to better understand how to explain my idea. Like it was an advanced text editor!
 
-### mostly LLM, almost AI
+#### mostly LLM, almost AI
 
 * The chatbot is not exactly artificial intelligence but specifically **LLM** which is an acronym of **Large Language Models**. On top of that, techies put some more features like the ability to browse the internet, querying databases, do math, write text, code and documentation formatting, etc. Specific skills have been added on the top of a LLM engine (like ChatGPT or DALL-E) and these models are HUGE not only in terms of parameters (knowledge or rules ability to learn) but also in terms of architectural design like Mistral AI.
 
 * Therefore, for those started to get their hands dirty at that time in which AI was named "*neural network*" or in some more humile but specific terms like "*perceptron*" or "*data classifier*" or "*patter reconignisation*" or in more generic terms "*linear algebra*" with "*step functions*" or "*S-like functions*" or "*activation functions*", this topic and the advancement are exiting. For all the others, AI is a purely marketing definition which mostly means **LLM** but they should read it as **Largely Limited Mind\ness** and wonder why that `\` in their alternative definition instead of any other bar-like character.
 
-### please, avoid this
+#### please, avoid this
 
 * Stop expecting that the AI would give you a useful answer or even a wise answer. The correct use of an AI, it is not querying it as it were the [Delphi's Oracle](https://en.wikipedia.org/wiki/Pythia), an ancient Greek myth, but as a tool to avoid asking real-living people doing {dumb, boring, repeating} tasks.
 
@@ -25,7 +42,7 @@ which get the attention of the media.
 
 * In fact, the more that ideas are far from the obvious (common-sense vs insightful wisdom) , the more they are statistically left behind by the LLM. And also humans do the same, by the way. Which means that unless a specific pre-training, without a skilled and without  an experienced human driving the chatbot, the AI is just an advanced "*fortune cookies*" messages provider.
 
-### be classic, or else
+#### be classic, or else
 
 * In case you wish not abandon your habit to decide or act on driven by random inputs also known as "*the art of divination*" or "*ghosts' suggestion*", then using the "*traditional*" tools - like reading cards, tea spots in the tea cup, fractal images in coffee grounds, arbitrary recognition of structures in animal entrails - is way lesser energy intensive approach with grants you even better results. Be traditional!
 
@@ -84,16 +101,6 @@ which get the attention of the media.
 5. **Se la verità li uccide, lasciate che muoiano** [[**`md`**](se-la-verita-li-uccide-lasciate-che-muoiano.md)] [[**`html`**](html/se-la-verita-li-uccide-lasciate-che-muoiano.html)] [[**`pdf`**](pdf/se-la-verita-li-uccide-lasciate-che-muoiano.pdf)]
 
     - Starting from an contro-meme challenge about a citation popularly attributed to Immanuel Kant toward a rule of thumb how to deal with the lies, the truth and their expectations.
-
-<br/>
-
-## Copyright
-
-&copy; 2024, **Roberto A. Foglietta** \<roberto.foglietta<span>@</span>gmail.com\>
-
-All the files in this gihub repository are published *Creative Commons Attribution Non-Commercial No-Derivatives 4.0 International* license terms ([CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)), unless states differently or not applicable due to a different and previous authorship.
-
-Moreover, if a version of a document included in this repository exists or has existed under different licence terms, the licence terms of the latest version available on `github/robang74` [repository](https://github.com/robang74/chatgpt-answered-prompts/) apply. Even when the new licence terms are more restrictive, because permissions for any free content may be revoked at any time at the will of the author, and updating a licence to be more restrictive explicitly implies this will.
 
 <br/>
 
@@ -158,3 +165,14 @@ This table was produced by having ChatGPT interact with Gemini in such a way tha
 <div align="center"><img src="ai-chatbots-ratings-table-dark.png" width="800"><br/></div>
 
 Both chatbots changed their ratings by a total of 18% and 19%. However, in some, albeit a few cases, they changed their opinion completely, changing their grades by 7 or 5 points out of 10. Both relied on [Chatbot Arena](https://lmarena.ai/) LLM Leaderboard, also.
+
+<br/>
+
+## Copyright
+
+&copy; 2024, **Roberto A. Foglietta** \<roberto.foglietta<span>@</span>gmail.com\>
+
+All the files in this gihub repository are published *Creative Commons Attribution Non-Commercial No-Derivatives 4.0 International* license terms ([CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)), unless states differently or not applicable due to a different and previous authorship.
+
+Moreover, if a version of a document included in this repository exists or has existed under different licence terms, the licence terms of the latest version available on `github/robang74` [repository](https://github.com/robang74/chatgpt-answered-prompts/) apply. Even when the new licence terms are more restrictive, because permissions for any free content may be revoked at any time at the will of the author, and updating a licence to be more restrictive explicitly implies this will.
+

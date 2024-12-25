@@ -279,7 +279,7 @@ Considering these news and update the ratings
 
 * [Systematic review reveals many Covid-19 vaccine recipients experienced new onset psychosis](https://www.ntd.com/systematic-review-reveals-many-covid-19-vaccine-recipients-experienced-new-onset-psychosis_990743.html) (NTD)
 
-   - **Note of 2024-12-25**: this link above is no longer active but [the study](https://pmc.ncbi.nlm.nih.gov/articles/PMC11046000/) referred to, it can still be found on the National Library of Medicine and in PDF format has also been added to the [data](https://github.com/robang74/chatgpt-answered-prompts/tree/main/data#readme) folder.
+   - **Note of 2024-12-25**: this link above is no longer active but [the study](https://pmc.ncbi.nlm.nih.gov/articles/PMC11046000/) referred to, it can still be found on the National Library of Medicine and in PDF format has also been added to the [data](https://github.com/robang74/chatgpt-answered-prompts/tree/main/data/covid-systematic-review-on-psicosys.pdf) folder.
 
 * [Lo scoop di Der Spiegel sull'impegno NATO di non espandersi a est](https://www.italiaoggi.it/news/lo-scoop-di-der-spiegel-sull-impegno-nato-di-non-espandersi-a-est-si-basa-su-un-verbale-desecretato-che-2552642) (Italia Oggi)
 
