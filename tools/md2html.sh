@@ -27,7 +27,7 @@ function full_mdlinkconv() {
 }
 
 function md2htmlfunc() {
-    local i str=$(basename ${2%.html}) dir=""
+    local a b c i str=$(basename ${2%.html}) dir=""
     test "$str" == "index" && dir="html/"
 
     echo -n "<!DOCTYPE html>
@@ -134,8 +134,10 @@ elif [ "x$1" == "x-z" ]; then
 fi
 
 function main_md2html() {
+    local b=${2:-\`} a=${2:+}
     local i j list="" index=0
 
+    printf "$a"
     for i in $1; do
         if [ "$i" == "template.md" ]; then
             continue
@@ -143,16 +145,19 @@ function main_md2html() {
             index=1
             continue
         fi
-        echo "converting $i in html ..."
+        #echo "converting $i in html ..."
         md2htmlfunc "$i" "html/${i%.md}.html"
         list="$list html/${i%.md}.html"
     done
     if [ $index -ne 0 ]; then
-        echo "converting README.md in index.html ..."
+        #printf .
+        #echo "converting README.md in index.html ..."
         md2htmlfunc README.md index.html
     fi
+    printf "$b"
 
-    echo "redirection $1 image links ..."
+    printf "$a"
+    #echo "redirection $1 image links ..."
     for j in $list; do
         for i in $(get_images_list); do
             sed -e "s,\(href=.\)$i,\\1../$i,g" \
@@ -162,8 +167,10 @@ function main_md2html() {
             sed -e "s,\(href=.\)$i\">$i,\\1${i%.md}.html\">${i%.md}.html,g" -i $j
         done
     done
+    printf "$b" #2
 
-    echo "replacing $1 markdown links ..."
+    printf "$a"
+    #echo "replacing $1 markdown links ..."
     if [ "${PWD##*/}" == "chatgpt-answered-prompts" ]; then
         index=0
     fi
@@ -177,9 +184,12 @@ function main_md2html() {
             link_md2html $i index.html
         fi
     done
+    printf "$b" #3
 
-    echo "converting $1 markdown tables ..."
+    printf "$a"
+    #echo "converting $1 markdown tables ..."
     source tools/tabl2html.sh $list 2>/dev/null >&2
+    printf "$b" #4
 }
 
 ################################################################################
@@ -187,16 +197,24 @@ function main_md2html() {
 mkdir -p html
 test -n "$1" || rm -f html/[0-9]*.html
 
+flist=$(ls -1 ${@:-*.md})
+declare -i n=$(echo "$flist" | wc -l)
 echo
-if [ "${2:-}" != "" -o "${1:-}" == "" ]; then
-    echo "pararelising tasks ... "
-    echo
-    for i in ${@:-*.md}; do
+if [ $n -gt 1 ]; then
+    let n*=4; str=$(seq 1 $n)
+    str=$(printf ".%.0s" $str)
+    printf "parallel working |$str|\n""completed  tasks |"
+
+    for i in $flist; do
         main_md2html $i &
+        sleep 0.1
     done
     wait
+    echo '|'
 else
-    main_md2html $1
+    printf "converting $1 "
+    main_md2html $1 '.'
+    echo " done"
 fi
 echo
 
