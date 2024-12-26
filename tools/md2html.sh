@@ -106,12 +106,6 @@ function md2htmlfunc() {
     done
 }
 
-if [ "$2" != "" ]; then
-    for i in "$@"; do
-        bash $0 "$i"
-    done
-else ###########################################################################
-
 function get_images_list() {
     local dir ext
     for dir in "data/" "img/" ""; do
@@ -139,57 +133,72 @@ elif [ "x$1" == "x-z" ]; then
     shift
 fi
 
-echo
+function main_md2html() {
+    local i j list="" index=0
+
+    for i in $1; do
+        if [ "$i" == "template.md" ]; then
+            continue
+        elif [ "$i" == "README.md" ]; then
+            index=1
+            continue
+        fi
+        echo "converting $i in html ..."
+        md2htmlfunc "$i" "html/${i%.md}.html"
+        list="$list html/${i%.md}.html"
+    done
+    if [ $index -ne 0 ]; then
+        echo "converting README.md in index.html ..."
+        md2htmlfunc README.md index.html
+    fi
+
+    echo "redirection $1 image links ..."
+    for j in $list; do
+        for i in $(get_images_list); do
+            sed -e "s,\(href=.\)$i,\\1../$i,g" \
+                -e "s,\(src=.\)$i,\\1../$i,g" -i $j
+        done
+        for i in *.md; do
+            sed -e "s,\(href=.\)$i\">$i,\\1${i%.md}.html\">${i%.md}.html,g" -i $j
+        done
+    done
+
+    echo "replacing $1 markdown links ..."
+    if [ "${PWD##*/}" == "chatgpt-answered-prompts" ]; then
+        index=0
+    fi
+    for i in $(ls -1 *.md italian/*.md 2>/dev/null); do
+        i=${i%.md}
+        test "$i" == "template" && continue
+        for j in $list; do
+            link_md2html $i $j
+        done
+        if [ $index -ne 0 ]; then
+            link_md2html $i index.html
+        fi
+    done
+
+    echo "converting $1 markdown tables ..."
+    source tools/tabl2html.sh $list 2>/dev/null >&2
+}
+
+################################################################################
+
 mkdir -p html
 test -n "$1" || rm -f html/[0-9]*.html
 
-list=""
-index=0
-for i in ${@:-*.md}; do
-    if [ "$i" == "template.md" ]; then
-        continue
-    elif [ "$i" == "README.md" ]; then
-        index=1
-        continue
-    fi
-    echo "converting $i in html ..."
-    md2htmlfunc "$i" "html/${i%.md}.html"
-    list="$list html/${i%.md}.html"
-done
-if [ $index -ne 0 ]; then
-    echo "converting README.md in index.html ..."
-    md2htmlfunc README.md index.html
-fi
-
 echo
-for j in $list; do
-    echo "redirection $j image links ..."
-    for i in $(get_images_list); do
-        sed -e "s,\(href=.\)$i,\\1../$i,g" \
-            -e "s,\(src=.\)$i,\\1../$i,g" -i $j
+if [ "${2:-}" != "" -o "${1:-}" == "" ]; then
+    echo "pararelising tasks ... "
+    echo
+    for i in ${@:-*.md}; do
+        main_md2html $i &
     done
-    for i in *.md; do
-        sed -e "s,\(href=.\)$i\">$i,\\1${i%.md}.html\">${i%.md}.html,g" -i $j
-    done
-done
-
-echo
-if [ "${PWD##*/}" == "chatgpt-answered-prompts" ]; then
-    index=0
+    wait
+else
+    main_md2html $1
 fi
-for i in $(ls -1 *.md italian/*.md 2>/dev/null); do
-    i=${i%.md}
-    test "$i" == "template" && continue
-    echo "replacing $i markdown links ..."
-    for j in $list; do
-        link_md2html $i $j
-    done
-    if [ $index -ne 0 ]; then
-        link_md2html $i index.html
-    fi
-done
-
-source tools/tabl2html.sh $list 2>/dev/null
+echo
 
 zipfle="archivio-html.zip"
 if [ "$zip" == "1" ]; then
@@ -198,6 +207,4 @@ if [ "$zip" == "1" ]; then
     zip -j $zipfle zip/README.md
     du -sk $zipfle
     echo
-fi
-
 fi
