@@ -3,11 +3,33 @@
 # (C) 2024, Roberto A. Foglietta <roberto.foglietta@gmail.com> - 3-clause BSD
 #
 
+li_A="<li style='list-style-type: none;'><b>"
+#li_B=".</b><span>\&nbsp;\&nbsp;\&nbsp;</span>"
+li_B=".<span style='visibility: hidden;'>--</span></b>"
+
+ul_A="<ul class='dqt'><li class='dqt'><blockquote class='dqt'>"
+ul_B="</blockquote></li></ul>"
+
+#function orig_mdlinkconv() {
+#    sed -e "s,\([ []*\)\[\([^][]*\)\]\([^(]\),\\1\&lbrack;\\2\&rbrack;\\3,g;" \
+#        -e "s,\[\([^[]*\)](\([^)]*\)),<a href='\\2'>\\1</a>,g" \
+#        -e "s,\&lbrack;,[,g" -e "s,\&rbrack;,],g" "$@"
+#}
+
+function mini_mdlinkconv() {
+    sed -e "s,\([ []*\)\[\([^][]*\)\]\([^(]\),\\1\&lbrack;\\2\&rbrack;\\3,g;" \
+        -e "s,\!\[\([^[]*\)](\([^)]*\)),<img src=\"\\2\" alt=\"\\1\">,g" \
+        -e "s,\[\([^[]*\)](\([^)]*\)),<a href=\"\\2\">\\1</a>,g" "$@"
+}
+
+function full_mdlinkconv() {
+    mini_mdlinkconv -e "s,\&lbrack;,[,g" -e "s,\&rbrack;,],g" "$@"
+}
+
 function md2htmlfunc() {
-    local i str=$(basename ${2%.html}) idx="" dir=""
+    local i str=$(basename ${2%.html}) dir=""
     test "$str" == "index" && dir="html/"
-    test "$str" == "index" && idx="idx"
-    #echo "str:$str idx:$idx dir:$dir" >&2
+
     echo -n "<!DOCTYPE html>
 <html>
     <head>
@@ -18,11 +40,11 @@ function md2htmlfunc() {
     </head>
     <body>
 " >$2
-    if [ -n "$idx" ]; then
+    if [ "$str" = "index" ]; then
         sed -e "s, - (\[...raw...\]([^)]*\.md)) , - ," $1
     else
         cat $1
-    fi >>$2
+    fi | full_mdlinkconv >>$2
     sed -e "s,@,\&commat;,g" -e "s,°,\&deg;,g" \
 -e "s,m\*rda,m\&astr;rda,g" -e "s,sh\*t,sh\&astr;t,g" \
 -e "s,c\*zzo,c\&astr;zzo,g" -e "s,d\*ck,d\&astr;ck,g" \
@@ -34,11 +56,10 @@ function md2htmlfunc() {
 -e "s,^#### \(.*\),<H4>\\1</H4>," \
 -e "s,^##### \(.*\),<H5>\\1</H5>," \
 -e "s,\(<div id=.firstdiv.\) .*>,\\1>," \
--e "s,^ *[-+\*] *> *\(.*\),<ul class='dqt'><li class='dqt'><blockquote class='dqt'>\\1</blockquote></li></ul>," \
+-e "s,^ *[-+\*] *> *\(.*\),${ul_A}\\1${ul_B}," \
 -e "s,^> \(.*\),<blockquote>\\1</blockquote>," \
 -e "s,^\( *\)[-+\*] \(.*\),\\1<li>\\2</li>," \
--e "s,^\( *\)\([0-9]*\)\. \(.*\),\\1<li style='list-style-type: none;'><b>\\2.</b><span>\&nbsp;\&nbsp;\&nbsp;</span>\\3</li>," \
--e 's,\(\[*\)\[\([^]]*\)\](\([^)]*\)),\1<a href="\3">\2<\/a>,g' \
+-e "s,^\( *\)\([0-9]*\)\. \(.*\),\\1${li_A}\\2${li_B}\\3</li>," \
 -e "s,\\\<\(.*\)\\\>,\&lt;\\1\&gt;,g" \
 -e "s,^ *$,<p/>," -e "s,^---.*,<hr>," -i $2
 
@@ -77,18 +98,7 @@ function md2htmlfunc() {
     </body>
 </html>" >> $2
 
-    if [ -z "$idx" ]; then
-        sed -e "s,\( src=.\)\([^ ]*\.png\),\\1../\\2,"  \
-            -e "s,\( src=.\)\([^ ]*\.jpg\),\\1../\\2,"  \
-            -e "s,\( href=.\)\([^ ]*\.md\),\\1../\\2,"  \
-            -e "s,\( href=.\)\([^ ]*\.pdf\),\\1../\\2," \
-            -e "s,\( href=.\)\.\./\(http.://\),\\1\\2," \
-            -e "s,\( href=.\)\.\./\([^ ]*\)\.md,\\1\\2.html," \
-            -e "s,\( href=.\)italian/\([^ ]*.html\),\\1../italian/html/\\2," \
-            -e "s,\( href=.\)html/,\\1,g" -i $2
-    fi
     sed -e "s/<a [^>]*href=.http[^>]*/& target='_blank'/g" -i $2
-
     for i in 3 2 1; do
         let b=i*3 a=b-2 c=i+1; a=${a/1/2}; #echo "$i $a $b $c" >&2
         sed -e "s/ \{$a,$b\}<li\([ >]\)/<li class='li${c}in'\\1/" -i $2
@@ -132,22 +142,58 @@ done
 
 echo
 echo "redirecting html links ..."
+
+function get_images_list() {
+    local dir ext
+    for dir in "data/" "img/" ""; do
+        for ext in jpg png pdf; do
+            ls -1 ${dir}*.${ext}
+        done 2>/dev/null
+    done
+}
+
 for j in $list; do
-    for i in img/*.png img/*.jpg *.png *.jpg; do
-        sed -e "s,\(href=.\)$i>$i,\\1../$i>$i,g" \
-            -e "s,\(src=.\)$i>$i,\\1../$i>$i,g" -i $j
+    for i in $(get_images_list); do
+        sed -e "s,\(href=.\)$i,\\1../$i,g" \
+            -e "s,\(src=.\)$i,\\1../$i,g" -i $j
     done
     for i in *.md; do
         sed -e "s,\(href=.\)$i\">$i,\\1${i%.md}.html\">${i%.md}.html,g" -i $j
     done
 done
 
-if [ $index -eq 1 ]; then
-    i="README.md"
-    echo "converting $i in index.html ..."
-    md2htmlfunc "$i" index.html
-    list="$list index.html"
-fi
+#function link_md2html_getdir() {
+#    if [ "$1" == "README" ]; then
+#        echo "html/"
+#    else
+#        declare -i a
+#        for a in $(seq 1 $(echo "$f" | tr -cd / | wc -c));
+#            do printf "../"; done
+#    fi
+#}
+
+function link_md2html() {
+    local i="$1" f="$2" dir=""
+    test "$f" == "index.html" && dir="html/"
+    echo "$1" | grep -qe "^italian/" && dir="../italian/html/"
+    sed -e "s,\(href=[\"']\)$i\.md\([\"']\),\\1${dir}${i##*/}.html\\2,g" -i $f
+}
+
+for i in $(ls -1 *.md italian/*.md 2>/dev/null); do
+    i=${i%.md}
+    test "$i" == "template" && continue
+    for j in html/*.html index.html; do
+        link_md2html $i $j
+    done
+done
+
+#for i in italian/*.md; do
+#    i=${i%.md}
+#    for j in html/*.html index.html; do
+#        dir="../italian/html/"
+#        sed -e "s,\(href=[\"']\)$i\.md\([\"']\),\\1${dir}${i##*/}.html\\2,g" -i $j
+#    done
+#done
 
 echo
 echo "converting md tables ..."
@@ -162,46 +208,4 @@ if [ "$zip" == "1" ]; then
     echo
 fi
 
-fi; exit #######################################################################
-#
-# PDF creation is ignored
-#
-################################################################################
-
-mkdir -p pdf
-
-echo
-for i in *.md; do
-    if [ "$i" == "README.md" ]; then
-        continue
-    fi
-    echo "converting $i in pdf ..."
-    cp -f $i pdf/$i.tmp
-    for k in *.png *.md; do
-        sed -i "s,\[.*\]($k),$k,g" pdf/$i.tmp
-    done
-    md2pdf pdf/$i.tmp pdf/${i%.md}.pdf
-    rm -f pdf/$i.tmp
-done
-
-echo
-echo "all done."
-echo
-exit
-
-echo
-echo "redirecting pdf link ..."
-
-for i in *.png; do
-    for j in pdf/*.pdf; do
-        echo "reworking $j ..."
-        rm -f $j.tmp
-        pdftk $j output $j.tmp uncompress
-        sed -i "s,\(/URI (file://\).*/$i,\\1../$i,g" $j.tmp
-        pdftk $j.tmp output $j compress
-        rm -f $j.tmp
-    done
-done
-
-fi #############################################################################
-
+fi
