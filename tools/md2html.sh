@@ -2,6 +2,11 @@
 #
 # (C) 2024, Roberto A. Foglietta <roberto.foglietta@gmail.com> - 3-clause BSD
 #
+################################################################################
+
+declare -i start_t=$(date +%s%N)
+
+################################################################################
 
 li_A="<li style='list-style-type: none;'><b>"
 #li_B=".</b><span>\&nbsp;\&nbsp;\&nbsp;</span>"
@@ -203,8 +208,7 @@ echo
 if [ $n -gt 1 ]; then
     let n*=4; str=$(seq 1 $n)
     str=$(printf ".%.0s" $str)
-    printf "parallel working |$str|\n""completed  tasks |"
-
+    printf "parallel working |$str|\n""work progression |"
     for i in $flist; do
         main_md2html $i &
         sleep 0.1
@@ -214,9 +218,12 @@ if [ $n -gt 1 ]; then
 else
     printf "converting $1 "
     main_md2html $1 '.'
-    echo " done"
+    printf " "
 fi
-echo
+
+let start_t=$(date +%s%N)-start_t
+let start_t=(start_t+500000)/1000000
+printf "done in %d.%03d ms\n\n" $[start_t/1000] $[start_t%1000]
 
 zipfle="archivio-html.zip"
 if [ "$zip" == "1" ]; then
