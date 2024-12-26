@@ -101,7 +101,8 @@ function md2htmlfunc() {
     sed -e "s/<a [^>]*href=.http[^>]*/& target='_blank'/g" -i $2
     for i in 3 2 1; do
         let b=i*3 a=b-2 c=i+1; a=${a/1/2}; #echo "$i $a $b $c" >&2
-        sed -e "s/ \{$a,$b\}<li\([ >]\)/<li class='li${c}in'\\1/" -i $2
+        sed -e "s/ \{$a,$b\}<\(li\|blockquote\|tt\)\([ >]\)"\
+"/<\\1 class='li${c}in'\\2/" -i $2
     done
 }
 
@@ -110,6 +111,22 @@ if [ "$2" != "" ]; then
         bash $0 "$i"
     done
 else ###########################################################################
+
+function get_images_list() {
+    local dir ext
+    for dir in "data/" "img/" ""; do
+        for ext in jpg png pdf; do
+            ls -1 ${dir}*.${ext}
+        done 2>/dev/null
+    done
+}
+
+function link_md2html() {
+    local i="$1" f="$2" dir=""
+    test "$f" == "index.html" && dir="html/"
+    echo "$1" | grep -qe "^italian/" && dir="../italian/html/"
+    sed -e "s,\(href=[\"']\)$i\.md\([\"']\),\\1${dir}${i##*/}.html\\2,g" -i $f
+}
 
 zip=0
 if [ -d "$1" ]; then
@@ -139,20 +156,14 @@ for i in ${@:-*.md}; do
     md2htmlfunc "$i" "html/${i%.md}.html"
     list="$list html/${i%.md}.html"
 done
+if [ $index -ne 0 ]; then
+    echo "converting README.md in index.html ..."
+    md2htmlfunc README.md index.html
+fi
 
 echo
-echo "redirecting html links ..."
-
-function get_images_list() {
-    local dir ext
-    for dir in "data/" "img/" ""; do
-        for ext in jpg png pdf; do
-            ls -1 ${dir}*.${ext}
-        done 2>/dev/null
-    done
-}
-
 for j in $list; do
+    echo "redirection $j image links ..."
     for i in $(get_images_list); do
         sed -e "s,\(href=.\)$i,\\1../$i,g" \
             -e "s,\(src=.\)$i,\\1../$i,g" -i $j
@@ -162,41 +173,22 @@ for j in $list; do
     done
 done
 
-#function link_md2html_getdir() {
-#    if [ "$1" == "README" ]; then
-#        echo "html/"
-#    else
-#        declare -i a
-#        for a in $(seq 1 $(echo "$f" | tr -cd / | wc -c));
-#            do printf "../"; done
-#    fi
-#}
-
-function link_md2html() {
-    local i="$1" f="$2" dir=""
-    test "$f" == "index.html" && dir="html/"
-    echo "$1" | grep -qe "^italian/" && dir="../italian/html/"
-    sed -e "s,\(href=[\"']\)$i\.md\([\"']\),\\1${dir}${i##*/}.html\\2,g" -i $f
-}
-
+echo
+if [ "${PWD##*/}" == "chatgpt-answered-prompts" ]; then
+    index=0
+fi
 for i in $(ls -1 *.md italian/*.md 2>/dev/null); do
     i=${i%.md}
     test "$i" == "template" && continue
-    for j in html/*.html index.html; do
+    echo "replacing $i markdown links ..."
+    for j in $list; do
         link_md2html $i $j
     done
+    if [ $index -ne 0 ]; then
+        link_md2html $i index.html
+    fi
 done
 
-#for i in italian/*.md; do
-#    i=${i%.md}
-#    for j in html/*.html index.html; do
-#        dir="../italian/html/"
-#        sed -e "s,\(href=[\"']\)$i\.md\([\"']\),\\1${dir}${i##*/}.html\\2,g" -i $j
-#    done
-#done
-
-echo
-echo "converting md tables ..."
 source tools/tabl2html.sh $list 2>/dev/null
 
 zipfle="archivio-html.zip"

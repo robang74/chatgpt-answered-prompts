@@ -69,12 +69,12 @@ th {
 tr.trline td {
     padding: 1px;
 }
-li.li2in {
+.li2in {
     padding-left: 20px;
 }
-li.li3in {
+.li3in {
     padding-left: 40px;
 }
-li.li4in {
+.li4in {
     padding-left: 60px;
 }
