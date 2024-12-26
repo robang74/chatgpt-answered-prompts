@@ -4,11 +4,15 @@
 
 A collection of some Q&A dialogs with various AI powered chatbots about different subjects which get the attention of the media.
 
-#### Website
+### Website
 
 * [robang74.github.io/chatgpt-answered-prompts](https://robang74.github.io/chatgpt-answered-prompts)
 
-#### Related
+### Forum
+
+* [open discussions forum](https://github.com/robang74/roberto-a-foglietta/discussions) by/with the author
+
+### Related
 
 * [Chatbots for Fun (humor!)](https://robang74.github.io/chatbots-for-fun) source on [github](https://github.com/robang74/chatbots-for-fun?tab=readme-ov-file#chatbots-for-fun) (2024-11-17)
 
