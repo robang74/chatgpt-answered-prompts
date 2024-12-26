@@ -118,29 +118,19 @@ or
 
 - clone the repository with the specific `git clone` command, in this way:
 
-> `git clone https://github.com/robang74/chatgpt-answered-prompts.git`
+  `git clone https://github.com/robang74/chatgpt-answered-prompts.git`
 
-The advantage of downloading a tagged release is having an archive 'freezed' by
-the author while the ZIP contains the last version uploaded. Instead, the
-`git clone` will also provide you with all the information and a complete view
-of every change. Click on the link above will submit the related request for you.
+The advantage of downloading a tagged release is having an archive 'freezed' by the author while the ZIP contains the last version uploaded. Instead, the `git clone` will also provide you with all the information and a complete view of every change. Click on the link above will submit the related request for you.
 
 <br/>
 
 ## Versioning
 
-One of main goals of `git` and the github web interface is to provide a versioning
-control which also means a catalog of every author and changes made by them on
-every single file. The list of these changes are named *commits*. Here below the link
-related to the commits pushed on this repository:
+One of main goals of `git` and the github web interface is to provide a versioning control which also means a catalog of every author and changes made by them on every single file. The list of these changes are named *commits*. Here below the link related to the commits pushed on this repository:
 
 * https://github.com/robang74/chatgpt-answered-prompts/commits/main/
 
-As you can see, each commit is carry-on a time stamp also. The green label indicates
-that also the timestamp is validate by the github infrastructure system which belongs
-to Microsoft Corporation. In fact, github cannot validate those timestamps that are
-coming from 3rd party systems like the users workstations but just the receiving
-time, date and content. However, for most of the cases this is irrelevant.
+As you can see, each commit is carry-on a time stamp also. The green label indicates that also the timestamp is validate by the github infrastructure system which belongs to Microsoft Corporation. In fact, github cannot validate those timestamps that are coming from 3rd party systems like the users workstations but just the receiving time, date and content. However, for most of the cases this is irrelevant.
 
 <br/>
 
