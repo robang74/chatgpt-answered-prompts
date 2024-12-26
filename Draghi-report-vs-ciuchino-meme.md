@@ -1,3 +1,5 @@
+<div id="firstdiv" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
+
 ## Q&A DIALOG
 
 In this case, it is not a single prompt but a dialog: a series of answered questions about the uploaded image and the text written on it. Prompts are highlighted and presented written in italic font. Few missing words have been added in the prompt queries just to help the English native speakers to quickly grab the meaning but for sake of correctness those words appear between [squared] parentheses.
@@ -7,6 +9,8 @@ In this case, it is not a single prompt but a dialog: a series of answered quest
 * [draghi-report-vs-ciuchino-meme.png](draghi-report-vs-ciuchino-meme.png)
 
 A 1700 x 1296 pixels image saved in PNG format in a 1.5 Mb file.
+
+<div align="center"><img src="draghi-report-vs-ciuchino-meme.jpg"></div><br/>
 
 ### CUSTOMISATION
 
@@ -18,12 +22,18 @@ None, publicly web-available chatbot questioned in a new-from-scratch session wi
 
 This document is entirely published under *Creative Commons Attribution Non-Commercial No-Derivatives 4.0 International* license terms ([CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)) included the part above this statement. Moreover, if a version of this document exists or has existed under different licence terms, the licence terms of the latest version available on `github/robang74` [repository](https://github.com/robang74/chatgpt-answered-prompts/) apply. Even when the new licence terms are more restrictive, because permissions for any free content may be revoked at any time at the will of the author, and updating a licence to be more restrictive explicitly implies this will.
 
-
+<br/>
 <br/>
 
-### CLAUDE 3.5 SONNET
+### Prompt #1
 
-> *This image is divided into two parts one in black (above) and the other in pink (below). Both parts are depicting two men dressed in suits, on the left. Instead, on the right there is a box also divided into two halves (above and below) in which with a two very short texts are presenting their respective efforts in performing a task and the results obtained. Both men offer suggestions that are shown above the box and below the box. This picture contains a very high density of information and before proceeding to the next question I want to make a more extensive and understandable description of its content and this description should catch and explain the original meaning as much as possible.*
+This image is divided into two parts one in black (above) and the other in pink (below).Both parts are depicting two men dressed in suits, on the left. Instead, on the right there is a box also divided into two halves (above and below) in which with a two very short texts are presenting their respective efforts in performing a task and the results obtained. Both men offer suggestions that are shown above the box and below the box.
+
+This picture contains a very high density of information and before proceeding to the next question I want to make a more extensive and understandable description of its content and this description should catch and explain the original meaning as much as possible.
+
+---
+
+### Claude 3.5 Sonnet
 
 I understand you'd like a more comprehensive description of the image before proceeding to further questions. I'll break down the content and explain its apparent meaning:
 
@@ -61,7 +71,13 @@ The image appears to be contrasting a lengthy, formal approach to EU economic po
 
 <br/>
 
-> *The IT man['s] suggestions are presented in a language that mimic[s] the math or a sort of programming language. Rewrite that [those] 3 sentence[s] in plain English but keeping the original meaning.*
+### Prompt #2
+
+The IT man['s] suggestions are presented in a language that mimic[s] the math or a sort of programming language. Rewrite that [those] 3 sentence[s] in plain English but keeping the original meaning.
+
+---
+
+### Claude #2
 
 You're right, and I apologize for not addressing that aspect in my initial description. Let me rephrase those three suggestions in plain English while maintaining their original meaning:
 
@@ -75,7 +91,13 @@ These statements simplify complex policy ideas into concise, straightforward pro
 
 <br/>
 
-> *Provide an evaluation based on the effort / result ratio between the two performers depicted in that image. Keep the evaluation description as brief as possible but explain the most relevant metric adopted for providing it.*
+### Prompt #3
+
+Provide an evaluation based on the effort / result ratio between the two performers depicted in that image. Keep the evaluation description as brief as possible but explain the most relevant metric adopted for providing it.
+
+---
+
+### Claude #3
 
 Evaluation based on effort/result ratio:
 
@@ -91,7 +113,13 @@ The ex-IT nerd delivers concise, specific proposals in a fraction of the time, r
 
 <br/>
 
-> *Do the same considering that the outputs are 400 pages versus 883 chars text long. These lengths are fair because both men used their own slang to express their opinions.*
+### Prompt #4
+
+Do the same considering that the outputs are 400 pages versus 883 chars text long. These lengths are fair because both men used their own slang to express their opinions.
+
+---
+
+### Claude #4
 
 Revised evaluation based on effort/result ratio:
 
@@ -108,14 +136,23 @@ While the banker produces more content, the IT nerd offers more discrete, action
 However, this comparison doesn't account for potential depth or complexity in the banker's report. The brevity of the IT nerd's suggestions may oversimplify complex issues, while the banker's lengthy report could contain more nuanced analysis.
 
 <br/>
+<br/>
 
-### CHATGPT 4o
+## Counter check
 
 Please note that in this Q&A dialog the exact same questions asked to Claude have been being asked to ChatGPT but due to a different and more insightful ability to catch the meaning and describe it, just two questions were needed, instead of four. Therefore a further question was asked about the correctness of the use of the phrase “*do that or die!*” referring to Mario Draghi in the uploaded image.
 
 <br/>
 
-> *This image is divided into two parts one in black (above) and the other in pink (below). Both parts are depicting two men dressed in suits, on the left. Instead, on the right there is a box also divided into two halves (above and below) in which with a two very short texts are presenting their respective efforts in performing a task and the results obtained. Both men offer suggestions that are shown above the box and below the box. This picture contains a very high density of information and before proceeding to the next question I want to make a more extensive and understandable description of its content and this description should catch and explain the original meaning as much as possible.*
+### Prompt #1
+
+This image is divided into two parts one in black (above) and the other in pink (below). Both parts are depicting two men dressed in suits, on the left. Instead, on the right there is a box also divided into two halves (above and below) in which with a two very short texts are presenting their respective efforts in performing a task and the results obtained.
+
+Both men offer suggestions that are shown above the box and below the box. This picture contains a very high density of information and before proceeding to the next question I want to make a more extensive and understandable description of its content and this description should catch and explain the original meaning as much as possible.
+
+---
+
+### ChatGPT 4o
 
 This image presents a comparison between two individuals, Mario Draghi, the former president of the European Central Bank (ECB), and an anonymous person described as an "ex-IT nerd." The overall theme of the image contrasts their approaches to addressing large-scale issues facing Europe, particularly economic and political ones.
 
@@ -137,7 +174,8 @@ This image presents a comparison between two individuals, Mario Draghi, the form
 
 1. **Image**: A man in a light-colored suit and sunglasses is presented in a more relaxed pose compared to Mario Draghi, suggesting an informal, perhaps satirical tone.
    
-2. **Text (Right side)**: 
+2. **Text (Right side)**
+
    - "Anonymous degreed, ex-IT nerd. 12 minutes and anything else. A 3 questions post 883 chars. 3 suggestions: common sense."
 
      - **Interpretation**: This text humorously contrasts the more casual approach of an "anonymous" individual who takes only 12 minutes (compared to Draghi's extensive process) to come up with simple, "common sense" solutions. This person uses a much shorter post (883 characters versus 400 pages) to address the same issues, emphasizing simplicity and practicality over bureaucracy.
@@ -164,7 +202,13 @@ This meme conveys the message that institutional and bureaucratic processes, whi
 
 <br/>
 
-> *Provide an evaluation based on the effort / result ratio between the two performers depicted in that image. Keep the evaluation description as brief as possible but explain the most relevant metric adopted for providing it.*
+### Prompt #2
+
+Provide an evaluation based on the effort / result ratio between the two performers depicted in that image. Keep the evaluation description as brief as possible but explain the most relevant metric adopted for providing it.
+
+---
+
+### ChatGPT #2
 
 The effort/result ratio between the two performers is starkly different:
 
@@ -178,14 +222,20 @@ Ultimately, the IT nerd's approach appears more efficient in generating concise,
 
 <br/>
 
-> *Considering that Mario Draghi was the Italian Prime Minister during the Covid-19 pandemic and a that time speaking at an official press conference he said, in Italian: "chi non si vaccina muore e fa morire" - avoid any considerations about vaccines, covid, pandemic, etc. - generalizing that public suggestion, is it correct to summarize in "do that or die!" ?*
+### Prompt #3
+
+Considering that Mario Draghi was the Italian Prime Minister during the Covid-19 pandemic and a that time speaking at an official press conference he said, in Italian: "chi non si vaccina muore e fa morire" - avoid any considerations about vaccines, covid, pandemic, etc. - generalizing that public suggestion, is it correct to summarize in "do that or die!"?
+
+---
+
+### ChatGPT #3
 
 Yes, it is reasonable to summarize Mario Draghi's statement, "chi non si vaccina muore e fa morire" (which translates to "those who don't get vaccinated die and cause others to die"), as "do that or die!" in a generalized, non-specific context. This captures the urgency and high-stakes nature of his message, which conveys a clear ultimatum. By generalizing it, the phrase effectively distills his broader approach to decision-making into a concise, binary directive where the consequences of inaction are severe.
 
 <br/>
 <br/>
 
-## CONSIDERATIONS
+## Considerations
 
 First of all, this meme image is clearly comprehensible also for a chatbot even if Mistral 2 Large failed in this task probably because of an improvable OCR engine. Which is a fundamental assessment because it states that 2 over 3 chatbots can correctly and quickly interpret that meme. So, the image is a dumb proof meme, almost.
 
@@ -195,9 +245,9 @@ Third, asking about performances throughput about the two men performances, both
 
 Finally, the Mario Draghi report has been previously challenged leveraging a similar approach based on AI. In particular, thanks to an Italian Microsoft professional that created a specifically Draghi's report pre-trained ChatGPT 4o agent. Hence, also the report content has been evaluated about two different aspects:
 
-* [Draghi-report-about-energy-01.md](Draghi-report-about-energy-01.md)
+* [Draghi's report about energy](Draghi-report-about-energy-01.md)
 
-* [Draghi-report-about-innovation-01.md](Draghi-report-about-innovation-01.md)
+* [Draghi's report about innovation](Draghi-report-about-innovation-01.md)
 
 These two aspects can be seen as external/internal perspectives:
 
@@ -206,3 +256,6 @@ These two aspects can be seen as external/internal perspectives:
 - the European internal political approach and in particular system vs people
 
 Which makes sense because, all in all, the main difference in this confrontation is about seeing European Union as a bureaucratic institution subjugated by the US presidency agenda or, alternatively, as an independent union, and possibly a Swiss-like federation, of various and different states which have agreed about some common rules and rights in order to empower European citizenship as a key asset of freedom and wealth.
+
+</div>
+
