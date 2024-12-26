@@ -1,4 +1,6 @@
-## COSTITUZIONALITÀ LEGGE NORDIO
+<div id="firstdiv" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
+
+## Costituzionalità delle legge Nordio
 
 Analisi di costituzionalità della c.d. legge Nordio sull'abolizione dell'abuso d'ufficio e sull'estensione dell'interrogatorio anticipato di garanzia e riguardo alle interciazzioni nell'ambito delle indagini.
 
@@ -32,6 +34,7 @@ In versioni integrali e prese da il sito del [Senato della Repubblica Italiana](
 This document is entirely published under *Creative Commons Attribution Non-Commercial No-Derivatives 4.0 International* license terms ([CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)) included the part above this statement. Moreover, if a version of this document exists or has existed under different licence terms, the licence terms of the latest version available on `github/robang74` [repository](https://github.com/robang74/chatgpt-answered-prompts/) apply. Even when the new licence terms are more restrictive, because permissions for any free content may be revoked at any time at the will of the author, and updating a licence to be more restrictive explicitly implies this will.
 
 <br/>
+<br/>
 
 ### CHATGPT 4o (CUSTOM)
 
@@ -50,8 +53,9 @@ This document is entirely published under *Creative Commons Attribution Non-Comm
    - **Privacy e intercettazioni**: Le nuove disposizioni sulla gestione delle intercettazioni, sebbene mirino a snellire le procedure, potrebbero violare il principio costituzionale di inviolabilità delle comunicazioni private (art. **15** Costituzione) se non adeguatamente bilanciate.
    
 <br/>
+<br/>
 
-### CONSIDERATIONS
+## Considerations
 
 Non sono un esperto ma in Parlamento dovrebbero esserlo e non dovrebbero approvare leggi che sono in dubbio di costituzionalità su 4 punti ognuno al 50% almeno (testa o croce) perché se tiro una moneta onesta 4 volte la probabilità che esca sempre testa è (1/2)^4 = 1/16 = 6.25% ed è un po' bassina come aspettativa di completa costituzionalità, sopratutto per una legge che vada a modificare il diritto penale.
 
@@ -70,18 +74,20 @@ Il lavoro fatto nella preparazione dell'elaborazione batch è servito per produr
 Entro il restante della quota di computazione giornaliera del secondo giorno è stato chiesto al chatbot di fare una ragionevole stima di conflitto con la Costituzione Italiana e le normi internazionali in materia di contrasto alla corruzione. Spoiler: l'AI ha bocciato tutti e 4 i pilastri della legge Nordio.
 
 <br/>
+<br/>
 
-### AGGIORNAMENTO 25.09.2024
+## Aggiornamento 25.09.2024
 
 Con ordinanza del 24 settembre 2024, il Tribunale di Firenze ha sollevato questione di legittimità costituzionale della c.d. legge Nordio. Quindi ho convertito la sentenza in testo (108 Kb) e l'ho sottoposta la chatbot per un'analisi come parere specialistico. Con l'occasione ho anche chiesto un aggiornamento ed eventuale integrazione del giudizio che aveva dato e che però non ho pubblicato fra le risposte sopra.
 
-#### UPLOAD
+### Upload
 
-Ordinanza del 24 settembre 2024 di rimessione alla corte costituzionale questione di legittimità costituzionale emessa presso il tribunale di firenze, III sezione penale, in composizione collegiale. Disponibile nella cartella [data](data/tribunale-firenze-sulla-legge-nordio.pdf).
+Ordinanza del 24 settembre 2024 di rimessione alla corte costituzionale questione di legittimità costituzionale emessa presso il tribunale di firenze, III sezione penale, in composizione collegiale. Disponibile nella cartella [data](data/tribunale-firenze-sulla-legge-nordio.pdf) in formato PDF, in originale.
 
----
+<br/>
+<br/>
 
-#### PROMPT #1
+#### Prompt #1
 
 Con ordinanza del 24 settembre 2024, (qui allegata) il Tribunale di Firenze ha sollevato questione di legittimità costituzionale dell’art. 1, co. 1, lett. b) della l. n. 114/2024 (c.d. legge Nordio), nella parte in cui abroga l’art. 323 c.p.. Il Tribunale di Firenze, in particolare, ha ritenuto rilevante e non manifestamente infondata la questione per violazione degli artt. 11, 117, co. 1 e 97 della Costituzione.
 
@@ -89,7 +95,7 @@ Spiegami perché secondo la Corte la c.d. legge Nordio potrebbe violare gli artt
 
 ---
 
-#### CHATGPT 4o (CUSTOM)
+#### ChatGPT 4o (custom)
 
 ### Potenziale violazione della Costituzione secondo la Corte:
 
@@ -112,15 +118,15 @@ Spiegami perché secondo la Corte la c.d. legge Nordio potrebbe violare gli artt
 
 Queste valutazioni riflettono l'impatto della legge Nordio sugli standard costituzionali e internazionali secondo l'analisi del Tribunale di Firenze.
 
----
+<br/>
 
-#### PROMPT #2
+#### Prompt #2
 
 Alla luce di questa sentenza fai un aggiornamento del "rating preciso" che avevi fornito rispetto alla prima analisi fatta ed eventualmente integra le motivazioni con quelle della Corte di Firenze.
 
 ---
 
-#### CHATGPT 4o (CUSTOM)
+#### ChatGPT #2
 
 Ecco l'aggiornamento del "rating preciso" alla luce dell'ordinanza del Tribunale di Firenze:
 
@@ -137,9 +143,14 @@ Ecco l'aggiornamento del "rating preciso" alla luce dell'ordinanza del Tribunale
 ### 2. **Interrogatorio di garanzia anticipato e intercettazioni**
 
    - **Contrasto con la Costituzione (art. 24 e 111)**: **6/10** (invariato)
+
      - **Motivazione**: Le criticità permangono principalmente nell’equilibrio tra efficienza delle indagini e tutela del diritto di difesa, senza aggravamenti significativi rispetto alla situazione precedente.
 
    - **Contrasto con la privacy nelle intercettazioni (art. 15 Costituzione e norme internazionali)**: **5/10** (invariato)
+
      - **Motivazione**: Il focus rimane sul bilanciamento delle necessità investigative e il rispetto della privacy, con possibili ma non gravi violazioni delle tutele previste dalla Costituzione.
 
 L'aggiornamento riflette la maggiore attenzione alla conformità costituzionale e internazionale emersa nell'analisi del Tribunale.
+
+</div>
+
