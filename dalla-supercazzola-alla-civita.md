@@ -1,3 +1,5 @@
+<div id="firstdiv" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
+
 ## Dalla supercazzola alla civiltà
 
 Questa conversazione è la prosecuzione di queste conversazioni ma con il chatbot basato su Mistral AI.
@@ -14,9 +16,11 @@ Le quali a loro volta sono collegate a queste conversazioni:
 
 * [The imprinting role in the mass education](the-imprinting-role-in-the-mass-education.md)
 
-Perché non dimentichiam mai che
+Perché non dimentichiamo mai che
 
-> Knowledge makes a man unfit to be a slave - Frederick Douglass 
+> Knowledge makes a man unfit to be a slave - Frederick Douglass
+
+Il sapere rendere l’uomo inadatto ad essere schiavo (traduzione)
 
 <br/>
 <br/>
@@ -43,69 +47,98 @@ Se ritieni di aver bisogno di aiuto per interpretare questo prompt o il testo, f
 
 #### 1. Linea di Ragionamento
 
-1. **Definizione e Traduzione della Supercazzola**:
+1. **Definizione e Traduzione della Supercazzola**
+
    - Discussione sulla migliore traduzione in inglese del termine "fare la supercazzola" in stile "Amici Miei".
+
    - Proposte di traduzioni come "gobbledygook", "nonsense", "hot air", "bullshit".
 
-2. **Analisi delle Proposte di Traduzione**:
+2. **Analisi delle Proposte di Traduzione**
+
    - Valutazione delle varie opzioni di traduzione in base al contesto e all'effetto desiderato.
+
    - Considerazione di creare un neologismo come "to supercazzola".
 
-3. **Valutazione di "Razzle-dazzle Trolling Joke"**:
+3. **Valutazione di "Razzle-dazzle Trolling Joke"**
+
    - Analisi della proposta "razzle-dazzle trolling joke" come traduzione.
+
    - Valutazione dei punti di forza e delle possibili migliorie.
 
-4. **Significato della Supercazzola nello Spirito Goliardico**:
+4. **Significato della Supercazzola nello Spirito Goliardico**
+
    - Discussione sul ruolo della supercazzola come gioco relazionale e sociale.
+
    - Analisi della scena del rimprovero del Conte Mascetti come esempio di dinamica sociale.
 
-5. **Supercazzola come Pilastro della Diplomazia**:
+5. **Supercazzola come Pilastro della Diplomazia**
+
    - Affermazione che la supercazzola può essere vista come un pilastro della diplomazia.
+
    - Analisi del ruolo della supercazzola nel mantenere il dialogo e neutralizzare la tensione.
 
-6. **Differenza tra Politica e Diplomazia**:
+6. **Differenza tra Politica e Diplomazia**
+
    - Discussione sulla differenza tra politica (orientata al breve termine) e diplomazia (orientata al lungo termine).
+
    - Ruolo limitato della supercazzola in politica rispetto alla diplomazia.
 
-7. **Supercazzola come Ponte Effimero ma Necessario**:
+7. **Supercazzola come Ponte Effimero ma Necessario**
+
    - Definizione della supercazzola come un ponte effimero ma necessario.
+
    - Analisi del concetto di "optimistic faith" e "fede nell'ottimismo".
 
-8. **Supercazzola come Strumento di Alleggerimento**:
+8. **Supercazzola come Strumento di Alleggerimento**
+
    - Ruolo della supercazzola nel distogliere dal confronto radicale e alleggerire la serietà delle divergenze.
+
    - Analisi del valore umanizzante della supercazzola.
 
-9. **Filosofia Buddista nell'Educazione**:
+9. **Filosofia Buddista nell'Educazione**
+
    - Discussione sull'integrazione di una filosofia ispirata al Buddismo nell'educazione scolastica.
+
    - Ruolo del Karma e della non-violenza nel fornire strumenti ottimistici e ponderati.
 
-10. **Conclusione con Citazione di Vasco Rossi**:
-    - Conclusione del dialogo con la citazione di Vasco Rossi e la metafora della vita come una supercazzola sublime.
+10. **Conclusione con Citazione di Vasco Rossi**
+
+   - Conclusione del dialogo con la citazione di Vasco Rossi e la metafora della vita come una supercazzola sublime.
 
 #### 2. Commento sulla Linea di Ragionamento
 
 La linea di ragionamento esplora in profondità il concetto di "supercazzola" partendo dalla sua traduzione in inglese fino ad arrivare a una riflessione filosofica e sociale. Il dialogo si sviluppa in modo coerente, passando da considerazioni linguistiche a implicazioni diplomatiche e educative, culminando in una visione ottimistica e ponderata della vita.
 
-**Aspetti Positivi**:
+**Aspetti Positivi**
+
 - Profondità dell'analisi.
+
 - Coerenza e fluidità del ragionamento.
+
 - Integrazione di elementi culturali e filosofici.
 
-**Aspetti Negativi**:
+**Aspetti Negativi**
+
 - Possibile complessità per chi non è familiare con il contesto culturale italiano.
+
 - Alcune digressioni potrebbero sembrare superflue a chi cerca una risposta diretta.
 
 #### 3. Conclusione
 
 Il punto di arrivo del ragionamento è che la supercazzola, pur essendo un gioco di parole apparentemente frivolo, rappresenta un atto di fiducia ottimistica e un ponte effimero ma necessario per mantenere il dialogo e la relazione umana anche nelle situazioni più difficili. Questa visione si estende alla filosofia buddista e all'educazione, suggerendo che l'integrazione di principi come il Karma e la non-violenza può fornire strumenti ottimistici e ponderati per affrontare la vita.
 
-**Aspetti Positivi**:
+**Aspetti Positivi**
+
 - Visione ottimistica e costruttiva della vita.
+
 - Valorizzazione del dialogo e della relazione umana.
+
 - Integrazione di principi filosofici e culturali.
 
-**Aspetti Negativi**:
+**Aspetti Negativi**
+
 - Possibile idealizzazione della supercazzola come soluzione universale.
+
 - Rischio di sottovalutare la complessità delle situazioni reali.
 
 </br>
@@ -124,13 +157,18 @@ Puoi fornire una risposta diretta alla domanda di trarre una conclusione general
 
 Il dialogo ha esplorato come strumenti apparentemente frivoli o effimeri possano giocare un ruolo cruciale nel mantenere il dialogo e la relazione umana, anche in situazioni di conflitto o difficoltà. La riflessione si è estesa alla diplomazia e all'educazione, suggerendo che principi come la non-violenza e il Karma possono fornire strumenti ottimistici e ponderati per affrontare le sfide della vita.
 
-**Aspetti Positivi**:
+**Aspetti Positivi**
+
 - Valorizzazione del dialogo e della relazione umana come mezzi per superare i conflitti.
+
 - Integrazione di principi filosofici e culturali che promuovono la non-violenza e la responsabilità individuale.
+
 - Visione ottimistica ma realistica delle possibilità di costruire un futuro migliore attraverso scelte ponderate e dialogo.
 
-**Aspetti Negativi**:
+**Aspetti Negativi**
+
 - Rischio di sottovalutare la complessità e la gravità di alcune situazioni reali.
+
 - Possibile difficoltà nell'applicare questi principi in contesti culturali molto diversi.
 
 Questa conclusione non pretende di essere universale e riconosce la necessità di adattare questi strumenti alle specifiche circostanze e contesti culturali.
@@ -141,17 +179,15 @@ Questa conclusione non pretende di essere universale e riconosce la necessità d
 
 In questo contesto aggiungiamo questo [meme] e questo testo. Pensi che ora gli aspetti negativi siano stati superati?
 
-![warp speed jump](warp-speed-jump.jpg)
+<div align="center"><img src="data/warp-speed-jump.jpg"></br></div>
 
 Sun Tzu ne **L'Arte della Guerra** è scritto che lo scopo della guerra non è vincere, ma creare le condizioni per una pace duratura e, all'inizio di quel saggio, scrisse anche che “*L'arte suprema della guerra è sottomettere il nemico senza combattere*”, affermando chiaramente che non è con la violenza che si può ottenere il meglio. La citazione di Joseph Joubert riporta un concetto quasi identico: “Lo scopo dell'argomentazione non deve essere la vittoria, ma il progresso”.
 
 Inoltre, Karl Popper ha proposto il principio di falsificazione come pilastro portante della scienza, accettando lo stesso concetto: raggiungere il progresso attraverso un confronto costruttivo. È ovvio che qualcuno può decidere in qualsiasi momento di usare la violenza per sottometterci e questo crea l'inevitabile necessità di essere pronti a difenderci. Tuttavia, come affermato da Sun Tzu ed elaborato da altri nei 25 secoli successivi, il modo migliore di agire è usare il cervello in modo intelligente piuttosto che affidarsi solo alla forza bruta.
 
-Infine, vale la pena di notare che Fabrizio De Andrè, già nel 1973, cantava: "*Intellettuali d'oggi idioti di domani ridatemi il cervello che basta alle mie mani*". Ecco qui, quindi!
+Infine, vale la pena di notare che Fabrizio De André, già nel 1973, cantava: "*Intellettuali d'oggi idioti di domani ridatemi il cervello che basta alle mie mani*". Ecco qui, quindi!
 
----
-
-**Nota**: questo testo e questo meme sono stati presi da questa pagina [qui](https://github.com/robang74/roberto-a-foglietta?tab=readme-ov-file#warp-meme).
+> **Nota**: questo testo e questo meme sono stati presi da questa pagina [qui](https://github.com/robang74/roberto-a-foglietta?tab=readme-ov-file#warp-meme).
 
 ---
 
@@ -167,14 +203,20 @@ Inoltre, Karl Popper ha proposto il principio di falsificazione come pilastro po
 
 Infine, vale la pena di notare che Fabrizio De Andrè, già nel 1973, cantava: "*Intellettuali d'oggi idioti di domani ridatemi il cervello che basta alle mie mani*".
 
-**Aspetti Positivi**:
+**Aspetti Positivi**
+
 - Valorizzazione del dialogo e della relazione umana come mezzi per superare i conflitti.
+
 - Integrazione di principi filosofici e culturali che promuovono la non-violenza e la responsabilità individuale.
+
 - Visione ottimistica ma realistica delle possibilità di costruire un futuro migliore attraverso scelte ponderate e dialogo.
+
 - Riferimenti storici e filosofici che rafforzano l'idea che il progresso si ottiene attraverso il confronto costruttivo e non la violenza.
 
-**Aspetti Negativi**:
+**Aspetti Negativi**
+
 - Rischio di sottovalutare la complessità e la gravità di alcune situazioni reali.
+
 - Possibile difficoltà nell'applicare questi principi in contesti culturali molto diversi.
 
 Con l'aggiunta delle citazioni e dei riferimenti storici, gli aspetti negativi sono stati in gran parte mitigati, fornendo una base più solida e universale alla conclusione.
@@ -191,24 +233,34 @@ Cosa proponi per superare gli aspetti negativi?
 
 #### Proposte per Superare gli Aspetti Negativi
 
-1. **Educazione e Formazione**:
+1. **Educazione e Formazione**
+
    - **Integrazione di Principi Filosofici**: Promuovere l'insegnamento di filosofie come il Buddismo, che enfatizzano la non-violenza e il Karma, nelle scuole e nelle istituzioni educative. Questo può aiutare a formare individui più consapevoli e responsabili, capaci di affrontare i conflitti in modo costruttivo.
+
    - **Programmi di Mediazione e Risoluzione dei Conflitti**: Implementare programmi di formazione sulla mediazione e la risoluzione dei conflitti, sia a livello scolastico che professionale. Questo può fornire strumenti pratici per gestire le divergenze senza ricorrere alla violenza.
 
-2. **Promozione del Dialogo e della Diplomazia**:
+2. **Promozione del Dialogo e della Diplomazia**
+
    - **Iniziative di Dialogo Interculturale**: Organizzare iniziative e forum di dialogo interculturale per favorire la comprensione reciproca e la collaborazione tra diverse culture. Questo può aiutare a superare le barriere culturali e a trovare soluzioni comuni.
+
    - **Supporto alla Diplomazia**: Sostenere e finanziare iniziative diplomatiche che promuovono il dialogo e la negoziazione come mezzi per risolvere i conflitti. Questo può includere il supporto a organizzazioni internazionali e ONG che lavorano per la pace e la risoluzione dei conflitti.
 
-3. **Sensibilizzazione e Comunicazione**:
+3. **Sensibilizzazione e Comunicazione**
+
    - **Campagne di Sensibilizzazione**: Lanciare campagne di sensibilizzazione sui benefici del dialogo e della non-violenza, utilizzando mezzi di comunicazione di massa e social media. Questo può aiutare a diffondere una cultura di pace e di risoluzione non violenta dei conflitti.
+
    - **Storytelling e Esempi Positivi**: Utilizzare storie e esempi positivi di risoluzione non violenta dei conflitti per ispirare e motivare le persone. Questo può includere la diffusione di storie di successo di mediazione e diplomazia.
 
-4. **Ricerca e Innovazione**:
+4. **Ricerca e Innovazione**
+
    - **Studi e Ricerche**: Promuovere studi e ricerche sui metodi di risoluzione non violenta dei conflitti e sulla loro efficacia. Questo può fornire dati e prove empiriche che supportano l'uso del dialogo e della diplomazia come strumenti di pace.
+
    - **Innovazione Tecnologica**: Utilizzare la tecnologia per sviluppare nuovi strumenti e piattaforme che facilitino il dialogo e la mediazione. Questo può includere l'uso di intelligenza artificiale e altre tecnologie avanzate per supportare la risoluzione dei conflitti.
 
-5. **Politiche e Strategie**:
+5. **Politiche e Strategie**
+
    - **Politiche di Supporto**: Implementare politiche governative che supportino il dialogo e la mediazione come mezzi per risolvere i conflitti. Questo può includere il finanziamento di programmi di formazione e di iniziative di dialogo interculturale.
+
    - **Strategie di Lungo Termine**: Sviluppare strategie di lungo termine che promuovano una cultura di pace e di risoluzione non violenta dei conflitti. Questo può includere la creazione di piani d'azione nazionali e internazionali per la pace e la sicurezza.
 
 Implementando queste proposte, è possibile superare gli aspetti negativi e promuovere una cultura di dialogo, non-violenza e risoluzione costruttiva dei conflitti.
@@ -231,55 +283,78 @@ Ignora i link inclusi in questi due documenti.
 
 #### 1. Linea di Ragionamento
 
-1. **Critica del Sistema Educativo**:
+1. **Critica del Sistema Educativo**
+
    - Il sistema educativo attuale è criticato per la sua incapacità di promuovere il pensiero critico e razionale.
+
    - Storici e filosofi hanno da sempre evidenziato i limiti dell'educazione tradizionale.
 
-2. **Evoluzione del Sistema Educativo**:
+2. **Evoluzione del Sistema Educativo**
+
    - Prima della Rivoluzione Industriale, l'educazione era riservata alle élite e non esisteva un sistema di massa.
+
    - Con la Rivoluzione Industriale, l'educazione di massa è stata introdotta per formare una forza lavoro disciplinata e istruita.
 
-3. **Critica della Massificazione**:
+3. **Critica della Massificazione**
+
    - L'educazione di massa ha portato a una standardizzazione che limita la creatività e il pensiero critico.
+
    - Il sistema educativo moderno è spesso visto come un mezzo per perpetuare lo status quo e limitare il potenziale umano.
 
-4. **Proposte di Miglioramento**:
+4. **Proposte di Miglioramento**
+
    - Introduzione di attività pratiche e manuali per sviluppare competenze concrete.
+
    - Integrazione di giochi di ruolo e teatro per promuovere l'empatia e la comprensione sociale.
+
    - Scoutismo laico come attività formativa complementare per sviluppare disciplina e autonomia.
 
-5. **Ruolo dell'Intelligenza Artificiale**:
+5. **Ruolo dell'Intelligenza Artificiale**
+
    - L'IA può essere utilizzata per personalizzare l'educazione e supportare l'apprendimento.
+
    - Tuttavia, l'IA deve essere integrata in modo da non sostituire l'interazione umana e la comprensione del contesto reale.
 
-6. **Educazione e Buddismo**:
+6. **Educazione e Buddismo**
+
    - Il Buddismo è proposto come base filosofica per l'educazione, in quanto promuove l'etica, la non-violenza e la consapevolezza di sé.
+
    - Un approccio buddista può aiutare a superare le resistenze religiose e culturali verso l'educazione laica e scientifica.
 
 #### 2. Commento sulla Linea di Ragionamento
 
 La linea di ragionamento esplora in profondità le criticità del sistema educativo attuale e propone soluzioni innovative per migliorarlo. La riflessione storica e filosofica arricchisce il dibattito, evidenziando come i problemi attuali affondino le radici in secoli di pratiche educative limitanti. Le proposte di integrazione di attività pratiche, giochi di ruolo e scoutismo laico sono concrete e mirate a sviluppare competenze trasversali essenziali per la crescita personale e professionale.
 
-**Aspetti Positivi**:
+**Aspetti Positivi**
+
 - Profondità dell'analisi storica e filosofica.
+
 - Proposte concrete e innovative per migliorare il sistema educativo.
+
 - Integrazione di approcci educativi complementari.
 
-**Aspetti Negativi**:
+**Aspetti Negativi**
+
 - La complessità della riflessione potrebbe rendere difficile l'implementazione pratica di alcune proposte.
+
 - La resistenza culturale e religiosa potrebbe ostacolare l'adozione di un approccio buddista nell'educazione.
 
 #### 3. Conclusione
 
 Il punto di arrivo del ragionamento è che un sistema educativo efficace deve promuovere il pensiero critico, la creatività e l'autonomia degli studenti. Questo può essere raggiunto attraverso l'integrazione di attività pratiche, giochi di ruolo, scoutismo laico e l'uso dell'intelligenza artificiale come supporto all'apprendimento. Un approccio educativo basato su principi buddisti può aiutare a superare le resistenze culturali e religiose, promuovendo un'educazione laica, etica e non-violenta.
 
-**Aspetti Positivi**:
+**Aspetti Positivi**
+
 - Visione olistica dell'educazione che promuove il pensiero critico e la creatività.
+
 - Integrazione di attività pratiche e giochi di ruolo per sviluppare competenze trasversali.
+
 - Uso dell'intelligenza artificiale come supporto all'apprendimento personalizzato.
 
-**Aspetti Negativi**:
+**Aspetti Negativi**
+
 - La complessità delle proposte potrebbe rendere difficile la loro implementazione pratica.
+
 - La resistenza culturale e religiosa potrebbe ostacolare l'adozione di un approccio buddista nell'educazione.
 
 #### Considerazioni Finali
@@ -300,11 +375,11 @@ Inoltre, questa proposta rappresenta un modello di riferimento che non verrebbe 
 
 ### Mistral #6
 
-> [... identica lista punti ...]
+> `[... identica lista punti ...]`
 
 #### Considerazioni Finali
 
-> [... identica conclusione ...]
+> `[... identica conclusione ...]`
 
 Le proposte sarebbero prese in considerazione da esperti che poi si occuperebbero di correttamente informare il grande pubblico e di accompagnare il dibattito in maniera che sia comprensibile e razionale. Le resistenze religiose sono sempre esistite così come le fazioni conservatrici della società, quindi si tratta di un problema non risolvibile ma con il quale occorre conviverci. Inoltre, questa proposta rappresenta un modello di riferimento che non verrebbe imposto ma consigliato e quindi ci sarebbero diverse declinazioni dello stesso e anche scuole private paritarie che sarebbero libere di continuare ad insegnare secondo il loro modello educativo.
 
@@ -326,7 +401,7 @@ Quindi, la mia stima di positività di questo approccio è del 90%.
 
 ---
 
-### UPDATE
+## Prosecuzione
 
 A questo punto sono tornato a dialogare con ChatGPT nella sessione che ha generato questo documento [qui](https://github.com/robang74/chatbots-for-fun/blob/main/l-arte-della-supercazzola.md) per continuare il dialogo.
 
@@ -356,7 +431,7 @@ Ho acquisito entrambi i documenti, **"propaganda-e-sistema-educativo.md"** e **"
 
 Prendi in considerazione il contenuto di questo documento ma ignorando i link in esso contenuti. 
 
-[... l'elaborato da MistralAI di questo documento ...]
+> `[... l'elaborato da MistralAI di questo documento ...]`
 
 Questo documento è la prosecuzione della nostra conversazione con un altro chatbot al quale ho passato la nostra conversazione che abbiamo fatto qui e anche i due documenti che hai ricevuto tu nel prompt precedente. Ora hai tutte le informazioni che erano a disposizione dell'altro chatbot e anche le sue risposte.
 
@@ -412,7 +487,7 @@ Se ci fosse una critica ulteriore, riguarderebbe solo l’ottimismo del 90%, che
 
 Tieni presente che l'applicazione su larga scala non sarebbe diretta in modo verticistico. Quindi molte persone di diversa estrazione e in diversi istituti prevederebbero ad implementare secondo le loro competenze, esperienze, capacità e risorse.
 
-Pur non essendo prevista una struttura verticistica è anche vero che ogni stato ha un suo ministero preposto al quale conflirebbero i feedback sia positivi e sia negativi, che magari non dipendono dal modello in se stesso ma da contingenze specifiche e/o implementazioni reali in situazione di risorse limitate.
+Pur non essendo prevista una struttura verticistica è anche vero che ogni stato ha un suo ministero preposto al quale confluirebbero i feedback sia positivi e sia negativi, che magari non dipendono dal modello in se stesso ma da contingenze specifiche e/o implementazioni reali in situazione di risorse limitate.
 
 Quindi, il modello di riferimento potrebbe essere progressivamente migliorato e a lato si svilupperebbero anche delle procedure implementative con esempi e dibattiti che coinvolgeranno le persone che si sono occupati di implementare le varie declinazioni del modello di riferimento.
 
@@ -433,11 +508,13 @@ Questa prospettiva è **illuminante** e fornisce una solida risposta alle preocc
 1. **Approccio decentralizzato e collaborativo**
 
    - L'assenza di una struttura **verticistica** elimina i rischi di rigidità e inefficienza, permettendo a **diverse competenze e risorse locali** di contribuire all'implementazione in modo **flessibile** e **creativo**.  
+
    - Ogni contesto può adattare il modello di riferimento secondo le proprie capacità, migliorando la sua **efficacia pratica**.  
 
 3. **Ciclo di feedback continuo**
 
    - L'invio di **feedback positivi e negativi** al ministero o all'ente preposto è un elemento cruciale per il **miglioramento progressivo** del modello.  
+
    - Questo crea un **processo dinamico** in cui il modello non è statico ma evolve nel tempo, correggendo difetti e valorizzando le best practices emerse dalle diverse implementazioni.  
 
 4. **Learning by doing**
@@ -447,6 +524,7 @@ Questa prospettiva è **illuminante** e fornisce una solida risposta alle preocc
 5. **Lead by example**
 
    - La pratica del **"lead by example"** fornisce esempi concreti di successo che ispirano altre scuole o istituti ad adottare il modello.  
+
    - Progetti pilota di successo diventano **casi studio**, facilitando la **replicabilità** e l'implementazione su più ampia scala.  
 
 6. **L'esempio del Kernel Linux**
@@ -455,6 +533,7 @@ Questa prospettiva è **illuminante** e fornisce una solida risposta alle preocc
      - Un progetto **collaborativo e non verticistico** che ha coinvolto migliaia di sviluppatori globali.  
      - Un sistema **in evoluzione continua** grazie al feedback e al contributo della comunità.  
      - La capacità di superare anche le risorse delle più grandi corporation grazie alla forza della **condivisione** e della **partecipazione collettiva**.  
+
    - Applicare un approccio simile all'educazione significa riconoscere che l'**intelligenza collettiva** e la collaborazione possono portare a risultati straordinari.
 
 #### Implicazioni pratiche
@@ -497,9 +576,9 @@ Dopo aver considerato la tua visione più approfondita, che include un **approcc
 
 #### Argomenti a favore della fattibilità
 
-1. [... ridondante ...]
+1. `[... ridondante ...]`
 
-2.  [... ridondante ...]
+2. `[... ridondante ...]`
 
 3. **Learning by doing e lead by example**:
 
@@ -508,7 +587,8 @@ Dopo aver considerato la tua visione più approfondita, che include un **approcc
 4. **Progetti pilota e progressione organica**:
 
    - La possibilità di sviluppare e testare diverse declinazioni del modello rende il progetto **scalabile** nel tempo. Ogni risultato positivo può essere replicato, ispirando altre realtà.  
-5. [... ridondante ...]
+
+5. `[... ridondante ...]`
 
 #### Nuova Stima di Fattibilità
 
@@ -557,12 +637,15 @@ Sì, riesco a comprendere perfettamente il quadro che hai delineato e le sue imp
 Gli insegnanti sono costretti a lavorare con un modello educativo **ottocentesco**, che:
 
 1. **Non risponde più ai bisogni della società contemporanea**:  
+
    - La realtà tecnologica, culturale e lavorativa di oggi richiede **pensiero critico, creatività e competenze trasversali**, non la semplice trasmissione di nozioni.  
 
 2. **Limita il loro ruolo**:  
+
    - Gli insegnanti non possono essere **protagonisti** del cambiamento, ma sono ridotti a meri esecutori di programmi obsoleti.  
 
 3. **Li pone in conflitto con le famiglie**:  
+
    - Quando i risultati non sono soddisfacenti, le famiglie vedono gli insegnanti come **capri espiatori**, piuttosto che come vittime di un sistema rigido e inadeguato.  
 
 Questa alienazione non solo demotiva gli insegnanti, ma crea una **rottura della fiducia** tra scuola, famiglie e studenti, minando l'intero tessuto educativo.
@@ -636,5 +719,9 @@ In questo senso, la proposta rappresenta una **sfida al sistema attuale** e allo
 
 ## Copyright
 
-&copy; 2024, **Roberto A. Foglietta** &lt;roberto.foglietta<span>@</span>gmail.com&gt;, [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+&copy; 2024, **Roberto A. Foglietta** &lt;roberto.foglietta<span>@</span>gmail.com&gt;
+
+This document is entirely published under *Creative Commons Attribution Non-Commercial No-Derivatives 4.0 International* license terms ([CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)) included the part above this statement. Moreover, if a version of this document exists or has existed under different licence terms, the licence terms of the latest version available on `github/robang74` [repository](https://github.com/robang74/chatgpt-answered-prompts/) apply. Even when the new licence terms are more restrictive, because permissions for any free content may be revoked at any time at the will of the author, and updating a licence to be more restrictive explicitly implies this will.
+
+</div>
 
