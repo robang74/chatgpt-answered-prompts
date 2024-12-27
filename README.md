@@ -94,7 +94,7 @@ Few but relevant warnings for those are not aware how artificial intelligence an
 
     - The imprinting phenomena has been discovered in animals, in the first place. However, the mass education system created after the Industrial Revolution does the same.
 
-3. **artificial Intelligence for education** [[**`md`**](artificial-intellige-for-education.md)] [[**`html`**](html/artificial-intellige-for-education.html)] [[**`pdf`**](pdf/artificial-intellige-for-education.pdf)]
+3. **Artificial Intelligence for education** [[**`md`**](artificial-intellige-for-education.md)] [[**`html`**](html/artificial-intellige-for-education.html)] [[**`pdf`**](pdf/artificial-intellige-for-education.pdf)]
 
     - How to leverage Artificial Intelligence for supporting a new mass education system which prioritizes critical thinking, the non-violence and ethics.
 
