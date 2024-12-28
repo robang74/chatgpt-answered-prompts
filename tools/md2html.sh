@@ -37,6 +37,13 @@ info_A=$(echo "$info_A" | sed -e "s,\,,\\\,g" -e "s,\&,\\\&,g")
 
 ################################################################################
 
+function get_html_item_str() {
+    if [ -r "$1" ]; then
+        str=$(cat "$1" | tr \" \')
+        eval echo \"$str\"
+    fi
+}
+
 function mini_mdlinkconv() {
     sed -e "s,\([ []*\)\[\([^][]*\)\]\([^(]\),\\1\&lbrack;\\2\&rbrack;\\3,g;" \
         -e "s,\!\[\([^[]*\)](\([^)]*\)),<img src=\"\\2\" alt=\"\\1\">,g" \
@@ -48,19 +55,22 @@ function full_mdlinkconv() {
 }
 
 function md2htmlfunc() {
-    local a b c i str=$(basename ${2%.html}) dir=""
+    local a b c i str=$(basename ${2%.html}) title dir=""
     test "$str" == "index" && dir="html/"
+    title=${str/index/${PWD##*/}};
+    #title=${str//-/ };
 
     echo -n "<!DOCTYPE html>
 <html>
     <head>
-        <title>${str//-/ }</title>
+        <title>${title}</title>
         <meta charset='UTF-8'>
         <link rel='stylesheet' href='${dir}default.css'>
         <link rel='stylesheet' href='${dir}custom.css'>
     </head>
     <body>
 " >$2
+    source tools/ptopbar.sh $1 >> $2
     if [ "$str" = "index" ]; then
         sed -e "s, - (\[...raw...\]([^)]*\.md)) , - ," $1
     else
@@ -117,11 +127,15 @@ function md2htmlfunc() {
     cat $tf | tr '@' '\n' >$2
     rm  $tf
 
-    echo "
+    TOPLINK=$(get_html_item_str html/items/toplink.htm)
+    get_html_item_str html/items/footnote.htm >> $2
+
+    echo "<br/>
     </body>
 </html>" >> $2
 
-    sed -e "s/<a [^>]*href=.http[^>]*/& target='_blank'/g" -i $2
+    sed -e 's,^\&copy; 202[4-9].*Roberto A. Foglietta.*\&lt;.*,<p>&</p>,' \
+        -e "s/<a [^>]*href=.http[^>]*/& target='_blank'/g" -i $2
     for i in 3 2 1; do
         let b=i*3 a=b-2 c=i+1; a=${a/1/2}; #echo "$i $a $b $c" >&2
         sed -e "s/ \{$a,$b\}<\(li\|blockquote\|tt\)\([ >]\)"\
