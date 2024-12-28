@@ -52,7 +52,7 @@ Few but relevant warnings for those are not aware how artificial intelligence an
 
 * In case you wish not abandon your habit to decide or act on driven by random inputs also known as "*the art of divination*" or "*ghosts' suggestion*", then using the "*traditional*" tools - like reading cards, tea spots in the tea cup, fractal images in coffee grounds, arbitrary recognition of structures in animal entrails - is way lesser energy intensive approach with grants you even better results. Be traditional!
 
-<br id="pages-index"/>
+<br/><span id="pages-index"></span>
 
 ## Index about finance & economics
 
