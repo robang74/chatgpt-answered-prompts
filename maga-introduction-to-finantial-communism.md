@@ -1,3 +1,5 @@
+<div id="firstdiv" created=":EN" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
+
 ## MAGA INTRODUCTION TO FINANTIAL COMMUNISM
 
 This text is written entirely by human and it is an introduction to this article published on LinkedIn 
@@ -250,3 +252,5 @@ In the `Control of the Systems Theory` literature, they way of ruling can be see
 ---
 
 **TODO**: complete this document/section.
+
+</div>

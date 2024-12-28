@@ -1,3 +1,5 @@
+<div id="firstdiv" created=":EN" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
+
 ## Artificial Intelligence for education
 
 This conversation is the straightforward continuation of this one:
@@ -785,3 +787,5 @@ Which is not such a strange proposal considering that Tesla humanoid robots are 
 ## Copyright
 
 &copy; 2024, Roberto A. Foglietta &lt;&nbsp;roberto.foglietta&nbsp;&#64;&nbsp;gmail.com&nbsp;&gt;, CC BY-SA 4.0
+
+</div>

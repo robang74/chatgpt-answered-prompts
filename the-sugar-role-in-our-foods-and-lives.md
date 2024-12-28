@@ -1,4 +1,6 @@
-## THE SUGAR'S ROLE IN OUR FOODS AND LIVES 
+<div id="firstdiv" created=":EN" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
+
+## THE SUGAR'S ROLE IN OUR FOODS AND LIVES
 
 *The etymology of the word "**sugar**" reflects the spread of the commodity. From Sanskrit (śarkarā), meaning "ground or candied sugar", came Persian shakar and Arabic sukkar. The Arabic word was borrowed in Medieval Latin as succarum, whence the 12th century French sucre and the English sugar. Sugar was introduced into Europe by the Arabs in Sicily and Spain.*
 
@@ -288,3 +290,5 @@ In this specific frame, it is quite easy to to check that 1/4 pound hamburger (1
 A fast-food double cheeseburger  will intake 740 kcal which is about 5.3x rows. For comparison, we can decide to prepare the double cheeseburger at home with real foods: bread (1 row), meat (3 rows), fresh onion, salad and tomatoes (1 row), cheese (1 row, milk) and mayonnaise (1 row, eggs). There are 7 rows, each with 140 kcal intake, thus 980 kcal. Put on top of it a 33cl can of coke and it reaches 50% of your daily energy intake.
 
 It seems not so much, but it deletes an entire row of real food. That's ok, we will not use olive oil to dress the potatoes in the evening. However, even potatoes are more nutritious than a soft drink made of sugar and water, plus fancy things. Obviously, the problem is the sugar especially because it is not anymore necessary as a sweetener and 'till widely used despite it.
+
+</div>

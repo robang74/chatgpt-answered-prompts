@@ -1,3 +1,5 @@
+<div id="firstdiv" created=":IT" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
+
 ## Valutazione di un nuovo modello monetario
 
 In questa conversazione viene valutato un nuovo modello monetario globale
@@ -227,3 +229,5 @@ Gli eventuali miglioramenti proposti da specialisti potrebbero affinare ulterior
 ## Copyright
 
 &copy; 2024, **Roberto A. Foglietta** &lt;roberto.foglietta<span>@</span>gmail.com&gt;, [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+</div>

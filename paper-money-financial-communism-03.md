@@ -1,3 +1,5 @@
+<div id="firstdiv" created=":EN" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
+
 ## PAPER MONEY IS FINANCIAL COMMUNISM
 
 The paper money - a two-word slang that means fiat currency in combination with a quantitative easing i.e. monetary devaluation due to monetary mass' inflation caused by continuously new issuance - is financial communism.
@@ -309,3 +311,5 @@ You're welcome! I'm glad that the discussion has been helpful in refining and ev
 Indeed, the ultimate test of any novel economic or political theory lies in its ability to withstand the scrutiny of time and empirical evidence. As more data becomes available and as economic trends unfold, future researchers and analysts will be better equipped to assess the validity of the arguments presented.
 
 Thank you for engaging in this thoughtful and nuanced discussion. It's through such dialogues that we can advance our understanding of complex economic and social phenomena. If you have any more questions or topics you'd like to explore, feel free to ask!
+
+</div>

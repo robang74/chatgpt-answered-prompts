@@ -1,3 +1,5 @@
+<div id="firstdiv" created=":EN" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
+
 ## Q&A DIALOG
 
 In this case, it is not a single prompt but a dialog: a series of answered questions about the energy topic and Ukraine proxy war against Russia viewed from Europe's perspective. Prompts are highlighted and presented written in italic font. Few missing words have been added in the prompt queries just to help the English native speakers to quickly grab the meaning but for sake of correctness those words appear between [squared] parentheses.
@@ -214,3 +216,5 @@ The chatbot's last single word answer is "Europe," suggesting that Draghi's repo
 The considerations of the human author are more accurate in critically evaluating the report's alignment with U.S. interests and questioning the framing of global decarbonization and democratic values. The chatbot's single word answer, "Europe," does not fully capture the nuanced critique provided by the human author.
 
 Therefore, the human author's considerations are more correct in their analysis.
+
+</div>

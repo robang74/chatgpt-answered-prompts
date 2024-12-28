@@ -1,4 +1,4 @@
-<div id="firstdiv" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
+<div id="firstdiv" created=":EN" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
 
 ## Q&A DIALOG
 
@@ -258,4 +258,3 @@ These two aspects can be seen as external/internal perspectives:
 Which makes sense because, all in all, the main difference in this confrontation is about seeing European Union as a bureaucratic institution subjugated by the US presidency agenda or, alternatively, as an independent union, and possibly a Swiss-like federation, of various and different states which have agreed about some common rules and rights in order to empower European citizenship as a key asset of freedom and wealth.
 
 </div>
-

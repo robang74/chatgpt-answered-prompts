@@ -1,3 +1,5 @@
+<div id="firstdiv" created=":EN" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
+
 ## QUANTITATIVE EASING IS LIKE DRUG ADDICTION
 
 The quantitative easing monetary policy has been an extended and ciclical way of anesthetize a bad system that otherwise should have faced its own need to change itself for the better. This way of doing has been among us for decades and considering the dot-com bubble as a early precursor sign of the consequences, we might relate to this policy back in time for 30 years and even more. Unsurprinsingly, this policy started to be adopted in USA where giving Fentanyl to people instead of curing them gone so far that it grown up as a geopolitical issue.
@@ -589,3 +591,5 @@ By gut feeling, I would be surprised to receive a 9/10 or 10/10 answer while I w
 This consideration might seem irrelevant compared with the importance of what has been discussed with the chatbot during this session. Instead it is fundamental and it is about the final conclusion: humans are more likely social animals rather than truth seekers. For the 1st role, we were born fit for that. For the 2nd role, we need just to comprehend the deep meaning of the question that someone might ask to us as well about behaving like a yes-man.
 
 Spoiler: with or in front of a "*truth seeker*" being a "*social animal*" implies knowing that s/he looks for an honest critical peer-review. In all other cases, it depends.
+
+</div>

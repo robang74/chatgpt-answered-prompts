@@ -1,3 +1,5 @@
+<div id="firstdiv" created=":IT" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
+
 ## Propaganda e sistema educativo
 
 In questo documento si utilizza il chatbot per analizzare un commento fatto in inglese che apparentemente non aveva alcuna relazione con l'argomento riferito nel titolo di questo documento. Solo apparentemente però perché la relazione fra propaganda e sistema educativo è molto profonda, anche se non così evidente. D'altronde è noto quel detto che afferma che il pesce non percepisce l'acqua, così come noi non percepiamo l'aria come la libertà finché non ci vengono a mancare.
@@ -716,3 +718,5 @@ La critica che l'educazione sia troppo astratta e non prepari al lavoro è in pa
 Però, il chatbot é stato estremamente utile per mettere insieme l'impalcatura, portare nel quadro ulteriori informazioni, permettere di sviluppare un ragionamento attraverso un dialogo in maniera da creare un confronto, oltre alla straordinaria velocità di scrittura.
 
 Quindi ancora una volta questro strumento si dimostra come quella novità che permette di scrivere velocemente un testo, frutto di un pensiero maturato nel tempo, talvolta negli anni, e che ad un certo punto si materializza perché il chatbot velocizza tutti quei processi di ricerca lessicale e revisione di bozza che sono lenti e di una noia mortale.
+
+</div>

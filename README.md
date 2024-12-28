@@ -1,4 +1,6 @@
-<br><div align="center"><img src="warp-speed-jump.jpg"><br/></div>
+<div id="firstdiv" created=":EN" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
+
+<div align="center"><img src="warp-speed-jump.jpg"><br/></div>
 
 ## Q&A dialogs with AI chatbots
 
@@ -50,7 +52,7 @@ Few but relevant warnings for those are not aware how artificial intelligence an
 
 * In case you wish not abandon your habit to decide or act on driven by random inputs also known as "*the art of divination*" or "*ghosts' suggestion*", then using the "*traditional*" tools - like reading cards, tea spots in the tea cup, fractal images in coffee grounds, arbitrary recognition of structures in animal entrails - is way lesser energy intensive approach with grants you even better results. Be traditional!
 
-<br/>
+<br id="pages-index"/>
 
 ## Index about finance & economics
 
@@ -170,3 +172,4 @@ All the files in this gihub repository are published *Creative Commons Attributi
 
 Moreover, if a version of a document included in this repository exists or has existed under different licence terms, the licence terms of the latest version available on `github/robang74` [repository](https://github.com/robang74/chatgpt-answered-prompts/) apply. Even when the new licence terms are more restrictive, because permissions for any free content may be revoked at any time at the will of the author, and updating a licence to be more restrictive explicitly implies this will.
 
+</div>

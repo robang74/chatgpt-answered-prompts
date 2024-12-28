@@ -1,3 +1,5 @@
+<div id="firstdiv" created=":EN" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
+
 ## FABULOUS 800 BILLIONS EURO PLAN
 
 I think the time has come to reveal where the fabulous 800 billions EU support plan would like to be invested in innovation comes from.
@@ -941,3 +943,5 @@ Given the increasing clarity about the Biden administration's involvement as pri
 `[full list of the updated rating, removed]`
 
 The updates reflect a heightened role for the U.S. in orchestrating the Nord Stream sabotage, with the UK serving as a key coordinator and Poland providing logistical support. The compensation mechanisms for war damages and sanctions losses also become more reasonable within this context, particularly as the Biden administration continues to drive this broader strategic agenda.
+
+</div>

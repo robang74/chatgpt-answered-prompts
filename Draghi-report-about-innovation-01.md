@@ -1,3 +1,5 @@
+<div id="firstdiv" created=":EN" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
+
 ## Q&A DIALOG
 
 In this case, it is not a single prompt but a dialog: a series of answered questions about how to foster Europe's economy, make innovation thriving and improving on a global scale the continent's competitiveness. Prompts are highlighted and presented written in italic font. Few missing words have been added in the prompt queries just to help the English native speakers to quickly grab the meaning but for sake of correctness those words appear between [squared] parentheses.
@@ -273,3 +275,5 @@ The considerations of the human author are a mix of valid critiques and subjecti
 - The suggestion that alternative models like the "Cathedral and the Bazaar" might offer more effective approaches to innovation is supported by the success of such models in areas like open-source software development.
 
 In conclusion, the human author's considerations are a mix of valid critiques and subjective interpretations, reflecting a thoughtful engagement with the report's strengths and weaknesses.
+
+</div>
