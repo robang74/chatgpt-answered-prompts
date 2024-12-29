@@ -199,15 +199,15 @@ These articles collectively address the legal findings against Ursula von der Le
 
 #### Altri riferimenti
 
-* [ilsole24ore.com](https://www.ilsole24ore.com/art/pfizergate-procura-europea-indaga-ursula-von-der-leyen-gli-sms-spariti-AFXcctHD)
+* [ilsole24ore.com](https://www.ilsole24ore.com/art/pfizergate-procura-europea-indaga-ursula-von-der-leyen-gli-sms-spariti-AFXcctHD) - Pfizergate, la Procura europea indaga su Ursula von der Leyen per gli sms spariti
 
-* [sanita33.it](https://www.sanita33.it/europa/3625/vaccini-covid-tribunale-ue-omissis-su-contratti-illegali-commissione-europea-valuta-opzioni-legali.html)
+* [sanita33.it](https://www.sanita33.it/europa/3625/vaccini-covid-tribunale-ue-omissis-su-contratti-illegali-commissione-europea-valuta-opzioni-legali.html) - Vaccini Covid, Tribunale Ue: omissis su contratti illegali
 
-* [trendsanita.it](https://trendsanita.it/ursula-von-der-leyen-sconfitta-sulla-trasparenza-contratti-vaccini-covid-19-alla-vigilia-del-voto-di-conferma/)
+* [trendsanita.it](https://trendsanita.it/ursula-von-der-leyen-sconfitta-sulla-trasparenza-contratti-vaccini-covid-19-alla-vigilia-del-voto-di-conferma/) - Ursula von der Leyen sconfitta sulla trasparenza contratti vaccini
 
-* [europa.today.it](https://europa.today.it/attualita/procura-europea-indagine-vaccini-von-der-leyen.html)
+* [europa.today.it](https://europa.today.it/attualita/procura-europea-indagine-vaccini-von-der-leyen.html) - La Procura europea apre indagine sull'acquisto dei vaccini
 
-* [affaritaliani.it](https://www.affaritaliani.it/ue-929048.html)
+* [affaritaliani.it](https://www.affaritaliani.it/ue-929048.html) - von der Leyen: la Corte Ue la condanna per "mancata trasparenza" sui vaccini
 
 ---
 
@@ -295,21 +295,21 @@ These articles reflect ongoing debates about the efficacy and safety of COVID-19
 
 #### Citations
 
-1. [scienzainrete.it](https://www.scienzainrete.it/articolo/vaccini-anti-covid-19-e-mortalit%C3%A0-ben-venga-confronto-scientifico-serio/marco-alessandria)
+1. [scienzainrete.it](https://www.scienzainrete.it/articolo/vaccini-anti-covid-19-e-mortalit%C3%A0-ben-venga-confronto-scientifico-serio/marco-alessandria) - Vaccini anti-COVID-19 e mortalità: ben venga un confronto scientifico serio
 
-2. [eeas.europa.eu](https://www.eeas.europa.eu/eeas/vaccinare-il-mondo-tra-promesse-e-realt%C3%A0_it)
+2. [eeas.europa.eu](https://www.eeas.europa.eu/eeas/vaccinare-il-mondo-tra-promesse-e-realt%C3%A0_it) - Vaccinare il mondo: tra promesse e realtà
 
-3. [openpolis.it](https://www.openpolis.it/ai-paesi-a-basso-tasso-di-sviluppo-e-stato-consegnato-un-terzo-dei-vaccini-promessi/)
+3. [openpolis.it](https://www.openpolis.it/ai-paesi-a-basso-tasso-di-sviluppo-e-stato-consegnato-un-terzo-dei-vaccini-promessi/) - Ai paesi a basso tasso di sviluppo è stato consegnato un terzo dei vaccini promessi
 
-4. [sanita24.ilsole24ore.com](https://www.sanita24.ilsole24ore.com/art/aziende-e-regioni/2024-02-01/-covid-italia-flop-campagna-vaccinale-over-60-europa-piu-giu-solo-grecia-e-paesi-est-regioni-tutto-sud-sotto-media-nazionale-ragioni-fallimento-sfiducia-vaccini-criticita-organizzative-limitata-091921.php?uuid=AFdxalYC)
+4. [ilsole24ore.com](https://www.sanita24.ilsole24ore.com/art/aziende-e-regioni/2024-02-01/-covid-italia-flop-campagna-vaccinale-over-60-europa-piu-giu-solo-grecia-e-paesi-est-regioni-tutto-sud-sotto-media-nazionale-ragioni-fallimento-sfiducia-vaccini-criticita-organizzative-limitata-091921.php?uuid=AFdxalYC) - In Italia flop della campagna vaccinale per over 60.
 
-5. [aifa.gov.it](https://www.aifa.gov.it/documents/20142/1315190/Rapporto_annuale_su_sicurezza_vaccini%20anti-COVID-19.pdf)
+5. [aifa.gov.it](https://www.aifa.gov.it/documents/20142/1315190/Rapporto_annuale_su_sicurezza_vaccini%20anti-COVID-19.pdf) - Rapporto annuale sulla sicurezza dei vaccini anti-COVID-19
 
-6. [amnesty.it](https://www.amnesty.it/covid-19-mancato-uguale-accesso-ai-vaccini-un-fallimento-catastrofico-degli-stati-ricchi-e-delle-aziende-farmaceutiche/)
+6. [amnesty.it](https://www.amnesty.it/covid-19-mancato-uguale-accesso-ai-vaccini-un-fallimento-catastrofico-degli-stati-ricchi-e-delle-aziende-farmaceutiche/) - Covid-19, mancato uguale accesso ai vaccini.
 
-7. [oxfamitalia.org](https://www.oxfamitalia.org/guadagni-azionisti-big-pharma-bastano-a-vaccinare-africa/)
+7. [oxfamitalia.org](https://www.oxfamitalia.org/guadagni-azionisti-big-pharma-bastano-a-vaccinare-africa/) - I guadagni di big pharma bastano a vaccinare l’Africa
 
-8. [aifa.gov.it](https://www.aifa.gov.it/documents/20142/1315190/Rapporto_sorveglianza_vaccini_COVID-19_2.pdf)
+8. [aifa.gov.it](https://www.aifa.gov.it/documents/20142/1315190/Rapporto_sorveglianza_vaccini_COVID-19_2.pdf) - Rapporto sulla Sorveglianza dei vaccini COVID-19
 
 ---
 
