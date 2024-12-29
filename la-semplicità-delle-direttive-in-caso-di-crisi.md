@@ -60,7 +60,7 @@ La scrittura di questo documento è completata. La sua lavorazione riguarda prin
 
 * [Le mie gioie, di dicembre](data/le-mie-gioie-di-dicembre.txt) - Testo ASCII del post su Facebook
 
-* [Methane reduction in livestock breeding](methane-reduction-in-livestock-breeding.png) - Composizione degli creenshot relativi ad un thread su LinkedIn
+* [Methane reduction in livestock breeding](data/methane-reduction-in-livestock-breeding.png) - Composizione degli creenshot relativi ad un thread su LinkedIn
 
 ### COPYRIGHT
 
