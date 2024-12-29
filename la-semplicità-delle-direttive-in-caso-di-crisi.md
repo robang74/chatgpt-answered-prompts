@@ -1352,7 +1352,7 @@ La combinazione tra la raccomandazione agli anziani di rimanere a casa e la dire
 <br/>
 <br/>
 
-## Conclusione
+## Ricapitolando
 
 Appare chiaro a questo punto che l'emergenza della pandemia covid-19 è stata sfruttata da diversi attori per perseguire i LORO obbiettivi, allora elenchiamo gli attori e gli obbiettiv:
 
