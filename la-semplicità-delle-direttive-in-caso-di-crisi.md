@@ -10,7 +10,7 @@ Queste questioni sono qui presentate a prescindere dal testo originale del post,
 
 ### STATO
 
-Questo documento è in attiva fase di lavorazione
+La scrittura di questo documento è completata. La sua lavorazione riguarda principalmente la sua forma sia estetica, sia adattabile al formato html.
 
 ### COPYRIGHT
 
