@@ -158,7 +158,7 @@ function fx() {
 function get_images_list() {
     local dir ext
     for dir in "data/" "img/" ""; do
-        for ext in jpg png pdf; do
+        for ext in jpg png pdf txt; do
             ls -1 ${dir}*.${ext}
         done 2>/dev/null
     done
