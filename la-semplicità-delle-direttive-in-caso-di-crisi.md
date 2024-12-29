@@ -33,7 +33,7 @@ L'originale è corredato da tre immagini: 1. quella che ti ho caricato, le altre
 
 Questo post di Facebook è un racconto umoristico e autoironico di due "gioie" di dicembre, intrecciato con riflessioni sulla scienza, la sicurezza alimentare, la storia e un pizzico di satira politica. L'autore utilizza un tono colloquiale e a tratti provocatorio, mescolando esperienze personali con riferimenti culturali e scientifici.
 
-[…]
+> [... omissis ...]
 
 **Considerazioni**
 
@@ -434,15 +434,21 @@ Se fossi Jenner di fronte a una nuova malattia influenzale X, senza vaccini sicu
 1.  **Paralisi totale (carcerazione domiciliare coatta):** Questa opzione, sebbene possa rallentare la diffusione iniziale del contagio, presenta numerosi svantaggi a lungo termine:
 
     *   **Impatto devastante sull'economia e sulla società:** La chiusura prolungata di attività economiche, scuole e servizi essenziali avrebbe conseguenze gravissime sul tessuto sociale e sulla salute mentale delle persone.
+
     *   **Difficoltà di applicazione prolungata:** Mantenere un lockdown rigido per un periodo prolungato è estremamente difficile da gestire e porta inevitabilmente a violazioni e tensioni sociali.
+
     *   **Nessuna soluzione al problema di fondo:** Il lockdown non elimina il virus, ma lo contiene temporaneamente. Una volta allentate le restrizioni, il virus riprenderebbe a circolare, a meno che non si sviluppino altre strategie (come vaccini o terapie).
 
 2.  **Non fare nulla:** Questa opzione è chiaramente inaccettabile. Lasciare che una malattia potenzialmente pandemica si diffonda incontrollata porterebbe a un numero elevatissimo di morti, al collasso del sistema sanitario e a gravi disordini sociali.
 
 3.  **Misure di prevenzione (mascherine, disinfezione):** Questa opzione, sebbene non risolutiva al 100%, rappresenta la scelta più pragmatica e sensata in assenza di vaccini o terapie specifiche:
+
     *   **Riduzione della trasmissione:** Le mascherine chirurgiche, se usate correttamente, possono ridurre la diffusione delle goccioline respiratorie e quindi la trasmissione del virus.
+
     *   **Igiene delle mani:** La disinfezione regolare delle mani contribuisce a ridurre il rischio di contagio per contatto.
+
     *   **Minore impatto sulla società:** Rispetto al lockdown totale, queste misure hanno un impatto meno devastante sull'economia e sulla vita sociale.
+
     *   **Tempo per la ricerca:** Queste misure danno tempo alla ricerca scientifica per sviluppare vaccini e terapie efficaci.
 
 **La scelta di Jenner (con precisazioni)**
@@ -450,9 +456,13 @@ Se fossi Jenner di fronte a una nuova malattia influenzale X, senza vaccini sicu
 Come Jenner, di fronte a una malattia sconosciuta e senza altre armi a disposizione, sceglierei senza dubbio le misure di prevenzione (mascherine, disinfezione). Tuttavia, con le conoscenze attuali, apporterei alcune importanti precisazioni:
 
 *   **Comunicazione chiara e trasparente:** È fondamentale comunicare alla popolazione in modo chiaro e trasparente i rischi della malattia, l'importanza delle misure di prevenzione e le ragioni scientifiche alla base di tali misure.
+
 *   **Promozione della ricerca scientifica:** Investirei massicciamente nella ricerca scientifica per comprendere meglio la malattia, sviluppare test diagnostici, vaccini e terapie efficaci.
+
 *   **Monitoraggio epidemiologico:** Implementerei un sistema di monitoraggio epidemiologico per tracciare la diffusione del virus, identificare i focolai e valutare l'efficacia delle misure di prevenzione.
+
 *   **Adattamento delle misure:** Le misure di prevenzione dovrebbero essere adattate in base all'evoluzione della situazione epidemiologica e alle nuove conoscenze scientifiche.
+
 *   **Considerare altre misure non farmacologiche:** Oltre a mascherine e disinfezione, si potrebbero considerare altre misure non farmacologiche, come il distanziamento fisico, la ventilazione degli ambienti e la limitazione degli assembramenti, sempre valutandone attentamente l'impatto sulla società.
 
 **Perché questa scelta è coerente con il "metodo" di Jenner**
@@ -554,14 +564,19 @@ Hai posto un'ottima domanda che tocca un aspetto cruciale dello sviluppo dei far
 1.  **Scoperta e ricerca preclinica (2-5 anni)**
 
     *   **Identificazione del bersaglio:** Si identifica una molecola o un processo biologico coinvolto nella malattia che si vuole trattare.
+
     *   **Sviluppo del composto:** Si sintetizzano e si studiano diverse molecole per trovare quella con la maggiore attività terapeutica e il minor numero di effetti collaterali.
+
     *   **Test in vitro:** Si effettuano test su cellule in laboratorio per valutare l'attività del composto e i suoi meccanismi d'azione.
+
     *   **Test in vivo (su animali):** Si effettuano test su animali per valutare la sicurezza (tossicità) e l'efficacia del composto.
 
 2.  **Sviluppo clinico (5-10 anni):** Questa fase prevede test sull'uomo, suddivisi in diverse fasi
 
     *   **Fase I:** Studi su un piccolo gruppo di volontari sani per valutare la sicurezza del farmaco, la sua farmacocinetica (come viene assorbito, distribuito, metabolizzato ed eliminato dall'organismo) e la sua farmacodinamica (l'effetto del farmaco sull'organismo).
+
     *   **Fase II:** Studi su un gruppo più ampio di pazienti affetti dalla malattia per valutare l'efficacia del farmaco a diverse dosi e identificare eventuali effetti collaterali.
+
     *   **Fase III:** Studi su un numero ancora maggiore di pazienti (spesso migliaia) per confermare l'efficacia e la sicurezza del farmaco su una popolazione più ampia e diversificata, confrontandolo con trattamenti standard o placebo.
 
 3.  **Approvazione regolatoria (1-2 anni):** Dopo il completamento degli studi clinici di Fase III, l'azienda farmaceutica presenta una domanda di approvazione alle autorità regolatorie (come l'EMA in Europa o la FDA negli Stati Uniti). Le autorità valutano attentamente i dati di sicurezza ed efficacia e, se ritengono che il farmaco sia sicuro ed efficace per l'uso previsto, ne autorizzano l'immissione in commercio.
