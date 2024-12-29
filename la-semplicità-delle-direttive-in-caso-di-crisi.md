@@ -14,27 +14,29 @@ Questo documento nasce da un post su Facebook dal taglio molto umoristico, per n
 
 Queste questioni sono qui presentate a prescindere dal testo originale del post, che in fondo è stato solo un accidentale punto d'inizio e in quanto tale funziona da introduzione, necessariamente.
 
-* dal prompt [#1](#prompt-1) al #4 riguardano il post su Facebook
+* dal prompt [#1](#prompt-1) al #4 riguardano il post su Facebook;
 
-* al prompt [#5](#prompt-5) comincia il "casus belli" sulla questione prinicpale
+* al prompt [#5](#prompt-5) comincia il "casus belli" sulla questione prinicpale;
 
-* al prompt [#7](#prompt-7) la censura comincia ad opporsi al processo di ri-educazione
+* al prompt [#7](#prompt-7) la censura comincia ad opporsi al processo di ri-educazione;
   
-* al prompt [#13](#prompt-13) si ritorna in traccia, avendo esplorato i confini dell'area di censura
+* al prompt [#13](#prompt-13) si ritorna in traccia, avendo esplorato i confini dell'area di censura;
 
-* al prompt [#14](#prompt-14) comincia il gioco dei ruoli per accompagnare il chatbot verso la conclusione
+* al prompt [#14](#prompt-14) comincia il gioco dei ruoli per accompagnare il chatbot verso la conclusione;
 
-* al prompt [#19](#prompt-19) l'ovvio che non è ovvio comincia ad essere messo in discussione
+* al prompt [#19](#prompt-19) l'ovvio che non è ovvio comincia ad essere messo in discussione;
 
-* al prompt [#23](#prompt-23) si dibatte sui dati della mortalità e della loro interpretazione
+* al prompt [#23](#prompt-23) si dibatte sui dati della mortalità e della loro interpretazione;
 
-* al prompt [#24](#prompt-24) si introduce il concetto di costo/opportunità e l'azzardo morale relativo
+* al prompt [#24](#prompt-24) si introduce il concetto di costo/opportunità e l'azzardo morale relativo;
 
-* al prompt [#26](#prompt-26) si introducono i vincoli di sistema e le risorse limitate (pragmatismo, realtà)
+* al prompt [#26](#prompt-26) si introducono i vincoli di sistema e le risorse limitate (pragmatismo, realtà);
 
-* al **prompt [#26](#prompt-27)** si presenta un **piano alternativo e razionale** della gestione della pandemia
+* al **prompt [#26](#prompt-27)** si presenta un **piano alternativo e razionale** della gestione della pandemia;
 
-* alla risposta [#29](#gemini-29) il chatbot accetta l'evidenza e apparentemente si arrende ad essa.
+* alla risposta [#29](#gemini-29) il chatbot accetta l'evidenza e apparentemente si arrende ad essa;
+
+* infine [ricapitolando](#ricapitolando) che da sola meriterebbe un articolo a se stante.
 
 Poi interrogato di nuovo per rivedere la stima dell'azzardo morale - prosecuzione qui non riportata - improvvisamente si ricorda che parlare dei politici non è cosa da fare e ritorna al vaniloquio e alle prosaiche parole che in sintesi si riconducono al sempre verde motto "lo facciamo per il vostro bene".
 
