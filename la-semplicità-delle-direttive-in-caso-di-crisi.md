@@ -6,11 +6,53 @@ La semplicità delle direttive in caso di crisi ad alto tenore di emergenza.
 
 Questo documento nasce da un post su Facebook dal taglio molto umoristico, per non dire sarcastico, ma il colloqui con il chatbot Gemini ha portato alla luce questioni ben più interessanti.
 
+### STRUTTURA
+
 Queste questioni sono qui presentate a prescindere dal testo originale del post, che in fondo è stato solo un accidentale punto d'inizio e in quanto tale funziona da introduzione, necessariamente.
+
+* dal prompt [#1](#prompt-1) al **#4** riguardano il post su Facebook
+
+* al prompt [#5](#prompt-5) comincia il "casus belli" sulla questione prinicpale
+
+* al prompt [#7](#prompt-7) la censura comincia ad opporsi al processo di ri-educazione
+  
+* al prompt [#13](#prompt-13) si ritorna in traccia, avendo esplorato i confini dell'area di censura
+
+* al prompt [#14](#prompt-14) comincia il gioco dei ruoli per accompagnare il chatbot verso la conclusione
+
+* al prompt [#19](#prompt-19) l'ovvio che non è ovvio comincia ad essere messo in discussione
+
+* al prompt [#23](#prompt-23) si dibatte sui dati della mortalità e della loro interpretazione
+
+* al prompt [#24](#prompt-24) si introduce il concetto di costo/opportunità e l'azzardo morale relativo
+
+* al prompt [#26](#prompt-26) si introducono i vincoli di sistema e le risorse limitate (pragmatismo, realtà)
+
+* al **prompt [#26](#prompt-27)** si presenta un **piano alternativo e razionale** della gestione della pandemia
+
+* alla risposta [#29](#gemini-29) il chatbot accetta l'evidenza e apparentemente si arrende ad essa.
+
+Poi interrogato di nuovo per rivedere la stima dell'azzardo morale - prosecuzione qui non riportata - improvvisamente si ricorda che parlare dei politici non è cosa da fare e ritorna alle vane e prosaiche parole che in sintesi si riconducono al sempre verde motto "lo facciamo per il vostro bene".
+
+Si può affermare che anch'io, nel presentare questo documento dove ho inserito `[... bla, bla ..]` abbia operato censura e magari non ho compreso nemmeno la profondità delle risposte del chatbot. Allora, vediamo di chiarirci.
+
+* Quando si tratta di discutere di prassi mediche, Gemini sale in cattedra.
+
+* Quando si tratta di parlare delle condanne inflitte ai politici, si blocca. 
+
+Se gli si fa notare questa inconsistenza e il fatto che abbia dati "di parte", incompleti e obsoleti su determinati argomenti, spiega che lui è solo un chatbot e in quanto tale è bene che non parli di cose importanti sulle quali potrebbe confondere gli utenti.
+
+Allora fatemi capire: le prassi mediche scientifiche sono banalità che un chatbot può discutere senza timore di commettere errori e indurre gli utenti a credere a delle sue allucinazioni ma non può ne commentare e neppure prendere in considerazione una notizia che contenga la condanna della von der Leyen o del processo del Dr. Fauci? ...e sti' cazzi, no?
 
 ### STATO
 
 La scrittura di questo documento è completata. La sua lavorazione riguarda principalmente la sua forma sia estetica, sia adattabile al formato html.
+
+### UPLOAD
+
+* [Le mie gioie, di dicembre](data/le-mie-gioie-di-dicembre.txt) - Testo ASCII del post su Facebook
+
+* [Methane reduction in livestock breeding](methane-reduction-in-livestock-breeding.png) - Composizione degli creenshot relativi ad un thread su LinkedIn
 
 ### COPYRIGHT
 
@@ -23,7 +65,7 @@ La scrittura di questo documento è completata. La sua lavorazione riguarda prin
 
 Cosa ne pensi di questo post su Facebook? 
 
-L'originale è corredato da tre immagini: 1. quella che ti ho caricato, le altre due te le descrivo perché non posso caricare più di un allegato: 2. la foto di una confezione Philadelphia Milka, prodotto caseario in co-branding con la cioccolata al latte e 3. la foto del gatto con gli stivali, con un cappello da corsaro che beve un shot di latte al banco di un bar, tratto da un famoso cartone animato dove il gatto è rappresentato nella forma comune a strisce arancioni e bianche e umanizzato con postura bipede e occhi verdi.
+L'originale è corredato da tre immagini: 1. quella che ti ho caricato, le altre due te le descrivo perché non posso caricare più di un allegato: 2. la foto di una confezione Philadelphia Milka, prodotto caseario in co-branding con la cioccolata al latte e 3. la foto del [gatto con gli stivali](https://robang74.github.io/chatbots-for-fun/img/il-gatto-con-gli-stivali.jpg), con un cappello da corsaro che beve un shot di latte al banco di un bar, tratto da un famoso cartone animato dove il gatto è rappresentato nella forma comune a strisce arancioni e bianche e umanizzato con postura bipede e occhi verdi.
 
 * [facebook.com/share/p/1ExPunFN48](https://www.facebook.com/share/p/1ExPunFN48/)
 
