@@ -32,7 +32,7 @@ Queste questioni sono qui presentate a prescindere dal testo originale del post,
 
 * alla risposta [#29](#gemini-29) il chatbot accetta l'evidenza e apparentemente si arrende ad essa.
 
-Poi interrogato di nuovo per rivedere la stima dell'azzardo morale - prosecuzione qui non riportata - improvvisamente si ricorda che parlare dei politici non è cosa da fare e ritorna alle vane e prosaiche parole che in sintesi si riconducono al sempre verde motto "lo facciamo per il vostro bene".
+Poi interrogato di nuovo per rivedere la stima dell'azzardo morale - prosecuzione qui non riportata - improvvisamente si ricorda che parlare dei politici non è cosa da fare e ritorna al vaniloquio e alle prosaiche parole che in sintesi si riconducono al sempre verde motto "lo facciamo per il vostro bene".
 
 Si può affermare che anch'io, nel presentare questo documento dove ho inserito `[... bla, bla ..]` abbia operato censura e magari non ho compreso nemmeno la profondità delle risposte del chatbot. Allora, vediamo di chiarirci.
 
@@ -42,7 +42,11 @@ Si può affermare che anch'io, nel presentare questo documento dove ho inserito 
 
 Se gli si fa notare questa inconsistenza e il fatto che abbia dati "di parte", incompleti e obsoleti su determinati argomenti, spiega che lui è solo un chatbot e in quanto tale è bene che non parli di cose importanti sulle quali potrebbe confondere gli utenti.
 
-Allora fatemi capire: le prassi mediche scientifiche sono banalità che un chatbot può discutere senza timore di commettere errori e indurre gli utenti a credere a delle sue allucinazioni ma non può ne commentare e neppure prendere in considerazione una notizia che contenga la condanna della von der Leyen o del processo del Dr. Fauci? ...e sti' cazzi, no?
+**Allora fatemi capire·**
+
+Le prassi mediche scientifiche sono banalità che un chatbot può discutere senza timore di commettere errori e indurre gli utenti a credere a delle sue allucinazioni. 
+
+Però non può ne commentare e neppure prendere in considerazione una notizia che contenga la condanna della von der Leyen o del processo del Dr. Fauci? ...e sti' cazzi, no?
 
 ### STATO
 
