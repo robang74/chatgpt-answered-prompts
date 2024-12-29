@@ -4,7 +4,7 @@
 
 La semplicità delle direttive in caso di crisi ad alto tenore di emergenza.
 
-* Link alla [pagina HTML](https://robang74.github.io/chatgpt-answered-prompts/html/la-semplicit%C3%A0-delle-direttive-in-caso-di-crisi.html) per una più agevole consultazione.
+* Link alla pagina in formato [**`HTML`**](https://robang74.github.io/chatgpt-answered-prompts/html/la-semplicit%C3%A0-delle-direttive-in-caso-di-crisi.html) per una più agevole consultazione.
 
 ### PREMESSA
 
