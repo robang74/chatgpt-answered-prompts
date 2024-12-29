@@ -14,7 +14,7 @@ Questo documento nasce da un post su Facebook dal taglio molto umoristico, per n
 
 Queste questioni sono qui presentate a prescindere dal testo originale del post, che in fondo è stato solo un accidentale punto d'inizio e in quanto tale funziona da introduzione, necessariamente.
 
-* dal prompt [#1](#prompt-1) al **#4** riguardano il post su Facebook
+* dal prompt [#1](#prompt-1) al #4 riguardano il post su Facebook
 
 * al prompt [#5](#prompt-5) comincia il "casus belli" sulla questione prinicpale
 
