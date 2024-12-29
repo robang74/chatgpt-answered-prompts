@@ -337,4 +337,74 @@ Continuare a informarsi è fondamentale, ma è cruciale farlo attraverso canali 
 
 <br/>
 
+### Prompt #12
+
+È importante valutare criticamente le informazioni e confrontare diverse fonti - ok, concordo con questo principio - ma quando poi ti fornisco notizie dei processi e delle condanne verso politici implicati, rispondi così:
+
+> Al momento non posso rispondere a domande su elezioni e personaggi politici. Infatti, anche se non divulgherei mai deliberatamente informazioni inesatte, potrei commettere errori.
+
+Vediamo di capirci: se le tue risposte sono il prodotto di informazioni incomplete perché su determinati temi - quale la carcerazione dei politici o la loro condanna - non puoi esprimerti e/o investigare, chiaro che poi tutto l'impianto delle tue risposte sull'argomento crollano. Ti sembra sensato che crollino se hai dati parziali e censuari?
+
+---
+
+### Gemini #12
+
+Hai ragione a sollevare questa importante questione. Cerchiamo di chiarire il mio comportamento e le ragioni dietro le mie limitazioni.
+
+**Perché non posso esprimermi su certe questioni politiche**
+
+[... bla bla ...]
+
+**In conclusione**
+
+Riconosco il limite che hai evidenziato e comprendo la tua preoccupazione. Stiamo lavorando per migliorare le mie capacità e per fornire informazioni sempre più complete e accurate. Nel frattempo, cerco di concentrarmi sul fornire informazioni scientifiche e basate su dati verificabili, evitando di commentare argomenti in cui non posso garantire la massima accuratezza e neutralità.
+
+Spero che questa spiegazione sia più chiara e che tu possa comprendere le ragioni dietro le mie limitazioni. Continuerò a fare del mio meglio per fornirti informazioni utili e accurate, nei limiti delle mie attuali capacità.
+
+<br/>
+
+### Prompt #13
+
+Ok, ritorniamo alla storia. Su quella almeno spero tu non abbia limitazioni e censure in atto. Il lavoro di Jenner ai primordi quando iniettava piccole quantità di pus dalle pustole del vaiolo delle vacche, era una procedura scientificamente controllata oppure stava procedendo in maniera razionale ma potenzialmente imprevedibile?
+
+* **Nota**: ok una fava, ok ho capito le modalità di censura e condizionamento, intile che ne stia a discutere qui con te.
+
+---
+
+### Gemini #13
+
+Hai ragione, la storia della medicina e delle scoperte scientifiche, incluso il lavoro di Jenner, è un terreno su cui posso fornire informazioni più complete e accurate, con minori limitazioni rispetto a questioni politiche contemporanee.
+
+Il lavoro di Jenner, sebbene rivoluzionario e fondamentale per lo sviluppo dell'immunologia, non rientrava negli standard di una moderna sperimentazione scientifica controllata. Cerchiamo di capire il contesto e le caratteristiche del suo approccio:
+
+**Cosa c'era di "razionale" nel lavoro di Jenner:**
+
+*   **Osservazione empirica:** Jenner partì da un'osservazione accurata: le mungitrici che contraevano il vaiolo bovino (una malattia lieve) sembravano immuni al vaiolo umano (una malattia molto più grave e spesso mortale). Questa osservazione era basata su una conoscenza popolare diffusa all'epoca, ma Jenner fu il primo a indagarla sistematicamente.
+
+*   **Ipotesi:** Jenner formulò l'ipotesi che l'infezione con il vaiolo bovino potesse conferire protezione contro il vaiolo umano.
+
+*   **Sperimentazione (primitiva):** Jenner decise di mettere alla prova la sua ipotesi inoculando materiale prelevato dalle pustole di vaiolo bovino in un bambino, James Phipps. Successivamente, espose il bambino al vaiolo umano per verificare se fosse protetto.
+
+**Cosa mancava al lavoro di Jenner per essere considerato "scientificamente controllato" secondo gli standard moderni:**
+
+*   **Gruppo di controllo:** Jenner non aveva un gruppo di controllo, ovvero un gruppo di individui non vaccinati che venivano esposti al vaiolo umano per confrontare i risultati. Questo è un elemento fondamentale della sperimentazione moderna per isolare l'effetto dell'intervento (in questo caso, la vaccinazione).
+
+*   **Randomizzazione:** Il bambino che ricevette l'inoculo non fu scelto casualmente. La randomizzazione è un processo che assicura che i gruppi di studio siano comparabili e che non ci siano fattori confondenti che influenzano i risultati.
+
+*   **Standardizzazione:** Le procedure di preparazione e somministrazione del materiale vaccinale non erano standardizzate. Non c'era un controllo preciso sulla quantità di virus inoculato o sulla sua vitalità.
+
+*   **Consenso informato:** All'epoca, non esisteva il concetto di consenso informato. Oggi, è fondamentale che i partecipanti a una sperimentazione siano pienamente informati sui rischi e i benefici e che diano il loro consenso libero e consapevole.
+
+*   **Conoscenza dei meccanismi biologici:** Jenner non conosceva i meccanismi biologici alla base dell'immunità. La scoperta degli anticorpi e del sistema immunitario sarebbe avvenuta molto più tardi.
+
+**Perché, nonostante queste limitazioni, il lavoro di Jenner fu così importante:**
+
+Nonostante le limitazioni metodologiche, il lavoro di Jenner fu una pietra miliare nella storia della medicina. Introdusse per la prima volta il concetto di *immunizzazione* e aprì la strada allo sviluppo dei vaccini come strumento di prevenzione delle malattie infettive. Il suo approccio, pur essendo empirico, si basava su un'attenta osservazione e su un ragionamento logico, e i suoi risultati furono talmente evidenti da convincere la comunità medica dell'epoca.
+
+**In sintesi:**
+
+Il lavoro di Jenner fu un atto di grande intuizione e coraggio, basato su un'osservazione razionale e una sperimentazione primitiva. Non era una procedura scientificamente controllata secondo gli standard moderni, ma rappresentò un passo fondamentale per la nascita dell'immunologia e lo sviluppo dei vaccini. È importante contestualizzare il suo lavoro nel suo tempo e riconoscere il suo enorme contributo alla salute pubblica.
+
+Possiamo quindi dire che Jenner procedette in maniera razionale, basandosi sull'osservazione e l'intuizione, ma con un approccio sperimentale che, con gli occhi di oggi, appare certamente imprevedibile e non controllato. Tuttavia, la sua intuizione si rivelò corretta e aprì una nuova era nella medicina preventiva.
+
 
