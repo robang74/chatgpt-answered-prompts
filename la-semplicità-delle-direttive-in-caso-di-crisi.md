@@ -25,7 +25,7 @@ Cosa ne pensi di questo post su Facebook?
 
 L'originale è corredato da tre immagini: 1. quella che ti ho caricato, le altre due te le descrivo perché non posso caricare più di un allegato: 2. la foto di una confezione Philadelphia Milka, prodotto caseario in co-branding con la cioccolata al latte e 3. la foto del gatto con gli stivali, con un cappello da corsaro che beve un shot di latte al banco di un bar, tratto da un famoso cartone animato dove il gatto è rappresentato nella forma comune a strisce arancioni e bianche e umanizzato con postura bipede e occhi verdi.
 
-* https://www.facebook.com/share/p/1ExPunFN48/
+* [facebook.com/share/p/1ExPunFN48](https://www.facebook.com/share/p/1ExPunFN48/)
 
 ---
 
@@ -644,7 +644,7 @@ L'estensione dell'obbligo vaccinale su scala di massa con un follow-up limitato 
 
 ### Prompt #19
 
-Non esiste l'emergenza pandemica. L'idea che esista è di per se stessa tautologica. La vita su questo pianeta è da 4 miliardi di anni che affronta la diffusione di nuove varianti di qualcosa. Togli quindi dallo scenario il concetto di "emergenza pandemica" come artefatto di mediatico.
+Non esiste l'emergenza pandemica. L'idea che esista è di per se stessa tautologica. La vita su questo pianeta è da 4 miliardi di anni che affronta la diffusione di nuove varianti di qualcosa. Togli quindi dallo scenario il concetto di "emergenza pandemica" come artefatto mediatico.
 
 ---
 
@@ -690,7 +690,11 @@ Pur comprendendo la tua prospettiva critica sul concetto di "emergenza pandemica
 
 ### Prompt #20
 
-Che le pandemie possano esistere è accertato. Che siano "emergenti" è tautologico. Sono sempre "emergenti" le novità e la novità di un nuovo patogeno non rappresenta una novità nell'ambito della vita biologica di questo pianeta ma una costante. Perché sia una novità mai vista prima occorre che come assunto la nuova malattia NON sia di origine naturale ma un'arma batteriologica. Quindi a meno che non si tratti di guerra batteriologica il concetto di "emergenza pandemia" è tautologico e quindi un artefatto mediatico.
+Che le pandemie possano esistere è accertato. Che siano "emergenti" è tautologico. Sono sempre "emergenti" le novità e la novità di un nuovo patogeno non rappresenta una novità nell'ambito della vita biologica di questo pianeta ma una costante.
+
+Perché sia una novità mai vista prima occorre che come assunto la nuova malattia NON sia di origine naturale ma un'arma batteriologica.
+
+Quindi a meno che non si tratti di guerra batteriologica il concetto di "emergenza pandemia" è tautologico e quindi un artefatto mediatico.
 
 ---
 
@@ -738,7 +742,11 @@ Pertanto, pur condividendo la tua osservazione sulla continua evoluzione dei pat
 
 ### Prompt #21
 
-Ok, ti faccio un esempio. L'influenza comune è un agente patogeno con diffusione su scala mondiale che ogni hanno evolve e cambia. Altrimenti non ci sarebbe tutti gli anni. Il vaiolo che non ha questa caratteristica tipica dei virus di evolvere velocemente è praticamente stato debellato. Quindi parlare di "emergenza pandemia" per un agente virale di tipo influenzale è semplicemente ridicolo.
+Ok, ti faccio un esempio. L'influenza comune è un agente patogeno con diffusione su scala mondiale che ogni hanno evolve e cambia. Altrimenti non ci sarebbe tutti gli anni.
+
+Il vaiolo che non ha questa caratteristica tipica dei virus di evolvere velocemente è praticamente stato debellato.
+
+Quindi parlare di "emergenza pandemia" per un agente virale di tipo influenzale è semplicemente ridicolo.
 
 ---
 
@@ -776,11 +784,17 @@ Inoltre, è importante sottolineare che il termine "emergenza" non si riferisce 
 
 ### Prompt #22
 
-Ritorniamo alla questione nello specifico del covid-19, l'idea di "emergenza pademica" trova motivo - per altro infondato o comunque incerto - che tale virus provenisse da laboratori biologici in Cina. Diversamente, agenti patogeni assai più letali o mortali (a seconda delle definizioni mediche di questi due termini) tipo ebola o la malaria, non hanno mai creato grandi preoccupazioni in termini epidemiologici e/o pandemici.
+Ritorniamo alla questione nello specifico del covid-19, l'idea di "emergenza pnademica" trova motivo - per altro infondato o comunque incerto - che tale virus provenisse da laboratori biologici in Cina.
 
-La ragione si basa su un costrutto semplice per non dire banale: le malattie che sono provocate da agenti patogeni, sono il prodotto di forme di vita le quali per loro stessa natura, se sono il prodotto dell'evoluzione naturale, non si adattano ovunque a chiunque, immediatamente. Infatti, la pandemia covid-19 è passata praticamente inosservata in Africa dove la vaccinazione è stata scarsa se non nulla.
+Diversamente, agenti patogeni assai più letali o mortali (a seconda delle definizioni mediche di questi due termini) tipo ebola o la malaria, non hanno mai creato grandi preoccupazioni in termini epidemiologici e/o pandemici.
 
-In natura, non esiste una pandemia anche se l'agente biologico fosse libero di circolare tramite i turisti in giro per il mondo. Che circoli è una questione, che si adatti a diverse condizioni rispetto alla nicchia ecologica in cui si è evoluto come patogeno anche per gli umani, è tutt'altro paio di maniche. Oltre al fatto che sia per il salto di specie oppure una qualsiasi altra mutazione, è assai improbabile che sia immediatamente efficiente nel contagiare gli esseri umani (o una diversa specie) se già non lo faceva prima in altre forme, come l'influenza.
+La ragione si basa su un costrutto semplice per non dire banale: le malattie che sono provocate da agenti patogeni, sono il prodotto di forme di vita le quali per loro stessa natura, se sono il prodotto dell'evoluzione naturale, non si adattano ovunque a chiunque, immediatamente.
+
+Infatti, la pandemia covid-19 è passata praticamente inosservata in Africa dove la vaccinazione è stata scarsa se non nulla.
+
+In natura, non esiste una pandemia anche se l'agente biologico fosse libero di circolare tramite i turisti in giro per il mondo. Che circoli è una questione, che si adatti a diverse condizioni rispetto alla nicchia ecologica in cui si è evoluto come patogeno anche per gli umani, è tutt'altro paio di maniche.
+
+Oltre al fatto che sia per il salto di specie oppure una qualsiasi altra mutazione, è assai improbabile che sia immediatamente efficiente nel contagiare gli esseri umani (o una diversa specie) se già non lo faceva prima in altre forme, come l'influenza.
 
 ---
 
@@ -832,7 +846,13 @@ Resta il fatto che, indipendentemente dall'origine e dalla definizione di "emerg
 
 ### Prompt #23
 
-Questa affermazione:  il SARS-CoV-2 ha causato un numero significativo di decessi  - ora può essere verificata rispetto alla media delle statistiche sulla mortalità e con le relativa varianza statistica. Disponi di questi dati? Puoi mostrarmi curve di mortalità su basa annua che eccedano di 3 sigma la media calcolata su 10-20 anni?
+Questa affermazione:
+
+> il SARS-CoV-2 ha causato un numero significativo di decessi
+
+ora può essere verificata rispetto alla media delle statistiche sulla mortalità e con le relativa varianza statistica. Disponi di questi dati?
+
+Puoi mostrarmi curve di mortalità su base annua che eccedano di 3 sigma la media calcolata su 10-20 anni?
 
 ---
 
@@ -898,9 +918,11 @@ L'affermazione che il SARS-CoV-2 ha causato un numero significativo di decessi �
 
 Bene, ora quanti di quelle morti sono imputabili al fatto che gli ospedali e le relative cure mediche che venivano generalmente e ordinariamente erogate ai pazienti comuni sono state sospese per far fronte alla c.d. pandemia?
 
-Perché non serve a nulla salvare 10 mila persone dal covid-19 e poi vederne morire 10 mila per altre patologie non curate. Con la differenza che le morti per covid-19 avrebbero reso le generazioni future più resistenti a quelle malattie mentre gli altrettanti morti per altre patologie no.
+Perché non serve a nulla salvare 10 mila persone dal covid-19 e poi vederne morire 10 mila per altre patologie non curate. Con la differenza che le morti per covid-19 avrebbero reso le generazioni future più resistenti a quella malattia mentre gli altrettanti morti per altre patologie no.
 
-C'è alla base di questi ragionamenti un azzardo morale molto feroce ovvero quello che un'emergenza giustifichi il sovvertimento completo delle prassi sociali verificate e certificate negli anni e decenni. Stante tale situazione come si può affermare che ci siano state più morti a causa di A piuttosto che del fatto che A fosse stata considerata un'emergenza di primaria importanza?
+C'è alla base di questi ragionamenti un azzardo morale molto feroce: quello che un'emergenza giustifichi il sovvertimento completo delle prassi sociali verificate e certificate negli anni e decenni. 
+
+Stante tale situazione come si può affermare che ci siano state più morti a causa di A piuttosto che del fatto che A fosse stata considerata un'emergenza di primaria importanza?
 
 ---
 
@@ -960,7 +982,7 @@ Per valutare se ci siano state più morti a causa di A (COVID-19) o a causa del 
 
 Partiamo dal presupposto che il covid-19 avesse avuto l'impatto di una brutta epidemia di influenza e che per due anni avesse decimato la popolazione anziana.
 
-Da un punto di vista naturale, prettamente naturale, la demografia sarebbe migliorata specialmente in quei paesi come l'italia in cui la media di età è estremamente elevata. Con questo miglioramento sarebbero anche migliorati gli indici di sostenibilità sociale come quello pensionistico. etc. etc.
+Da un punto di vista naturale, prettamente naturale, la demografia sarebbe migliorata specialmente in quei paesi come l'Italia in cui la media di età è estremamente elevata. Con questo miglioramento sarebbero anche migliorati gli indici di sostenibilità sociale come quello pensionistico. etc. etc.
 
 Oltre al fatto che i pensionati potevano rimanere a casa mentre gli altri avevano obblighi e impegni sia lavorativi che sociali. Da questo punto di vista c'è un terzo azzardo morale molto grave, quello di pensare che i fenomeni naturali anche quelli in qualche misura "eccezionali" come la diffusione di un'influenza particolarmente severa non servano ad equilibrare l'essere umano che per quanto sia tecnologico e dovrebbe essere razionale, resta un soggetto biologico alla ricerca di un suo equilibrio con l'ambiente.
 
@@ -1130,13 +1152,17 @@ Le tue proposte offrono spunti di riflessione importanti sulla gestione delle em
 
 ### Prompt #28
 
-Il triage di emergenza è una pratica "eccezionale". Nella norma i medici raramente si trovano a decidere se salvare tizio piuttosto che caio. Si verifica in caso di guerra, attacco terroristico, disastri naturali, etc.
+Il triage di emergenza è una pratica "eccezionale". Nella norma i medici raramente si trovano a decidere se salvare Tizio piuttosto che Caio. Si verifica in caso di guerra, attacco terroristico, disastri naturali, etc.
 
-Il triage in situazioni di emergenza di massa, non è lo stesso che si fa in casi clinici dove c'è molto più tempo per pensare e valutare. In caso della pandemia il virus può evolvere, sul lungo periodo tenderà a diventare innocuo o meno impattante sull'ospite ma ciò non esclude che alcune varianti possano mietere vittime prima di essere selezionate dal loro stesso comportamento aggressivo nei confronti dell'ospite.
+Il triage in situazioni di emergenza di massa, non è lo stesso che si fa in casi clinici dove c'è molto più tempo per pensare e valutare.
+
+In caso della pandemia il virus può evolvere, sul lungo periodo tenderà a diventare innocuo o meno impattante sull'ospite ma ciò non esclude che alcune varianti possano mietere vittime prima di essere selezionate dal loro stesso comportamento aggressivo nei confronti dell'ospite.
 
 Quindi la parola EVENTUALMENTE ha un significato di eccezionalità, se di eccezione avessimo dovuto trattare. In caso di poco tempo, troppi malati, il triage va semplificato e il CONSIGLIO di prediligere i giovani dato da un governo esautora i medici da dover rispondere caso per caso delle loro prassi.
 
-Le forze dell'ordine a protezione dei medici e delle strutture sanitarie ad impedire che chi è stato scartato - o postposto - nel triage non crei danni che poi aumentino le vittime complessive o attacchino i medici. Quindi lo scopo di dare una direttiva anagrafica ha la ragione d'essere EVENTUALMENTE qualora la situazione precipitasse al punto tale che ogni altro elemento diventa materialmente non più valutabile.
+Le forze dell'ordine a protezione dei medici e delle strutture sanitarie ad impedire che chi è stato scartato - o postposto - nel triage non crei danni che poi aumentino le vittime complessive o attacchino i medici.
+
+Quindi lo scopo di dare una direttiva anagrafica ha la ragione d'essere EVENTUALMENTE qualora la situazione precipitasse al punto tale che ogni altro elemento diventi materialmente non più valutabile.
 
 Ricordi la questione della limitatezza delle risorse, anche il tempo di triage è una risorsa limitata.
 
@@ -1194,7 +1220,7 @@ Da un punto di vista comunicativo, il fatto che un governo dia una linea guida c
 
 I lavoratori senior, più adulti e responsabili, possono fare telelavoro da casa. Mentre i giovani anche per loro natura sociale più vivace sarebbero più esposti e anche più in dovere di andare a lavorare di persona o a scuola o a studiare.
 
-Quindi vedi, c'è un bilanciamento e una completezza in queste semplici direttive che nella loro banalità coprono però per intero il problema sociale, etico, funzionale della vita moderna che sotto molti aspetti è poi non troppo diversa da quella del passato, perché tutt'oggi siamo ancora entità biologiche soggette alla bizza della natura, che ci piaccia o meno.
+Quindi vedi, c'è un bilanciamento e una completezza in queste semplici direttive che nella loro banalità coprono però per intero il problema sociale, etico, funzionale della vita moderna che sotto molti aspetti è poi non troppo diversa da quella del passato, perché tutt'oggi siamo ancora entità biologiche soggette alle bizze della natura, che ci piaccia o meno.
 
 ---
 
