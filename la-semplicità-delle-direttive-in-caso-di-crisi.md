@@ -1,6 +1,10 @@
+<div id="firstdiv" created=":IT" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
+
 ## La semplicità delle direttive in caso di crisi
 
 La semplicità delle direttive in caso di crisi ad alto tenore di emergenza.
+
+* Link alla [pagina HTML](https://robang74.github.io/chatgpt-answered-prompts/html/la-semplicit%C3%A0-delle-direttive-in-caso-di-crisi.html) per una più agevole consultazione.
 
 ### PREMESSA
 
@@ -1397,3 +1401,5 @@ Ormai in conclsione dell'anno domini 2024, tempo di fare dei bilanci. Sicchè va
 - In tutto questo marasma globale di "opportunità", come alcuni le intendonono, l'Italia è riuscita a dotarsi di canili in Albania al modico costo di 1.5x volte (stima) del denaro speso dai Francesi (80% delle donazioni ricevute) per restaurare Notre Dame de Paris dopo l'incendio del tetto risalente al 2019. In pratica, solo l'Ucraina è riuscita a fare peggio di noi. [TODO: link all'articolo]. Siamo cosìi "scarsi" che manco il primo posto nella classifica dei peggiori siamo riusciti a raggiugere.
 
 Auguri per il 2025, è già stato detto? Baci, R-
+
+</div>
