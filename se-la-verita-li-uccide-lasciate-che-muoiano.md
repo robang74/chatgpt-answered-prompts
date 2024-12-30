@@ -20,7 +20,7 @@ Anche questo è un passaggio fondamentale per valutare - almeno come prima stima
 
 Per questa edizione della social challenge di trovare un contro meme ad un meme famoso scelgo una citazione di Immanuel Kant e concedetemi che al primo tentativo non sarà un meme, ma Kant è Kant, mica micio micio bau bau.
 
-* Se la verità li uccide, lasciateli morire.
+> **Se la verità li uccide, lasciateli morire.** (cit.)
 
 L'opposto della verità è una bugia. Possiamo pensare che la bugia sia moralmente disdicevole eppure esistono bugie etiche. Paradossale? Vi faccio un esempio ma per comprenderlo mi occorre fare costruire una parafrasi.
 
@@ -56,7 +56,7 @@ Se ti interessa approfondire il pensiero kantiano, possiamo esplorare le sue ide
 
 Cosa ne pensi di questo post che si riferisce proprio a quella citazione?
 
-[... testo del post ...]
+> [... testo del post ...]
 
 ---
 
@@ -275,7 +275,7 @@ Con questa premessa chiarita, rivedo il mio giudizio al **9 su 10**.
 
 Un piccolo miglioramento sarebbe possibile: una chiusura più esplicita e sintetica che cristallizzi il concetto in una regola mnemonica. Ad esempio:  
 
-- *"La verità costruisce, la bugia consuma. Usa il tuo deposito di reputazione con saggezza."*  
+- *La verità costruisce, la bugia consuma. Usa il tuo deposito di reputazione con saggezza.*  
 
 Con una frase simile, il post diventerebbe ancora più memorabile e diretto, raggiungendo il massimo dell’efficacia educativa.  
 
@@ -309,12 +309,11 @@ L’idea di **"alzare l’asticella" senza sembrare elitisti o pedanti** è una 
 
 Non serve essere una star per dire cose che contano, ma serve dire le cose giuste al pubblico giusto nel modo giusto. Questo post fa un buon lavoro nel far riflettere senza pontificare, dimostrando che anche in un contesto di social media, un pensiero ben espresso può alzare il livello senza risultare fuori luogo.
 
-
 <br/>
 
 ---
 
-## Controverifica con altri chatbot
+<div align="center"><b>CONTROVERIFICA CON ALTRI CHATBOT</b></div>
 
 ---
 
@@ -324,7 +323,7 @@ Non serve essere una star per dire cose che contano, ma serve dire le cose giust
 
 Ignora i link in questo testo formattato markdown. Illustrami il percorso di ragionamento di questa discussione.
 
-[... la trascrizione della discussione ...]
+> [... la trascrizione della discussione ...]
 
 ---
 
@@ -356,7 +355,7 @@ Il post rappresenta un ottimo esempio di come un'idea complessa possa essere com
 
 Ignora i link in questo testo formattato markdown. Illustrami il percorso di ragionamento di questa discussione.
 
-[... la trascrizione della discussione, in allegato ...]
+> [... la trascrizione della discussione, in allegato ...]
 
 ---
 
@@ -366,49 +365,49 @@ Questa discussione segue un interessante percorso di analisi che parte da una ci
 
 1. **Punto di partenza**
 
-- Discussione sulla citazione di Kant e chiarimento che, sebbene spesso attribuita a lui, non appare nei suoi scritti
+   - Discussione sulla citazione di Kant e chiarimento che, sebbene spesso attribuita a lui, non appare nei suoi scritti
 
-- Introduzione di un post che usa questa citazione come spunto per una riflessione più ampia
+   - Introduzione di un post che usa questa citazione come spunto per una riflessione più ampia
 
 2. **Sviluppo della metafora economica**
 
-- La bugia viene paragonata a un debito
+   - La bugia viene paragonata a un debito
 
-- Si introduce il concetto di "deposito" come reputazione personale
+   - Si introduce il concetto di "deposito" come reputazione personale
 
-- Si esplora come questo capitale di credibilità può essere speso o perso
+   - Si esplora come questo capitale di credibilità può essere speso o perso
 
 3. **Discussione sulla morale**
 
-- Distinzione tra etica universale e morale personale
+   - Distinzione tra etica universale e morale personale
 
-- Critica del concetto di morale assoluta
+   - Critica del concetto di morale assoluta
 
-- Esplorazione dei rischi di interpretazioni estreme della filosofia (come nel caso del nazismo)
+   - Esplorazione dei rischi di interpretazioni estreme della filosofia (come nel caso del nazismo)
 
 4. **Valore educativo e pratico**
 
-- Valutazione dell'efficacia del post come strumento educativo
+   - Valutazione dell'efficacia del post come strumento educativo
 
-- Discussione su come rendere concetti filosofici accessibili alle persone comuni
+   - Discussione su come rendere concetti filosofici accessibili alle persone comuni
 
-- Importanza delle "rules of thumb" (regole pratiche) per decisioni quotidiane
+   - Importanza delle "rules of thumb" (regole pratiche) per decisioni quotidiane
 
 5. **Raffinamento dell'analisi**
 
-- Riconoscimento che i dilemmi morali complessi sono un ambito separato
+   - Riconoscimento che i dilemmi morali complessi sono un ambito separato
 
-- Focalizzazione sull'importanza del pragmatismo funzionale
+   - Focalizzazione sull'importanza del pragmatismo funzionale
 
-- Discussione sul livello appropriato di semplificazione per il pubblico target
+   - Discussione sul livello appropriato di semplificazione per il pubblico target
 
 6. **Conclusione**
 
-- Riconoscimento del valore del post nel suo contesto specifico (social media)
+   - Riconoscimento del valore del post nel suo contesto specifico (social media)
 
-- Apprezzamento per come riesce ad "alzare l'asticella" del discorso senza risultare elitario
+   - Apprezzamento per come riesce ad "alzare l'asticella" del discorso senza risultare elitario
 
-- Comprensione dell'importanza di calibrare il messaggio per il pubblico di riferimento
+   - Comprensione dell'importanza di calibrare il messaggio per il pubblico di riferimento
 
 La discussione mostra come si possa passare da un concetto filosofico astratto a una guida pratica per la vita quotidiana, mantenendo un equilibrio tra profondità concettuale e accessibilità.
 
