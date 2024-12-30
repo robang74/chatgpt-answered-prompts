@@ -36,7 +36,7 @@ Queste questioni sono qui presentate a prescindere dal testo originale del post,
 
 * alla risposta [#29](#gemini-29) il chatbot accetta l'evidenza e apparentemente si arrende ad essa;
 
-* infine [ricapitolando](#ricapitolando), la sezione finale che da sola meriterebbe un articolo a se stante.
+* infine [ricapitolando](#ricapitolando), la sezione di chiusura che da sola meriterebbe un articolo a se stante.
 
 Poi interrogato di nuovo per rivedere la stima dell'azzardo morale - prosecuzione qui non riportata - improvvisamente si ricorda che parlare dei politici non è cosa da fare e ritorna al vaniloquio e alle prosaiche parole che in sintesi si riconducono al sempre verde motto "lo facciamo per il vostro bene".
 
