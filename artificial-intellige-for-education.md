@@ -784,8 +784,8 @@ Which is not such a strange proposal considering that Tesla humanoid robots are 
 
 <br/>
 
-## Copyright
+## Share alike
 
-&copy; 2024, Roberto A. Foglietta &lt;&nbsp;roberto.foglietta&nbsp;&#64;&nbsp;gmail.com&nbsp;&gt;, CC BY-SA 4.0
+&copy; 2024, **Roberto A. Foglietta** &lt;roberto.foglietta<span>@</span>gmail.com&gt;, [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 </div>
