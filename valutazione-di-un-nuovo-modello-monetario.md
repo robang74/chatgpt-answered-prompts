@@ -10,9 +10,9 @@ In questa conversazione viene valutato un nuovo modello monetario globale
 
 - quindi valori materialmente concreti
 
-- e da una riserva di [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin) [1] come serbatoio di compensazione delle fluttuazioni
+- e da una riserva di [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin?target=_blank) [1] come serbatoio di compensazione delle fluttuazioni
 
-Gli scambi [2] fra i vari panieri e il mercato delle materie prime sarebbe gestito mediante la piattaforma [Ethereum](https://en.wikipedia.org/wiki/Ethereum) la quale piattaforma include anche gli smart-contracts che sono degli automatismi molto utili per gestire anche opzioni e futures. 
+Gli scambi [2] fra i vari panieri e il mercato delle materie prime sarebbe gestito mediante la piattaforma [Ethereum](https://en.wikipedia.org/wiki/Ethereum?target=_blank) la quale piattaforma include anche gli smart-contracts che sono degli automatismi molto utili per gestire anche opzioni e futures. 
 
 - [1] la prima criptovaluta e anche quella che ha un limite massimo di emissione e il cui mining è valore-energia correlato.
 
@@ -26,15 +26,15 @@ In this case, it is not a single prompt but a dialog: a series of answered quest
 
 ### UPLOAD
 
-* [261-La_guerra_del_dollaro_contro_l_euro.txt](data/261-La_guerra_del_dollaro_contro_l_euro.txt) or for an easy in reading in [html](https://robang74.github.io/roberto-a-foglietta/html/261-la-guerra-del-dollaro-contro-l-euro.html) page
+* [261-La_guerra_del_dollaro_contro_l_euro.txt](data/261-La_guerra_del_dollaro_contro_l_euro.txt?target=_blank) or for an easy in reading in [html](https://robang74.github.io/roberto-a-foglietta/html/261-la-guerra-del-dollaro-contro-l-euro.html?target=_blank) page
 
-* [265-The_BRICS_financial_system_hope_or_WW3-rev2.txt](data/265-The_BRICS_financial_system_hope_or_WW3-rev2.txt) or for an easy in reading in [html](https://robang74.github.io/roberto-a-foglietta/html/265-the-brics-financial-system-hope-or-ww3.html) page
+* [265-The_BRICS_financial_system_hope_or_WW3-rev2.txt](data/265-The_BRICS_financial_system_hope_or_WW3-rev2.txt?target=_blank) or for an easy in reading in [html](https://robang74.github.io/roberto-a-foglietta/html/265-the-brics-financial-system-hope-or-ww3.html?target=_blank) page
 
-* [278-The_paper_money_is_financial_communism.txt](data/278-The_paper_money_is_financial_communism.txt) or for an easy in reading in [html](https://robang74.github.io/roberto-a-foglietta/html/278-the-paper-money-is-financial-communism.html) page
+* [278-The_paper_money_is_financial_communism.txt](data/278-The_paper_money_is_financial_communism.txt?target=_blank) or for an easy in reading in [html](https://robang74.github.io/roberto-a-foglietta/html/278-the-paper-money-is-financial-communism.html?target=_blank) page
 
-* [quantitative-easing-drug-addiction-01.md](quantitative-easing-drug-addiction-01.md ) or for an easy in reading in [html](https://robang74.github.io/chatgpt-answered-prompts/quantitative-easing-drug-addiction-01.html) page
+* [quantitative-easing-drug-addiction-01.md](quantitative-easing-drug-addiction-01.md?target=_blank) or for an easy in reading in [html](https://robang74.github.io/chatgpt-answered-prompts/html/quantitative-easing-drug-addiction-01.html?target=_blank) page
 
-* [euro-lira-la-natura-della-moneta.txt](data/euro-lira-la-natura-della-moneta.txt)
+* [euro-lira-la-natura-della-moneta.txt](data/euro-lira-la-natura-della-moneta.txt?target=_blank)
 
 ### CUSTOMISATION
 
@@ -218,6 +218,6 @@ Gli eventuali miglioramenti proposti da specialisti potrebbero affinare ulterior
 
 ## Copyright
 
-&copy; 2024, **Roberto A. Foglietta** &lt;roberto.foglietta<span>@</span>gmail.com&gt;, [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+&copy; 2024, **Roberto A. Foglietta** &lt;roberto.foglietta<span>@</span>gmail.com&gt;, [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/?target=_blank)
 
 </div>

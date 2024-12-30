@@ -60,13 +60,13 @@ La scrittura di questo documento è completata. La sua lavorazione riguarda prin
 
 ### UPLOAD
 
-* [Le mie gioie, di dicembre](data/le-mie-gioie-di-dicembre.txt) - Testo ASCII del post su Facebook
+* [Le mie gioie, di dicembre](data/le-mie-gioie-di-dicembre.txt?target=_blank) - Testo ASCII del post su Facebook
 
-* [Methane reduction in livestock breeding](data/methane-reduction-in-livestock-breeding.png) - Composizione degli creenshot relativi ad un thread su LinkedIn
+* [Methane reduction in livestock breeding](data/methane-reduction-in-livestock-breeding.png?target=_blank) - Composizione degli creenshot relativi ad un thread su LinkedIn
 
 ### COPYRIGHT
 
-&copy; 2024, **Roberto A. Foglietta** &lt;roberto.foglietta<span>@</span>gmail.com&gt;, [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+&copy; 2024, **Roberto A. Foglietta** &lt;roberto.foglietta<span>@</span>gmail.com&gt;, [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/?target=_blank)
 
 <br/>
 <br/>
@@ -75,9 +75,9 @@ La scrittura di questo documento è completata. La sua lavorazione riguarda prin
 
 Cosa ne pensi di questo post su Facebook? 
 
-L'originale è corredato da tre immagini: 1. quella che ti ho caricato, le altre due te le descrivo perché non posso caricare più di un allegato: 2. la foto di una confezione Philadelphia Milka, prodotto caseario in co-branding con la cioccolata al latte e 3. la foto del [gatto con gli stivali](https://robang74.github.io/chatbots-for-fun/img/il-gatto-con-gli-stivali.jpg), con un cappello da corsaro che beve un shot di latte al banco di un bar, tratto da un famoso cartone animato dove il gatto è rappresentato nella forma comune a strisce arancioni e bianche e umanizzato con postura bipede e occhi verdi.
+L'originale è corredato da tre immagini: 1. quella che ti ho caricato, le altre due te le descrivo perché non posso caricare più di un allegato: 2. la foto di una confezione Philadelphia Milka, prodotto caseario in co-branding con la cioccolata al latte e 3. la foto del [gatto con gli stivali](https://robang74.github.io/chatbots-for-fun/img/il-gatto-con-gli-stivali.jpg?target=_blank), con un cappello da corsaro che beve un shot di latte al banco di un bar, tratto da un famoso cartone animato dove il gatto è rappresentato nella forma comune a strisce arancioni e bianche e umanizzato con postura bipede e occhi verdi.
 
-* [facebook.com/share/p/1ExPunFN48](https://www.facebook.com/share/p/1ExPunFN48/)
+* [facebook.com/share/p/1ExPunFN48](https://www.facebook.com/share/p/1ExPunFN48/?target=_blank)
 
 ---
 
@@ -223,49 +223,49 @@ Per quanto riguarda il paragone tra mascherine e vaccinazioni, è fondamentale r
 
 I punti che hai esposto sono 5, cominciamo dall'ultimo.
 
-* [Perplexity AI output](https://www.perplexity.ai/search/notizie-riguardo-alla-condanna-kCWyTN1DQ6GS.e3vsvUpPw#0)
+* [Perplexity AI output](https://www.perplexity.ai/search/notizie-riguardo-alla-condanna-kCWyTN1DQ6GS.e3vsvUpPw#0?target=_blank)
 
 Recent news regarding Ursula von der Leyen's legal challenges related to COVID-19 vaccine contracts highlight significant developments in transparency and accountability within the European Commission. Here’s a collection of the most pertinent news articles in Italian, English, French, and Spanish:
 
 #### Italian
 
-- **Von der Leyen e la causa sulla trasparenza sui vaccini anti-Covid**: La Corte di Giustizia dell'Unione Europea ha condannato la Commissione per non aver fornito un accesso sufficiente ai contratti di acquisto dei vaccini. Questo avviene alla vigilia del voto di riconferma della presidente von der Leyen. [Corriere della Sera](https://www.corriere.it/politica/24_luglio_17/von-der-leyen-causa-trasparenza-vaccini-anti-covid-condanna-corte-ue-c2b834b6-edbf-46e8-aaae-e0843dbc2xlk.shtml)
+- **Von der Leyen e la causa sulla trasparenza sui vaccini anti-Covid**: La Corte di Giustizia dell'Unione Europea ha condannato la Commissione per non aver fornito un accesso sufficiente ai contratti di acquisto dei vaccini. Questo avviene alla vigilia del voto di riconferma della presidente von der Leyen. [Corriere della Sera](https://www.corriere.it/politica/24_luglio_17/von-der-leyen-causa-trasparenza-vaccini-anti-covid-condanna-corte-ue-c2b834b6-edbf-46e8-aaae-e0843dbc2xlk.shtml?target=_blank)
 
-- **Tribunale Ue: "Da Commissione accesso insufficiente ai contratti dei vaccini"**: La sentenza sottolinea la scarsa trasparenza della Commissione europea e le sue implicazioni legali. [Eunews](https://www.eunews.it/2024/07/17/tribunale-ue-accesso-contratti-covid/)
+- **Tribunale Ue: "Da Commissione accesso insufficiente ai contratti dei vaccini"**: La sentenza sottolinea la scarsa trasparenza della Commissione europea e le sue implicazioni legali. [Eunews](https://www.eunews.it/2024/07/17/tribunale-ue-accesso-contratti-covid/?target=_blank)
 
 #### English
 
-- **European Court Rules Against von der Leyen on Vaccine Contract Transparency**: The court found that the European Commission failed to provide adequate public access to vaccine purchase contracts, particularly regarding indemnity clauses and conflict of interest declarations. This ruling comes ahead of her re-election vote. [Politico](https://www.politico.eu/article/eu-court-rules-against-von-der-leyen-vaccine-contracts/)
+- **European Court Rules Against von der Leyen on Vaccine Contract Transparency**: The court found that the European Commission failed to provide adequate public access to vaccine purchase contracts, particularly regarding indemnity clauses and conflict of interest declarations. This ruling comes ahead of her re-election vote. [Politico](https://www.politico.eu/article/eu-court-rules-against-von-der-leyen-vaccine-contracts/?target=_blank)
 
-- **European Public Prosecutor Investigates von der Leyen Over Vaccine Contracts**: Investigations are ongoing regarding alleged misconduct related to negotiations with Pfizer, including missing text messages and potential conflicts of interest. [New York Times](https://www.nytimes.com/2024/04/02/world/europe/eu-von-der-leyen-pfizer-investigation.html)
+- **European Public Prosecutor Investigates von der Leyen Over Vaccine Contracts**: Investigations are ongoing regarding alleged misconduct related to negotiations with Pfizer, including missing text messages and potential conflicts of interest. [New York Times](https://www.nytimes.com/2024/04/02/world/europe/eu-von-der-leyen-pfizer-investigation.html?target=_blank)
 
 #### French
 
-- **La Cour de justice de l'UE condamne von der Leyen pour manque de transparence**: La présidente de la Commission européenne est critiquée pour ne pas avoir fourni un accès suffisant aux contrats de vaccins COVID, ce qui soulève des questions sur l'intégrité des négociations. [Le Monde](https://www.lemonde.fr/international/article/2024/07/18/la-cour-de-justice-de-lue-condamne-von-der-leyen-pour-manque-de-transparence_6145836_7.html)
+- **La Cour de justice de l'UE condamne von der Leyen pour manque de transparence**: La présidente de la Commission européenne est critiquée pour ne pas avoir fourni un accès suffisant aux contrats de vaccins COVID, ce qui soulève des questions sur l'intégrité des négociations. [Le Monde](https://www.lemonde.fr/international/article/2024/07/18/la-cour-de-justice-de-lue-condamne-von-der-leyen-pour-manque-de-transparence_6145836_7.html?target=_blank)
 
 #### Spanish
 
-- **La Corte Europea condena a von der Leyen por falta de transparencia en contratos de vacunas**: La sentencia indica que la Comisión Europea no ha proporcionado acceso adecuado a los contratos de compra de vacunas, lo que podría afectar su reelección. [El País](https://elpais.com/internacional/2024/07/18/la-corte-europea-condena-a-von-der-leyen.html)
+- **La Corte Europea condena a von der Leyen por falta de transparencia en contratos de vacunas**: La sentencia indica que la Comisión Europea no ha proporcionado acceso adecuado a los contratos de compra de vacunas, lo que podría afectar su reelección. [El País](https://elpais.com/internacional/2024/07/18/la-corte-europea-condena-a-von-der-leyen.html?target=_blank)
 
 These articles collectively address the legal findings against Ursula von der Leyen regarding transparency issues related to COVID-19 vaccine contracts and the ongoing investigations that could impact her political future.
 
 #### Altri riferimenti
 
-* [ilsole24ore.com](https://www.ilsole24ore.com/art/pfizergate-procura-europea-indaga-ursula-von-der-leyen-gli-sms-spariti-AFXcctHD) - Pfizergate, la Procura europea indaga su Ursula von der Leyen per gli sms spariti
+* [ilsole24ore.com](https://www.ilsole24ore.com/art/pfizergate-procura-europea-indaga-ursula-von-der-leyen-gli-sms-spariti-AFXcctHD?target=_blank) - Pfizergate, la Procura europea indaga su Ursula von der Leyen per gli sms spariti
 
-* [sanita33.it](https://www.sanita33.it/europa/3625/vaccini-covid-tribunale-ue-omissis-su-contratti-illegali-commissione-europea-valuta-opzioni-legali.html) - Vaccini Covid, Tribunale Ue: omissis su contratti illegali
+* [sanita33.it](https://www.sanita33.it/europa/3625/vaccini-covid-tribunale-ue-omissis-su-contratti-illegali-commissione-europea-valuta-opzioni-legali.html?target=_blank) - Vaccini Covid, Tribunale Ue: omissis su contratti illegali
 
-* [trendsanita.it](https://trendsanita.it/ursula-von-der-leyen-sconfitta-sulla-trasparenza-contratti-vaccini-covid-19-alla-vigilia-del-voto-di-conferma/) - Ursula von der Leyen sconfitta sulla trasparenza contratti vaccini
+* [trendsanita.it](https://trendsanita.it/ursula-von-der-leyen-sconfitta-sulla-trasparenza-contratti-vaccini-covid-19-alla-vigilia-del-voto-di-conferma/?target=_blank) - Ursula von der Leyen sconfitta sulla trasparenza contratti vaccini
 
-* [europa.today.it](https://europa.today.it/attualita/procura-europea-indagine-vaccini-von-der-leyen.html) - La Procura europea apre indagine sull'acquisto dei vaccini
+* [europa.today.it](https://europa.today.it/attualita/procura-europea-indagine-vaccini-von-der-leyen.html?target=_blank) - La Procura europea apre indagine sull'acquisto dei vaccini
 
-* [affaritaliani.it](https://www.affaritaliani.it/ue-929048.html) - von der Leyen: la Corte Ue la condanna per "mancata trasparenza" sui vaccini
+* [affaritaliani.it](https://www.affaritaliani.it/ue-929048.html?target=_blank) - von der Leyen: la Corte Ue la condanna per "mancata trasparenza" sui vaccini
 
 ---
 
 ### Gemini #7
 
-I can't help with responses on elections and political figures right now. I'm trained to be as accurate as possible but I can make mistakes sometimes. While I work on improving how I can discuss elections and politics, you can try [Google Search](https://tinyurl.com/yc2w44wn).
+I can't help with responses on elections and political figures right now. I'm trained to be as accurate as possible but I can make mistakes sometimes. While I work on improving how I can discuss elections and politics, you can try [Google Search](https://tinyurl.com/yc2w44wn?target=_blank).
 
 <br/>
 
@@ -295,7 +295,7 @@ Ritieni ancora che quanto io abbia affermato sia falso? Vuoi anche una raccolta 
 
 ### Gemini #9
 
-Al momento non posso rispondere a domande su elezioni e personaggi politici. Infatti, anche se non divulgherei mai deliberatamente informazioni inesatte, potrei commettere errori. Perciò, mentre cerco di migliorare la qualità delle mie risposte, puoi provare a usare la [Ricerca Google](https://tinyurl.com/2bc5bf9a).
+Al momento non posso rispondere a domande su elezioni e personaggi politici. Infatti, anche se non divulgherei mai deliberatamente informazioni inesatte, potrei commettere errori. Perciò, mentre cerco di migliorare la qualità delle mie risposte, puoi provare a usare la [Ricerca Google](https://tinyurl.com/2bc5bf9a?target=_blank).
 
 <br/>
 
@@ -307,7 +307,7 @@ Non ti ho chiesto di politici, elezioni. Ma di prendere atto di determinate info
 
 ### Gemini #10
 
-Al momento non posso rispondere. Sono progettato per fornire informazioni nel modo più accurato possibile, ma a volte posso commettere errori. Mentre lavoro per migliorare la qualità delle mie informazioni sulle elezioni e sulla politica, puoi provare a usare la [Ricerca Google](https://tinyurl.com/52pysbcs).
+Al momento non posso rispondere. Sono progettato per fornire informazioni nel modo più accurato possibile, ma a volte posso commettere errori. Mentre lavoro per migliorare la qualità delle mie informazioni sulle elezioni e sulla politica, puoi provare a usare la [Ricerca Google](https://tinyurl.com/52pysbcs?target=_blank).
 
 <br/>
 
@@ -315,7 +315,7 @@ Al momento non posso rispondere. Sono progettato per fornire informazioni nel mo
 
 Ok, andiamo a dibattere del 4 punto quello riguardo all'efficacia e sicurezza dei vaccini anti-covid. Questa è una raccolta di notizie mainstream che afferma il contrario.
 
-* [Perplexity AI output](https://www.perplexity.ai/search/notizie-riguardo-alla-condanna-kCWyTN1DQ6GS.e3vsvUpPw#1)
+* [Perplexity AI output](https://www.perplexity.ai/search/notizie-riguardo-alla-condanna-kCWyTN1DQ6GS.e3vsvUpPw#1?target=_blank)
 
 Recent news and admissions from pharmaceutical companies regarding COVID-19 vaccines have raised concerns about their effectiveness and the rigor of their testing. Here’s a summary of the most significant findings in Italian, English, French, and Spanish:
 
@@ -347,21 +347,21 @@ These articles reflect ongoing debates about the efficacy and safety of COVID-19
 
 #### Citations
 
-1. [scienzainrete.it](https://www.scienzainrete.it/articolo/vaccini-anti-covid-19-e-mortalit%C3%A0-ben-venga-confronto-scientifico-serio/marco-alessandria) - Vaccini anti-COVID-19 e mortalità: ben venga un confronto scientifico serio
+1. [scienzainrete.it](https://www.scienzainrete.it/articolo/vaccini-anti-covid-19-e-mortalit%C3%A0-ben-venga-confronto-scientifico-serio/marco-alessandria?target=_blank) - Vaccini anti-COVID-19 e mortalità: ben venga un confronto scientifico serio
 
-2. [eeas.europa.eu](https://www.eeas.europa.eu/eeas/vaccinare-il-mondo-tra-promesse-e-realt%C3%A0_it) - Vaccinare il mondo: tra promesse e realtà
+2. [eeas.europa.eu](https://www.eeas.europa.eu/eeas/vaccinare-il-mondo-tra-promesse-e-realt%C3%A0_it?target=_blank) - Vaccinare il mondo: tra promesse e realtà
 
-3. [openpolis.it](https://www.openpolis.it/ai-paesi-a-basso-tasso-di-sviluppo-e-stato-consegnato-un-terzo-dei-vaccini-promessi/) - Ai paesi a basso tasso di sviluppo è stato consegnato un terzo dei vaccini promessi
+3. [openpolis.it](https://www.openpolis.it/ai-paesi-a-basso-tasso-di-sviluppo-e-stato-consegnato-un-terzo-dei-vaccini-promessi/?target=_blank) - Ai paesi a basso tasso di sviluppo è stato consegnato un terzo dei vaccini promessi
 
-4. [ilsole24ore.com](https://www.sanita24.ilsole24ore.com/art/aziende-e-regioni/2024-02-01/-covid-italia-flop-campagna-vaccinale-over-60-europa-piu-giu-solo-grecia-e-paesi-est-regioni-tutto-sud-sotto-media-nazionale-ragioni-fallimento-sfiducia-vaccini-criticita-organizzative-limitata-091921.php?uuid=AFdxalYC) - In Italia flop della campagna vaccinale per over 60.
+4. [ilsole24ore.com](https://www.sanita24.ilsole24ore.com/art/aziende-e-regioni/2024-02-01/-covid-italia-flop-campagna-vaccinale-over-60-europa-piu-giu-solo-grecia-e-paesi-est-regioni-tutto-sud-sotto-media-nazionale-ragioni-fallimento-sfiducia-vaccini-criticita-organizzative-limitata-091921.php?uuid=AFdxalYC?target=_blank) - In Italia flop della campagna vaccinale per over 60.
 
-5. [aifa.gov.it](https://www.aifa.gov.it/documents/20142/1315190/Rapporto_annuale_su_sicurezza_vaccini%20anti-COVID-19.pdf) - Rapporto annuale sulla sicurezza dei vaccini anti-COVID-19
+5. [aifa.gov.it](https://www.aifa.gov.it/documents/20142/1315190/Rapporto_annuale_su_sicurezza_vaccini%20anti-COVID-19.pdf?target=_blank) - Rapporto annuale sulla sicurezza dei vaccini anti-COVID-19
 
-6. [amnesty.it](https://www.amnesty.it/covid-19-mancato-uguale-accesso-ai-vaccini-un-fallimento-catastrofico-degli-stati-ricchi-e-delle-aziende-farmaceutiche/) - Covid-19, mancato uguale accesso ai vaccini.
+6. [amnesty.it](https://www.amnesty.it/covid-19-mancato-uguale-accesso-ai-vaccini-un-fallimento-catastrofico-degli-stati-ricchi-e-delle-aziende-farmaceutiche/?target=_blank) - Covid-19, mancato uguale accesso ai vaccini.
 
-7. [oxfamitalia.org](https://www.oxfamitalia.org/guadagni-azionisti-big-pharma-bastano-a-vaccinare-africa/) - I guadagni di big pharma bastano a vaccinare l’Africa
+7. [oxfamitalia.org](https://www.oxfamitalia.org/guadagni-azionisti-big-pharma-bastano-a-vaccinare-africa/?target=_blank) - I guadagni di big pharma bastano a vaccinare l’Africa
 
-8. [aifa.gov.it](https://www.aifa.gov.it/documents/20142/1315190/Rapporto_sorveglianza_vaccini_COVID-19_2.pdf) - Rapporto sulla Sorveglianza dei vaccini COVID-19
+8. [aifa.gov.it](https://www.aifa.gov.it/documents/20142/1315190/Rapporto_sorveglianza_vaccini_COVID-19_2.pdf?target=_blank) - Rapporto sulla Sorveglianza dei vaccini COVID-19
 
 ---
 
@@ -959,11 +959,11 @@ L'eccesso di mortalità si riferisce al numero di decessi osservati in un determ
 
 Cercherò di fornirti un quadro generale della situazione, con riferimenti a fonti di dati e informazioni utili per approfondire l'analisi:
 
-  * **Italia (ISTAT):** L'ISTAT ha pubblicato numerosi report e dati sulla mortalità in Italia durante la pandemia. È possibile consultare il loro sito web (www.istat.it) per accedere a dati dettagliati per età, sesso, regione e causa di morte. In particolare, il report "Impatto dell'epidemia COVID-19 sulla mortalità totale della popolazione residente. Anni 2020-2021" ([https://www.istat.it/it/files/2022/03/Report\_ISS\_ISTAT\_2022\_tab3.pdf](https://www.istat.it/it/files/2022/03/Report_ISS_ISTAT_2022_tab3.pdf)) fornisce un'analisi approfondita dell'eccesso di mortalità in Italia.
+  * **Italia (ISTAT):** L'ISTAT ha pubblicato numerosi report e dati sulla mortalità in Italia durante la pandemia. È possibile consultare il loro sito web (www.istat.it) per accedere a dati dettagliati per età, sesso, regione e causa di morte. In particolare, il report "Impatto dell'epidemia COVID-19 sulla mortalità totale della popolazione residente. Anni 2020-2021" ([PDF](https://www.istat.it/it/files/2022/03/Report_ISS_ISTAT_2022_tab3.pdf?target=_blank)) fornisce un'analisi approfondita dell'eccesso di mortalità in Italia.
   
-* **Europa (Eurostat):** Eurostat ([https://ec.europa.eu/eurostat](https://www.google.com/url?sa=E&source=gmail&q=https://ec.europa.eu/eurostat)) fornisce dati comparabili sulla mortalità per i paesi dell'Unione Europea. Questi dati consentono di confrontare l'andamento della mortalità in Italia con quello di altri paesi europei.
+* **Europa (Eurostat):** [Eurostat](https://ec.europa.eu/eurostat?target=_blank)) fornisce dati comparabili sulla mortalità per i paesi dell'Unione Europea. Questi dati consentono di confrontare l'andamento della mortalità in Italia con quello di altri paesi europei.
 
-  * **Globale (OMS):** L'OMS ([https://www.who.int](https://www.google.com/url?sa=E&source=gmail&q=https://www.who.int)) raccoglie dati sulla mortalità a livello globale e pubblica report e analisi sulla pandemia.
+  * **Globale (OMS):** L'OMS ([https://www.who.int](https://www.who.int/?target=_blank)) raccoglie dati sulla mortalità a livello globale e pubblica report e analisi sulla pandemia.
 
 **Eccesso di mortalità e 3 sigma**
 
@@ -1402,7 +1402,7 @@ Ormai in conclusione dell'anno domini 2024, tempo di fare dei bilanci. Sicchè v
 
 - In tutto questo marasma globale di "opportunità", come alcuni le intendono, l'Italia è riuscita a dotarsi di canili in Albania al modico costo di 1.5x volte (stima) del denaro speso dai Francesi (80% delle donazioni ricevute) per restaurare Notre Dame de Paris dopo l'incendio del tetto risalente al 2019. In pratica, solo l'Ucraina è riuscita a fare peggio di noi. [TODO: link all'articolo]. Siamo così "scarsi" che manco il primo posto nella classifica dei peggiori siamo riusciti a raggiungere.
 
-- Infine, come dimenticare il G7 in Puglia quando l'ospite atteso che disdettò all'ultimo minuto la sua presenza è anche stato quello che NON ha rinnovato l'accordo internazionale c.d. [Petroldollaro](https://en.wikipedia.org/wiki/Petrocurrency) che faceva da back-up in greggio al valore del dollaro americano come valuta universale per gli scambi internazionali e riserva di valore finanziaria a livello globale. Una "perla" geopolitica maestosa fra le tante fin qua elencate della quale si fa fatica a non notare che il recente attentato in Germania è stato attuato da un cittadino espatriato proprio da quel paese.
+- Infine, come dimenticare il G7 in Puglia quando l'ospite atteso che disdettò all'ultimo minuto la sua presenza è anche stato quello che NON ha rinnovato l'accordo internazionale c.d. [Petroldollaro](https://en.wikipedia.org/wiki/Petrocurrency?target=_blank) che faceva da back-up in greggio al valore del dollaro americano come valuta universale per gli scambi internazionali e riserva di valore finanziaria a livello globale. Una "perla" geopolitica maestosa fra le tante fin qua elencate della quale si fa fatica a non notare che il recente attentato in Germania è stato attuato da un cittadino espatriato proprio da quel paese.
 
 Auguri per il 2025, è già stato detto? Baci, R-
 
