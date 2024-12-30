@@ -172,7 +172,8 @@ function link_md2html() {
     local i="$1" f="$2" dir=""
     test "$f" == "index.html" && dir="html/"
     echo "$1" | grep -qe "^italian/" && dir="../italian/html/"
-    sed -e "s,\(href=[\"']\)$i\.md\([\"']\),\\1${dir}${i##*/}.html\\2,g" -i $f
+    local a="${dir}${i##*/}.html"
+    sed -e "s,\(href=[\"']\)$i\.md\([?#][^\"']*\)*\([\"']\),\\1$a\\2\\3,g" -i $f
 }
 
 zip=0
@@ -216,9 +217,9 @@ function main_md2html() {
             sed -e "s,\(href=.\)$i,\\1../$i,g" \
                 -e "s,\(src=.\)$i,\\1../$i,g" -i $j
         done
-        for i in *.md; do
-            sed -e "s,\(href=.\)$i\">$i,\\1${i%.md}.html\">${i%.md}.html,g" -i $j
-        done
+#       for i in *.md; do
+#           sed -e "s,\(href=.\)$i\">$i,\\1${i%.md}.html\">${i%.md}.html,g" -i $j
+#       done
     done
     printf "$b" #2
 
