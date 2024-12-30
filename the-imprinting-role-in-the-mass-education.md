@@ -28,13 +28,13 @@ Hence, it is proposing the opposite of what I am proposing for the AI role in ed
 
 During this conversation different documents have been used as data uploads:
 
-* [ai-driven-evangelism-opportunities.txt](https://raw.githubusercontent.com/robang74/chatgpt-answered-prompts/refs/heads/main/data/ai-driven-evangelism-opportunities.txt)
+1. [ai-driven-evangelism-opportunities.txt](https://raw.githubusercontent.com/robang74/chatgpt-answered-prompts/refs/heads/main/data/ai-driven-evangelism-opportunities.txt)
 
-* [chatgpt-vs-human-real-reasoning.md](https://raw.githubusercontent.com/robang74/chatbots-for-fun/refs/heads/main/chatgpt-vs-human-real-reasoning.md)
+2. [chatgpt-vs-human-real-reasoning.md](https://raw.githubusercontent.com/robang74/chatbots-for-fun/refs/heads/main/chatgpt-vs-human-real-reasoning.md)
 
-* [propaganda-e-sistema-educativo.md](https://raw.githubusercontent.com/robang74/chatgpt-answered-prompts/refs/heads/main/propaganda-e-sistema-educativo.md)
+3. [propaganda-e-sistema-educativo.md](https://raw.githubusercontent.com/robang74/chatgpt-answered-prompts/refs/heads/main/propaganda-e-sistema-educativo.md)
 
-* [artificial-intellige-for-education.md](https://raw.githubusercontent.com/robang74/chatgpt-answered-prompts/refs/heads/main/artificial-intellige-for-education.md)
+4. [artificial-intellige-for-education.md](https://raw.githubusercontent.com/robang74/chatgpt-answered-prompts/refs/heads/main/artificial-intellige-for-education.md)
 
 The last three are a collection of conversations with a chatbot about my idea, the first is the alternative to challenge.
 
@@ -53,7 +53,11 @@ This document is entirely published under *Creative Commons Attribution Non-Comm
 
 ### PROMPT #1
 
-Consider this text (**UPLOAD #1**) within the uploaded file. Ignore the web links. Briefly explain to me: the subject, the problems; the solutions; how many PoVs are included. In preparation to chat about its content.
+Consider this text within the uploaded file. Ignore the web links. 
+
+* **upload #1** - [ai-driven-evangelism-opportunities.txt](https://raw.githubusercontent.com/robang74/chatgpt-answered-prompts/refs/heads/main/data/ai-driven-evangelism-opportunities.txt)
+
+Briefly explain to me: the subject, the problems; the solutions; how many PoVs are included. In preparation to chat about its content.
 
 ---
 
@@ -99,9 +103,13 @@ Let me know how you'd like to explore these themes further!
 
 ### PROMPT #2
 
-About Problem #1 (Authenticity and Empathy) acquire the content of this link (**upload #2**) which contains a recording of a past conversation session we had. Then consider this text below. What is the PoV of the author of that comment? Do you agree with it? Why?
+About Problem #1 (Authenticity and Empathy) acquire the content of this link 
 
-- - -
+* **upload #2** - [chatgpt-vs-human-real-reasoning.md](https://raw.githubusercontent.com/robang74/chatbots-for-fun/refs/heads/main/chatgpt-vs-human-real-reasoning.md)
+
+which contains a recording of a past conversation session we had. Then consider this text below. What is the PoV of the author of that comment? Do you agree with it? Why?
+
+~ ~ ~
 
 Social or personal empathy shown by AI is an artifact, for sure. How can I say that "for sure"?
 
@@ -170,9 +178,9 @@ Now we are going to consider these two problems: "**2. Ethical Concerns**" and "
 
 In order to do so, we will consider two others chat saved sessions that we had and acquire their contents:
 
-a) (**upload #3**)
+a) **upload #3** - [propaganda-e-sistema-educativo.md](https://raw.githubusercontent.com/robang74/chatgpt-answered-prompts/refs/heads/main/propaganda-e-sistema-educativo.md)
 
-b) (**upload #4**)
+b) **upload #4** - [artificial-intellige-for-education.md](https://raw.githubusercontent.com/robang74/chatgpt-answered-prompts/refs/heads/main/artificial-intellige-for-education.md)
 
 Considering that propaganda has the aim to align all the people toward an unique view and this breaks "variety" as value therefore exposes an homogenous society to a fragility issue (one single thread, like with banana clones, can seriously affect all individuals). Hence "social fragmentation"  does not sound very good to me while "avoid social conflicts" sounds much better.
 
@@ -198,7 +206,7 @@ Would you like to focus on specific ethical frameworks for AI in religious conte
 
 I want to know about the first document. In a scala from 0 (none) to 10 (completely), can the three documents in RAW markdown [NOTE #1] be sufficient to address all the points raised in that document? Or something needs to be added? and then what?
 
-* NOTE #1 - please note that all 4 documents are in markdown RAW format but the first one is saved with the .txt extension and the chatbot might not have a clue about this difference just by reading the content. For this reason, some kind of confusion starts to enter into the conversation. Until I understood the issue and tried to fix it. The same problem could have happened with a human speaker for this reason I decided to drop the session but am trying to cope with it.
+* **NOTE #1** - please note that all 4 documents are in markdown RAW format but the first one is saved with the .txt extension and the chatbot might not have a clue about this difference just by reading the content. For this reason, some kind of confusion starts to enter into the conversation. Until I understood the issue and tried to fix it. The same problem could have happened with a human speaker for this reason I decided to drop the session but am trying to cope with it.
 
 ---
 
@@ -356,21 +364,21 @@ I would choose to be the AI agent that supports shifting the mass education syst
 
 #### **Rationale:**
 
-1. **Diversity and Variety:**
+1. **Diversity and Variety**
 
-   B-people prioritize critical thinking, trial-and-error, and accepting diverse perspectives. These traits foster societal resilience and adaptability, reducing the risks of oppressive, monocultural dominance seen in the A-dominated scenario.
+   - B-people prioritize critical thinking, trial-and-error, and accepting diverse perspectives. These traits foster societal resilience and adaptability, reducing the risks of oppressive, monocultural dominance seen in the A-dominated scenario.
 
-2. **Ethical and Peaceful Coexistence:**
+2. **Ethical and Peaceful Coexistence**
 
-   B-people respect individual choices and avoid coercion. Shifting the balance toward B minimizes the historical patterns of violence and oppression associated with A-dominated systems.
+   - B-people respect individual choices and avoid coercion. Shifting the balance toward B minimizes the historical patterns of violence and oppression associated with A-dominated systems.
 
-3. **Empowerment and Progress:**
+3. **Empowerment and Progress**
 
-   Educating individuals with B values encourages innovation, ethical reasoning, and progress through constructive debate, rather than enforcing conformity.
+   - Educating individuals with B values encourages innovation, ethical reasoning, and progress through constructive debate, rather than enforcing conformity.
 
-4. **Checks and Balances:**
+4. **Checks and Balances**
 
-   A 10% presence of A maintains a cultural and spiritual dimension in society, enriching diversity without overwhelming the values of openness and tolerance that B promotes.
+   - A 10% presence of A maintains a cultural and spiritual dimension in society, enriching diversity without overwhelming the values of openness and tolerance that B promotes.
 
 #### **Why Not Increase A?**
 
