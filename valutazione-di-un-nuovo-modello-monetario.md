@@ -4,47 +4,37 @@
 
 In questa conversazione viene valutato un nuovo modello monetario globale
 
-- ad accesso neutrale,
+- ad accesso neutrale
+
 - il cui valore della moneta è sostenuto da panieri di materie prime e metalli preziosi
+
 - quindi valori materialmente concreti
-- e da una riserva di [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin)¹ come serbatoio di compensazione delle fluttuazioni
 
-Gli scambi² fra i vari panieri e il mercato delle materie prime sarebbe gestito mediante la piattaforma [Ethereum](https://en.wikipedia.org/wiki/Ethereum) la quale piattaforma include anche gli smart-contracts che sono degli automatismi molto utili per gestire anche opzioni e futures. 
+- e da una riserva di [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin) [1] come serbatoio di compensazione delle fluttuazioni
 
-<sub>
+Gli scambi [2] fra i vari panieri e il mercato delle materie prime sarebbe gestito mediante la piattaforma [Ethereum](https://en.wikipedia.org/wiki/Ethereum) la quale piattaforma include anche gli smart-contracts che sono degli automatismi molto utili per gestire anche opzioni e futures. 
 
-<br/>
+- [1] la prima criptovaluta e anche quella che ha un limite massimo di emissione e il cui mining è valore-energia correlato.
 
-- 1 - la prima criptovaluta e anche quella che ha un limite massimo di emissione e il cui mining è valore-energia correlato.
-
-<br/>
-
-- 2 - saldo a fine contrattazioni o ad intervalli di tempo prefissati.
-
-<br/>
-
-</sub>
+- [2] saldo a fine contrattazioni o ad intervalli di tempo prefissati.
 
 Lo scopo di questo modello monetario è quello di evitare i conflitti bellici causati sia dall'indebita acquisizione delle risorse naturali sia dall'imposizione forzosa e unilaterale delle valute a corso legali senza collaterale associato.
 
-
 ### Q&A DIALOG
 
-In this case, it is not a single prompt but a dialog: a series of answered questions with aim described in the section above. Prompts and the related answers are separated by horizontal lines. Few missing words have been added in the prompt queries just to help the English native speakers to quickly grab the meaning but for sake of correctness those words appear between [squared] parentheses.
-
+In this case, it is not a single prompt but a dialog: a series of answered questions with aim described in the section above. Prompts and the related answers are separated by horizontal lines. Few missing words have been added in the Prompt queries just to help the English native speakers to quickly grab the meaning but for sake of correctness those words appear between [squared] parentheses.
 
 ### UPLOAD
 
-* [261-La_guerra_del_dollaro_contro_l_euro.txt](https://raw.githubusercontent.com/robang74/chatgpt-answered-prompts/refs/heads/main/data/261-La_guerra_del_dollaro_contro_l_euro.txt)
+* [261-La_guerra_del_dollaro_contro_l_euro.txt](data/261-La_guerra_del_dollaro_contro_l_euro.txt) or for an easy in reading in [html](../../roberto-a-foglietta/html/261-la-guerra-del-dollaro-contro-l-euro.html) page
 
-* [265-The_BRICS_financial_system_hope_or_WW3-rev2.txt](https://raw.githubusercontent.com/robang74/chatgpt-answered-prompts/refs/heads/main/data/265-The_BRICS_financial_system_hope_or_WW3-rev2.txt)
+* [265-The_BRICS_financial_system_hope_or_WW3-rev2.txt](data/265-The_BRICS_financial_system_hope_or_WW3-rev2.txt) or for an easy in reading in [html](../../roberto-a-foglietta/html/265-the-brics-financial-system-hope-or-ww3.html) page
 
-* [278-The_paper_money_is_financial_communism.txt](https://raw.githubusercontent.com/robang74/chatgpt-answered-prompts/refs/heads/main/data/278-The_paper_money_is_financial_communism.txt)
+* [278-The_paper_money_is_financial_communism.txt](data/278-The_paper_money_is_financial_communism.txt) or for an easy in reading in [html](../../roberto-a-foglietta/html/278-the-paper-money-is-financial-communism.html) page
 
-* [quantitative-easing-drug-addiction-01.md](https://raw.githubusercontent.com/robang74/chatgpt-answered-prompts/refs/heads/main/quantitative-easing-drug-addiction-01.md)
+* [quantitative-easing-drug-addiction-01.md](quantitative-easing-drug-addiction-01.md ) or for an easy in reading in [html](quantitative-easing-drug-addiction-01.html) page
 
-* [euro-lira-la-natura-della-moneta.txt](https://raw.githubusercontent.com/robang74/chatgpt-answered-prompts/refs/heads/main/data/euro-lira-la-natura-della-moneta.txt)
-
+* [euro-lira-la-natura-della-moneta.txt](data/euro-lira-la-natura-della-moneta.txt)
 
 ### CUSTOMISATION
 
@@ -52,13 +42,13 @@ none
 
 <br/>
 
-### PROMPT #1
+### Prompt #1
 
 Acquisisci il contenuto documenti. Dei PDF ignora le immagini ed acquisiscine il testo. Come risposta fammi una lista dei titoli dei documenti acquisiti. In maniera che possiamo dialogare sul loro contenuto.
 
 ---
 
-### CHATGPT #1
+### ChatGPT #1
 
 Ora disponiamo dei seguenti contenuti:
 
@@ -76,13 +66,13 @@ Puoi specificare un argomento o una sezione da approfondire, oppure desideri una
 
 <br/>
 
-### PROMPT #2
+### Prompt #2
 
 Partiamo dal n.5, ritieni ragionevole che la natura della moneta generi come conseguenza la strutturazione del sistema bancario, di quello finanziario e l'uso della guerra come sistema per imporre tale moneta ad altri paesi?
 
 ---
 
-### CHATGPT #2
+### ChatGPT #2
 
 L'idea che la natura della moneta influenzi il sistema bancario, il finanziario e l'uso della forza per imporla ad altri paesi è sostenibile, specie considerando alcuni fenomeni storici ed economici. 
 
@@ -96,13 +86,13 @@ In sintesi, la natura della moneta influenza fortemente la struttura del sistema
 
 <br/>
 
-### PROMPT #3
+### Prompt #3
 
 Ai punti 1, 2 e 3 di cui sopra dai un rate da 0 (assolutamente confutato) a 10 (assolutamente accertato) in base sia alle teorie economiche finanziarie attualmente in accettate e alle dinamiche che si possono desumere dalla storia moderna ed eventualmente di quella passata.
 
 ---
 
-### CHATGPT #3
+### ChatGPT #3
 
 Ecco la valutazione per i punti 1, 2 e 3:
 
@@ -120,13 +110,13 @@ Ecco la valutazione per i punti 1, 2 e 3:
    
 <br/>
 
-### PROMPT #4
+### Prompt #4
 
 Sempre riguardo al documento n.5, ritieni ragionevole alla luce dei fatti conosciuti l'influenza della confindustria riguardo al piano politico di far diventare l'Italia la Cina d'Europa e del suo fallimento come descritto?
 
 ---
 
-### CHATGPT #4
+### ChatGPT #4
    
 L'idea che Confindustria abbia influenzato il progetto politico per fare dell'Italia la "Cina d'Europa" è ragionevole, alla luce delle dinamiche politiche ed economiche degli anni '80-'90. Durante quel periodo, alcune industrie italiane cercavano di competere sui costi, sfruttando svalutazioni valutarie (lira). 
 
@@ -134,13 +124,13 @@ Tuttavia, l'ingresso nell'euro nel 2000, con cambi fissi e il rapido ingresso de
 
 <br/>
 
-### PROMPT #5
+### Prompt #5
 
 Ai due paragrafi della risposta che hai dato fornisci un rate da 0 a 10, con la stessa logica di prima.
 
 ---
 
-### CHATGPT #5
+### ChatGPT #5
 
 Ecco il rating per i due paragrafi:
 
@@ -154,13 +144,13 @@ Ecco il rating per i due paragrafi:
 
 <br/>
 
-### PROMPT #6
+### Prompt #6
 
 Riguardo al documento n.2, su una scala da 0 a 10, quanto ritieni che quel modello monetario/finanziario basato su riserve di collaterale garantite da diversi stati e bilanciate mediante scambio di bitcoin (una criptomoneta che per sua natura non può essere creata in volume infinito ma solo limitato) con l'uso della piattaforma a contratti smart basata su Ethereum come mercato finanziario (borsa) possa effettivamente creare i presupposti per evitare l'uso della guerra o altre forme di pressioni al fine di imporre una valuta a corso legale piuttosto che un'altra come standard nell'ambito delle transazioni internazionali e riserve di valore.
 
 ---
 
-### CHATGPT #6
+### ChatGPT #6
  
 Attribuire un punteggio preciso a un modello teorico richiede considerazioni su fattibilità tecnica, accettazione politica e sociale, oltre che su prove storiche. Tuttavia, possiamo analizzare i punti principali:
 
@@ -180,7 +170,7 @@ In sintesi, l'idea è promettente ma richiede sviluppi tecnologici e un consenso
 
 <br/>
 
-### PROMPT #7
+### Prompt #7
 
 Per esempio, la blockchain di Ethereum ha già le capacità di scalare alle performance necessarie e probabilmente l'eventuale evoluzione tecnologica riguarderebbe l'uso di una crittografia post-quantistica più che la scalabilità. 
 
@@ -194,7 +184,7 @@ Anche in questo caso, ignoriamo la naturale o culturale propensione alla violenz
 
 ---
 
-### CHATGPT #7
+### ChatGPT #7
 
 Valutando esclusivamente la teoria descritta e ignorando limiti tecnici o di volontà politica:
 
@@ -212,13 +202,13 @@ Valutando esclusivamente la teoria descritta e ignorando limiti tecnici o di vol
    
 <br/>
 
-### PROMPT #8
+### Prompt #8
 
 Considerando che questo modello potrebbe essere migliorato nei dettagli da eventuali contributi di specialisti dell'economia e della finanza, potremmo dire che complessivamente sia ragionevole attribuirgli un rate di 9 su 10?
 
 ---
 
-### CHATGPT #8
+### ChatGPT #8
 
 Sì, è ragionevole attribuire al modello un rate di 9 su 10. Questo punteggio riflette la solidità teorica dell'approccio basato su riserve diversificate, bitcoin come asset digitale scarsamente inflazionabile e una piattaforma neutrale come Ethereum per le transazioni. La trasparenza, la riduzione di incentivi al conflitto e la capacità di gestire in modo bilanciato risorse e scambi lo rendono promettente.
 
