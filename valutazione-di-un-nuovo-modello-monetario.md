@@ -32,7 +32,7 @@ In this case, it is not a single prompt but a dialog: a series of answered quest
 
 * [278-The_paper_money_is_financial_communism.txt](data/278-The_paper_money_is_financial_communism.txt) or for an easy in reading in [html](../../roberto-a-foglietta/html/278-the-paper-money-is-financial-communism.html) page
 
-* [quantitative-easing-drug-addiction-01.md](quantitative-easing-drug-addiction-01.md ) or for an easy in reading in [html](quantitative-easing-drug-addiction-01.html) page
+* [quantitative-easing-drug-addiction-01.md](../quantitative-easing-drug-addiction-01.md ) or for an easy in reading in [html](quantitative-easing-drug-addiction-01.html) page
 
 * [euro-lira-la-natura-della-moneta.txt](data/euro-lira-la-natura-della-moneta.txt)
 
