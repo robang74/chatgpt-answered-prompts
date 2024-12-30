@@ -147,7 +147,7 @@ These considerations were necessarily mandatory because one day in the future ou
 
 ## REVIEW
 
-Because GitHub allows access to any version of any files stored in it, this review has been made with the previous version of this file which is still available ([hash 5194e043](https://raw.githubusercontent.com/robang74/chatgpt-answered-prompts/5194e043/Draghi-report-about-energy-01.md. )). The review has been made asking others chatbot to evaluate the discussion and comparing the human questions and conclusion with the ChatGPT answers. Google Gemeni refused to answer because the U.S. elections and the question is about a relevant political personality.
+Because GitHub allows access to any version of any files stored in it, this review has been made with the previous version of this file which is still available ([hash 5194e043](https://raw.githubusercontent.com/robang74/chatgpt-answered-prompts/5194e043/Draghi-report-about-energy-01.md)). The review has been made asking others chatbot to evaluate the discussion and comparing the human questions and conclusion with the ChatGPT answers. Google Gemeni refused to answer because the U.S. elections and the question is about a relevant political personality.
 
 <br/>
 
