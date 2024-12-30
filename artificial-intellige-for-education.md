@@ -4,7 +4,7 @@
 
 This conversation is the straightforward continuation of this one:
 
-- [chatgpt vs human real reasoning](chatgpt-vs-human-real-reasoning.md) ([raw](https://raw.githubusercontent.com/robang74/chatbots-for-fun/refs/heads/main/chatgpt-vs-human-real-reasoning.md))
+- [chatgpt vs human real reasoning](https://robang74.github.io/chatbots-for-fun/html/chatgpt-vs-human-real-reasoning.html) ([raw](https://raw.githubusercontent.com/robang74/chatbots-for-fun/refs/heads/main/chatgpt-vs-human-real-reasoning.md))
 
 Literally its continuation because it happened immediately after on the same session/account.
 
