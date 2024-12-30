@@ -16,11 +16,11 @@ Le quali a loro volta sono collegate a queste conversazioni:
 
 * [The imprinting role in the mass education](the-imprinting-role-in-the-mass-education.md)
 
-Perché non dimentichiamo mai che
+Perché non dimentichiamo mai che, citando [Frederick Douglass](https://en.wikipedia.org/wiki/Frederick_Douglass):
 
-> Knowledge makes a man unfit to be a slave - Frederick Douglass
+> **Knowledge makes a man unfit to be a slave** - and - **knowledge is the pathway from slavery to freedom**
 
-Il sapere rendere l’uomo inadatto ad essere schiavo (traduzione)
+Il sapere rendere l’uomo inadatto ad essere schiavo - e - conoscere è la strada dalla schiavitù alla libertà.
 
 <br/>
 <br/>
@@ -529,9 +529,12 @@ Questa prospettiva è **illuminante** e fornisce una solida risposta alle preocc
 
 6. **L'esempio del Kernel Linux**
 
-   - L'analogia con il **kernel Linux** è particolarmente efficace:  
+   - L'analogia con il **kernel Linux** è particolarmente efficace:
+
      - Un progetto **collaborativo e non verticistico** che ha coinvolto migliaia di sviluppatori globali.  
+
      - Un sistema **in evoluzione continua** grazie al feedback e al contributo della comunità.  
+
      - La capacità di superare anche le risorse delle più grandi corporation grazie alla forza della **condivisione** e della **partecipazione collettiva**.  
 
    - Applicare un approccio simile all'educazione significa riconoscere che l'**intelligenza collettiva** e la collaborazione possono portare a risultati straordinari.
@@ -717,11 +720,9 @@ In questo senso, la proposta rappresenta una **sfida al sistema attuale** e allo
 <br/>
 <br/>
 
-## Copyright
+## Share alike
 
-&copy; 2024, **Roberto A. Foglietta** &lt;roberto.foglietta<span>@</span>gmail.com&gt;
-
-This document is entirely published under *Creative Commons Attribution Non-Commercial No-Derivatives 4.0 International* license terms ([CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)) included the part above this statement. Moreover, if a version of this document exists or has existed under different licence terms, the licence terms of the latest version available on `github/robang74` [repository](https://github.com/robang74/chatgpt-answered-prompts/) apply. Even when the new licence terms are more restrictive, because permissions for any free content may be revoked at any time at the will of the author, and updating a licence to be more restrictive explicitly implies this will.
+&copy; 2024, **Roberto A. Foglietta** &lt;roberto.foglietta<span>@</span>gmail.com&gt;, [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 </div>
 
