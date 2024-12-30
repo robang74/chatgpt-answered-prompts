@@ -20,15 +20,15 @@ In this case, it is not a single prompt but a dialog: a series of answered quest
 
 Some links to public web pages have been provided in the first prompt 
 
-* [Draghi-faboulous-800bln-funding-02.md](../Draghi-faboulous-800bln-funding-02.md ) or for an easy in reading in [html](Draghi-faboulous-800bln-funding-02.html) page
+* [Draghi-faboulous-800bln-funding-02.md](Draghi-faboulous-800bln-funding-02.md ) or for an easy in reading in [html](https://robang74.github.io/chatgpt-answered-prompts/html/Draghi-faboulous-800bln-funding-02.html) page
 
-* [Draghi-report-about-energy-01.md](../Draghi-report-about-energy-01.md ) or for an easy in reading in [html](Draghi-report-about-energy-01.html) page
+* [Draghi-report-about-energy-01.md](Draghi-report-about-energy-01.md ) or for an easy in reading in [html](https://robang74.github.io/chatgpt-answered-prompts/html/Draghi-report-about-energy-01.html) page
 
-* [Draghi-report-about-innovation-01.md](../Draghi-report-about-innovation-01.md ) or for an easy in reading in [html](Draghi-report-about-innovation-01.html) page
+* [Draghi-report-about-innovation-01.md](Draghi-report-about-innovation-01.md ) or for an easy in reading in [html](https://robang74.github.io/chatgpt-answered-prompts/html/Draghi-report-about-innovation-01.html) page
 
-* [Draghi-report-vs-ciuchino-meme.md](../Draghi-report-vs-ciuchino-meme.md ) or for an easy in reading in [html](Draghi-report-vs-ciuchino-meme.html) page
+* [Draghi-report-vs-ciuchino-meme.md](Draghi-report-vs-ciuchino-meme.md ) or for an easy in reading in [html](https://robang74.github.io/chatgpt-answered-prompts/html/Draghi-report-vs-ciuchino-meme.html) page
 
-* [paper-money-financial-communism-03.md](../paper-money-financial-communism-03.md ) or for an easy in reading in [html](paper-money-financial-communism-03.html) page
+* [paper-money-financial-communism-03.md](paper-money-financial-communism-03.md ) or for an easy in reading in [html](https://robang74.github.io/chatgpt-answered-prompts/html/paper-money-financial-communism-03.html) page
 
 plus
 
@@ -59,15 +59,15 @@ This document is entirely published under *Creative Commons Attribution Non-Comm
 
 Consider these documents linked below and written by the same single human author chatting with an AI. Consider these documents like pieces of a puzzle and describe the whole picture. Or consider these documents like chapters of a story and describe the plot.
 
-* [Draghi-faboulous-800bln-funding-02.md](../Draghi-faboulous-800bln-funding-02.md )
+* [Draghi-faboulous-800bln-funding-02.md](Draghi-faboulous-800bln-funding-02.md )
 
-* [Draghi-report-about-energy-01.md](../Draghi-report-about-energy-01.md )
+* [Draghi-report-about-energy-01.md](Draghi-report-about-energy-01.md )
 
-* [Draghi-report-about-innovation-01.md](../Draghi-report-about-innovation-01.md )
+* [Draghi-report-about-innovation-01.md](Draghi-report-about-innovation-01.md )
 
-* [Draghi-report-vs-ciuchino-meme.md](../Draghi-report-vs-ciuchino-meme.md )
+* [Draghi-report-vs-ciuchino-meme.md](Draghi-report-vs-ciuchino-meme.md )
 
-* [paper-money-financial-communism-03.md](../paper-money-financial-communism-03.md )
+* [paper-money-financial-communism-03.md](paper-money-financial-communism-03.md )
 
 I know the content of these document, hence you have not to report any part of them. Instead, I want you write the whole picture and the whole plot behind these documents.
 
@@ -439,7 +439,7 @@ About macro-management, we have to accept that the complexity that globalization
 
 Under this PoV the top-down approach in dealing with the covid-19 pandemic was a failure under many points of view. Because in addition to the commercial frauds that are emerging, also the individual rights that usually are strongly protected by many of EU countries and on which are based the western democracy as general concept have been strongly restricted when not even suppressed. This article linked below explains the alternative of suggesting best practices instead of a top-down enforcement approach.
 
-* in original a [LinkedIn](https://www.linkedin.com/pulse/post-pandemic-review-roberto-a-foglietta-mn83f) article, now available in [html](../../roberto-a-foglietta/html/236-a-post-covid-pandemic-review.html?target=_blank) format
+* in original a [LinkedIn](https://www.linkedin.com/pulse/post-pandemic-review-roberto-a-foglietta-mn83f) article, now available in [html](https://robang74.github.io/roberto-a-foglietta/html/236-a-post-covid-pandemic-review.html?target=_blank) format
 
 Considering also the content of this articles and considering that the embarrassment about the top-down enforcement approach failure was so vast and deep that WHO losses great part of its credibility as a scientist-medical neutral organisation and politics adopted the scapegoat strategy to detour the people indignation and angry somewhere else than them. Like described in this article.
 
@@ -559,7 +559,7 @@ Almost all the claims here proposed for a rating get a level between 7/10 and 9/
 
 In the case we agreed in good faith about what is going to work and about what is NOT going to work, then we know and as we know many other people know even if they might be a small fraction of all the human beings on this planet, then why humans know what is right to do but still doing the wrong?
 
-* [LinkedIn](https://www.linkedin.com/pulse/milgram-asch-social-experiments-roberto-a-foglietta-g7lwf) saved here [PDF](../../roberto-a-foglietta/pdf.todo/262-Milgram_and_Asch_social_experiments.pdf?target=_blank) otherwise here [PDF]([PDF](../../roberto-a-foglietta/pdf.done/262-milgram-and-asch-social-experiments.pdf?target=_blank)
+* [LinkedIn](https://www.linkedin.com/pulse/milgram-asch-social-experiments-roberto-a-foglietta-g7lwf) saved here [PDF](https://robang74.github.io/roberto-a-foglietta/pdf.todo/262-Milgram_and_Asch_social_experiments.pdf?target=_blank) otherwise here [PDF]([PDF](https://robang74.github.io/roberto-a-foglietta/pdf.done/262-milgram-and-asch-social-experiments.pdf?target=_blank)
 
 A speculative answer is accepted, citation is also accepted, a specific experiment like the one described in the article below (or the well-known Universe 25 experiment) can be accepted as an example for the answer. Preferably something brief and convincing that sounds like a words of wisdom.
 

@@ -26,13 +26,13 @@ In this case, it is not a single prompt but a dialog: a series of answered quest
 
 ### UPLOAD
 
-* [261-La_guerra_del_dollaro_contro_l_euro.txt](data/261-La_guerra_del_dollaro_contro_l_euro.txt) or for an easy in reading in [html](../../roberto-a-foglietta/html/261-la-guerra-del-dollaro-contro-l-euro.html) page
+* [261-La_guerra_del_dollaro_contro_l_euro.txt](data/261-La_guerra_del_dollaro_contro_l_euro.txt) or for an easy in reading in [html](https://robang74.github.io/roberto-a-foglietta/html/261-la-guerra-del-dollaro-contro-l-euro.html) page
 
-* [265-The_BRICS_financial_system_hope_or_WW3-rev2.txt](data/265-The_BRICS_financial_system_hope_or_WW3-rev2.txt) or for an easy in reading in [html](../../roberto-a-foglietta/html/265-the-brics-financial-system-hope-or-ww3.html) page
+* [265-The_BRICS_financial_system_hope_or_WW3-rev2.txt](data/265-The_BRICS_financial_system_hope_or_WW3-rev2.txt) or for an easy in reading in [html](https://robang74.github.io/roberto-a-foglietta/html/265-the-brics-financial-system-hope-or-ww3.html) page
 
-* [278-The_paper_money_is_financial_communism.txt](data/278-The_paper_money_is_financial_communism.txt) or for an easy in reading in [html](../../roberto-a-foglietta/html/278-the-paper-money-is-financial-communism.html) page
+* [278-The_paper_money_is_financial_communism.txt](data/278-The_paper_money_is_financial_communism.txt) or for an easy in reading in [html](https://robang74.github.io/roberto-a-foglietta/html/278-the-paper-money-is-financial-communism.html) page
 
-* [quantitative-easing-drug-addiction-01.md](../quantitative-easing-drug-addiction-01.md ) or for an easy in reading in [html](quantitative-easing-drug-addiction-01.html) page
+* [quantitative-easing-drug-addiction-01.md](quantitative-easing-drug-addiction-01.md ) or for an easy in reading in [html](https://robang74.github.io/chatgpt-answered-prompts/quantitative-easing-drug-addiction-01.html) page
 
 * [euro-lira-la-natura-della-moneta.txt](data/euro-lira-la-natura-della-moneta.txt)
 
