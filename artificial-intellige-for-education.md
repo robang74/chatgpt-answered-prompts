@@ -4,13 +4,13 @@
 
 This conversation is the straightforward continuation of this one:
 
-- [chatgpt-vs-human-real-reasoning.md](https://github.com/robang74/chatbots-for-fun/blob/main/chatgpt-vs-human-real-reasoning.md?target=_blank) ([RAW](https://raw.githubusercontent.com/robang74/chatbots-for-fun/refs/heads/main/chatgpt-vs-human-real-reasoning.md))
+- [chatgpt-vs-human-real-reasoning.md](https://github.com/robang74/chatbots-for-fun/blob/main/chatgpt-vs-human-real-reasoning.md) ([RAW](https://raw.githubusercontent.com/robang74/chatbots-for-fun/refs/heads/main/chatgpt-vs-human-real-reasoning.md))
 
 Literally its continuation because it happened immediately after on the same session/account.
 
 However, because it deals with a slightly different topic, it is reported here below, separately.
 
-- [propaganda-e-sistema-educativo.md](https://github.com/robang74/chatgpt-answered-prompts/blob/main/propaganda-e-sistema-educativo.md?target=_blank) ([RAW](https://raw.githubusercontent.com/robang74/chatgpt-answered-prompts/refs/heads/main/propaganda-e-sistema-educativo.md))
+- [propaganda-e-sistema-educativo.md](https://github.com/robang74/chatgpt-answered-prompts/blob/main/propaganda-e-sistema-educativo.md) ([RAW](https://raw.githubusercontent.com/robang74/chatgpt-answered-prompts/refs/heads/main/propaganda-e-sistema-educativo.md))
 
 Above a link related to another paper regarding the education system and its weakness to propaganda.
 

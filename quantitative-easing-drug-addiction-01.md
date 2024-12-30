@@ -20,15 +20,15 @@ In this case, it is not a single prompt but a dialog: a series of answered quest
 
 Some links to public web pages have been provided in the first prompt 
 
-* [Draghi-faboulous-800bln-funding-02.md](https://robang74.github.io/chatgpt-answered-prompts/Draghi-faboulous-800bln-funding-02.md?target=_blank) or for an easy in reading in [html](https://robang74.github.io/chatgpt-answered-prompts/html/Draghi-faboulous-800bln-funding-02.html) page
+* [Draghi-faboulous-800bln-funding-02.md](https://robang74.github.io/chatgpt-answered-prompts/Draghi-faboulous-800bln-funding-02.md) or for an easy in reading in [html](https://robang74.github.io/chatgpt-answered-prompts/html/Draghi-faboulous-800bln-funding-02.html) page
 
-* [Draghi-report-about-energy-01.md](https://robang74.github.io/chatgpt-answered-prompts/Draghi-report-about-energy-01.md?target=_blank) or for an easy in reading in [html](https://robang74.github.io/chatgpt-answered-prompts/html/Draghi-report-about-energy-01.html) page
+* [Draghi-report-about-energy-01.md](https://robang74.github.io/chatgpt-answered-prompts/Draghi-report-about-energy-01.md) or for an easy in reading in [html](https://robang74.github.io/chatgpt-answered-prompts/html/Draghi-report-about-energy-01.html) page
 
-* [Draghi-report-about-innovation-01.md](https://robang74.github.io/chatgpt-answered-prompts/Draghi-report-about-innovation-01.md?target=_blank) or for an easy in reading in [html](https://robang74.github.io/chatgpt-answered-prompts/html/Draghi-report-about-innovation-01.html) page
+* [Draghi-report-about-innovation-01.md](https://robang74.github.io/chatgpt-answered-prompts/Draghi-report-about-innovation-01.md) or for an easy in reading in [html](https://robang74.github.io/chatgpt-answered-prompts/html/Draghi-report-about-innovation-01.html) page
 
-* [Draghi-report-vs-ciuchino-meme.md](https://robang74.github.io/chatgpt-answered-prompts/Draghi-report-vs-ciuchino-meme.md?target=_blank) or for an easy in reading in [html](https://robang74.github.io/chatgpt-answered-prompts/html/Draghi-report-vs-ciuchino-meme.html) page
+* [Draghi-report-vs-ciuchino-meme.md](https://robang74.github.io/chatgpt-answered-prompts/Draghi-report-vs-ciuchino-meme.md) or for an easy in reading in [html](https://robang74.github.io/chatgpt-answered-prompts/html/Draghi-report-vs-ciuchino-meme.html) page
 
-* [paper-money-financial-communism-03.md](https://robang74.github.io/chatgpt-answered-prompts/paper-money-financial-communism-03.md?target=_blank) or for an easy in reading in [html](https://robang74.github.io/chatgpt-answered-prompts/html/paper-money-financial-communism-03.html) page
+* [paper-money-financial-communism-03.md](https://robang74.github.io/chatgpt-answered-prompts/paper-money-financial-communism-03.md) or for an easy in reading in [html](https://robang74.github.io/chatgpt-answered-prompts/html/paper-money-financial-communism-03.html) page
 
 plus
 
@@ -50,7 +50,7 @@ The first prompt answer was not satisfying because the prompt itself was not wri
 
 &copy; 2024, **Roberto A. Foglietta** &lt;roberto.foglietta<span>@</span>gmail.com&gt;
 
-This document is entirely published under *Creative Commons Attribution Non-Commercial No-Derivatives 4.0 International* license terms ([CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/?target=_blank)) included the part above this statement. Moreover, if a version of this document exists or has existed under different licence terms, the licence terms of the latest version available on `github/robang74` [repository](https://github.com/robang74/chatgpt-answered-prompts/) apply. Even when the new licence terms are more restrictive, because permissions for any free content may be revoked at any time at the will of the author, and updating a licence to be more restrictive explicitly implies this will.
+This document is entirely published under *Creative Commons Attribution Non-Commercial No-Derivatives 4.0 International* license terms ([CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)) included the part above this statement. Moreover, if a version of this document exists or has existed under different licence terms, the licence terms of the latest version available on `github/robang74` [repository](https://github.com/robang74/chatgpt-answered-prompts/) apply. Even when the new licence terms are more restrictive, because permissions for any free content may be revoked at any time at the will of the author, and updating a licence to be more restrictive explicitly implies this will.
 
 <br/>
 <br/>
@@ -439,7 +439,7 @@ About macro-management, we have to accept that the complexity that globalization
 
 Under this PoV the top-down approach in dealing with the covid-19 pandemic was a failure under many points of view. Because in addition to the commercial frauds that are emerging, also the individual rights that usually are strongly protected by many of EU countries and on which are based the western democracy as general concept have been strongly restricted when not even suppressed. This article linked below explains the alternative of suggesting best practices instead of a top-down enforcement approach.
 
-* in original a [LinkedIn](https://www.linkedin.com/pulse/post-pandemic-review-roberto-a-foglietta-mn83f?target=_blank) article, now available in [html](https://robang74.github.io/roberto-a-foglietta/html/236-a-post-covid-pandemic-review.html) format
+* in original a [LinkedIn](https://www.linkedin.com/pulse/post-pandemic-review-roberto-a-foglietta-mn83f) article, now available in [html](https://robang74.github.io/roberto-a-foglietta/html/236-a-post-covid-pandemic-review.html) format
 
 Considering also the content of this articles and considering that the embarrassment about the top-down enforcement approach failure was so vast and deep that WHO losses great part of its credibility as a scientist-medical neutral organisation and politics adopted the scapegoat strategy to detour the people indignation and angry somewhere else than them. Like described in this article.
 
@@ -559,7 +559,7 @@ Almost all the claims here proposed for a rating get a level between 7/10 and 9/
 
 In the case we agreed in good faith about what is going to work and about what is NOT going to work, then we know and as we know many other people know even if they might be a small fraction of all the human beings on this planet, then why humans know what is right to do but still doing the wrong?
 
-* [LinkedIn](https://www.linkedin.com/pulse/milgram-asch-social-experiments-roberto-a-foglietta-g7lwf?target=_blank) saved here [PDF](https://robang74.github.io/roberto-a-foglietta/pdf.todo/262-Milgram_and_Asch_social_experiments.pdf?target=_blank) otherwise here [PDF]([PDF](https://robang74.github.io/roberto-a-foglietta/pdf.done/262-milgram-and-asch-social-experiments.pdf)
+* [LinkedIn](https://www.linkedin.com/pulse/milgram-asch-social-experiments-roberto-a-foglietta-g7lwf) saved here [PDF](https://robang74.github.io/roberto-a-foglietta/pdf.todo/262-Milgram_and_Asch_social_experiments.pdf) otherwise here [PDF]([PDF](https://robang74.github.io/roberto-a-foglietta/pdf.done/262-milgram-and-asch-social-experiments.pdf)
 
 A speculative answer is accepted, citation is also accepted, a specific experiment like the one described in the article below (or the well-known Universe 25 experiment) can be accepted as an example for the answer. Preferably something brief and convincing that sounds like a words of wisdom.
 
