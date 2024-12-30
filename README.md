@@ -114,19 +114,21 @@ Few but relevant warnings for those are not aware how artificial intelligence an
 
 There are several way to download this github repository:
 
-- using the green button in its homepage and download the [last archive](https://github.com/robang74/chatgpt-answered-prompts/archive/refs/heads/main.zip)
+- using the green button in its homepage and download the [last archive](https://github.com/robang74/chatgpt-answered-prompts/archive/refs/heads/main.zip) 
 
-or
-
-- choose a tagged release among [those available](https://github.com/robang74/chatgpt-answered-prompts/tags) and download that archive
-
-or
+- choose a tagged release among [those available](https://github.com/robang74/chatgpt-answered-prompts/tags) and download the archive
 
 - clone the repository with the specific `git clone` command, in this way:
 
-  `git clone https://github.com/robang74/chatgpt-answered-prompts.git`
+    `git clone https://github.com/robang74/chatgpt-answered-prompts.git`
 
 The advantage of downloading a tagged release is having an archive 'freezed' by the author while the ZIP contains the last version uploaded. Instead, the `git clone` will also provide you with all the information and a complete view of every change. Click on the link above will submit the related request for you.
+
+- making a local copy using `wget` in this way:
+
+    `wget -e robots=off -Ekprc https://robang74.github.io/chatgpt-answered-prompts`
+
+This allows you to have your own copy that you can read off-line with all the links converted to point to local files, only. It includes also the related projects.
 
 <br/>
 
