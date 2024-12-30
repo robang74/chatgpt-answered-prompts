@@ -20,19 +20,19 @@ In this case, it is not a single prompt but a dialog: a series of answered quest
 
 Some links to public web pages have been provided in the first prompt 
 
-* [Draghi-faboulous-800bln-funding-02.md](https://robang74.github.io/chatgpt-answered-prompts/Draghi-faboulous-800bln-funding-02.md?target=_blank) or for an easy in reading in [html](https://robang74.github.io/chatgpt-answered-prompts/html/Draghi-faboulous-800bln-funding-02.html?target=_blank) page
+* [Draghi-faboulous-800bln-funding-02.md](https://robang74.github.io/chatgpt-answered-prompts/Draghi-faboulous-800bln-funding-02.md?target=_blank) or for an easy in reading in [html](https://robang74.github.io/chatgpt-answered-prompts/html/Draghi-faboulous-800bln-funding-02.html) page
 
-* [Draghi-report-about-energy-01.md](https://robang74.github.io/chatgpt-answered-prompts/Draghi-report-about-energy-01.md?target=_blank) or for an easy in reading in [html](https://robang74.github.io/chatgpt-answered-prompts/html/Draghi-report-about-energy-01.htm?target=_blankl) page
+* [Draghi-report-about-energy-01.md](https://robang74.github.io/chatgpt-answered-prompts/Draghi-report-about-energy-01.md?target=_blank) or for an easy in reading in [html](https://robang74.github.io/chatgpt-answered-prompts/html/Draghi-report-about-energy-01.html) page
 
-* [Draghi-report-about-innovation-01.md](https://robang74.github.io/chatgpt-answered-prompts/Draghi-report-about-innovation-01.md?target=_blank) or for an easy in reading in [html](https://robang74.github.io/chatgpt-answered-prompts/html/Draghi-report-about-innovation-01.html?target=_blank) page
+* [Draghi-report-about-innovation-01.md](https://robang74.github.io/chatgpt-answered-prompts/Draghi-report-about-innovation-01.md?target=_blank) or for an easy in reading in [html](https://robang74.github.io/chatgpt-answered-prompts/html/Draghi-report-about-innovation-01.html) page
 
-* [Draghi-report-vs-ciuchino-meme.md](https://robang74.github.io/chatgpt-answered-prompts/Draghi-report-vs-ciuchino-meme.md?target=_blank) or for an easy in reading in [html](https://robang74.github.io/chatgpt-answered-prompts/html/Draghi-report-vs-ciuchino-meme.html?target=_blank) page
+* [Draghi-report-vs-ciuchino-meme.md](https://robang74.github.io/chatgpt-answered-prompts/Draghi-report-vs-ciuchino-meme.md?target=_blank) or for an easy in reading in [html](https://robang74.github.io/chatgpt-answered-prompts/html/Draghi-report-vs-ciuchino-meme.html) page
 
-* [paper-money-financial-communism-03.md](https://robang74.github.io/chatgpt-answered-prompts/paper-money-financial-communism-03.md?target=_blank) or for an easy in reading in [html](https://robang74.github.io/chatgpt-answered-prompts/html/paper-money-financial-communism-03.html?target=_blank) page
+* [paper-money-financial-communism-03.md](https://robang74.github.io/chatgpt-answered-prompts/paper-money-financial-communism-03.md?target=_blank) or for an easy in reading in [html](https://robang74.github.io/chatgpt-answered-prompts/html/paper-money-financial-communism-03.html) page
 
 plus
 
-* an [article](https://www.eurobull.it/whatever-it-takes-e-perche-mario-draghi-e-unanimemente-rispettato?target=_blank) about Mario Draghi's biografy, career and achievements 
+* an [article](https://www.eurobull.it/whatever-it-takes-e-perche-mario-draghi-e-unanimemente-rispettato) about Mario Draghi's biografy, career and achievements 
 
 which has published on Eurobull, written by Davide Cinotti on 8th April 2011 and it has been passed by link in the third prompt. It has been also saved in [PDF](data/whatever-it-takes-mario-draghi-eurobull-it.pdf?target=_blank) format here in `data` folder for sake of the archiving completeness. About this PDF, the **fair-use** policy is enforced over 3rd party this repository/website by the Creative Common license BY-NC-ND 4.0 terms which forbids anyone to make business of this data/documents collection.
 
@@ -50,7 +50,7 @@ The first prompt answer was not satisfying because the prompt itself was not wri
 
 &copy; 2024, **Roberto A. Foglietta** &lt;roberto.foglietta<span>@</span>gmail.com&gt;
 
-This document is entirely published under *Creative Commons Attribution Non-Commercial No-Derivatives 4.0 International* license terms ([CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/?target=_blank)) included the part above this statement. Moreover, if a version of this document exists or has existed under different licence terms, the licence terms of the latest version available on `github/robang74` [repository](https://github.com/robang74/chatgpt-answered-prompts/?target=_blank) apply. Even when the new licence terms are more restrictive, because permissions for any free content may be revoked at any time at the will of the author, and updating a licence to be more restrictive explicitly implies this will.
+This document is entirely published under *Creative Commons Attribution Non-Commercial No-Derivatives 4.0 International* license terms ([CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/?target=_blank)) included the part above this statement. Moreover, if a version of this document exists or has existed under different licence terms, the licence terms of the latest version available on `github/robang74` [repository](https://github.com/robang74/chatgpt-answered-prompts/) apply. Even when the new licence terms are more restrictive, because permissions for any free content may be revoked at any time at the will of the author, and updating a licence to be more restrictive explicitly implies this will.
 
 <br/>
 <br/>
@@ -59,15 +59,15 @@ This document is entirely published under *Creative Commons Attribution Non-Comm
 
 Consider these documents linked below and written by the same single human author chatting with an AI. Consider these documents like pieces of a puzzle and describe the whole picture. Or consider these documents like chapters of a story and describe the plot.
 
-* [Draghi-faboulous-800bln-funding-02.md](https://robang74.github.io/chatgpt-answered-prompts/Draghi-faboulous-800bln-funding-02.md?target=_blank)
+* [Draghi-faboulous-800bln-funding-02.md](https://robang74.github.io/chatgpt-answered-prompts/Draghi-faboulous-800bln-funding-02.md)
 
-* [Draghi-report-about-energy-01.md](https://robang74.github.io/chatgpt-answered-prompts/Draghi-report-about-energy-01.md?target=_blank)
+* [Draghi-report-about-energy-01.md](https://robang74.github.io/chatgpt-answered-prompts/Draghi-report-about-energy-01.md)
 
-* [Draghi-report-about-innovation-01.md](https://robang74.github.io/chatgpt-answered-prompts/Draghi-report-about-innovation-01.md?target=_blank)
+* [Draghi-report-about-innovation-01.md](https://robang74.github.io/chatgpt-answered-prompts/Draghi-report-about-innovation-01.md)
 
-* [Draghi-report-vs-ciuchino-meme.md](https://robang74.github.io/chatgpt-answered-prompts/Draghi-report-vs-ciuchino-meme.md?target=_blank)
+* [Draghi-report-vs-ciuchino-meme.md](https://robang74.github.io/chatgpt-answered-prompts/Draghi-report-vs-ciuchino-meme.md)
 
-* [paper-money-financial-communism-03.md](https://robang74.github.io/chatgpt-answered-prompts/paper-money-financial-communism-03.md?target=_blank)
+* [paper-money-financial-communism-03.md](https://robang74.github.io/chatgpt-answered-prompts/paper-money-financial-communism-03.md)
 
 I know the content of these document, hence you have not to report any part of them. Instead, I want you write the whole picture and the whole plot behind these documents.
 
@@ -183,7 +183,7 @@ The originality in these documents lies in the author's ability to connect finan
 
 Considering that Mario Draghi was the man behind the quantitative easing monetary policy in Europe (BCE) like explained in this document and considering everything in those documents linked before try to evaluate in a scala from 0 (mere fiction) to 10 (grounding fact) the rating of Mario Draghi as a novel communist.
 
-* [«Whatever it takes» e perché Mario Draghi è unanimemente rispettato](https://www.eurobull.it/whatever-it-takes-e-perche-mario-draghi-e-unanimemente-rispettato?target=_blank)
+* [«Whatever it takes» e perché Mario Draghi è unanimemente rispettato](https://www.eurobull.it/whatever-it-takes-e-perche-mario-draghi-e-unanimemente-rispettato)
 
 Consider that in these documents, the QE is related to the growing of inflation of the consumers prices but this is not necessarily immediate. In fact, as we discovered, pushing money in the system from above into institutions and banks is not equivalent in any way to helicopter money. 
 
@@ -439,7 +439,7 @@ About macro-management, we have to accept that the complexity that globalization
 
 Under this PoV the top-down approach in dealing with the covid-19 pandemic was a failure under many points of view. Because in addition to the commercial frauds that are emerging, also the individual rights that usually are strongly protected by many of EU countries and on which are based the western democracy as general concept have been strongly restricted when not even suppressed. This article linked below explains the alternative of suggesting best practices instead of a top-down enforcement approach.
 
-* in original a [LinkedIn](https://www.linkedin.com/pulse/post-pandemic-review-roberto-a-foglietta-mn83f?target=_blank) article, now available in [html](https://robang74.github.io/roberto-a-foglietta/html/236-a-post-covid-pandemic-review.html?target=_blank) format
+* in original a [LinkedIn](https://www.linkedin.com/pulse/post-pandemic-review-roberto-a-foglietta-mn83f?target=_blank) article, now available in [html](https://robang74.github.io/roberto-a-foglietta/html/236-a-post-covid-pandemic-review.html) format
 
 Considering also the content of this articles and considering that the embarrassment about the top-down enforcement approach failure was so vast and deep that WHO losses great part of its credibility as a scientist-medical neutral organisation and politics adopted the scapegoat strategy to detour the people indignation and angry somewhere else than them. Like described in this article.
 
@@ -559,7 +559,7 @@ Almost all the claims here proposed for a rating get a level between 7/10 and 9/
 
 In the case we agreed in good faith about what is going to work and about what is NOT going to work, then we know and as we know many other people know even if they might be a small fraction of all the human beings on this planet, then why humans know what is right to do but still doing the wrong?
 
-* [LinkedIn](https://www.linkedin.com/pulse/milgram-asch-social-experiments-roberto-a-foglietta-g7lwf?target=_blank) saved here [PDF](https://robang74.github.io/roberto-a-foglietta/pdf.todo/262-Milgram_and_Asch_social_experiments.pdf?target=_blank) otherwise here [PDF]([PDF](https://robang74.github.io/roberto-a-foglietta/pdf.done/262-milgram-and-asch-social-experiments.pdf?target=_blank)
+* [LinkedIn](https://www.linkedin.com/pulse/milgram-asch-social-experiments-roberto-a-foglietta-g7lwf?target=_blank) saved here [PDF](https://robang74.github.io/roberto-a-foglietta/pdf.todo/262-Milgram_and_Asch_social_experiments.pdf?target=_blank) otherwise here [PDF]([PDF](https://robang74.github.io/roberto-a-foglietta/pdf.done/262-milgram-and-asch-social-experiments.pdf)
 
 A speculative answer is accepted, citation is also accepted, a specific experiment like the one described in the article below (or the well-known Universe 25 experiment) can be accepted as an example for the answer. Preferably something brief and convincing that sounds like a words of wisdom.
 

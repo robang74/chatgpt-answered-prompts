@@ -4,19 +4,19 @@
 
 Questa conversazione è la prosecuzione di queste conversazioni ma con il chatbot basato su Mistral AI.
 
-* [L'arte della supercazzola](https://github.com/robang74/chatbots-for-fun/blob/main/l-arte-della-supercazzola.md?target=_blank)
+* [L'arte della supercazzola](https://github.com/robang74/chatbots-for-fun/blob/main/l-arte-della-supercazzola.md)
 
-* [Propaganda e sistema educativo](https://github.com/robang74/chatgpt-answered-prompts/blob/main/propaganda-e-sistema-educativo.md?target=_blank)
+* [Propaganda e sistema educativo](https://github.com/robang74/chatgpt-answered-prompts/blob/main/propaganda-e-sistema-educativo.md)
 
-* [Artificial Intelligence for education](https://github.com/robang74/chatgpt-answered-prompts/blob/main/artificial-intellige-for-education.md?target=_blank)
+* [Artificial Intelligence for education](https://github.com/robang74/chatgpt-answered-prompts/blob/main/artificial-intellige-for-education.md)
 
 Le quali a loro volta sono collegate a queste conversazioni:
 
-* [ChatGPT vs human real reasoning](https://github.com/robang74/chatbots-for-fun/blob/main/chatgpt-vs-human-real-reasoning.md?target=_blank)
+* [ChatGPT vs human real reasoning](https://github.com/robang74/chatbots-for-fun/blob/main/chatgpt-vs-human-real-reasoning.md)
 
-* [The imprinting role in the mass education](https://github.com/robang74/chatgpt-answered-prompts/blob/main/the-imprinting-role-in-the-mass-education.md?target=_blank)
+* [The imprinting role in the mass education](https://github.com/robang74/chatgpt-answered-prompts/blob/main/the-imprinting-role-in-the-mass-education.md)
 
-Perché non dimentichiamo mai che, citando [Frederick Douglass](https://en.wikipedia.org/wiki/Frederick_Douglass?target=_blank):
+Perché non dimentichiamo mai che, citando [Frederick Douglass](https://en.wikipedia.org/wiki/Frederick_Douglass):
 
 > **Knowledge makes a man unfit to be a slave** - and - **knowledge is the pathway from slavery to freedom**
 
@@ -29,7 +29,7 @@ Il sapere rendere l’uomo inadatto ad essere schiavo - e - conoscere è la stra
 
 Non voglio che tu faccia un riassunto di questo testo in upload 
 
-* [L'arte della supercazzola](https://github.com/robang74/chatbots-for-fun/blob/main/l-arte-della-supercazzola.md?target=_blank)
+* [L'arte della supercazzola](https://github.com/robang74/chatbots-for-fun/blob/main/l-arte-della-supercazzola.md)
 
 ma che svolga i seguenti compiti a partire dal suo contenuto:
 
@@ -187,7 +187,7 @@ Inoltre, Karl Popper ha proposto il principio di falsificazione come pilastro po
 
 Infine, vale la pena di notare che Fabrizio De André, già nel 1973, cantava: "*Intellettuali d'oggi idioti di domani ridatemi il cervello che basta alle mie mani*". Ecco qui, quindi!
 
-> **Nota**: questo testo e questo meme sono stati presi da questa pagina [qui](https://robang74.github.io/roberto-a-foglietta/index.html#warp-meme?target=_blank).
+> **Nota**: questo testo e questo meme sono stati presi da questa pagina [qui](https://robang74.github.io/roberto-a-foglietta/index.html#warp-meme).
 
 ---
 
@@ -271,9 +271,9 @@ Implementando queste proposte, è possibile superare gli aspetti negativi e prom
 
 Pensi che quanto descritto in questi 2 documenti possa soddisfare alcuni dei punti sopra elencati e in particolare quello dell'educazione che è anche il principale visto che una buona educazione di massa agevola anche il raggiungimento di tutti gli altri?
 
-* [propaganda-e-sistema-educativo.md](https://github.com/robang74/chatgpt-answered-prompts/blob/main/propaganda-e-sistema-educativo.md?target=_blank)
+* [propaganda-e-sistema-educativo.md](https://github.com/robang74/chatgpt-answered-prompts/blob/main/propaganda-e-sistema-educativo.md)
 
-* [artificial-intellige-for-education.md](https://github.com/robang74/chatgpt-answered-prompts/blob/main/artificial-intellige-for-education.md?target=_blank)
+* [artificial-intellige-for-education.md](https://github.com/robang74/chatgpt-answered-prompts/blob/main/artificial-intellige-for-education.md)
 
 Ignora i link inclusi in questi due documenti.
 
@@ -403,7 +403,7 @@ Quindi, la mia stima di positività di questo approccio è del 90%.
 
 ## Prosecuzione
 
-A questo punto sono tornato a dialogare con ChatGPT nella sessione che ha generato questo documento [qui](https://github.com/robang74/chatbots-for-fun/blob/main/l-arte-della-supercazzola.md?target=_blank) per continuare il dialogo.
+A questo punto sono tornato a dialogare con ChatGPT nella sessione che ha generato questo documento [qui](https://github.com/robang74/chatbots-for-fun/blob/main/l-arte-della-supercazzola.md) per continuare il dialogo.
 
 ---
 
@@ -413,9 +413,9 @@ A questo punto sono tornato a dialogare con ChatGPT nella sessione che ha genera
 
 Prendi in considerazione il contenuto di questi documenti ma ignorando i link in esso contenuti. 
 
-* [Propaganda e sistema educativo](https://github.com/robang74/chatgpt-answered-prompts/blob/main/propaganda-e-sistema-educativo.md?target=_blank)
+* [Propaganda e sistema educativo](https://github.com/robang74/chatgpt-answered-prompts/blob/main/propaganda-e-sistema-educativo.md)
 
-* [Artificial Intelligence for education](https://github.com/robang74/chatgpt-answered-prompts/blob/main/artificial-intellige-for-education.md?target=_blank)
+* [Artificial Intelligence for education](https://github.com/robang74/chatgpt-answered-prompts/blob/main/artificial-intellige-for-education.md)
 
 Quando hai acquisito questi documenti avvertimi che ne discutiamo con una domanda specifica.
 
@@ -722,7 +722,7 @@ In questo senso, la proposta rappresenta una **sfida al sistema attuale** e allo
 
 ## Share alike
 
-&copy; 2024, **Roberto A. Foglietta** &lt;roberto.foglietta<span>@</span>gmail.com&gt;, [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/?target=_blank)
+&copy; 2024, **Roberto A. Foglietta** &lt;roberto.foglietta<span>@</span>gmail.com&gt;, [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 </div>
 

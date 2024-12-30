@@ -26,13 +26,13 @@ L'ultima risposta del chatbot é stata successivamente al primo commit ridotta p
 
 ### RELATED
 
-* [artificial-intellige-for-education.md](https://github.com/robang74/chatgpt-answered-prompts/blob/main/artificial-intellige-for-education.md?target=_blank) ([RAW](https://raw.githubusercontent.com/robang74/chatgpt-answered-prompts/refs/heads/main/artificial-intellige-for-education.md?target=_blank))
+* [artificial-intellige-for-education.md](https://github.com/robang74/chatgpt-answered-prompts/blob/main/artificial-intellige-for-education.md?target=_blank) ([RAW](https://raw.githubusercontent.com/robang74/chatgpt-answered-prompts/refs/heads/main/artificial-intellige-for-education.md))
 
 ### COPYRIGHT
 
 &copy; 2024, **Roberto A. Foglietta** &lt;roberto.foglietta<span>@</span>gmail.com&gt;
 
-This document is entirely published under *Creative Commons Attribution Non-Commercial No-Derivatives 4.0 International* license terms ([CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/?target=_blank)) included the part above this statement. Moreover, if a version of this document exists or has existed under different licence terms, the licence terms of the latest version available on `github/robang74` [repository](https://github.com/robang74/chatgpt-answered-prompts/?target=_blank) apply. Even when the new licence terms are more restrictive, because permissions for any free content may be revoked at any time at the will of the author, and updating a licence to be more restrictive explicitly implies this will.
+This document is entirely published under *Creative Commons Attribution Non-Commercial No-Derivatives 4.0 International* license terms ([CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/?target=_blank)) included the part above this statement. Moreover, if a version of this document exists or has existed under different licence terms, the licence terms of the latest version available on `github/robang74` [repository](https://github.com/robang74/chatgpt-answered-prompts/) apply. Even when the new licence terms are more restrictive, because permissions for any free content may be revoked at any time at the will of the author, and updating a licence to be more restrictive explicitly implies this will.
 
 <br/>
 

@@ -28,13 +28,13 @@ Hence, it is proposing the opposite of what I am proposing for the AI role in ed
 
 During this conversation different documents have been used as data uploads:
 
-1. [ai-driven-evangelism-opportunities.txt](https://raw.githubusercontent.com/robang74/chatgpt-answered-prompts/refs/heads/main/data/ai-driven-evangelism-opportunities.txt?target=_blank)
+1. [ai-driven-evangelism-opportunities.txt](https://raw.githubusercontent.com/robang74/chatgpt-answered-prompts/refs/heads/main/data/ai-driven-evangelism-opportunities.txt)
 
-2. [chatgpt-vs-human-real-reasoning.md](https://raw.githubusercontent.com/robang74/chatbots-for-fun/refs/heads/main/chatgpt-vs-human-real-reasoning.md?target=_blank)
+2. [chatgpt-vs-human-real-reasoning.md](https://raw.githubusercontent.com/robang74/chatbots-for-fun/refs/heads/main/chatgpt-vs-human-real-reasoning.md)
 
-3. [propaganda-e-sistema-educativo.md](https://raw.githubusercontent.com/robang74/chatgpt-answered-prompts/refs/heads/main/propaganda-e-sistema-educativo.md?target=_blank)
+3. [propaganda-e-sistema-educativo.md](https://raw.githubusercontent.com/robang74/chatgpt-answered-prompts/refs/heads/main/propaganda-e-sistema-educativo.md)
 
-4. [artificial-intellige-for-education.md](https://raw.githubusercontent.com/robang74/chatgpt-answered-prompts/refs/heads/main/artificial-intellige-for-education.md?target=_blank)
+4. [artificial-intellige-for-education.md](https://raw.githubusercontent.com/robang74/chatgpt-answered-prompts/refs/heads/main/artificial-intellige-for-education.md)
 
 The last three are a collection of conversations with a chatbot about my idea, the first is the alternative to challenge.
 
@@ -46,7 +46,7 @@ none
 
 &copy; 2024, **Roberto A. Foglietta** &lt;roberto.foglietta<span>@</span>gmail.com&gt;
 
-This document is entirely published under *Creative Commons Attribution Non-Commercial No-Derivatives 4.0 International* license terms ([CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0?target=_blank/)) included the part above this statement. Moreover, if a version of this document exists or has existed under different licence terms, the licence terms of the latest version available on `github/robang74` [repository](https://github.com/robang74/chatgpt-answered-prompts/?target=_blank) apply. Even when the new licence terms are more restrictive, because permissions for any free content may be revoked at any time at the will of the author, and updating a licence to be more restrictive explicitly implies this will.
+This document is entirely published under *Creative Commons Attribution Non-Commercial No-Derivatives 4.0 International* license terms ([CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0?target=_blank/)) included the part above this statement. Moreover, if a version of this document exists or has existed under different licence terms, the licence terms of the latest version available on `github/robang74` [repository](https://github.com/robang74/chatgpt-answered-prompts/) apply. Even when the new licence terms are more restrictive, because permissions for any free content may be revoked at any time at the will of the author, and updating a licence to be more restrictive explicitly implies this will.
 
 <br/>
 <br/>
@@ -55,7 +55,7 @@ This document is entirely published under *Creative Commons Attribution Non-Comm
 
 Consider this text within the uploaded file. Ignore the web links. 
 
-* **upload #1** - [ai-driven-evangelism-opportunities.txt](https://raw.githubusercontent.com/robang74/chatgpt-answered-prompts/refs/heads/main/data/ai-driven-evangelism-opportunities.txt?target=_blank)
+* **upload #1** - [ai-driven-evangelism-opportunities.txt](https://raw.githubusercontent.com/robang74/chatgpt-answered-prompts/refs/heads/main/data/ai-driven-evangelism-opportunities.txt)
 
 Briefly explain to me: the subject, the problems; the solutions; how many PoVs are included. In preparation to chat about its content.
 
@@ -105,7 +105,7 @@ Let me know how you'd like to explore these themes further!
 
 About Problem #1 (Authenticity and Empathy) acquire the content of this link 
 
-* **upload #2** - [chatgpt-vs-human-real-reasoning.md](https://raw.githubusercontent.com/robang74/chatbots-for-fun/refs/heads/main/chatgpt-vs-human-real-reasoning.md?target=_blank)
+* **upload #2** - [chatgpt-vs-human-real-reasoning.md](https://raw.githubusercontent.com/robang74/chatbots-for-fun/refs/heads/main/chatgpt-vs-human-real-reasoning.md)
 
 which contains a recording of a past conversation session we had. Then consider this text below. What is the PoV of the author of that comment? Do you agree with it? Why?
 
@@ -178,9 +178,9 @@ Now we are going to consider these two problems: "**2. Ethical Concerns**" and "
 
 In order to do so, we will consider two others chat saved sessions that we had and acquire their contents:
 
-a) **upload #3** - [propaganda-e-sistema-educativo.md](https://raw.githubusercontent.com/robang74/chatgpt-answered-prompts/refs/heads/main/propaganda-e-sistema-educativo.md?target=_blank)
+a) **upload #3** - [propaganda-e-sistema-educativo.md](https://raw.githubusercontent.com/robang74/chatgpt-answered-prompts/refs/heads/main/propaganda-e-sistema-educativo.md)
 
-b) **upload #4** - [artificial-intellige-for-education.md](https://raw.githubusercontent.com/robang74/chatgpt-answered-prompts/refs/heads/main/artificial-intellige-for-education.md?target=_blank)
+b) **upload #4** - [artificial-intellige-for-education.md](https://raw.githubusercontent.com/robang74/chatgpt-answered-prompts/refs/heads/main/artificial-intellige-for-education.md)
 
 Considering that propaganda has the aim to align all the people toward an unique view and this breaks "variety" as value therefore exposes an homogenous society to a fragility issue (one single thread, like with banana clones, can seriously affect all individuals). Hence "social fragmentation"  does not sound very good to me while "avoid social conflicts" sounds much better.
 

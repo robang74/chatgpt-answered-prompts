@@ -4,7 +4,7 @@
 
 ## Se la verità li uccide, lasciate che muoiano
 
-* Published Dec 20, 2024 - origin [Facebook](https://www.facebook.com/share/p/1A4yAqKZFu/?target=_blank)
+* Published Dec 20, 2024 - origin [Facebook](https://www.facebook.com/share/p/1A4yAqKZFu/)
 
 Questo post è stato pubblicato su Facebook e poi è stato usato per una conversazione in cui la controparte era un chatbot basato sull'intelligenza artificiale.
 
@@ -450,7 +450,7 @@ Mi sembra che sia ChatGPT che l'umano abbiano contribuito a sviluppare un'analis
 
 ## Share alike
 
-&copy; 2024, **Roberto A. Foglietta** &lt;roberto.foglietta<span>@</span>gmail.com&gt;, [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/?target=_blank)
+&copy; 2024, **Roberto A. Foglietta** &lt;roberto.foglietta<span>@</span>gmail.com&gt;, [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 </div>
 
