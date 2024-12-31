@@ -6,7 +6,7 @@ The quantitative easing monetary policy has been an extended and ciclical way of
 
 ### RATIONALE
 
-The use of a chatbot for critical review of a theory and its improvment of confutation has been shown in another document available on this `github/robang74` repository about [paper money is finantial communism](paper-money-financial-communism-03.md?target=_blank).
+The use of a chatbot for critical review of a theory and its improvment of confutation has been shown in another document available on this `github/robang74` repository about [paper money is finantial communism](paper-money-financial-communism-03.md#?target=_blank).
 
 In this case the use of the chatbot has been used as an inspirational partner. Like when we tell something to somebody not for a particular reason rather than enjoy a conversation from another point of view hoping to find inspiration, to dive deep into, extending the concept or trying to catch a bigger picture from it.
 
