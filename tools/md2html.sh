@@ -172,14 +172,18 @@ function link_md2html() {
     local i="$1" f="$2" dir="" dim="../"
     if [ "$f" == "index.html" ]; then dir="html/"; dim=""; fi
     echo "$1" | grep -qe "^italian/" && dir="../italian/html/"
-    local a="${dir}${i##*/}.html" b="${dim}$i.md"
-    
-    sed -e "s,\(href=[\"']\)$i\.md\(#[^\"']*\)*\([\"']>\),\\1$a\\2\\3,g" \
-        -e "s,\(href=[\"']\)$i\.md\(#[^\"']*\)*\([\"'] target=[^>]*>\),\\1$b\\2\\3,g" \
+    local a="${dir}${i##*/}.html" b="${dim}${i##*/}.md"
+#
+#    3-rules link translation legenda
+#
+#    .md#tag?target -> html
+#    .md -> .html
+#    .md?target -> .md
+#
+    sed -e "s,\(href=[\"']\)$i\.md\(#[^>]*>\),\\1$a\\2,g" \
+        -e "s,\(href=[\"']\)$i\.md\([ \"']*>\),\\1$a\\2,g" \
+        -e "s,\(href=[\"']\)$i\.md\([^#>]* target=\),\\1$b\\2,g" \
         -i $f
-#    sed -e "s,\(href=[\"']\)$i\.md\([?#][^\"']*\)*\([\"' ]\),\\1$a\\2\\3,g" \
-#        -e "s,\(href=[\"']\)$i\.html?target=_mdnew *\([\"']\),\\1${dim}$i.md\\2 ${TARGET_BLANK},g" \
-#        -i $f
 }
 
 zip=0
