@@ -169,11 +169,13 @@ function get_images_list() {
 }
 
 function link_md2html() {
-    local i="$1" f="$2" dir=""
-    test "$f" == "index.html" && dir="html/"
+    local i="$1" f="$2" dir="" dim="../"
+    if [ "$f" == "index.html" ]; then dir="html/"; dim=""; fi
     echo "$1" | grep -qe "^italian/" && dir="../italian/html/"
     local a="${dir}${i##*/}.html"
-    sed -e "s,\(href=[\"']\)$i\.md\([?#][^\"']*\)*\([\"']\),\\1$a\\2\\3,g" -i $f
+    sed -e "s,\(href=[\"']\)$i\.md\([?#][^\"']*\)*\([\"' ]\),\\1$a\\2\\3,g" \
+        -e "s,\(href=[\"']\)$i\.html?target=_mdnew *\([\"']\),\\1${dim}$i.md\\2 ${TARGET_BLANK},g" \
+        -i $f
 }
 
 zip=0
