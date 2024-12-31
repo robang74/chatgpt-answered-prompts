@@ -68,7 +68,7 @@ Consider that role that plays increasing the primary monetary mass (QE monetary 
 
 - https://en.wikipedia.org/wiki/Bretton_Woods_system
 
-- https://en.wikipedia.org/wiki/Subprime_mortgage_crisi
+- https://en.wikipedia.org/wiki/Subprime_mortgage_crisis
 
 - https://econofact.org/the-rising-burden-of-u-s-government-debt
 
