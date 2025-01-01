@@ -1001,7 +1001,7 @@ ora può essere verificata rispetto alla media delle statistiche sulla mortalit�
 
 Puoi mostrarmi curve di mortalità su base annua che eccedano di 3 sigma la media calcolata su 10-20 anni?
 
-> **Nota**: nella cartella [data](data) sono stati salvati diversi PDF riguardo a questo argomento.
+> **Nota**: nella cartella [data](https://github.com/robang74/chatgpt-answered-prompts/tree/main/data) sono stati salvati diversi PDF riguardo a questo argomento.
 
 ---
 
