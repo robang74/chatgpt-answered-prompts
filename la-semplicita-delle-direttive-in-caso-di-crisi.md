@@ -1493,4 +1493,8 @@ Ormai in conclusione dell'anno domini 2024, tempo di fare dei bilanci. Sicchè v
 
 Auguri per il 2025, è già stato detto? Baci, R-
 
+### Articoli correlati
+
+- [Draghi's faboulous 800 bln funding plan](Draghi-faboulous-800bln-funding-02.md#?target=_blank)
+
 </div>
