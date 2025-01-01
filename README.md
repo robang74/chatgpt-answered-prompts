@@ -110,6 +110,26 @@ Few but relevant warnings for those are not aware how artificial intelligence an
 
 <br/>
 
+## Index about politics & governance
+
+1. **Costituzionalità della legge Nordio** [[**`md`**](costituzionalita-legge-nordio-01.md)] [[**`html`**](html/costituzionalita-legge-nordio-01.html)] [[**`pdf`**](pdf/costituzionalita-legge-nordio-01.pdf)]
+
+    - The reason is that Nordio's law on the decriminalisation of abuse of public office is contrary to the principles of the Italian Constitution, violates important international agreements signed by Italy, and jeopardises the disbursement of PNRR funds (i.e. the risk of total reclamation).
+
+2. **The sugar role in our foods and lives** [[**`md`**](the-sugar-role-in-our-foods-and-lives.md)] [[**`html`**](html/the-sugar-role-in-our-foods-and-lives.html)] [[**`pdf`**](pdf/the-sugar-role-in-our-foods-and-lives.pdf)]
+
+    - Refined sugar (such as corn syrup) is a highly popular food additive and generally used in high quantities, but its caloric impact on health is greatly underestimated.
+
+3. **Dalla supercazzola alla cività** [[**`md`**](dalla-supercazzola-alla-civita.md)] [[**`html`**](html/dalla-supercazzola-alla-civita.html)] [[**`pdf`**](pdf/dalla-supercazzola-alla-civita.pdf)]
+
+    - The ‘supercazzola’ is an all-Italian concept, invented and made famous by a trilogy of arthouse films, but it also contains fundamental traits for diplomacy and human relations, hence for the civilisation of customs.
+
+4. **La semplicità delle direttive in caso di crisi** [[**`md`**](la-semplicita-delle-direttive-in-caso-di-crisi.md)] [[**`html`**](html/la-semplicita-delle-direttive-in-caso-di-crisi.html)] [[**`pdf`**](pdf/la-semplicita-delle-direttive-in-caso-di-crisi.pdf)]
+
+    - Simplicity is a value, but in times of crisis it becomes a pragmatic and emerging necessity, yet it is precisely something we forgot during the Covid-19 pandemic and its management.
+
+<br/>
+
 ## Download
 
 There are several way to download this github repository:
