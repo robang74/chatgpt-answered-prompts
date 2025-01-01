@@ -54,7 +54,19 @@ Few but relevant warnings for those are not aware how artificial intelligence an
 
 <br/><span id="pages-index"></span>
 
-## Index about finance & economics
+## Index
+
+This index is divided in tre sections related to different topics.
+
+- About [finance & economics](#about-finance--economics)
+
+- About [education & innovation](#about-education--innovation)
+
+- About [politics & governance](#about-politics--governance)
+
+---
+
+### About finance & economics
 
 1. **Draghi's report about innovation** [[**`md`**](Draghi-report-about-innovation-01.md)] [[**`html`**](html/Draghi-report-about-innovation-01.html)] [[**`pdf`**](pdf/Draghi-report-about-innovation-01.pdf)]
 
@@ -84,9 +96,9 @@ Few but relevant warnings for those are not aware how artificial intelligence an
 
     - How to globally escape from the current dystopic financial model and connect the economics with reality, avoid WW3 and save the planet.
 
-<br/>
+---
 
-## Index about education & innovation
+### About education & innovation
 
 1. **Propaganda e sistema educativo** [[**`md`**](propaganda-e-sistema-educativo.md)] [[**`html`**](html/propaganda-e-sistema-educativo.html)] [[**`pdf`**](pdf/propaganda-e-sistema-educativo.pdf)]
 
@@ -108,9 +120,9 @@ Few but relevant warnings for those are not aware how artificial intelligence an
 
     - Starting from an contro-meme challenge about a citation popularly attributed to Immanuel Kant toward a rule of thumb how to deal with the lies, the truth and their expectations.
 
-<br/>
+---
 
-## Index about politics & governance
+### About politics & governance
 
 1. **Costituzionalità della legge Nordio** [[**`md`**](costituzionalita-legge-nordio-01.md)] [[**`html`**](html/costituzionalita-legge-nordio-01.html)] [[**`pdf`**](pdf/costituzionalita-legge-nordio-01.pdf)]
 
