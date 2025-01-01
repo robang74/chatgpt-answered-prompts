@@ -1,4 +1,6 @@
-<div id="firstdiv" created=":IT" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
+<meta http-equiv="refresh" content="1; url=https://robang74.github.io/chatbots-for-fun/html/chatgpt-vs-paolo-benanti.html" />
+
+<div id="firstdiv" created="2025-01-01:IT:-17" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
 
 ## ChatGPT vs Paolo Benanti
 
