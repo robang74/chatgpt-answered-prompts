@@ -1,2 +1,9 @@
 m() { bash tools/md2html.sh "$@"; }
-c() { chromium-browser "$@"; }
+c() { 
+    for i in "$@"; do
+        i=${i/.md/.html}
+        test -r "$i" || i="html/$i"
+        chromium-browser "$i" &
+    done
+    echo
+}
