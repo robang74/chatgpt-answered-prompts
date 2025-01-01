@@ -64,7 +64,7 @@ Few but relevant warnings for those are not aware how artificial intelligence an
 
     - Covers Mario Draghi's report on Europe's energy policies, focusing on transitioning to sustainable and renewable energy sources.
 
-3. **Draghi's faboulous 800bln funding plan** [[**`md`**](Draghi-faboulous-800bln-funding-02.md)] [[**`html`**](html/Draghi-faboulous-800bln-funding-02.html)] [[**`pdf`**](pdf/Draghi-faboulous-800bln-funding-02.pdf)]
+3. **Draghi's faboulous 800 bln funding plan** [[**`md`**](Draghi-faboulous-800bln-funding-02.md)] [[**`html`**](html/Draghi-faboulous-800bln-funding-02.html)] [[**`pdf`**](pdf/Draghi-faboulous-800bln-funding-02.pdf)]
 
     - Discusses Mario Draghi's proposed €800 billion funding initiative aimed at boosting Europe's economic recovery.
 
