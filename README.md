@@ -126,7 +126,7 @@ This index is divided in tre sections related to different topics.
 
 1. **Costituzionalità della legge Nordio** [[**`md`**](costituzionalita-legge-nordio-01.md)] [[**`html`**](html/costituzionalita-legge-nordio-01.html)] [[**`pdf`**](pdf/costituzionalita-legge-nordio-01.pdf)]
 
-    - The reason is that Nordio's law on the decriminalisation of abuse of public office is contrary to the principles of the Italian Constitution, violates important international agreements signed by Italy, and jeopardises the disbursement of PNRR funds (i.e. the risk of total reclamation).
+    - The reasons why Nordio's law on the decriminalisation of abuse of public office is contrary to the principles of the Italian Constitution, violates important international agreements signed by Italy, and jeopardises the disbursement of PNRR funds (i.e. the risk of total reclamation).
 
 2. **The sugar role in our foods and lives** [[**`md`**](the-sugar-role-in-our-foods-and-lives.md)] [[**`html`**](html/the-sugar-role-in-our-foods-and-lives.html)] [[**`pdf`**](pdf/the-sugar-role-in-our-foods-and-lives.pdf)]
 
