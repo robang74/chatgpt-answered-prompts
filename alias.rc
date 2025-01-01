@@ -1,0 +1,2 @@
+m() { bash tools/md2html.sh "$@"; }
+c() { chromium-browser "$@"; }
