@@ -1,11 +1,13 @@
-<div id="firstdiv" created=":EN" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
+<div id="firstdiv" created=":IT" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
 
 ## ChatGPT vs Paolo Benanti
 
 Questo articolo è stato spostato qui:
 
-* [ChatGPT vs Paolo Benanti](https://github.com/robang74/chatbots-for-fun/blob/main/chatgpt-vs-paolo-benanti.md) aka Mr. Spock vs Miss Poppins
+* [ChatGPT vs Paolo Benanti](https://robang74.github.io/chatbots-for-fun/html/chatgpt-vs-paolo-benanti.html) aka Mr. Spock vs Miss Poppins (html)
 
-Considerato che tratta di un tema specifico di quella raccolta ovvero la relazione fra umani e intelligenze artificiali.
+* [chatgpt-vs-paolo-benanti.md](https://github.com/robang74/chatbots-for-fun/blob/main/chatgpt-vs-paolo-benanti.md) in chatbots-for-fun (github, markdown)
+
+Perché tratta di un tema specifico di quella raccolta: la relazione fra umani e intelligenze artificiali.
 
 </div>
