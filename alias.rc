@@ -2,8 +2,9 @@ m() { bash tools/md2html.sh "$@"; }
 c() { 
     for i in "$@"; do
         i=${i/.md/.html}
+        i=${i/README/index}
         test -r "$i" || i="html/$i"
-        chromium-browser "$i" &
+        bash -c "chromium-browser $i >/dev/null" &
     done
     echo
 }
