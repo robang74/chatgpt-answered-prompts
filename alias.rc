@@ -1,14 +1,21 @@
-m() { bash tools/md2html.sh "$@"; }
-c() { 
-    for i in "$@"; do
+raisewapp() {
+    local appn=$(wmctrl -l | sed -ne "s/.*$(hostname) \(.* - $1\)$/\\1/p")
+    test -n "$appn" && wmctrl -R $appn
+}
+m() { bash tools/md2html.sh "${@:-$(st -m *.md)}"; }
+c() {
+    for i in "${@:-$(st -m *.md)}"; do
         i=${i/.md/.html}
         i=${i/README/index}
         test -r "$i" || i="html/$i"
-        bash -c "chromium-browser $i >/dev/null" &
+        test "$i" == "html/" && i="index.html"
+        printf "\n> browse file: $i\n"
+        bash -c "nohup chromium-browser ${i:-index.html} >/dev/null 2>&1 &"
+        for i in $(seq 1 5); do sleep 0.1; raisewapp Chromium; done
     done
     echo
 }
 gptchat() {
-    bash -c "xxdiff . ~/b/${PWD##*/} &
-export QT_QPA_PLATFORM=xcb; ~/gpt4all/bin/chat" &
+    QT_QPA_PLATFORM="xcb" XDG_SESSION_TYPE="xcb" xxdiff . ~/b/${PWD##*/} ;
+    bash ~/gpt4all/bin/chat.sh 2>&1 | grep -q jsafaljfòkjflòDFSÒLKJDSFSD &
 }
