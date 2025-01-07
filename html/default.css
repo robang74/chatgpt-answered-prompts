@@ -112,13 +112,18 @@ a:link {
     color: #84cfff;
 }
 a:hover {
-    color: #84ffff;
+    border: none;
+    text-decoration: underline;
 }
 a:visited {
     color: #ffc060;
+    text-decoration: none;
+    border: none;
 }
 a:active {
     color: #fff060;
+    text-decoration: bold;
+    border: none;
 }
 
 img {
@@ -276,5 +281,4 @@ div.tpbrblue, div.tpbrgren, div.tpbrwarm {
     display: inline-block;
     color: #e8fbe8;
 }
-
 
