@@ -2,13 +2,15 @@
 
 ## THE SUGAR'S ROLE IN OUR FOODS AND LIVES
 
-*The etymology of the word "**sugar**" reflects the spread of the commodity. From Sanskrit (śarkarā), meaning "ground or candied sugar", came Persian shakar and Arabic sukkar. The Arabic word was borrowed in Medieval Latin as succarum, whence the 12th century French sucre and the English sugar. Sugar was introduced into Europe by the Arabs in Sicily and Spain.*
+<div class="post-it"><b class="post-it">&#9432;</b>
+The etymology of the word "**sugar**" reflects the spread of the commodity. From Sanskrit (śarkarā), meaning "ground or candied sugar", came Persian shakar and Arabic sukkar. The Arabic word was borrowed in Medieval Latin as succarum, whence the 12th century French sucre and the English sugar. Sugar was introduced into Europe by the Arabs in Sicily and Spain.
 
-*Nearchus, admiral of Alexander the Great, knew of sugar during the year 325 BC, because of his participation in the campaign of India led by Alexander. Crusaders brought sugar back to Europe after their campaigns in the Holy Land, where they encountered caravans carrying "sweet salt". Early in the 12th century, Venice acquired some villages near Tyre and set up estates to produce sugar for export to Europe. It supplemented the use of honey, which had previously been the only available sweetener.*
+Nearchus, admiral of Alexander the Great, knew of sugar during the year 325 BC, because of his participation in the campaign of India led by Alexander. Crusaders brought sugar back to Europe after their campaigns in the Holy Land, where they encountered caravans carrying "sweet salt". Early in the 12th century, Venice acquired some villages near Tyre and set up estates to produce sugar for export to Europe. It supplemented the use of honey, which had previously been the only available sweetener.
 
-*There was a drastic change in the mid-15th century, when Madeira and the Canary Islands were settled from Europe and sugar introduced there. By 1492, Madeira was producing over 1,400 metric tons of sugar annually. For a comparison in 2022/23, the world sugar production amounted to approximately 177 million metric tons. Provisional numbers for 2021 put the amount of sugar consumed in the European Union (EU-27) at approximately 16.6 million metric tons (just in EU27, it is 11.857 times more than in 1492).*
+There was a drastic change in the mid-15th century, when Madeira and the Canary Islands were settled from Europe and sugar introduced there. By 1492, Madeira was producing over 1,400 metric tons of sugar annually. For a comparison in 2022/23, the world sugar production amounted to approximately 177 million metric tons. Provisional numbers for 2021 put the amount of sugar consumed in the European Union (EU-27) at approximately 16.6 million metric tons (just in EU27, it is 11.857 times more than in 1492).
 
 **Sources**: Wikipedia and Statista
+</div>
 
 As you can imagine sugar was not a food for almost all the blinkeye time in our evolution as Homo Sapiens Sapiens. However, this is not such a big issue because we evolved digesting different kinds of "sugars" like glucose, fructose, maltose and galactose.
 
@@ -34,7 +36,7 @@ none
 
 This is an article written in Italian related to this topic.
 
--> [Zucchero, alimentazione e salute](https://www.linkedin.com/pulse/zucchero-alimentazione-e-salute-roberto-a-foglietta-rs10f)
+- [Zucchero, alimentazione e salute](https://www.linkedin.com/pulse/zucchero-alimentazione-e-salute-roberto-a-foglietta-rs10f)
 
 However, this article has not been used as data input for the chatbot which is the reason because its link is reported here in the "*notes*" section instead of in the "*upload*" section.
 
@@ -177,42 +179,41 @@ Produce a table in which 35 grams of sugar which is the amount of sugar found in
 | Adult Men (Sedentary)      | 2200 kcal      | 6.36%        |  15.71    |
 | Adult Men (Active)         | 2800 kcal      | 5.00%        |  20.00    |
 
-*This section and the table have been human-edited for being shorter and more informative, especially about Ratios.*
+<sup class="sup-note">This section and the table have been human-edited for being shorter and more informative, especially about Ratios.</sup>
 
-\- - - -
+<hr class="post-it" />
 
 **Equivalent Food Quantities to Reach 140 kcal (35g of Sugar)**
 
 This table below shows the equivalent food quantities to reach 140 kcal, the same supplied by 35g of sugar.
 
-| **#** | **Food**        | **Grams for 140 kcal** |          **Kcal for 100 grams**        |
-|-------|-----------------|------------------------|----------------------------------------|
-|       | (*data source*) |      (*ChatGPT 4o*)    |             (*Google search*)          |
-| 1     | Bananas         |       157 g            | &nbsp; 89 &nbsp; (72 - 135) kcal       |
-| 2     | Apples          |       269 g            | &nbsp; 52 &nbsp; (38 - &nbsp; 70) kcal |
-| 3     | Oranges         |       298 g            | &nbsp; 47 &nbsp; (45 - &nbsp; 50) kcal |
-|       |                 |                        |                                        |
-| 4     | Potatoes        |       182 g            | &nbsp; 77 &nbsp; (68 - &nbsp; 92) kcal |
-| 5     | Carrots         |       341 g            | &nbsp; 41 &nbsp; (35 - &nbsp; 54) kcal |
-| 6     | Beans           | &nbsp; 98 g            |       143 &nbsp; (33 - 333) kcal       |
-|       |                 |                        |                                        |
-| 7     | White Bread     | &nbsp; 56 g            |       250       (219 - 294) kcal       |
-| 8     | Pasta (boiled)  |       107 g            |       131       (131 - 155) kcal       |
-| 9     | Rice (boiled)   |       108 g            |       130       (113 - 139) kcal       |
-|       |                 |                        |                                        |
-| 10    | Beef            | &nbsp; 56 g            |       250       (250 - 295) kcal       |
-| 11    | Salmon          | &nbsp; 67 g            |       206       (127 - 261) kcal       |
-| 12    | Tuna Fish       | &nbsp; 97 g            |       144       (108 - 201) kcal       |
-|       |                 |                        |                                        |
-| 13    | Eggs            | &nbsp; 98 g            |       142       (131 - 147) kcal       |
-| 14    | Milk            |       333 g            | &nbsp; 42 &nbsp; (34 - &nbsp; 64) kcal |
-|       |                 |                        |                                        |
-| 15    | Butter          | &nbsp; 20 g            |       717       (714 - 803) kcal       |
-| 16    | Olive Oil       | &nbsp; 16 g            |       884       (884 - 999) kcal       |
+| Food<br/>( *data source* ) | id<br/>( *#* ) | Grams for 140 kcal<br/>( *ChatGPT 4o* ) |         Kcal for 100 grams<br/> ( *Google search* )         |
+|-----------------|----|--------------------|-------------------------------------|
+| Bananas         |  1 |       157 g        | &nbsp;89 (&nbsp;72 - 135) kcal      |
+| Apples          |  2 |       269 g        | &nbsp;52 (&nbsp;38 - &nbsp;70) kcal |
+| Oranges         |  3 |       298 g        | &nbsp;47 (&nbsp;45 - &nbsp;50) kcal |
+|                 |    |                    |                                     |
+| Potatoes        |  4 |       182 g        | &nbsp;77 (&nbsp;68 - &nbsp;92) kcal |
+| Carrots         |  5 |       341 g        | &nbsp;41 (&nbsp;35 - &nbsp;54) kcal |
+| Beans           |  6 |  &nbsp;98 g        |      143 (&nbsp;33 - 333) kcal      |
+|                 |    |                    |                                     |
+| White Bread     |  7 |  &nbsp;56 g        |      250       (219 - 294) kcal     |
+| Pasta (boiled)  |  8 |       107 g        |      131       (131 - 155) kcal     |
+| Rice (boiled)   |  9 |       108 g        |      130       (113 - 139) kcal     |
+|                 |    |                    |                                     |
+| Beef            | 10 |  &nbsp;56 g        |      250       (250 - 295) kcal     |
+| Salmon          | 11 |  &nbsp;67 g        |      206       (127 - 261) kcal     |
+| Tuna Fish       | 12 |  &nbsp;97 g        |      144       (108 - 201) kcal     |
+|                 |    |                    |                                     |
+| Eggs            | 13 |  &nbsp;98 g        |      142       (131 - 147) kcal     |
+| Milk            | 14 |       333 g        | &nbsp;42 (&nbsp;34 - &nbsp;64) kcal |
+|                 |    |                    |                                     |
+| Butter          | 15 |  &nbsp;20 g        |      717       (714 - 803) kcal     |
+| Olive Oil       | 16 |  &nbsp;16 g        |      884       (884 - 999) kcal     |
 
-*This section and the table have been human-edited for being shorter and more informative, especially about classes and ranges.*
+<sup class="sup-note">This section and the table have been human-edited for being shorter and more informative, especially about classes and ranges.</sup>
 
-\- - - -
+<hr class="post-it" />
 
 **Conclusions**
 
