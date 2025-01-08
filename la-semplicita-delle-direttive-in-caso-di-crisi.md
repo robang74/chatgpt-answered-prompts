@@ -1393,23 +1393,23 @@ Hai proposto una serie di misure alternative alla gestione della pandemia che me
 
 Analizziamo i tuoi punti:
 
-> **1. Consigliare agli anziani di non uscire di casa, il meno possibile**
+**1.** --- **Consigliare agli anziani** di non uscire di casa, il meno possibile.
 
 * Questa misura, mirata alla fascia di popolazione più vulnerabile, avrebbe potuto avere un senso in una fase iniziale, quando le conoscenze sul virus erano limitate. Tuttavia, un isolamento prolungato degli anziani ha avuto pesanti conseguenze sul loro benessere psicofisico, aumentando il rischio di depressione, declino cognitivo e isolamento sociale. Un approccio più efficace avrebbe potuto essere quello di fornire indicazioni precise su come proteggersi (uso di mascherine, distanziamento, igiene) e di garantire loro supporto domiciliare e accesso alle cure.
 
-> **2. Consigliare a tutti di usare prescrizioni chirurgiche assolutamente testate e note quali mascherine e disinfettanti per le mani quando si esce o si è in società**
+**2.** --- **Consigliare a tutti** di usare prescrizioni chirurgiche assolutamente testate e note quali mascherine e disinfettanti per le mani quando si esce o si è in società.
 
 * L'uso di mascherine e l'igiene delle mani sono misure di comprovata efficacia nel ridurre la trasmissione di virus respiratori. Promuoverne l'uso corretto e costante, senza imposizioni generalizzate, sarebbe stato un approccio ragionevole.
 
-> **3. Chiudere solo quelle attività sociali non strettamente essenziali come le discoteche o i concerti dove un numero grande di persone si riuniscono**
+**3.** --- **Chiudere solo quelle attività** sociali non strettamente essenziali come le discoteche o i concerti dove un numero grande di persone si riuniscono.
 
 * Questa misura, mirata a ridurre il rischio di assembramenti e di super-diffusione del virus, appare sensata. Tuttavia, è importante considerare anche l'impatto economico e sociale della chiusura di queste attività, e cercare soluzioni alternative che permettano una riapertura in sicurezza (ad esempio, con limitazioni di capienza, distanziamento e ventilazione).
 
-> **1. Dare priorità di assistenza negli ospedali, qualora fossero costretti a fare triage, di prediligere i giovani piuttosto che gli anziani (anche se il concetto di vita da vivere nel triage è diverso dall'età anagrafica) e proteggere i medici con le forze di polizia invece di mandarle in giro ad assimilare le persone**
+**4.** --- **Dare priorità di assistenza negli ospedali**, qualora fossero costretti a fare triage, di prediligere i giovani piuttosto che gli anziani (anche se il concetto di vita da vivere nel triage è diverso dall'età anagrafica) e proteggere i medici con le forze di polizia invece di mandarle in giro ad assimilare le persone.
 
 * Questo è il punto più delicato e controverso. Il triage in situazioni di emergenza è una pratica complessa che deve tenere conto di diversi fattori, tra cui la gravità delle condizioni, la probabilità di successo delle cure e le risorse disponibili. Dare priorità ai giovani sulla base della sola età anagrafica solleva questioni etiche importanti. Un approccio più equo potrebbe essere quello di utilizzare criteri clinici oggettivi per valutare la priorità di accesso alle cure, indipendentemente dall'età. L'uso delle forze di polizia per proteggere il personale sanitario appare una misura ragionevole in situazioni di emergenza, ma è fondamentale evitare eccessi e abusi.
 
-**5. Evitare di somministrare in massa farmaci non testati secondo i protocolli medici accertati e in particolare evitare obblighi di massa** 
+**5.** --- **Evitare di somministrare in massa** farmaci non testati secondo i protocolli medici accertati e in particolare evitare obblighi di massa.
 
 * Questo principio è fondamentale. La somministrazione di farmaci o vaccini deve sempre avvenire sulla base di solide evidenze scientifiche e nel rispetto del consenso informato del paziente. L'obbligo vaccinale può essere giustificato solo in situazioni eccezionali e sulla base di una rigorosa valutazione dei rischi e dei benefici.
 
