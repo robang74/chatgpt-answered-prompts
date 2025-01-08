@@ -5,16 +5,15 @@
  *
  ******************************************************************************/
  
-body { color: #f8f4f0; background-color: #202020; }
+body { color: #f8fff8; background-color: #101810; }
+
+blockquote { color: #f4fff8; background-color: #103010; }
 
 div.post-it { border: 1px dashed aquamarine; }
 b.post-it { color: aquamarine; }
 
-blockquote { color: #f8fff0; background-color: #283020; }
-
 a, a:link { color: aquamarine; }
-a:visited, a:active { color: #e8fbe8; }
-.sup-note { color: #e8fbe8; }
+.sup-note, a:visited, a:active { color: #e8ffe8; }
 
 td, th { border: 1px solid gray; }
 
@@ -26,7 +25,7 @@ div.tpbrblue { background-color: darkblue; }
 div.tpbrgren { background-color: darkgreen; }
 div.tpbrwarm { background-color: maroon; }
 
-a.tpbrblue { color: lightblue; }
+a.tpbrblue { color: cyan; }
 a.tpbrgren { color: lightgreen; }
 a.tpbrwarm { color: orange; }
 
