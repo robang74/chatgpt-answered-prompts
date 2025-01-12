@@ -2,6 +2,12 @@
 
 ## Diritti digitali e sperazione dei dati dai social
 
+A network is a network and not a cloud storage service. Not just a matter of pedantic definition rather than consumer users' rights protection about the ownership and independent management of their data, for moving from a set of monopolies to a free market. How? It is explained.
+
+---
+
+### Introduzione
+
 Questo documento parla di diritti digitali degli utenti, e di quanto sarebbe efficace difenderli separando la gestione dei contenuti (dati) dalle piattaforme social.
 
 Ovviamente non potevo prescidere dall'indicare anche il come. In questo dialogo parto appunto da un proof-of-concept realizzato per le mie personali necessità.
