@@ -12,7 +12,7 @@ A network is a network and not a cloud storage service. Not just a matter of ped
 
 How? It is explained in this document, here below summarised in a few key-points.
 
-- A decentralized model utilizing git repositories for user data (web-like contents) can significantly breakthrough for digital freedom, and a legislative support for orienting that market sector towards this approach is highly desirable.
+- A decentralized model utilizing git repositories for user data (web-like contents) can significantly break through for digital freedom, and legislative support for orienting that market sector towards this approach is highly desirable.
 
 - This solution could also be advantageous for the players in the sector, allowing them to monetise social networks without bearing the costs of storage and related technical support
 
