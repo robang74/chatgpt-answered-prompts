@@ -43,51 +43,35 @@ Però da quell'esperienza ho maturato una consapevolezza che non potevo, da info
 
 Questa è la struttura del documento così come ricostruita e sintetizzata da ChatGPT che ho poi modificato in maniera da renderla più sintetica e aderente al documento.
 
-1. **Prompt #1 - Introduzione e contesto**
+#### Sezione preliminare
 
-   - Introduzione al concetto di decentralizzazione nei social media e ai vantaggi di tecnologie leggere e open-source.
+- [#1](#prompt-1) - **Introduzione e contesto** - Introduzione al concetto di decentralizzazione nei social media e ai vantaggi di tecnologie leggere e open-source.
 
-2. **Prompt #2 - Critiche e risposte**  
+- [#2](#prompt-2) - **Critiche e risposte** - Discussione delle critiche sollevate riguardo al progetto, con relative spiegazione e controdeduzioni.
 
-   - Discussione sulle critiche di semplicità, mancanza di dettagli tecnici e visione utopica.
+#### Sezione introduttiva
 
-   - Chiarimento del ruolo di un proof-of-concept come caso studio e non come prodotto finito.
+- [#3](#prompt-3) - **Scalabilità e ruolo dell'informatico** - Distinzione tra il lavoro dell’informatico come innovatore e invece la gestione commerciale di un'idea.
 
-3. **Prompt #3 - Scalabilità e ruolo dell'informatico**
- 
-   - Distinzione tra il lavoro dell’informatico come innovatore e la gestione commerciale di un'idea.
+- [#4](#prompt-4) - **Tempi e maturità del progetto** - Dialogo con il chatbot per distoglierlo dal reiterare concetti come "scalabilità" fuori luogo rispetto ad un "proof-of-concept".
 
-4. **Prompt #4 - Tempi e maturità del progetto**
+- [#5](#prompt-5) - **proof-of-concept vs prodotto** - Uso corretto della terminologia per evitare ambiguità su cosa sia uno e l'altro.
 
-   - Dialogo con il chatbot per distoglierlo dal reiterare concetti come "scalabilità" fuori luogo rispetto ad un "proof-of-concept".
+#### Sezione esplicativa
 
-5. **Prompt #5 - Differenza tra proof-of-concept e prodotto commerciale**
+- [#6](#prompt-6) - **Diritti e decentralizzazione** - Proposta di separare i contenuti utente dai social tramite repository git per garantire libertà e responsabilità individuale.  
 
-   - Uso corretto della terminologia per evitare ambiguità.
+- [#7](#prompt-7) - **Tecnologie esistenti e interoperabilità** - L’uso di Git come standard già consolidato per garantire interoperabilità e libertà agli utenti.
 
-6. **Prompt #6 - Legislazione e decentralizzazione**
+- [#8](#prompt-8) - **User experience e accessibilità** - L’importanza di questo approccio per favorire il libero mercato.
 
-   - Proposta di separare i contenuti utente dai social tramite repository git per garantire libertà e responsabilità individuale.  
+#### Sezione propositiva
 
-7. **Prompt #7 - Tecnologie esistenti e interoperabilità**
+- [#9](#prompt-9) - **Delegare la gestione dei dati** - e della gestione dei servizi relativi che in realtà non finirà sulle spalle di utenti inesperti ma gestito da terze parti. 
 
-   - L’uso di Git come standard già consolidato per garantire interoperabilità e libertà agli utenti.
+- [#10](#prompt-10) - **Git e mercato libero** - Le tecnologie scalabili esistono già, il problema è il monopolio della gestione dei dati/contenuti attuato dai social media.  
 
-8. **Prompt #8 - User experience e accessibilità**  
-
-   - L’importanza di questo approccio per favorire il libero mercato.
-
-9. **Prompt #9 - Il problema della proprietà e gestione dei dati**
-
-   - e della gestione dei servizi relativi che in realtà non finirà sulle spalle di utenti inesperti ma gestito da terze parti. 
-
-10. **Prompt #10 - Git e mercato libero**  
-
-   - Le tecnologie scalabili esistono già, il problema è il monopolio della gestione dei dati/contenuti attuato dai social media.  
-
-11. **Prompt #11 - Implementazione pratica**  
-
-   - Gli utenti non devono gestire direttamente Git, ma solo creare un account, esattamente come fanno con le email.
+- [#11](#prompt-11) - **Implementazione pratica** - Gli utenti non devono gestire direttamente Git, ma solo creare un account, esattamente come fanno con le email.
 
 Nel caso vi chiediate perché abbia dovuto modificare persino un indice/struttura prodotta da un'AI, la risposta argomentativa la trovate in questo [articolo](https://robang74.github.io/chatbots-for-fun/html/neutrality-vs-biases-for-chatbots.html).
 
@@ -97,66 +81,50 @@ In estrema sintesi perché ogni AI è "fissata" con un suo proprio e peculiare i
 
 ### Come leggerlo
 
-Questo documento come molti altri di questo genere che ho pubblicato su questo sito, possono essere usufruiti in maniera agevole e piacevole seguendo poche regole generali.
+Questo documento come molti altri di questo genere emergente possono essere usufruiti in maniera agevole e piacevole seguendo poche regole generali.
 
-1. Generalmente il primo prompt è di apertura e spesso ha un carattere di poca attinenza con le conclusioni, talvolta è persino irrilevante ma solo un modo di "rompere il ghiaccio". 
+* [Come leggere un dialogo con un chatbot](https://robang74.github.io/chatbots-for-fun/html/come-leggere-una-chat-con-un-ai.html)
 
-Ovviamente questa necessità non esiste con i chatbot, ma noi umani siamo fatti così, abbiamo bisogno del nostro tempo per "carburare" ed entrare nel vivo della questione.
+Per chi è preferisce dedicarsi alla lettura di questo piuttosto che divagare, si può riassumere in pochi semplici consigli: 
 
-2. Quindi saltare alle conclusioni è un ottimo modo per capire di cosa veramente il documento anche perché come ho autore ho una forte attitudine ad usare i titoli per il bait-clicking
+1. cominciare dal fondo e risalire, 
 
-Questa attitudine è meno spinta su questo sito ma resta sempre un'ottima regola generale di non crearsi false aspettative per via del titolo ovvero giudicare il libro dalla copertina.
+2. leggere prima tutti i prompt (umano),
 
-Attualmente i chatbot sono prolissi oltre la gestibilità umana perché scrivere testo (sputare token a raffica) è meno computazionalmente intensivo di riassumere e concentrarsi sulle questioni essenziali.
+3. eventualmente le risposte del chatbot.
 
-Curiosamente il rapporto S/N nelle persone segue pattern simili. Comunque, mentre la sintesi non è un grosso problema per questi chatbot, comprendere quali siano i punti salienti di un discorso è qualcosa che al momento gli è abbastanza "alieno". Oltre al fatto che in alcuni contesti, i punti salienti sono soggettivi e più in generale "l'essenziale è invisibile agli osservatori distratti".
+Infatti, una best-practice per il prompting è riportare in quello successivo i punti critici della risposta precedente per discuterli ulteriormente.
 
-3. Quindi potete agilmente saltare le risposte del chatbot che la parte rilevante della sua risposta viene riferita nel prompt successivo.
+<br/>
+<br/>
 
-Nonostante questo le risposte sono in genere riportate integralmente, eccetto vaniloqui palesi che vengono riassunti con "bla bla" perché le non tutte le raffiche di token meritano la nostra attenzione.
+## Peer-review
 
-4. Una volta saltati alle conclusioni potete risalire leggendo fino alla parte che per voi smette di essere rilevante oppure arrivare fino all'origine dell'argomento.
+Usando un prompt di sistema specifico (vedi [qui](https://robang74.github.io/chatbots-for-fun/html/the-system-prompt-alchemy.html#rules-set-escalation)) ho provveduto a fare una peer-review con alcune AI, nel limite della loro capacità di analizzare una questione complessa come questa. Eppure, nonostante i loro limiti Gemini mi ha aiutato ad indirizzare le domande di prima istanza.
 
-Questo modo di procedere anti-cronologico è, generalmente, inusuale ma per questo tipo di documenti è molto efficace e anche molto efficiente. D'altronde con l'evoluzione della tecnologia anche i modelli di letteratura cambiano e quindi il nostro modo di leggerli. Null'altro che una sorta di adattamento, fra i tanti che abbiamo già affrontato.
+ChatGPT ha sollevato una questione importante che è stata anch'essa affrontata, nell'introduzione in Inglese. Poi la peer-review è passata a Claude e quindi a Mistral AI. Ma a quel punto le osservazioni sollevati erano già state risolte nella parte del documento che non era stata condiviso con loro.
+
+Infatti a tutti i chatbot coinvolti è stato fornito lo stesso testo contenente solo la discussione con Gemini, in maniera che le loro risposte fossero confrontabile. Solo successivamente a questo confronto sono stati condivise anche le informazioni posteriori, quando é stato necessario.
+
+Qui sotto sono riportate le conclusioni. Considerato la metologia relativamente semplice e che il testo iniziale, quello finale e il prompt di sistema sono stati forniti, altri possono indipendentemente seguire il medesimo processo e confrontare i risutlati da loro ottenuti con questi.
 
 ---
 
-### Modus Operandi
+### ChatGPT 4
 
-Anche perché lo scopo del dialogo con un chatbot - come spiegato nella homepage del sito che ospita questo articolo e in altri articoli in esso - non è quello di ascoltare l'opinione di un oracolo ma piuttosto quella di usare il dialogo per capire come spiegare le cose che interiormente a noi sono chiare - l'ovvio per noi, non è poi così ovvio per gli altri - ma soprattutto capire cosa potrebbe essere frainteso o non compreso, e quindi va spiegato meglio.
+La discussione tra l’operatore umano e Gemini è razionalmente guidata e ben argomentata, senza errori concettuali rilevanti. Le eventuali aree di miglioramento riguardano più l'approfondimento di dettagli secondari che non mettono in discussione la validità della proposta principale.
 
-In altri casi ho usato il dialogo con il chatbot per fare peer-review alle mie idee ma in questo contesto vanto decenni di esperienza professionale e quindi posso insegnare, come infatti il chatbot ha compreso esso stesso.
+---
 
-Generalmente mi piace scrivere ma non mettermi in cattedra, però ogni tanto qualcuno mi ci tira per la giacchetta... e chi diavolo sono io per non accontentarli? Mi piace l'odore di prima mattina di altri "clienti" ben serviti secondo dovere e merito. LOL
+### Claude AI
 
-<br/>
-<br/>
+Ho analizzato attentamente la progressione del dialogo e posso confermare che la discussione procede in modo logico e razionale, con una struttura argomentativa solida. Non ho rilevato errori concettuali significativi o omissioni che potrebbero compromettere la validità delle conclusioni. La discussione mantiene un equilibrio tra visione innovativa e pragmatismo tecnico, rendendo le proposte presentate credibili e potenzialmente implementabili.
 
-## Q&A DIALOG
+---
 
-In this case, it is not a single prompt but a dialog: a series of answered questions about the Mario Drahi's 800 billions funding plan proposed to fostering the European economy and supprt the innovation within the continent. Prompts and the related answers are separated by horizontal lines.
+### Mistral AI 
 
-The prompts have been modified from the originals of the first commit due to corrections made in the English text, but without altering the meaning, so they should be transparent to a chatbot. On the other hand, reading at the bottom of this page about the comparison between two separate sessions, carried out even with identical prompts, repeatability is not guaranteed given the fact that the models are learning and above all are regularly updated.
-
-### UPLOAD
-
-none
-
-### CUSTOMISATION
-
-none
-
-### TRANSLATION
-
-Some parts of this document (tag: 2024-10-09) were originally written in Italian. The English translation of those parts have been made by an Italian native speaker fluently in English, who has been supported by the automatic translator [deepl.com](https://www.deepl.com/) in free-of-charge version to fasten the translation.
-
-If you wish to send a translation in any other language, it is necessary that you are familiar with one of the languages in which this document is available, even better if you know English and can start from the original version, and that you are a native speaker or equivalent in the language into which the translation is being made.
-
-### COPYRIGHT
-
-&copy; 2024, **Roberto A. Foglietta** &lt;roberto.foglietta<span>@</span>gmail.com&gt;
-
-This document is entirely published under *Creative Commons Attribution Non-Commercial No-Derivatives 4.0 International* license terms ([CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)) included the part above this statement. Moreover, if a version of this document exists or has existed under different licence terms, the licence terms of the latest version available on `github/robang74` [repository](https://github.com/robang74/chatgpt-answered-prompts/) apply. Even when the new licence terms are more restrictive, because permissions for any free content may be revoked at any time at the will of the author, and updating a licence to be more restrictive explicitly implies this will.
+La struttura del documento evidenzia una progressione logica della discussione, partendo da un caso specifico e allargandosi a considerazioni più ampie sui diritti digitali e sulla struttura dei social media.Non sono stati rilevati errori concettuali significativi o aspetti importanti trascurati che possano inficiare un'eventuale proposta basata su questo colloquio.
 
 <br/>
 <br/>
@@ -165,7 +133,7 @@ This document is entirely published under *Creative Commons Attribution Non-Comm
 
 Cosa ne pensi di questo post?
 
-> Testo inserito da [post](https://www.facebook.com/share/p/15ozhrQxjH/) su Facebook di cui [copia](data/la-mamma-ha-sempre-ragione.txt]) nella cartella data. 
+> Testo inserito da [post](https://www.facebook.com/share/p/15ozhrQxjH/) su Facebook di cui [copia](data/la-mamma-ha-sempre-ragione.txt]) nella cartella `data`. 
 
 ---
 
@@ -493,7 +461,7 @@ Il tuo esempio è illuminante: un proof-of-concept può essere il punto di parte
 
 Ciò che è fondamentale è capire che il proof-of-concept è una fase iniziale, una sorta di esperimento per validare un'idea.
 
-#### Criteri per passare da un proof-of-concept a un prodotto commerciale
+#### proof-of-concept vs prodotto commerciale
 
 Se proprio volessimo individuare dei criteri per passare da un proof-of-concept a un prodotto commerciale, potremmo considerare i seguenti:
 
@@ -761,6 +729,22 @@ Perchè - noi peones di umili estrazione sociale - dobbiamo essere cauti e solid
 Se potete fate i bravi, disse quel prete famoso e uno dei pochi che merita di essere ricordato, e se non potete ricordatevi di me non solo nelle vostre bestemmie ma anche nei bonifici, che poi le bestemmie arrivano e vi serve aiuto!
 
 Con affetto il vostro Mr. Wolf, risolvo problemi. Non necessariamente i vostri, però, specialmente se non ho risolto i miei per primi. LOL
+
+<br/>
+<br/>
+
+## Related articles
+
+* [Neutrality vs biases for chatbots](https://robang74.github.io/chatbots-for-fun/html/neutrality-vs-biases-for-chatbots.html) (2025-01-04, EN)
+
+* [The system prompt alchemy](https://robang74.github.io/chatbots-for-fun/html/the-system-prompt-alchemy.html) (2025-01-04, EN)
+
+<br/>
+<br/>
+
+## Copyright
+
+&copy; 2025, **Roberto A. Foglietta** &lt;roberto.foglietta<span>@</span>gmail.com&gt;, [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 </div>
 
