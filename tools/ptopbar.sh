@@ -25,7 +25,6 @@ function print_topbar() {
 
     if [ "$file" == "README.md" ]; then
         file="index.html"
-        i=1
     else
         file="html/${file%.md}"
     fi
@@ -51,14 +50,14 @@ function print_topbar() {
             let skip++; test $skip -gt 0 || continue; lg=${LG,,}
             if [ "$lang" != "$lg" ]; then
                 TRNSL_STRN+="<a $ALINK_CLASS "
-                if [ "$i" == "0" ]; then 
+                if [ file != "index.html" ]; then
                     fn=${6:-}
                     for i in "-IT" "-EN" "-DE" "-FR" "-ES" ""; do
                         fn=${fn/$i.md/}
                     done
                     fn+="-${LG}.html"
                 fi
-                if [ -e "html/$fn" ]; then
+                if [ -n "$fn" -a -e "html/$fn" ]; then
                     str="$fn"
                 else
                     str=$(print_transl_from_to "$file" $lang $lg $LG)
