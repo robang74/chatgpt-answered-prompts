@@ -1,0 +1,43 @@
+LA MAMMA HA SEMPRE RAGIONE!
+
+Correva l'anno domini 2024, quel giorno il 16 dicembre, in particolare accadeva...
+
+No one: gnè gnè ti hanno congelato l'account LinkedIn ora non conti più un caxxo!
+
+Il 17 dicembre metto online tre siti web sfruttando la tecnologia HTML pages di GitHub (sempre proprietà di Microsoft come LinkedIn) una piattaforma per il tracking e lo store del codice sorgente che sfrutta un linguaggio particolarmente semplice chiamato markdown per presentare le informazioni di base dei progetti di sviluppo software. Un linguaggio usato in diverse varianti anche da Wikipedia e pure Linkedin.
+
+Il 17 dicembre viene pubblicato un articolo intitolato "dalla supercazzola alla civiltà" che attraverso il dialogo con un chatbot illustra come la "supercazzola", in realtà, sia un pilastro fondamentale della politica e della diplomazia moderna.
+
+L'11 gennaio 2025 - a meno di un mese dal "tragico" evento che avrebbe dovuto spezzarmi le reni dell'attivismo social in termini di divulgazione culturale - cosa diamine siamo costretti a fare per tenere accesa il lumicino della ragione in questi tempi bui - giunge la notizia che l'Accademia della Crusca ha riconosciuto il neologismo "supercazzola" come rilevante e il dizionario Treccani l'ha inserito fra le voci che caratterizzano il concetto di politica.
+
+- [facebook.com/share/p/14t34YQz5h](https://www.facebook.com/share/p/14t34YQz5h/)
+
+Un knowledge injecting (come il memare ma per adulti) che ha la potenzialità di riformare il concetto di politico (e poi quello di diplomazia) oltre quello previsto da il relativo founder-father Nicolò Machiavelli qualora dal dizionario entrasse a pieno titolo anche nella relativa Enciclopedia Treccani.
+
+Nel frattempo i siti web messi on-line usando shell-script - una tecnologia degli anni '70 la cui abilità (skill) nell'usarla mi ha valso il primo lavoro "vero" alla Siemens di Cassina De' Pecchi - evolvono non solo nel contenuto ma anche nella tecnologia.
+
+Sfruttando una breve funzione di poche linee di codice in Javascript (il male, come il pepe, ne basta una puntina) e il CSS sto sviluppando una maniera per alterare la visualizzazione delle immagini sul browser e persino cambiare la tonalità di come viene presentato. Non i colori, scelti i colori, se essi siano presentati in redshit, blueshift, seppia, grigi o a colori invertiti e persino in bianco-nero. Questo incluso per le immagini.
+
+Così creando i presupposti per due possibili evoluzioni, quella dei social e quella dei fruizione dei contenuti quali e-book e relativi reader. Qui una lista (incompleta) di punti salienti.
+
+    1 - sfruttare git, regular expression scripting (php, sed, awk, bash, etc) per creare una social network distribuito dove i contenuti degli utenti sono indipendenti dalla news-feed e in loro totale disponibilità oltre che finemente versionati.
+
+    2 - usando una risoluzione di presentazione con soli 800px di larghezza, pagine HTML statiche con CSS e il minimo indispensabile di Javascript - che all'occorrenza grazie al suo uso minimale e basilare può essere sostituito da shell-scripting - è possibile incorporare questi contenuti in un dispositivo embedded low-power.
+
+    3 - giacchè busybox contiene anche un http server e le capacità di scripting utili per sostituire il JavaScript qualora usato in misura minimale, accade che TUTTO il sistema (senza contenuti) può essere ridotto con facilità sotto i 16 MB e con un po' di traviamento anche sotto 1024 Kb e giusto per fare un paragone la prima sonda Voyager ha 70Kb di memoria a bordo.
+
+    4 - visto che la larghezza di 800 px fa padan in 4:3 come A4 con 1080 significa che - in combinazione con la capacità di usare anche grigi e bianco/nero tramite CSS e nella misura in cui Dillo Browser supporta i CSS con un altro 1Mb abbiamo anche il sistema di display dei contenuti - i display e-Ink gestiti SPI da PI W & co. che vanno da 800x480 da 4.3" fino a 7.5" costituiscono una base di partenza per un e-book DIY.
+
+In pratica, per dare ragione alla mamma - He's not the Messia but a naughty boy! - che è sempre meglio di essere un altar-boy che non tutti gli happy-ending ci piacciano uguale - ho preso per un orecchio Microsoft su LinkedIn e Amazon su Kindle (sia il dispositivo fisico sia il servizio in Cloud).
+
+Che detta così sembra una butade di quelle ENORMI anzi galattiche ma se vi guardate intorno e capite le ragioni per le quali tutti i social media con architettura decentralizzata non sono riusciti a raggiungere un punto di maturazione interessante e come mai tutti gli e-reader DIY anche - un settore dove il Kindle si piazza come "piacevole" e dal vantaggioso costo industriale - allora capite che in questo vagito c'è già tutta l'impudente arroganza di chi SA come e HA già capito cosa serve per far funzionare le cose che finora non hanno funzionato.
+
+Perché alla fine della giornata, NON mancano ne i cervelli ne le braccia che facciano il lavoro, serve solo che qualcuno indichi una via - SEMPLICE - che tutti possono facilmente comprendere (nell'ambito della professione informatica, non chiunque preso a caso) con un proof-of-concept - perché un grammo di pratica vale più di un chilo di teoria - per evitare di infilarsi in quei vicoli ciechi che hanno inghiottito quasi tutti.
+
+Con il bash scripting come un qualunque VAX-server user del 1992/3 o un hacker degli anni '70. Mica Dot-Net Super-Sharp Qualcosa con Copilot AI integrato. Old gold days technologies come shell scripting, markdown (aka user-friendly regular-expression inputs), briciole di HTML, un pizzico di JavaScript e cucchiaio di CSS. Tutto Open-Source naturalmente e gli scripts/CSS pure in 3-clause BSD!
+
+gnè-gnè 😁
+
+***
+
+Immagine di "He's not the Messiah, but a naughty boy!" liberamente tratta dal film "Life Of Brian" di Monty Python.

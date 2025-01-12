@@ -80,7 +80,7 @@ This document is entirely published under *Creative Commons Attribution Non-Comm
 
 Cosa ne pensi di questo post?
 
-[link Facebook] [link data/]
+> Testo inserito da [post](https://www.facebook.com/share/p/15ozhrQxjH/) su Facebook di cui [copia](data/la-mamma-ha-sempre-ragione.txt]) nella cartella data. 
 
 ---
 
