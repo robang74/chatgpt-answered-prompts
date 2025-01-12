@@ -1,12 +1,32 @@
-<div id="firstdiv" created=":IT" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
+<div id="firstdiv" created="2025-01-11:IE" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
 
 ## Diritti digitali e separazione dei dati dai social
 
-A network is a network and not a cloud storage service. Not just a matter of pedantic definition rather than consumer users' rights protection about the ownership and independent management of their data, for moving from a set of monopolies to a free market. How? It is explained.
+Questo articolo prender origine da un post su Facebook pubblicato l'11 gennaio 2024 che poi ha generato una discussione con un chatbot arrivando a formulare la proposta qui sotto riassunta brevemente in lingua inglese. Il resto del documento invece è in italiano.
 
 ---
 
-### Introduzione
+### Short presentation in English
+
+A network is a network and not a cloud storage service. Not just a matter of pedantic definition rather than consumer users' rights protection about the ownership and independent management of their data, for moving from a set of monopolies to a free market.
+
+How? It is explained in this document, here below summarised in a few key-points.
+
+- A decentralized model utilizing git repositories for user data (web-like contents) can significantly breakthrough for digital freedom, and a legislative support for orienting that market sector towards this approach is highly desirable.
+
+- This solution could also be advantageous for the players in the sector, allowing them to monetise social networks without bearing the costs of storage and related technical support
+
+- By authenticating with existing accounts from providers {Google, Apple, or GitHub, etc.}, the social platform would delegate to 3rd party the storage while the markdown in combination with the git will grant a full compatibility among them
+
+- Moreover, bringing back the users’ data/content under the users control, it is an opportunity to sell them as a separate professional service and in particular for companies or agencies that are going to use social networks for business and require dedicated technical support.
+
+- Despite markdown and git are great for text and web-oriented images, git repository would not suitable for large-scale multimedia content (videos, hi-res photographic album, etc.) which necessary should being served by a more traditional cloud/CDN services (or YouTube and Google Photos for consumers), which differentiate even more the business diversification about professional offers. 
+
+In short, a proposal that combines coherently and harmoniously the consumer users’ rights with the freedom of speech freedom, the will of social networks platforms to focus on their own core business. Last but not least, this approach promotes a more nuanced moderation model focusing on content selection rather than blanket censorship.
+
+---
+
+### Breve introduzione in Italiano
 
 Questo documento parla di diritti digitali degli utenti, e di quanto sarebbe efficace difenderli separando la gestione dei contenuti (dati) dalle piattaforme social.
 
@@ -15,6 +35,63 @@ Ovviamente non potevo prescindere dall'indicare anche il come. In questo dialogo
 Il proof-of-concept NON è l'oggetto di questo documento così come non lo sono le mie vicissitudini personali che mi hanno portato a svilupparlo.
 
 Però da quell'esperienza ho maturato una consapevolezza che non potevo, da informatico professionista con decenni di esperienza, non calare nel contesto tecnologico e sociale attuale.
+
+<br/>
+<br/>
+
+## Struttura del documento
+
+Questa è la struttura del documento così come ricostruita e sintetizzata da ChatGPT che ho poi modificato in maniera da renderla più sintetica e aderente al documento.
+
+1. **Prompt #1 - Introduzione e contesto**
+
+   - Introduzione al concetto di decentralizzazione nei social media e ai vantaggi di tecnologie leggere e open-source.
+
+2. **Prompt #2 - Critiche e risposte**  
+
+   - Discussione sulle critiche di semplicità, mancanza di dettagli tecnici e visione utopica.
+
+   - Chiarimento del ruolo di un proof-of-concept come caso studio e non come prodotto finito.
+
+3. **Prompt #3 - Scalabilità e ruolo dell'informatico**
+ 
+   - Distinzione tra il lavoro dell’informatico come innovatore e la gestione commerciale di un'idea.
+
+4. **Prompt #4 - Tempi e maturità del progetto**
+
+   - Dialogo con il chatbot per distoglierlo dal reiterare concetti come "scalabilità" fuori luogo rispetto ad un "proof-of-concept".
+
+5. **Prompt #5 - Differenza tra proof-of-concept e prodotto commerciale**
+
+   - Uso corretto della terminologia per evitare ambiguità.
+
+6. **Prompt #6 - Legislazione e decentralizzazione**
+
+   - Proposta di separare i contenuti utente dai social tramite repository git per garantire libertà e responsabilità individuale.  
+
+7. **Prompt #7 - Tecnologie esistenti e interoperabilità**
+
+   - L’uso di Git come standard già consolidato per garantire interoperabilità e libertà agli utenti.
+
+8. **Prompt #8 - User experience e accessibilità**  
+
+   - L’importanza di questo approccio per favorire il libero mercato.
+
+9. **Prompt #9 - Il problema della proprietà e gestione dei dati**
+
+   - e della gestione dei servizi relativi che in realtà non finirà sulle spalle di utenti inesperti ma gestito da terze parti. 
+
+10. **Prompt #10 - Git e mercato libero**  
+
+   - Le tecnologie scalabili esistono già, il problema è il monopolio della gestione dei dati/contenuti attuato dai social media.  
+
+11. **Prompt #11 - Implementazione pratica**  
+
+   - Gli utenti non devono gestire direttamente Git, ma solo creare un account, esattamente come fanno con le email.
+
+Nel caso vi chiediate perché abbia dovuto modificare persino un indice/struttura prodotta da un'AI, la risposta argomentativa la trovate in questo [articolo](https://robang74.github.io/chatbots-for-fun/html/neutrality-vs-biases-for-chatbots.html).
+
+In estrema sintesi perché ogni AI è "fissata" con un suo proprio e peculiare insieme di concetti {etica, privacy, scalabilità, etc.} che ficca ovunque tipo uno chef sponsorizzato che metta il Parmigiano Reggiano anche sulla grigliata di pesce (o l'ananas sulla pizza!).
 
 ---
 
