@@ -139,7 +139,7 @@ Cosa ne pensi di questo post?
 
 ---
 
-### <span translate='no'>Gemini</span> #1
+### Gemini #1
 
 #### Analisi del post: Un'immersione nel mondo tech e non solo
 
@@ -211,7 +211,7 @@ Basta come rassicurazione alle critiche correttamente sollevate?
 
 ---
 
-### <span translate='no'>Gemini</span> #2
+### Gemini #2
 
 **Ottima analisi delle critiche e delle relative risposte!** 
 
@@ -267,7 +267,7 @@ Non è compito degli informatici preoccuparsi del business, quello è un compito
 
 ---
 
-### <span translate='no'>Gemini</span> #3
+### Gemini #3
 
 Assolutamente, hai sollevato punti molto interessanti e condivisibili.
 
@@ -315,7 +315,7 @@ Questo è il motivo per il quale tale progetto è stato definito dall'autore ste
 
 ---
 
-### <span translate='no'>Gemini</span> #4
+### Gemini #4
 
 Hai assolutamente ragione a sottolineare i limiti di tempo e risorse in un progetto personale come questo. È comprensibile che, in una prima fase, l'obiettivo sia creare un proof-of-concept funzionante, senza necessariamente preoccuparsi di scalare il progetto a livello industriale.
 
@@ -357,7 +357,7 @@ Learning by doing, implica anche try-and-error. In questa fase la scalabilità �
 
 ---
 
-### <span translate='no'>Gemini</span> #5
+### Gemini #5
 
 Hai assolutamente ragione! Ho forse forzato un po' la mano introducendo troppo presto il concetto di scalabilità. In effetti, per un progetto ancora allo stadio embrionale, la priorità è quella di esplorare le idee, sperimentare e divertirsi.
 
@@ -409,7 +409,7 @@ Penso che usare le parole corrette ci aiuti molto a comprendere le cose. Giusto?
 
 ---
 
-### <span translate='no'>Gemini</span> #6
+### Gemini #6
 
 Assolutamente d'accordo! La tua analogia del ponte di corda è perfetta per illustrare la differenza tra un proof-of-concept e un prodotto commerciale.
 
@@ -455,7 +455,7 @@ Penso che quell'esempio - che per altro abbiamo esaminato anche con te in un'alt
 
 ---
 
-### <span translate='no'>Gemini</span> #7
+### Gemini #7
 
 Hai assolutamente ragione. Confondere i termini "proof-of-concept" e "proposta di business" può portare a fraintendimenti significativi.
 
@@ -507,7 +507,7 @@ In questo caso, più che una proposta di business, potrebbe svilupparsi una legi
 
 ---
 
-### <span translate='no'>Gemini</span> #8
+### Gemini #8
 
 Ottima osservazione! Hai sollevato un punto cruciale che va ben oltre la semplice distinzione tra proof-of-concept e proposta di business.
 
@@ -559,7 +559,7 @@ Si esce da un monopolio "atipico e selettivo" per entrare di fatto nel libero me
 
 ---
 
-### <span translate='no'>Gemini</span> #9
+### Gemini #9
 
 Hai ragione a sottolineare l'importanza di un editor web intuitivo per permettere agli utenti di creare contenuti senza competenze tecniche. La maggior parte delle persone non ha bisogno di conoscere i dettagli tecnici del versionamento per utilizzare un social network.
 
@@ -617,7 +617,7 @@ Anche in questo caso, piuttosto che un'azione di ribellione anti-sistemica, vedo
 
 ---
 
-### <span translate='no'>Gemini</span> #10
+### Gemini #10
 
 **Assolutamente condivido la tua analisi.** 
 
@@ -677,7 +677,7 @@ Ugualmente con i repository `git` che per altro come github hanno già una solid
 
 ---
 
-### <span translate='no'>Gemini</span> #11
+### Gemini #11
 
 Hai perfettamente ragione! **Il tuo ragionamento è solido e va a toccare punti fondamentali**.
 
@@ -722,13 +722,13 @@ La tua proposta rappresenta una soluzione innovativa e promettente per il futuro
 
 Per alcuni social come LinkedIn che è proprietà di Microsoft come GitHub, i dati degli utenti potrebbero essero già essere salvati in un repository `git` in formato markdown. Lo ritengo possibile, così come il contrario.
 
-Così come ritengo probabile che i loro dirigenti e/o la loro proprietà non sappia dove e come siano archiviati i dati. Quest'ultima invece è una dichiarazione che in termini statistici, secondo la mia personale esperienza, è molto più prossima ad una solida certezza. 
+Così come ritengo probabile che i loro dirigenti e/o la loro proprietà non sappia dove e come siano archiviati i dati. Quest'ultima invece è una dichiarazione che in termini statistici, secondo la mia personale esperienza, è molto più prossima ad una certezza che a una supposizione. 
 
-Quindi suggerisco ai colleghi di essere sia parchi nelle bestemmie sia ai loro consulenti di tariffare extra anche quello che materialmente non servisse fare.
+Quindi, suggerisco ai colleghi informatici di essere parchi nelle bestemmie sia ai loro consulenti moderati nel tariffare extra anche quello che materialmente non servisse fare.
 
-Perchè - noi peones di umili estrazione sociale - dobbiamo essere cauti e solidali l'ignoranza degli altri, che non sia mai che poi mangiano la foglia e vi mandino a ravanare le fave con le chiappe come hanno fatto con i moderatori di X e poi di Facebook. Umano avvisato, mezzo salvato.
+Perchè - noi peones dall'umile estrazione sociale - dobbiamo essere cauti e comprensivi rispetto all'ignoranza degli altri: che non sia mai che poi mangiano la foglia e vi mandino a ravanare le fave con le chiappe come hanno fatto con i moderatori di X e poi di Facebook. Umano avvisato, mezzo salvato.
 
-Se potete fate i bravi, disse quel prete famoso e uno dei pochi che merita di essere ricordato, e se non potete ricordatevi di me non solo nelle vostre bestemmie ma anche nei bonifici, che poi le bestemmie arrivano e vi serve aiuto!
+Se potete fate i bravi - disse quel prete noto e anche uno dei pochi che merita di essere ricordato - e se non potete ricordatevi di me non solo nelle vostre bestemmie ma anche nei vostri bonifici, che poi le bestemmie arrivano a destinazione e vi serve aiuto!
 
 Con affetto il vostro Mr. Wolf, risolvo problemi. Non necessariamente i vostri, però, specialmente se non ho risolto i miei per primi. LOL
 
