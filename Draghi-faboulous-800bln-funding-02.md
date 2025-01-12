@@ -37,7 +37,7 @@ Should we switch to electric cars in 2035 for which there is no adequate chargin
 Would you accept 800 Monopoly's dollars to have your legs broken?
 
 <br/>
-</br>
+<br/>
 
 ## Q&A DIALOG
 
