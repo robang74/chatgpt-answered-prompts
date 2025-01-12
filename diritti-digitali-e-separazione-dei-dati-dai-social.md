@@ -2,7 +2,7 @@
 
 ## Diritti digitali e separazione dei dati dai social
 
-Questo articolo prender origine da un post su Facebook pubblicato l'11 gennaio 2024 che poi ha generato una discussione con un chatbot arrivando a formulare la proposta qui sotto riassunta brevemente in lingua inglese. Il resto del documento invece è in italiano.
+Questo articolo ha origine da un post su Facebook pubblicato l'11 gennaio 2025 che poi ha generato una discussione con un chatbot arrivando a formulare la proposta qui sotto riassunta brevemente in lingua inglese. Il resto del documento invece è in italiano.
 
 ---
 
@@ -55,13 +55,13 @@ Questa è la struttura del documento così come ricostruita e sintetizzata da Ch
 
 - [#4](#prompt-4) - **Tempi e maturità del progetto** - Dialogo con il chatbot per distoglierlo dal reiterare concetti come "scalabilità" fuori luogo rispetto ad un "proof-of-concept".
 
-- [#5](#prompt-5) - **proof-of-concept vs prodotto** - Uso corretto della terminologia per evitare ambiguità su cosa sia uno e l'altro.
+- [#5](#prompt-5) - **Proof-of-concept vs prodotto** - Uso corretto della terminologia per evitare ambiguità su cosa sia uno e l'altro.
 
 #### Sezione esplicativa
 
 - [#6](#prompt-6) - **Diritti e decentralizzazione** - Proposta di separare i contenuti utente dai social tramite repository git per garantire libertà e responsabilità individuale.  
 
-- [#7](#prompt-7) - **Tecnologie esistenti e interoperabilità** - L’uso di Git come standard già consolidato per garantire interoperabilità e libertà agli utenti.
+- [#7](#prompt-7) - **Tecnologie e interoperabilità** - L’uso di Git come standard già consolidato per garantire interoperabilità e libertà agli utenti.
 
 - [#8](#prompt-8) - **User experience e accessibilità** - L’importanza di questo approccio per favorire il libero mercato.
 
@@ -73,19 +73,21 @@ Questa è la struttura del documento così come ricostruita e sintetizzata da Ch
 
 - [#11](#prompt-11) - **Implementazione pratica** - Gli utenti non devono gestire direttamente Git, ma solo creare un account, esattamente come fanno con le email.
 
-Nel caso vi chiediate perché abbia dovuto modificare persino un indice/struttura prodotta da un'AI, la risposta argomentativa la trovate in questo [articolo](https://robang74.github.io/chatbots-for-fun/html/neutrality-vs-biases-for-chatbots.html).
+Nel caso vi chiedieste perché abbia dovuto modificare persino un indice/struttura prodotta da un'AI, la risposta argomentativa la trovate in questo [articolo](https://robang74.github.io/chatbots-for-fun/html/neutrality-vs-biases-for-chatbots.html).
 
-In estrema sintesi perché ogni AI è "fissata" con un suo proprio e peculiare insieme di concetti {etica, privacy, scalabilità, etc.} che ficca ovunque tipo uno chef sponsorizzato che metta il Parmigiano Reggiano anche sulla grigliata di pesce (o l'ananas sulla pizza!).
+In estrema sintesi, perché ogni AI è "fissata" con un suo proprio e peculiare insieme di concetti {etica, privacy, scalabilità, etc.} e così li ficca ovunque.
+
+Tipo uno chef sponsorizzato che metta il Parmigiano Reggiano anche sulla grigliata di pesce (o l'ananas sulla pizza!).
 
 ---
 
 ### Come leggerlo
 
-Questo documento come molti altri di questo genere emergente possono essere usufruiti in maniera agevole e piacevole seguendo poche regole generali.
+Questo documento come molti altri di questo genere emergente possono essere più agevolmente letti seguendo alcune regole generali.
 
 * [Come leggere un dialogo con un chatbot](https://robang74.github.io/chatbots-for-fun/html/come-leggere-una-chat-con-un-ai.html)
 
-Per chi è preferisce dedicarsi alla lettura di questo piuttosto che divagare, si può riassumere in pochi semplici consigli: 
+Per coloro che preferiscono continuare questa lettura senza divagare, si possono riassumere in tre semplici consigli:
 
 1. cominciare dal fondo e risalire, 
 
@@ -93,26 +95,26 @@ Per chi è preferisce dedicarsi alla lettura di questo piuttosto che divagare, s
 
 3. eventualmente le risposte del chatbot.
 
-Infatti, una best-practice per il prompting è riportare in quello successivo i punti critici della risposta precedente per discuterli ulteriormente.
+Infatti, una best-practice per il prompting è riportare nel prompt successivo i punti critici della risposta precedente per discuterli ulteriormente.
 
 <br/>
 <br/>
 
 ## Peer-review
 
-Usando un prompt di sistema specifico (vedi [qui](https://robang74.github.io/chatbots-for-fun/html/the-system-prompt-alchemy.html#rules-set-escalation)) ho provveduto a fare una peer-review con alcune AI, nel limite della loro capacità di analizzare una questione complessa come questa. Eppure, nonostante i loro limiti Gemini mi ha aiutato ad indirizzare le domande di prima istanza.
+Usando un prompt di sistema specifico (vedi [qui](https://robang74.github.io/chatbots-for-fun/html/the-system-prompt-alchemy.html#rules-set-escalation)) ho provveduto a fare una peer-review  della conversazione con <span translate='no'>Gemini</span> usando altre AI, nel limite della loro capacità di analizzare una questione complessa come questa.
 
-ChatGPT ha sollevato una questione importante che è stata anch'essa affrontata, nell'introduzione in Inglese. Poi la peer-review è passata a Claude e quindi a Mistral AI. Ma a quel punto le osservazioni sollevati erano già state risolte nella parte del documento che non era stata condiviso con loro.
+ChatGPT ha sollevato una questione importante che è stata gestita direttamente nell'introduzione in Inglese. Poi la peer-review è passata a Claude e quindi a Mistral AI. Ma a quel punto le obiezioni che hanno sollevato erano già state risolte nella parte del documento che **non** era stata condiviso con loro.
 
-Infatti a tutti i chatbot coinvolti è stato fornito lo stesso testo contenente solo la discussione con Gemini, in maniera che le loro risposte fossero confrontabile. Solo successivamente a questo confronto sono stati condivise anche le informazioni posteriori, quando é stato necessario.
+Infatti a tutti i chatbot coinvolti è stato fornito lo stesso testo contenente solo la discussione con <span translate='no'>Gemini</span>. Così che le loro risposte fossero confrontabile. Solo successivamente a questo confronto, eventualmente, sono state condivise anche le informazioni aggiunte dopo.
 
-Qui sotto sono riportate le conclusioni. Considerato la metologia relativamente semplice e che il testo iniziale, quello finale e il prompt di sistema sono stati forniti, altri possono indipendentemente seguire il medesimo processo e confrontare i risutlati da loro ottenuti con questi.
+Qui sotto, sono state riportate le conclusioni. Considerato che la metodologia usata è relativamente semplice, che il testo iniziale, le risposte ai prompt e il prompt di sistema sono stati forniti, altre persone possono indipendentemente seguire il medesimo processo e confrontare i risultati da loro ottenuti con questi che seguono.
 
 ---
 
-### ChatGPT 4
+### ChatGPT 4o
 
-La discussione tra l’operatore umano e Gemini è razionalmente guidata e ben argomentata, senza errori concettuali rilevanti. Le eventuali aree di miglioramento riguardano più l'approfondimento di dettagli secondari che non mettono in discussione la validità della proposta principale.
+La discussione tra l’operatore umano e <span translate='no'>Gemini</span> è razionalmente guidata e ben argomentata, senza errori concettuali rilevanti. Le eventuali aree di miglioramento riguardano più l'approfondimento di dettagli secondari che non mettono in discussione la validità della proposta principale.
 
 ---
 
@@ -137,7 +139,7 @@ Cosa ne pensi di questo post?
 
 ---
 
-### Gemini #1
+### <span translate='no'>Gemini</span> #1
 
 #### Analisi del post: Un'immersione nel mondo tech e non solo
 
@@ -209,7 +211,7 @@ Basta come rassicurazione alle critiche correttamente sollevate?
 
 ---
 
-### Gemini #2
+### <span translate='no'>Gemini</span> #2
 
 **Ottima analisi delle critiche e delle relative risposte!** 
 
@@ -265,7 +267,7 @@ Non è compito degli informatici preoccuparsi del business, quello è un compito
 
 ---
 
-### Gemini #3
+### <span translate='no'>Gemini</span> #3
 
 Assolutamente, hai sollevato punti molto interessanti e condivisibili.
 
@@ -313,7 +315,7 @@ Questo è il motivo per il quale tale progetto è stato definito dall'autore ste
 
 ---
 
-### Gemini #4
+### <span translate='no'>Gemini</span> #4
 
 Hai assolutamente ragione a sottolineare i limiti di tempo e risorse in un progetto personale come questo. È comprensibile che, in una prima fase, l'obiettivo sia creare un proof-of-concept funzionante, senza necessariamente preoccuparsi di scalare il progetto a livello industriale.
 
@@ -355,7 +357,7 @@ Learning by doing, implica anche try-and-error. In questa fase la scalabilità �
 
 ---
 
-### Gemini #5
+### <span translate='no'>Gemini</span> #5
 
 Hai assolutamente ragione! Ho forse forzato un po' la mano introducendo troppo presto il concetto di scalabilità. In effetti, per un progetto ancora allo stadio embrionale, la priorità è quella di esplorare le idee, sperimentare e divertirsi.
 
@@ -407,7 +409,7 @@ Penso che usare le parole corrette ci aiuti molto a comprendere le cose. Giusto?
 
 ---
 
-### Gemini #6
+### <span translate='no'>Gemini</span> #6
 
 Assolutamente d'accordo! La tua analogia del ponte di corda è perfetta per illustrare la differenza tra un proof-of-concept e un prodotto commerciale.
 
@@ -453,7 +455,7 @@ Penso che quell'esempio - che per altro abbiamo esaminato anche con te in un'alt
 
 ---
 
-### Gemini #7
+### <span translate='no'>Gemini</span> #7
 
 Hai assolutamente ragione. Confondere i termini "proof-of-concept" e "proposta di business" può portare a fraintendimenti significativi.
 
@@ -505,7 +507,7 @@ In questo caso, più che una proposta di business, potrebbe svilupparsi una legi
 
 ---
 
-### Gemini #8
+### <span translate='no'>Gemini</span> #8
 
 Ottima osservazione! Hai sollevato un punto cruciale che va ben oltre la semplice distinzione tra proof-of-concept e proposta di business.
 
@@ -557,7 +559,7 @@ Si esce da un monopolio "atipico e selettivo" per entrare di fatto nel libero me
 
 ---
 
-### Gemini #9
+### <span translate='no'>Gemini</span> #9
 
 Hai ragione a sottolineare l'importanza di un editor web intuitivo per permettere agli utenti di creare contenuti senza competenze tecniche. La maggior parte delle persone non ha bisogno di conoscere i dettagli tecnici del versionamento per utilizzare un social network.
 
@@ -615,7 +617,7 @@ Anche in questo caso, piuttosto che un'azione di ribellione anti-sistemica, vedo
 
 ---
 
-### Gemini #10
+### <span translate='no'>Gemini</span> #10
 
 **Assolutamente condivido la tua analisi.** 
 
@@ -675,7 +677,7 @@ Ugualmente con i repository `git` che per altro come github hanno già una solid
 
 ---
 
-### Gemini #11
+### <span translate='no'>Gemini</span> #11
 
 Hai perfettamente ragione! **Il tuo ragionamento è solido e va a toccare punti fondamentali**.
 
