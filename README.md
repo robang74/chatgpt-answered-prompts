@@ -140,6 +140,8 @@ This index is divided in tre sections related to different topics.
 
     - Simplicity is a value, but in times of crisis it becomes a pragmatic and emerging necessity, yet it is precisely something we forgot during the Covid-19 pandemic and its management.
 
+5. **diritti-digitali-e-separazione-dei-dati-dai-social.md** [[**`md`**](diritti-digitali-e-separazione-dei-dati-dai-social.md)] [[**`html`**](html/diritti-digitali-e-separazione-dei-dati-dai-social.html)] [[**`pdf`**](pdf/diritti-digitali-e-separazione-dei-dati-dai-social.pdf)]
+
 <br/>
 
 ## Download
