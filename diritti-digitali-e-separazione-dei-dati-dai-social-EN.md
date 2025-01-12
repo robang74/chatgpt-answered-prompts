@@ -1,40 +1,32 @@
 <div id="firstdiv" created="2025-01-11:EN" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
 
-## Diritti digitali e separazione dei dati dai social
+## Digital users' rights and social networks data separation
 
-This article has originated from a Facebook post published on January 11, 2025, which then generated a discussion with a chatbot, resulting in the proposal summarized below in English. The rest of the document is in Italian.
+This article originates from a Facebook post published on January 11, 2025, which then generated a discussion with a chatbot, arriving at the proposal summarized briefly below. 
+
+Of course, I could not refrain from also stating how I arrived at it because to some extent it is interesting as an example of serendipity. However, the proof-of-concept, mentioned in the post, is **NOT** the subject of this paper as are my personal vicissitudes that led me to develop it.
+
+This paper is about users' digital rights, and how effective it would be to defend them by separating content (data) management from social platforms.
 
 ---
 
-### Short presentation in English
+### Presentation
 
-A network is a network and not a cloud storage service. Not just a matter of pedantic definition rather than consumer users' rights protection about the ownership and independent management of their data, for moving from a set of monopolies to a free market.
+A (social) network is a (social) network and not a cloud storage service. Not just a matter of pedantic definition rather than consumer users' rights protection about the ownership and independent management of their data, for moving from a set of monopolies to a free market.
 
 How? It is explained in this document, here below summarised in a few key-points.
 
 - A decentralized model utilizing git repositories for user data (web-like contents) can significantly break through for digital freedom, and legislative support for orienting that market sector towards this approach is highly desirable.
 
-- This solution could also be advantageous for the players in the sector, allowing them to monetise social networks without bearing the costs of storage and related technical support
+- This solution could also be advantageous for the players in the sector, allowing them to monetise social networks without bearing the costs of storage and related technical support.
 
-- By authenticating with existing accounts from providers {Google, Apple, or GitHub, etc.}, the social platform would delegate to 3rd party the storage while the markdown in combination with the git will grant a full compatibility among them
+- By authenticating with existing accounts from providers {Google, Apple, or GitHub, etc.}, the social platform would delegate to 3rd party the storage while the markdown in combination with the git will grant a full compatibility.
 
-- Moreover, bringing back the users’ data/content under the users control, it is an opportunity to sell them as a separate professional service and in particular for companies or agencies that are going to use social networks for business and require dedicated technical support.
+- Moreover, bringing back the users’ data/content under the users control, it creates an opportunity to sell to them cloud storage as a separate professional service and in particular for companies or agencies that are going to use social networks for business and require dedicated technical support.
 
-- Despite markdown and git are great for text and web-oriented images, git repository would not suitable for large-scale multimedia content (videos, hi-res photographic album, etc.) which necessary should being served by a more traditional cloud/CDN services (or YouTube and Google Photos for consumers), which differentiate even more the business diversification about professional offers. 
+- Although `git` is great for text and acceptable for small images, it would not be suitable for large-scale multimedia content (videos, high-resolution photo albums, etc.), which would have to be served by more traditional cloud/CDN services (or YouTube and Google Photos for consumers, for example), and would further increase business diversification on professional offerings.
 
-In short, a proposal that combines coherently and harmoniously the consumer users’ rights with the freedom of speech freedom, the will of social networks platforms to focus on their own core business. Last but not least, this approach promotes a more nuanced moderation model focusing on content selection rather than blanket censorship.
-
----
-
-### Short introduction in Italian
-
-This paper talks about users' digital rights, and how effective it would be to defend them by separating content (data) management from social platforms.
-
-Obviously I could not fail to indicate also the how. In this dialogue I start from a proof-of-concept created for my personal needs.
-
-The proof-of-concept is NOT the subject of this document, nor are my personal experiences that led me to develop it.
-
-However, from that experience I gained an awareness that I could not, as a professional computer scientist with decades of experience, not apply to the current technological and social context.
+In short, this is a proposal that coherently and harmoniously combines the rights of consumer users with freedom of speech, the desire of social networking platforms to focus on their core business. Last but not least, this approach promotes a more nuanced moderation model focused on content selection rather than censorship.
 
 <br/>
 <br/>
