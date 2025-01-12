@@ -195,19 +195,19 @@ Il post rappresenta un interessante contributo al dibattito sulla digitalizzazio
 
 Vediamo:
 
-> Eccessivo semplicismo: Alcuni potrebbero criticare l'approccio troppo semplicistico e basato su tecnologie "obsolete".
+> Eccessivo semplicismo: alcuni potrebbero criticare l'approccio troppo semplicistico e basato su tecnologie "obsolete".
 
-Viene detto che si tratta di un proof-of-concept quindi NON di un prodotto ma solo di un caso scuola che per sua natura deve essere semplice sia nella realizzazione e ben noto nella scelta delle tecnologie usate.
+Viene detto che si tratta di un proof-of-concept quindi **NON** di un prodotto ma solo di un caso scuola che per sua natura deve essere semplice sia nella realizzazione e ben noto nella scelta delle tecnologie usate.
 
-> Mancanza di dettagli tecnici: Le descrizioni tecniche sono spesso sommarie, rendendo difficile valutare la fattibilità del progetto.
+> Mancanza di dettagli tecnici: le descrizioni tecniche sono spesso sommarie, rendendo difficile valutare la fattibilità del progetto.
 
 I dettagli mancano perché questo è un post su Facebook che fa riferimento ad un altro post Facebook in cui c'è il link del sito da cui poi si giunge ai repository dove si trova il codice. Un percorso tortuoso per l'utente comune ma banale per chiunque abbia un minimo di skill professionali in informatica (selezione all'ingresso).
 
-> Visione utopica: L'idea di un'alternativa completamente decentralizzata e autogestita potrebbe essere considerata troppo idealistica.
+> Visione utopica: l'idea di un'alternativa completamente decentralizzata e autogestita potrebbe essere considerata troppo idealistica.
 
-Il kernel linux è un progetto totalmente decentralizzato e autogestito così come la distribuzione Debian e tutti i componenti che la costituiscono. Tutto questo ecosistema regge praticamente la quasi totalità dei server e dell'infrastruttura di rete, Android e in parte anche iOS essendo basato su BSD e toolchain relativa.
+Il kernel Linux è un progetto totalmente decentralizzato e autogestito così come la distribuzione Debian e tutti i componenti che la costituiscono. Tutto questo ecosistema regge praticamente la quasi totalità dei server Internet e della sua infrastruttura di rete, oltre ad Android e in parte anche iOS essendo basato su BSD e la toolchain relativa.
 
-Basta come rassicurazione alle critiche correttamente sollevate?
+Queste risposte sono sufficienti come rassicurazione alle critiche correttamente sollevate?
 
 ---
 
@@ -257,11 +257,11 @@ Le tue risposte sono convincenti e offrono una solida base per difendere le tue 
 
 Riguardo a questo 
 
-> Bilanciare semplicità e scalabilità: Mentre è comprensibile l'importanza di un proof-of-concept semplice, è fondamentale considerare come l'idea possa essere scalata per gestire un numero maggiore di utenti e contenuti.
+> Bilanciare semplicità e scalabilità: mentre è comprensibile l'importanza di un proof-of-concept semplice, è fondamentale considerare come l'idea possa essere scalata per gestire un numero maggiore di utenti e contenuti.
 
 Coloro che vorranno poi farne un business dovranno affrontare questa questione, certamente. Ma questo è un altro aspetto che è solo complementare - ammesso che sia persino abbinabile - al concetto di hacking the technology.
 
-Infine, lo scopo degli informatici NON è quello di lavorare come scimmiette ammaestrate per aziende che vendono prodotti software e servizi SaaS ma - in teoria - sarebbe quello di sviluppare l'informatica (la scienza dell'informazione e della sua gestione, quindi poi ingegneristicamente parlando anche la tecnologia).
+Infine, lo scopo degli informatici **NON** è quello di lavorare come scimmiette ammaestrate per aziende che vendono prodotti software e servizi SaaS ma - in teoria - sarebbe quello di sviluppare l'informatica (la scienza dell'informazione e della sua gestione, quindi poi ingegneristicamente parlando anche la tecnologia).
 
 Non è compito degli informatici preoccuparsi del business, quello è un compito degli imprenditori ed eventualmente degli investitori. Giusto?
 
@@ -311,7 +311,7 @@ Certamente, però parliamo di un progetto part-time (il tempo di lavoro è stato
 
 Hai presente quanto siano lenti gli esseri umani a sviluppare codice? Tu impieghi 2 secondi per scrivere una risposta della lunghezza di quel post. Un essere umano veloce alla tastiera ci mette 30 minuti. I tempi si allungano di molto quando si parla di codice.
 
-Questo è il motivo per il quale tale progetto è stato definito dall'autore stesso "un vagito". Il primo scomposto atto di comunicazione con il mondo esterno di un essere umano subito dopo il parto. Direi che è un'allegoria alquanto estrema per definire lo stadio di maturazione di quel progetto, no?
+Questo è il motivo per il quale tale progetto è stato definito dall'autore stesso "un vagito" [di un neonato]. Il primo scomposto atto di comunicazione con il mondo esterno di un essere umano subito dopo il parto. Direi che è un'allegoria alquanto estrema per definire lo stadio di maturazione di quel progetto, no?
 
 ---
 
@@ -397,7 +397,7 @@ Il tuo approccio è assolutamente corretto. L'importante è godersi il processo 
 
 Vedi il proof-of-concept, per farti è un esempio, è come un ponte di sola corda costruito da un sherpa che conosce quello che è già stato tentato ma non ha funzionato (qui, ora) e dove si vorrebbe andare (destinazione, futuro).
 
-Con quel ponte di corda esplora il superamento di un determinato ostacolo. Non ha certo la supponenza che sul quel ponte di corda artigianale e con uno scope estremamente limitato, ci passino attraverso colonne di TIR per portare merci.
+Con quel ponte di corda esplora il superamento di un determinato ostacolo. Non ha certo la supponenza che sul quel ponte di corda artigianale e con uno scope estremamente limitato, ci passino attraverso colonne di TIR [trucks] per portare merci.
 
 Quindi è importante distinguere il proof-of-concept di un progetto sperimentale da quello di un progetto commerciale. Sono due ambiti in cui la stessa parola ha due significati, scope e aspettative completamente differenti.
 
@@ -449,7 +449,7 @@ Sarei curioso di sentire il tuo punto di vista.
 
 Penso che se questa domanda si pone è perché le persone hanno usato o hanno inteso le parole in modo non corretto. Proprio per questo facevo la distinzione fra proof-of-concept e proposta di business.
 
-Ad esempio in quei siti web e relativi repository c'è una proposta di business, che è la spiegazione di un concetto. Ma si tratta di un concetto operativo, quindi che ha già tutte le caratteristiche per essere deciso. L'implementazione poi è un'altra questione. Quella proposta nasce da un proof-of-concept di qualcosa che invece inizialmente mirava ad ottenere tutt'altro risultato.
+Ad esempio in quei siti web e relativi repository c'è una proposta di business [RedFish OS], che è la spiegazione di un concetto. Ma si tratta di un concetto operativo, quindi che ha già tutte le caratteristiche per essere deciso. L'implementazione poi è un'altra questione. Quella proposta nasce da un proof-of-concept di qualcosa che invece inizialmente mirava ad ottenere tutt'altro risultato.
 
 Penso che quell'esempio - che per altro abbiamo esaminato anche con te in un'altra sessione di chat - sia un buon caso scuola su come distinguere correttamente il proof-of-concept dalla proposta di business.
 
@@ -597,13 +597,13 @@ Per quanto riguarda la normativa, è fondamentale che venga definito un quadro n
 
 Le soluzioni tecniche esistono già e sono già estremamente scalabile. Queste caratteristiche sono solidamente comprovate da almeno un decennio di uso intensivo e di massa.
 
-La parte ESSENZIALE della questione riguardo ad usare uno storage git-like per i contenuti creati da condividere sui social riguarda questo punto:
+La parte **ESSENZIALE** della questione riguardo ad usare uno storage git-like per i contenuti creati da condividere sui social riguarda questo punto:
 
 - Si esce da un monopolio "atipico e selettivo" per entrare di fatto nel libero mercato.
 
 In questo contesto il formato `git` è ottimo perché si tratta di uno standard consolidato e collaudato intensivamente per il quale esistono solide librerie molto scalabili per gestirlo.
 
-Altrimenti si ripropone lo stesso problema con i formati documentali tipo .doc o .xls che creano incompatibilità varie così come è successo con le estensioni di Internet Explorer per lo HTMl prima che fosse regolamentato dal W3C che comunque entro una certa abbondante misura ha dovuto accettare lo status-quo.
+Altrimenti si ripropone lo stesso problema [che si è avuto] con i formati documentali tipo .doc o .xls che creano incompatibilità varie così come è successo con le estensioni di Internet Explorer per lo HTMl prima che fosse regolamentato dal W3C che comunque entro una certa abbondante misura ha dovuto accettare lo status-quo.
 
 In questo contesto, anche il linguaggio markdown come formato RAW dei dati che poi verrebbe convertito in HTML permette un accesso universale al dato in quanto alla fine - per quanto possano esistere diverse varianti di markdown - è pur sempre un modello testuale e quindi riportabile entro un set di regole precisamente determinabili come regular expression.
 
@@ -669,7 +669,7 @@ L'utilizzo di un sistema basato su `git` per la gestione dei contenuti sui socia
 
 Gli utenti comuni non gestirebbero i loro repository git, gli sarebbe semplicemente chiesto di presentare un account git. Succede così anche con la e-mail. Le piattaforme social mica gestiscono gli account e-mail dei loro utenti. Così come gli utenti non gestiscono l'infrastruttura del servizio di posta elettronica.
 
-Oggi quando facciamo login in un social ci chiedono se vogliamo farlo tramite una casella di posta o usare un account come Google, Apple o talvolta pure GitHub. Ecco, un utente si crea una casella di posta, un account su github, anche se non sa come funzionano queste tecnologie e poi decide su quale social andare a presentare i suoi contenuti.
+Oggi quando facciamo login in un social ci chiedono se vogliamo farlo tramite una casella di posta o usare un account come Google, Apple o talvolta pure GitHub. Ecco [in questo caso], un utente si crea una casella di posta, un account su github, anche se non sa come funzionano queste tecnologie e poi decide su quale social andare a presentare i suoi contenuti.
 
 Anche questo scambio di credenziali è una tecnologia solida, sicura, collaudata e scalabile. Per parlare con te l'ho usata e attraverso di essa ho deciso se tu puoi accedere ai contenuti del mio drive google oppure a quali estensioni dei loro servizi.
 
