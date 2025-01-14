@@ -1,6 +1,6 @@
 <div id="firstdiv" created=":IT" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
 
-<div align="center"><img src="data/the-truth-immanuel-kant.jpg"><br/></div>
+<div align="center"><img class="wbsketch paleinv" src="data/the-truth-immanuel-kant.jpg"><br/></div>
 
 ## Se la verità li uccide, lasciate che muoiano
 

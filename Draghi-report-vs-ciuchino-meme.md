@@ -10,7 +10,10 @@ In this case, it is not a single prompt but a dialog: a series of answered quest
 
 A 1700 x 1296 pixels image saved in PNG format in a 1.5 Mb file.
 
-<div align="center"><img src="draghi-report-vs-ciuchino-meme.jpg"></div><br/>
+<div align="center" line-heigth="0.0em">
+<img class="wbsketch inksave" src="draghi-report-vs-ciuchino-meme-p1.jpg"><br/>
+<img class="bwsketch" src="draghi-report-vs-ciuchino-meme-p2.jpg"><br/>
+</div>
 
 ### CUSTOMISATION
 
