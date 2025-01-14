@@ -21,8 +21,6 @@ div.topbar { color: cyan; background-color: darkgreen; border-bottom-color: gree
 table, table td, table th, table tr, tr.line, tr.line td { border-color: gray; } /* gray, #788880 */
 
 
-div.pagehead h1, div.pagehead hr { color: #e8ffe8; border-color: #e8ffe8; }
-
 div.post-it { border-color: aquamarine; }
 
 a, a:link, b.post-it { color: aquamarine; }
