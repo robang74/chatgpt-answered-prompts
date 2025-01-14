@@ -11,6 +11,16 @@
  
 img.paleinv { filter: invert(100%); }
 
+div.pagehead {
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: url("../warp-speed-jump-inv.png");
+}
+
+div.pagehead img {
+    visibility: hidden;
+}
+
 
 body { color: #081810; background-color: #fcfffc; }
 
