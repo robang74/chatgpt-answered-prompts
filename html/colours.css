@@ -3,34 +3,39 @@
  *
  * (C) 2025, Roberto A. Foglietta <roberto.foglietta@gmail.com> - 3-clause BSD
  *
+ * * list: #1
+ * * name: dark-regular
+ * * desc: project specific colorfull theme style (default theme)
+ *
  ******************************************************************************/
- 
+
+img.darkinv { filter: invert(100%); }
+
+
 body { color: #f8fff8; background-color: #101810; }
 
 blockquote { color: #f4fff8; background-color: #102810; }
 
-div.post-it { border: 1px dashed aquamarine; }
-b.post-it { color: aquamarine; }
+div.topbar { color: cyan; background-color: darkgreen; border-bottom-color: green; } /*dimgray*/
 
-a, a:link { color: aquamarine; }
-.sup-note, a:visited, a:active { color: #e8ffe8; }
+table, table td, table th, table tr, tr.line, tr.line td { border-color: gray; } /* gray, #788880 */
 
-td, th { border: 1px solid gray; }
 
-/* -------------------------------------------------------------------------- */
+div.pagehead H1, div.pagehead hr { color: #e8ffe8; border-color: #e8ffe8; text-align: left; }
 
-.tpbrtext, a.date-type { color: lightgray; }
+div.post-it { border-color: aquamarine; }
 
-div.tpbrblue { background-color: darkblue; }
-div.tpbrgren { background-color: darkgreen; }
-div.tpbrwarm { background-color: maroon; }
+a, a:link, b.post-it { color: aquamarine; }
 
-a.tpbrblue { color: cyan; }
-a.tpbrgren { color: lightgreen; }
-a.tpbrwarm { color: orange; }
+.sup-note, a:visited, a:active, a.topbar { color: #e8ffe8; }
 
-/* -------------------------------------------------------------------------- */
 
-div.tpbrblue, div.tpbrgren, div.tpbrwarm {
-    border-bottom: 1px solid dimgray;
-}
+.warnicon, .infoicon { background-color: transparent; }
+
+span.warnicon, svg.warnicon { color: orange; fill: orange; }
+
+span.warnicon { border-color: orange; }
+
+span.infoicon, svg.infoicon { color: lightblue; fill: lightblue; }
+
+span.infoicon { border-color: lightblue; }

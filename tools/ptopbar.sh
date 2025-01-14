@@ -30,14 +30,13 @@ function print_topbar() {
     fi
 
     PUBLISH_UNIVDATE="${3:-$(date +%F)}"
-    ALINK_CLASS="class='${LINE_SHADE} topbar'"
 
     ORIGIN_CODE=""
     PUBLISH_SOURCE="${4:-}"
     if [ -n "$PUBLISH_SOURCE" ]; then
         PUBLISH_LINK="${5:-}"
         ORIGIN_CODE=" ${LINE_DASH} origin:&nbsp; 
-    <a $ALINK_CLASS href='${PUBLISH_LINK}'>${PUBLISH_SOURCE}</a>"
+    <a class='topbar' href='${PUBLISH_LINK}'>${PUBLISH_SOURCE}</a>"
     fi
 
     declare -i skip=$lang
@@ -49,7 +48,7 @@ function print_topbar() {
         for LG in IT EN DE FR ES; do
             let skip++; test $skip -gt 0 || continue; lg=${LG,,}
             if [ "$lang" != "$lg" ]; then
-                TRNSL_STRN+="<a $ALINK_CLASS "
+                TRNSL_STRN+="<a class='topbar' "
                 if [ file != "index.html" ]; then
                     fn=${6:-}
                     for i in "-IT" "-EN" "-DE" "-FR" "-ES" ""; do
@@ -76,8 +75,8 @@ function print_topbar() {
     fi
 
     TOPBAR_STRING="<p/>
-<div class='topbar ${LINE_SHADE} ${TEXT_SHADE}' translate='no'>"\
-"&nbsp;${LINE_MARK} ${LINE_DASH} published:&nbsp; <b class='tpbrbold'>"\
+<div class='topbar translate='no'>"\
+"${LINE_MENU}${LINE_DASH} published:&nbsp; <b class='topbar'>"\
 "${PUBLISH_UNIVDATE}</b> ${REVISION_STRING}${ORIGIN_CODE}${TRNSL_STRN}"
 
     gotolist="1 2 3"
@@ -88,7 +87,7 @@ function print_topbar() {
 
     TOPBAR_STRING+=" ${LINE_DASH} goto:&nbsp;"
     for i in $gotolist; do
-        TOPBAR_STRING+=" <a $ALINK_CLASS href='${GOTO_LINKS[$i,1]}'"\
+        TOPBAR_STRING+=" <a class='topbar' href='${GOTO_LINKS[$i,1]}'"\
 "$(test $i -ne 1 && printf target='_blank')>${GOTO_LINKS[$i,2]}</a>"
         if [ $i -lt 3 ]; then TOPBAR_STRING+=" ${MDOT_DASH}"; fi
     done
@@ -110,20 +109,10 @@ gitprj="${PWD##*/}"
 weburl="https://${gitusr}.github.io"
 gtlink="${weburl//./-}.translate.goog/${gitprj}"
 
-color="gray"
-if [ "$gitprj" == "chatgpt-answered-prompts" ]; then
-    color="gren"
-elif [ "$gitprj" == "roberto-a-foglietta" ]; then
-    color="blue"
-elif [ "$gitprj" == "chatbots-for-fun" ]; then
-    color="warm"
-fi
-
-LINE_SHADE="tpbr${color}"
-TEXT_SHADE="tpbrtext"
-LINE_MARK="<b>&#9783;&thinsp;&Ropf;</b>"
-LINE_DASH="&nbsp;&mdash;&nbsp;"
 MDOT_DASH="&nbsp;<b>&middot;</b>&nbsp;"
+LINE_MENU="&thinsp;&#9783;&thinsp;&Ropf;&nbsp;"
+LINE_MENU="<b id='menu' onClick='nextStylesheet()'>$LINE_MENU</b>"
+LINE_DASH="&nbsp;&mdash;&nbsp;"
 
 REVISION_STRING=""
 PUBLISH_UNIVDATE=""
@@ -178,8 +167,8 @@ revnum+=$(echo "$gitlog" | grep . | wc -l)
 command git status -s "$file" | grep -q . && let revnum++
 
 if [ $revnum -gt 0 ]; then
-    REVISION_STRING=" ${LINE_DASH} revision: <b class='tpbrbold
-'>${revnum}</b class='
+    REVISION_STRING=" ${LINE_DASH} revision: <b class='topbar
+'>${revnum}</b rev_num='
 '>"
 fi 2>/dev/null
 

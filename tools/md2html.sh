@@ -16,6 +16,8 @@ li_B=".<span style='visibility: hidden;'>--</span></b>"
 ul_A="<ul class='dqt'><li class='dqt'><blockquote class='dqt'>"
 ul_B="</blockquote></li></ul>"
 
+warn_a='<nobr class="alerts">&nbsp;&nbsp;WARNING!&nbsp;&nbsp;</nobr>'
+
 # RAF, 2024-12-26: the svg code has been taken by github to be used with github
 warn_A='<span class="warnicon spanicon">&nbsp;<svg class="warnicon svgicon"'\
 ' viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">'\
@@ -23,8 +25,10 @@ warn_A='<span class="warnicon spanicon">&nbsp;<svg class="warnicon svgicon"'\
 ' 0 1 14.082 15H1.918a1.75 1.75 0 0 1-1.543-2.575Zm1.763.707a.25.25 0 0 0-.44'\
 ' 0L1.698 13.132a.25.25 0 0 0 .22.368h12.164a.25.25 0 0 0 .22-.368Zm.53'\
 ' 3.996v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 11a1 1 0 1 1-2 0 1'\
-' 1 0 0 1 2 0Z"></path></svg><b>&nbsp;&nbsp;WARNING&nbsp;&nbsp;</b></span>'
+' 1 0 0 1 2 0Z"></path></svg>'$warn_a'</span>'
 warn_A=$(echo "$warn_A" | sed -e "s,\,,\\\,g" -e "s,\&,\\\&,g")
+
+info_a='<nobr class="alerts">&nbsp;&nbsp;&middot;NOTICE&middot;&nbsp;&nbsp;</nobr>'
 
 # RAF, 2024-12-26: the svg code has been taken by github to be used with github
 info_A='<span class="infoicon spanicon">&nbsp;<svg class="infoicon svgicon"'\
@@ -32,7 +36,7 @@ info_A='<span class="infoicon spanicon">&nbsp;<svg class="infoicon svgicon"'\
 '<path d="M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8Zm8-6.5a6.5 6.5 0 1 0 0 13 6.5 6.5'\
 ' 0 0 0 0-13ZM6.5 7.75A.75.75 0 0 1 7.25 7h1a.75.75 0 0 1 .75.75v2.75h.25a.75.75'\
 ' 0 0 1 0 1.5h-2a.75.75 0 0 1 0-1.5h.25v-2h-.25a.75.75 0 0 1-.75-.75ZM8 6a1 1 0 1'\
-' 1 0-2 1 1 0 0 1 0 2Z"></path></svg><b>&nbsp;&nbsp;NOTICE&nbsp;&nbsp;</b></span>'
+' 1 0-2 1 1 0 0 1 0 2Z"></path></svg>'$info_a'</span>'
 info_A=$(echo "$info_A" | sed -e "s,\,,\\\,g" -e "s,\&,\\\&,g")
 
 TARGET_BLANK="target='_blank' rel='noopener noreferrer'"
@@ -59,12 +63,14 @@ function full_mdlinkconv() {
 }
 
 function md2htmlfunc() {
-    local a b c i str=$(basename ${2%.html}) dir="" title txt
+    local a b c i str=$(basename ${2%.html}) dir="" title txt cmd
     test "$str" == "index" && dir="html/"
     title=${str/index/${PWD##*/}};
     #title=${str//-/ };
 
-    txt=$(head -n10 html/items/pagebody.htm)
+    txt="html/items/pagebody.htm"
+    declare -i n=$(grep -n "BODY_CONTENT" $txt | cut -d: -f1)
+    txt=$(head -n$[n-1] $txt)
     eval "echo \"$txt\" >$2"
     source tools/ptopbar.sh $1 >>$2
     if [ "$str" = "index" ]; then
@@ -73,7 +79,13 @@ function md2htmlfunc() {
         cat $1
     fi | full_mdlinkconv >>$2
 
-    sed -e "s,@,\&commat;,g" \
+    cmd="sed -i $2"
+    for a in "IT" "EN" "DE" "FR" "ES"; do
+        cmd+=" -e 's,^\[...$a...\] ,<span class=\"flag $a\">$a\&nbsp;</span>\&nbsp;,'"
+    done
+    eval "$cmd"
+
+    sed -e "s,^>$,> ," -e "s,@,\&commat;,g" \
 -e "s,\[\!WARN\],$warn_A,g" -e "s,\[\!WARNING\],$warn_A,g" \
 -e "s,\[\!NOTE\],$info_A,g" -e "s,\[\!INFO\],$info_A,g" \
 -e "s,m\*rda,m\&astr;rda,g" -e "s,sh\*t,sh\&astr;t,g" \
@@ -195,25 +207,25 @@ function main_md2html() {
 
     printf "$a"
     for i in $1; do
+        #echo $i >&2
         if [ "$i" == "template.md" ]; then
             continue
         elif [ "$i" == "README.md" -o "$i" == "index.html" ]; then
             index=1
             continue
         fi
-        #echo "converting $i in html ..."
+        # converting $i in html
         md2htmlfunc "$i" "html/${i%.md}.html"
         list="$list html/${i%.md}.html"
     done
     if [ $index -ne 0 ]; then
-        #printf .
-        #echo "converting README.md in index.html ..."
+        # converting README.md in index.html
         md2htmlfunc README.md index.html
     fi
     printf "$b"
 
     printf "$a"
-    #echo "redirection $1 image links ..."
+    # redirection image links
     for j in $list; do
         for i in $(get_images_list); do
             sed -e "s,\(href=.\)$i,\\1../$i,g" \
@@ -226,7 +238,7 @@ function main_md2html() {
     printf "$b" #2
 
     printf "$a"
-    #echo "replacing $1 markdown links ..."
+    # replacing $1 markdown links
     if [ "${PWD##*/}" == "chatgpt-answered-prompts" ]; then
         index=0
     fi
@@ -243,8 +255,9 @@ function main_md2html() {
     printf "$b" #3
 
     printf "$a"
-    #echo "converting $1 markdown tables ..."
-    source tools/tabl2html.sh $list 2>/dev/null >&2
+    #echo "list: $list" >&2
+    test -n "$list" && \
+        source tools/tabl2html.sh $list 2>/dev/null >&2
     printf "$b" #4
 }
 

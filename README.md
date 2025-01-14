@@ -1,8 +1,10 @@
 <div id="firstdiv" created=":EN" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
 
-<div align="center"><img src="warp-speed-jump.png" width="800"><br/></div>
+<div class="pagehead" align="center"><img class="wbsketch paleinv" src="warp-speed-jump.png" width="800"><br/>
 
-## Q&A dialogs with AI chatbots
+<h1>Q&A dialogs with AI chatbots</h1><hr>
+
+</div>
 
 A collection of some Q&A dialogs with various AI powered chatbots about different subjects which get the attention of the media.
 
