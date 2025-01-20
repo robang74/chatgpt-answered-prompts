@@ -28,6 +28,36 @@ How? It is explained in this document, here below summarised in a few key-points
 
 In short, this is a proposal that coherently and harmoniously combines the rights of consumer users with freedom of speech, the desire of social networking platforms to focus on their core business. Last but not least, this approach promotes a more nuanced moderation model focused on content selection rather than censorship.
 
+---
+
+### Introduction
+
+These websites, developed with shell-script and web technologies such as JavaScript and CSS, offer a proof-of-concept for a new generation of digital platforms.
+
+- [Chatbots for fun](https://robang74.github.io/chatbots-for-fun) on [github](https://github.com/robang74/chatbots-for-fun) pages
+
+- [Roberto A. Foglietta](https://robang74.github.io/roberto-a-foglietta) on [github](https://github.com/robang74/roberto-a-foglietta) pages
+
+- [Q&A dialogs with AI chatbots](https://robang74.github.io/chatgpt-answered-prompts) on [github](https://github.com/robang74/chatgpt-answered-prompts) pages
+
+Using a short function in JavaScript (a few lines of code, because less is more) and CSS, I implemented a technique to alter the display of images and change their hue (e.g. sepia, black and white) directly in the browser.
+
+This approach creates the basis for two main evolutions: that of decentralised social networks and that of digital content enjoyment, with a special focus on do-it-yourself (DIY) e-book readers.
+
+Below is a (non-exhaustive) list of key points:
+
+- **distributed social network**: by exploiting Git and regular expression scripts (PHP, sed, awk, bash, etc.), it is possible to create a decentralised social network in which users' content becomes independent of traditional social networks, on which it can be publicised, but remaining completely eight the control of the users, with a fine and precise versioning system.
+
+- **do-it-yourself book reader**: using a resolution of 800px, static HTML pages with CSS and a minimum of JavaScript (replaceable with shell-scripting, if necessary), it is possible to embed this content in low-power embedded devices.
+
+- **Reduction of resources**: thanks to BusyBox, which includes an HTTP server and scripting capabilities, the entire system (without content) can be reduced to less than 16 MB, and with further optimisation, even under 1 MB (this [branch](https://github.com/robang74/busybox/tree/self-contained) in which 18 patches have been integrated, goes in this direction).
+
+- **e-Ink display**: with a width of 800px (4:3 format, similar to an A4), combined with the ability to use grey tones and black/white via CSS, and supporting browsers such as Dillo, it is possible to create a display system for DIY e-books on e-Ink displays managed by Raspberry Pi and the like.
+
+Considering the failure of decentralised social media and DIY e-readers, it is evident that this approach offers an alternative yet functional solution based on established and scalable technologies.
+
+This can be achieved by imposing restrictions on technology (standards) but not on content, an approach commonly used in embedded and dedicated systems to limit the complexity of the computer systems involved as much as possible.
+
 <br/>
 
 ### Document structure
