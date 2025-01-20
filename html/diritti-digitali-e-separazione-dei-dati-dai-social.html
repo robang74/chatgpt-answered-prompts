@@ -16,7 +16,7 @@
     <body>
 <p/>
 <div class='topbar' translate='no'><b id='menu' onClick='nextStylesheet()'>&thinsp;&#9783;&thinsp;&Ropf;&nbsp;</b>&nbsp;&mdash;&nbsp; published:&nbsp; <b class='topbar'>2025-01-11<sup class='date-type topbar' id='datenote'>&nbsp;(&hairsp;<a href='#date-legenda' class='date-type topbar'>&hairsp;1&hairsp;</a>&hairsp;)&nbsp;</sup></b>  &nbsp;&mdash;&nbsp; revision: <b class='topbar
-'>17</b rev_num='
+'>18</b rev_num='
 '> &nbsp;&mdash;&nbsp; translate:&nbsp; <a class='topbar' href='diritti-digitali-e-separazione-dei-dati-dai-social-EN.html'>EN</a> &nbsp;<b>&middot;</b>&nbsp; <a class='topbar' href='https://robang74-github-io.translate.goog/chatgpt-answered-prompts/html/diritti-digitali-e-separazione-dei-dati-dai-social?_x_tr_sl=it&_x_tr_tl=de&_x_tr_hl=de-DE&_x_tr_pto=wapp' target='_blank' rel='noopener noreferrer'>DE</a> &nbsp;<b>&middot;</b>&nbsp; <a class='topbar' href='https://robang74-github-io.translate.goog/chatgpt-answered-prompts/html/diritti-digitali-e-separazione-dei-dati-dai-social?_x_tr_sl=it&_x_tr_tl=fr&_x_tr_hl=fr-FR&_x_tr_pto=wapp' target='_blank' rel='noopener noreferrer'>FR</a> &nbsp;<b>&middot;</b>&nbsp; <a class='topbar' href='https://robang74-github-io.translate.goog/chatgpt-answered-prompts/html/diritti-digitali-e-separazione-dei-dati-dai-social?_x_tr_sl=it&_x_tr_tl=es&_x_tr_hl=es-ES&_x_tr_pto=wapp' target='_blank' rel='noopener noreferrer'>ES</a> &nbsp;&mdash;&nbsp; goto:&nbsp; <a class='topbar' href='../index.html#index'>.&#x27F0;.</a> &nbsp;<b>&middot;</b>&nbsp; <a class='topbar' href='../../chatbots-for-fun/index.html'target=_blank>C4F</a> &nbsp;<b>&middot;</b>&nbsp; <a class='topbar' href='../../roberto-a-foglietta/index.html'target=_blank>RAF</a>&nbsp;</div>
 <div id="firstdiv">
 <p/>
@@ -47,6 +47,36 @@ Come? È spiegato in questo documento, qui di seguito riassunto in pochi punti c
 <li>Sebbene <tt>git</tt> sia ottimo per il testo e accettabile per le immagini di piccole dimensioni, non sarebbe adatto per i contenuti multimediali su larga scala (video, album fotografici ad alta risoluzione, ecc.), che dovrebbero essere serviti da servizi cloud/CDN più tradizionali (o YouTube e Google Photos per i consumatori, per esempio), ed aumenterebbe ulteriormente la diversificazione del business sulle offerte professionali.</li>
 <p/>
 Insomma, questa è una proposta che combina in modo coerente e armonico i diritti degli utenti consumatori con la libertà di parola, la volontà delle piattaforme di social network di concentrarsi sul proprio core business. Infine, ma non meno importante, questo approccio promuove un modello di moderazione più sfumato, incentrato sulla selezione dei contenuti piuttosto che sulla censura.
+<p/>
+<hr>
+<p/>
+<H3 id="introduzione">Introduzione</H3>
+<p/>
+Questi siti web, sviluppati con shell-script e tecnologie web come JavaScript e CSS, offrono un proof-of-concept per una nuova generazione di piattaforme digitali.
+<p/>
+<li><a href="https://robang74.github.io/chatbots-for-fun" target='_blank' rel='noopener noreferrer'>Chatbots for fun</a> on <a href="https://github.com/robang74/chatbots-for-fun" target='_blank' rel='noopener noreferrer'>github</a> pages</li>
+<p/>
+<li><a href="https://robang74.github.io/roberto-a-foglietta" target='_blank' rel='noopener noreferrer'>Roberto A. Foglietta</a> on <a href="https://github.com/robang74/roberto-a-foglietta" target='_blank' rel='noopener noreferrer'>github</a> pages</li>
+<p/>
+<li><a href="https://robang74.github.io/chatgpt-answered-prompts" target='_blank' rel='noopener noreferrer'>Q&A dialogs with AI chatbots</a> on <a href="https://github.com/robang74/chatgpt-answered-prompts" target='_blank' rel='noopener noreferrer'>github</a> pages</li>
+<p/>
+Utilizzando una breve funzione in JavaScript (poche righe di codice, perché meno è meglio) e CSS, ho implementato una tecnica per alterare la visualizzazione delle immagini e modificarne la tonalità (es: seppia, bianco e nero) direttamente nel browser.
+<p/>
+Questo approccio crea le basi per due evoluzioni principali: quella dei social network decentralizzati e quella della fruizione di contenuti digitali, con un focus particolare sugli e-book reader fai-da-te (DIY).
+<p/>
+Di seguito, una lista (non esaustiva) di punti chiave:
+<p/>
+<li><b>social network distribuito</b>: sfruttando Git e script di regular expression (PHP, sed, awk, bash, ecc.), è possibile creare un social network decentralizzato in cui i contenuti degli utenti diventino indipendenti dai social network tradizionali, sui quali potranno essere pubblicizzati, ma rimanendo completamente otto il controllo degli utenti, con un sistema di versioning fine e preciso.</li>
+<p/>
+<li><b>e-book reader fai-da-te</b>: utilizzando una risoluzione di 800px, pagine HTML statiche con CSS e un minimo di JavaScript (sostituibile con shell-scripting, all'occorrenza), è possibile incorporare questi contenuti in dispositivi embedded a basso consumo.</li>
+<p/>
+<li><b>riduzione delle risorse</b>: grazie a BusyBox, che include un server HTTP e capacità di scripting, l'intero sistema (senza contenuti) può essere ridotto a meno di 16 MB, e con ulteriori ottimizzazioni, anche sotto 1 MB (questo <a href="https://github.com/robang74/busybox/tree/self-contained" target='_blank' rel='noopener noreferrer'>branch</a> in cui sono state integrate 18 patches, va in tale direzione).</li>
+<p/>
+<li><b>display e-Ink</b>: con una larghezza di 800px (formato 4:3, simile a un A4), combinata con la capacità di utilizzare toni di grigio e bianco/nero tramite CSS, e supportando browser come Dillo, è possibile creare un sistema di visualizzazione per e-book DIY su display e-Ink gestiti da Raspberry Pi e simili.</li>
+<p/>
+Se si considera il fallimento dei social media decentralizzati e degli e-reader DIY, è evidente che questo approccio offre una soluzione alternativa ma funzionale, basata su tecnologie consolidate e scalabili.
+<p/>
+Un obiettivo raggiungibile, imponendo restrizioni alla tecnologia (standard) ma non ai contenuti, un approccio comunemente utilizzato nei sistemi embedded e in quelli dedicati, per limitare quanto più possibile la complessità dei sistemi informatici coinvolti.
 <p/>
 <br/>
 <p/>

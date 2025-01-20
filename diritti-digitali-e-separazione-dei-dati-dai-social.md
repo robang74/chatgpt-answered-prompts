@@ -28,6 +28,36 @@ Come? È spiegato in questo documento, qui di seguito riassunto in pochi punti c
 
 Insomma, questa è una proposta che combina in modo coerente e armonico i diritti degli utenti consumatori con la libertà di parola, la volontà delle piattaforme di social network di concentrarsi sul proprio core business. Infine, ma non meno importante, questo approccio promuove un modello di moderazione più sfumato, incentrato sulla selezione dei contenuti piuttosto che sulla censura.
 
+---
+
+### Introduzione
+
+Questi siti web, sviluppati con shell-script e tecnologie web come JavaScript e CSS, offrono un proof-of-concept per una nuova generazione di piattaforme digitali.
+
+- [Chatbots for fun](https://robang74.github.io/chatbots-for-fun) on [github](https://github.com/robang74/chatbots-for-fun) pages
+
+- [Roberto A. Foglietta](https://robang74.github.io/roberto-a-foglietta) on [github](https://github.com/robang74/roberto-a-foglietta) pages
+
+- [Q&A dialogs with AI chatbots](https://robang74.github.io/chatgpt-answered-prompts) on [github](https://github.com/robang74/chatgpt-answered-prompts) pages
+
+Utilizzando una breve funzione in JavaScript (poche righe di codice, perché meno è meglio) e CSS, ho implementato una tecnica per alterare la visualizzazione delle immagini e modificarne la tonalità (es: seppia, bianco e nero) direttamente nel browser.
+
+Questo approccio crea le basi per due evoluzioni principali: quella dei social network decentralizzati e quella della fruizione di contenuti digitali, con un focus particolare sugli e-book reader fai-da-te (DIY).
+
+Di seguito, una lista (non esaustiva) di punti chiave:
+
+- **social network distribuito**: sfruttando Git e script di regular expression (PHP, sed, awk, bash, ecc.), è possibile creare un social network decentralizzato in cui i contenuti degli utenti diventino indipendenti dai social network tradizionali, sui quali potranno essere pubblicizzati, ma rimanendo completamente otto il controllo degli utenti, con un sistema di versioning fine e preciso.
+
+- **e-book reader fai-da-te**: utilizzando una risoluzione di 800px, pagine HTML statiche con CSS e un minimo di JavaScript (sostituibile con shell-scripting, all'occorrenza), è possibile incorporare questi contenuti in dispositivi embedded a basso consumo.
+
+- **riduzione delle risorse**: grazie a BusyBox, che include un server HTTP e capacità di scripting, l'intero sistema (senza contenuti) può essere ridotto a meno di 16 MB, e con ulteriori ottimizzazioni, anche sotto 1 MB (questo [branch](https://github.com/robang74/busybox/tree/self-contained) in cui sono state integrate 18 patches, va in tale direzione).
+
+- **display e-Ink**: con una larghezza di 800px (formato 4:3, simile a un A4), combinata con la capacità di utilizzare toni di grigio e bianco/nero tramite CSS, e supportando browser come Dillo, è possibile creare un sistema di visualizzazione per e-book DIY su display e-Ink gestiti da Raspberry Pi e simili.
+
+Se si considera il fallimento dei social media decentralizzati e degli e-reader DIY, è evidente che questo approccio offre una soluzione alternativa ma funzionale, basata su tecnologie consolidate e scalabili.
+
+Un obiettivo raggiungibile, imponendo restrizioni alla tecnologia (standard) ma non ai contenuti, un approccio comunemente utilizzato nei sistemi embedded e in quelli dedicati, per limitare quanto più possibile la complessità dei sistemi informatici coinvolti.
+
 <br/>
 
 ## Struttura del documento
