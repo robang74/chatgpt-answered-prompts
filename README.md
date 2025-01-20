@@ -66,7 +66,7 @@ This index is divided in tre sections related to different topics.
 
 - About [politics & governance](#about-politics--governance)
 
----
+<hr class="post-it">
 
 ### About finance & economics
 
@@ -98,7 +98,7 @@ This index is divided in tre sections related to different topics.
 
     - How to globally escape from the current dystopic financial model and connect the economics with reality, avoid WW3 and save the planet.
 
----
+<hr class="post-it">
 
 ### About education & innovation
 
@@ -122,7 +122,7 @@ This index is divided in tre sections related to different topics.
 
    - Starting from an contro-meme challenge about a citation popularly attributed to Immanuel Kant toward a rule of thumb how to deal with the lies, the truth and their expectations.
 
----
+<hr class="post-it">
 
 ### About politics & governance
 
