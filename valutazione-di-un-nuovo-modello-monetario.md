@@ -20,6 +20,10 @@ Gli scambi [2] fra i vari panieri e il mercato delle materie prime sarebbe gesti
 
 Lo scopo di questo modello monetario è quello di evitare i conflitti bellici causati sia dall'indebita acquisizione delle risorse naturali sia dall'imposizione forzosa e unilaterale delle valute a corso legali senza collaterale associato.
 
+<br/>
+
+<hr class="post-it">
+
 ### Q&A DIALOG
 
 In this case, it is not a single prompt but a dialog: a series of answered questions with aim described in the section above. Prompts and the related answers are separated by horizontal lines. Few missing words have been added in the Prompt queries just to help the English native speakers to quickly grab the meaning but for sake of correctness those words appear between [squared] parentheses.
@@ -39,6 +43,8 @@ In this case, it is not a single prompt but a dialog: a series of answered quest
 ### CUSTOMISATION
 
 none
+
+<hr class="post-it">
 
 <br/>
 

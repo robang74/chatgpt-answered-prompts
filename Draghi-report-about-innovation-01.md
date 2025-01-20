@@ -1,6 +1,12 @@
 <div id="firstdiv" created=":EN" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
 
-## Q&A DIALOG
+## Draghi's report about innovation
+
+Mario Draghi's 400 pages report to European Commission, about innovation.
+
+<hr class="post-it">
+
+### Q&A DIALOG
 
 In this case, it is not a single prompt but a dialog: a series of answered questions about how to foster Europe's economy, make innovation thriving and improving on a global scale the continent's competitiveness. Prompts are highlighted and presented written in italic font. Few missing words have been added in the prompt queries just to help the English native speakers to quickly grab the meaning but for sake of correctness those words appear between [squared] parentheses.
 
@@ -28,9 +34,10 @@ which has been removed here below to avoid useless repetitions.
 
 This document is entirely published under *Creative Commons Attribution Non-Commercial No-Derivatives 4.0 International* license terms ([CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)) included the part above this statement. Moreover, if a version of this document exists or has existed under different licence terms, the licence terms of the latest version available on `github/robang74` [repository](https://github.com/robang74/chatgpt-answered-prompts/) apply. Even when the new licence terms are more restrictive, because permissions for any free content may be revoked at any time at the will of the author, and updating a licence to be more restrictive explicitly implies this will.
 
-<br/>
-<br/>
+<hr class="post-it">
 
+<br/>
+<br/>
 
 ### Prompt #1
 
@@ -411,5 +418,7 @@ The considerations of the human author are a mix of valid critiques and subjecti
 - The suggestion that alternative models like the "Cathedral and the Bazaar" might offer more effective approaches to innovation is supported by the success of such models in areas like open-source software development.
 
 In conclusion, the human author's considerations are a mix of valid critiques and subjective interpretations, reflecting a thoughtful engagement with the report's strengths and weaknesses.
+
+<br/>
 
 </div>

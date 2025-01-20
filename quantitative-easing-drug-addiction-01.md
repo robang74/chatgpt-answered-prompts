@@ -4,13 +4,19 @@
 
 The quantitative easing monetary policy has been an extended and ciclical way of anesthetize a bad system that otherwise should have faced its own need to change itself for the better. This way of doing has been among us for decades and considering the dot-com bubble as a early precursor sign of the consequences, we might relate to this policy back in time for 30 years and even more. Unsurprinsingly, this policy started to be adopted in USA where giving Fentanyl to people instead of curing them gone so far that it grown up as a geopolitical issue.
 
-### RATIONALE
+---
+
+### Rationale
 
 The use of a chatbot for critical review of a theory and its improvment of confutation has been shown in another document available on this `github/robang74` repository about [paper money is finantial communism](paper-money-financial-communism-03.md#?target=_blank).
 
 In this case the use of the chatbot has been used as an inspirational partner. Like when we tell something to somebody not for a particular reason rather than enjoy a conversation from another point of view hoping to find inspiration, to dive deep into, extending the concept or trying to catch a bigger picture from it.
 
 In fact, I have used this approch - asking for the big picture - in order to find an inspiration.
+
+<br/>
+
+<hr class="post-it">
 
 ### Q&A DIALOG
 
@@ -52,7 +58,8 @@ The first prompt answer was not satisfying because the prompt itself was not wri
 
 This document is entirely published under *Creative Commons Attribution Non-Commercial No-Derivatives 4.0 International* license terms ([CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)) included the part above this statement. Moreover, if a version of this document exists or has existed under different licence terms, the licence terms of the latest version available on `github/robang74` [repository](https://github.com/robang74/chatgpt-answered-prompts/) apply. Even when the new licence terms are more restrictive, because permissions for any free content may be revoked at any time at the will of the author, and updating a licence to be more restrictive explicitly implies this will.
 
-<br/>
+<hr class="post-it">
+
 <br/>
 
 ### Prompt #1
@@ -623,5 +630,7 @@ By gut feeling, I would be surprised to receive a 9/10 or 10/10 answer while I w
 This consideration might seem irrelevant compared with the importance of what has been discussed with the chatbot during this session. Instead it is fundamental and it is about the final conclusion: humans are more likely social animals rather than truth seekers. For the 1st role, we were born fit for that. For the 2nd role, we need just to comprehend the deep meaning of the question that someone might ask to us as well about behaving like a yes-man.
 
 Spoiler: with or in front of a "*truth seeker*" being a "*social animal*" implies knowing that s/he looks for an honest critical peer-review. In all other cases, it depends.
+
+<br/>
 
 </div>

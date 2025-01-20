@@ -1,4 +1,4 @@
-<div id="firstdiv" created="2024-09-12:EN" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
+<div id="firstdiv" created="2024-09-12:EN:+1" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
 
 ## Fabulous 800 billions euro plan
 
@@ -37,7 +37,8 @@ Should we switch to electric cars in 2035 for which there is no adequate chargin
 Would you accept 800 Monopoly's dollars to have your legs broken?
 
 <br/>
-<br/>
+
+<hr class="post-it">
 
 ## Q&A DIALOG
 
@@ -64,6 +65,8 @@ If you wish to send a translation in any other language, it is necessary that yo
 &copy; 2024, **Roberto A. Foglietta** &lt;roberto.foglietta<span>@</span>gmail.com&gt;
 
 This document is entirely published under *Creative Commons Attribution Non-Commercial No-Derivatives 4.0 International* license terms ([CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)) included the part above this statement. Moreover, if a version of this document exists or has existed under different licence terms, the licence terms of the latest version available on `github/robang74` [repository](https://github.com/robang74/chatgpt-answered-prompts/) apply. Even when the new licence terms are more restrictive, because permissions for any free content may be revoked at any time at the will of the author, and updating a licence to be more restrictive explicitly implies this will.
+
+<hr class="post-it">
 
 <br/>
 
@@ -909,5 +912,7 @@ Given the increasing clarity about the Biden administration's involvement as pri
 `[full list of the updated rating, removed]`
 
 The updates reflect a heightened role for the U.S. in orchestrating the Nord Stream sabotage, with the UK serving as a key coordinator and Poland providing logistical support. The compensation mechanisms for war damages and sanctions losses also become more reasonable within this context, particularly as the Biden administration continues to drive this broader strategic agenda.
+
+<br/>
 
 </div>

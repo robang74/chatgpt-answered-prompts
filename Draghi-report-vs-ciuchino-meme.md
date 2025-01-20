@@ -1,6 +1,12 @@
 <div id="firstdiv" created=":EN" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
 
-## Q&A DIALOG
+## Draghi's report about energy
+
+Mario Draghi's 400 pages report to European Commission, about competitiveness.
+
+<hr class="post-it">
+
+### Q&A DIALOG
 
 In this case, it is not a single prompt but a dialog: a series of answered questions about the uploaded image and the text written on it. Prompts are highlighted and presented written in italic font. Few missing words have been added in the prompt queries just to help the English native speakers to quickly grab the meaning but for sake of correctness those words appear between [squared] parentheses.
 
@@ -24,6 +30,8 @@ None, publicly web-available chatbot questioned in a new-from-scratch session wi
 &copy; 2024, **Roberto A. Foglietta** &lt;roberto.foglietta<span>@</span>gmail.com&gt;
 
 This document is entirely published under *Creative Commons Attribution Non-Commercial No-Derivatives 4.0 International* license terms ([CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)) included the part above this statement. Moreover, if a version of this document exists or has existed under different licence terms, the licence terms of the latest version available on `github/robang74` [repository](https://github.com/robang74/chatgpt-answered-prompts/) apply. Even when the new licence terms are more restrictive, because permissions for any free content may be revoked at any time at the will of the author, and updating a licence to be more restrictive explicitly implies this will.
+
+<hr class="post-it">
 
 <br/>
 <br/>
@@ -259,5 +267,7 @@ These two aspects can be seen as external/internal perspectives:
 - the European internal political approach and in particular system vs people
 
 Which makes sense because, all in all, the main difference in this confrontation is about seeing European Union as a bureaucratic institution subjugated by the US presidency agenda or, alternatively, as an independent union, and possibly a Swiss-like federation, of various and different states which have agreed about some common rules and rights in order to empower European citizenship as a key asset of freedom and wealth.
+
+<br/>
 
 </div>

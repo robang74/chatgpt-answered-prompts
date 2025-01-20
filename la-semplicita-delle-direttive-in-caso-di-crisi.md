@@ -4,7 +4,9 @@
 
 L'importanza della semplicità delle direttive, in caso di crisi ad alto tenore di emergenza.
 
-### PREMESSA
+---
+
+### Premessa
 
 Questo documento nasce da un post su Facebook dal taglio molto umoristico, per non dire sarcastico, ma il colloqui con il chatbot Gemini ha portato alla luce questioni ben più interessanti. Sicchè il testo originale del post è stato solo un accidentale punto d'inizio e in quanto tale funziona da introduzione, necessariamente.
 
@@ -12,7 +14,9 @@ Il documento che è emerso attraverso il dibattito con il chatbot è molto lungo
 
 Sono state usate diverse AI in modo che facessero controllo incrociato nei vari stadi di analisi, per produrre una sintesi del documento che fosse anche una peer-review del testo presentato in questo docuemnto, sezione "ricapitolando" esclusa.
 
-### STRUTTURA
+---
+
+### Struttura
 
 Questa è la struttura del documento secondo il filo logico dell'autore:
 
@@ -46,7 +50,7 @@ Secondo l'autore i punti salienti sono il #14 e il #27. Quelli in cui sfida il c
 
 ---
 
-### CLAUDE AI
+### Claude AI
 
 Questa è la struttura del documento suggerita da Claude AI.
 
@@ -80,7 +84,9 @@ Questa è la struttura del documento suggerita da Claude AI.
 
 Claude enfatizza i prompt #14 e #27 come i più rilevanti, mentre la parte interessante si trova in #23-27, con #24 come punto di svolta quando Gemini riconosce il concetto di costo/opportunità e passa da un atteggiamento teorico/assolutista ad uno pragmatico/bilanciato.
 
-### AI PEER-REVIEW
+---
+
+### AI peer-review
 
 L'analisi della questione presentata nel testo è notevolmente sofisticata e ben strutturata.
 
@@ -149,7 +155,7 @@ Quando i numeri dei vaccinati e la velocità di somministrazione crescono, anche
 
 ---
 
-### LIMITAZIONI
+### Limitazioni
 
 Poi interrogato di nuovo per rivedere la stima dell'azzardo morale - prosecuzione qui non riportata - improvvisamente si ricorda che parlare dei politici non è cosa da fare e ritorna al vaniloquio e alle prosaiche parole che in sintesi si riconducono al sempre verde motto "lo facciamo per il vostro bene".
 
@@ -167,15 +173,13 @@ Le prassi mediche scientifiche sono banalità che un chatbot può discutere senz
 
 Però non può ne commentare e neppure prendere in considerazione una notizia che contenga la condanna della von der Leyen o del processo del Dr. Fauci? ...e sti' cazzi, no?
 
-### UPLOAD
+---
+
+### Documenti
 
 * [Le mie gioie, di dicembre](data/le-mie-gioie-di-dicembre.txt?target=_blank) - Testo ASCII del post su Facebook
 
 * [Methane reduction in livestock breeding](data/methane-reduction-in-livestock-breeding.png?target=_blank) - Composizione degli creenshot relativi ad un thread su LinkedIn
-
-### COPYRIGHT
-
-&copy; 2024, **Roberto A. Foglietta** &lt;roberto.foglietta<span>@</span>gmail.com&gt;, [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 <br/>
 <br/>
@@ -1393,23 +1397,23 @@ Hai proposto una serie di misure alternative alla gestione della pandemia che me
 
 Analizziamo i tuoi punti:
 
-**1.** --- **Consigliare agli anziani** di non uscire di casa, il meno possibile.
+**1. Consigliare agli anziani** di non uscire di casa, il meno possibile.
 
 * Questa misura, mirata alla fascia di popolazione più vulnerabile, avrebbe potuto avere un senso in una fase iniziale, quando le conoscenze sul virus erano limitate. Tuttavia, un isolamento prolungato degli anziani ha avuto pesanti conseguenze sul loro benessere psicofisico, aumentando il rischio di depressione, declino cognitivo e isolamento sociale. Un approccio più efficace avrebbe potuto essere quello di fornire indicazioni precise su come proteggersi (uso di mascherine, distanziamento, igiene) e di garantire loro supporto domiciliare e accesso alle cure.
 
-**2.** --- **Consigliare a tutti** di usare prescrizioni chirurgiche assolutamente testate e note quali mascherine e disinfettanti per le mani quando si esce o si è in società.
+**2. Consigliare a tutti** di usare prescrizioni chirurgiche assolutamente testate e note quali mascherine e disinfettanti per le mani quando si esce o si è in società.
 
 * L'uso di mascherine e l'igiene delle mani sono misure di comprovata efficacia nel ridurre la trasmissione di virus respiratori. Promuoverne l'uso corretto e costante, senza imposizioni generalizzate, sarebbe stato un approccio ragionevole.
 
-**3.** --- **Chiudere solo quelle attività** sociali non strettamente essenziali come le discoteche o i concerti dove un numero grande di persone si riuniscono.
+**3. Chiudere solo quelle attività** sociali non strettamente essenziali come le discoteche o i concerti dove un numero grande di persone si riuniscono.
 
 * Questa misura, mirata a ridurre il rischio di assembramenti e di super-diffusione del virus, appare sensata. Tuttavia, è importante considerare anche l'impatto economico e sociale della chiusura di queste attività, e cercare soluzioni alternative che permettano una riapertura in sicurezza (ad esempio, con limitazioni di capienza, distanziamento e ventilazione).
 
-**4.** --- **Dare priorità di assistenza negli ospedali**, qualora fossero costretti a fare triage, di prediligere i giovani piuttosto che gli anziani (anche se il concetto di vita da vivere nel triage è diverso dall'età anagrafica) e proteggere i medici con le forze di polizia invece di mandarle in giro ad assimilare le persone.
+**4. Dare priorità di assistenza negli ospedali**, qualora fossero costretti a fare triage, di prediligere i giovani piuttosto che gli anziani (anche se il concetto di vita da vivere nel triage è diverso dall'età anagrafica) e proteggere i medici con le forze di polizia invece di mandarle in giro ad assimilare le persone.
 
 * Questo è il punto più delicato e controverso. Il triage in situazioni di emergenza è una pratica complessa che deve tenere conto di diversi fattori, tra cui la gravità delle condizioni, la probabilità di successo delle cure e le risorse disponibili. Dare priorità ai giovani sulla base della sola età anagrafica solleva questioni etiche importanti. Un approccio più equo potrebbe essere quello di utilizzare criteri clinici oggettivi per valutare la priorità di accesso alle cure, indipendentemente dall'età. L'uso delle forze di polizia per proteggere il personale sanitario appare una misura ragionevole in situazioni di emergenza, ma è fondamentale evitare eccessi e abusi.
 
-**5.** --- **Evitare di somministrare in massa** farmaci non testati secondo i protocolli medici accertati e in particolare evitare obblighi di massa.
+**5. Evitare di somministrare in massa** farmaci non testati secondo i protocolli medici accertati e in particolare evitare obblighi di massa.
 
 * Questo principio è fondamentale. La somministrazione di farmaci o vaccini deve sempre avvenire sulla base di solide evidenze scientifiche e nel rispetto del consenso informato del paziente. L'obbligo vaccinale può essere giustificato solo in situazioni eccezionali e sulla base di una rigorosa valutazione dei rischi e dei benefici.
 
@@ -1591,6 +1595,8 @@ Fin qua possiamo dire che si tratti di opportunismo, corruzione e violazione dei
 
 Poi, ovviamente è arrivata la crisi in Ucraina, un altro capitolo in cui il mix di follia e imbecillità si sono mescolati manco fossero un drink esotico. Date le premesse, è apparso "normale" che anche il settore energetico e quello bancario sfruttassero l'occasione "abilmente e sapientemente" preparata dal 1992 per garantirsi extra-profitti in gran misura. (cfr [La guera del dollaro contro l'euro](https://robang74.github.io/roberto-a-foglietta/html/261-la-guerra-del-dollaro-contro-l-euro.html))
 
+---
+
 ### Tutto meraviglioso
 
 In questo scenario di meraviglia per non dire "stupore", una parola che etimologicamente è collegata con "stupefacenti", si può ancora aggiungere quanto segue:
@@ -1609,6 +1615,8 @@ In questo scenario di meraviglia per non dire "stupore", una parola che etimolog
 
 - Sono certo che mi sono dimenticano di altri fatti altrettanto eclatanti con un analogo impatto geopolitico tipo la nave cinese sequestrata dai Finlandesi che si suppone abbia danneggiato i cavi Internet sottomarini nel Mar Baltico anche se più probabilmente, come suggerito, hanno solo raccolto le prove di CHI ha attuato realmente quel danneggiamento e questo ci riporta alla carrellata di favole per coprire il sabotaggio del Nord Stream II che poi sfociano nell'altra illusoria promessa di un piano Marshall per l'Europa. (cfr. [Draghi's faboulous 800 bln funding plan](https://robang74.github.io/chatgpt-answered-prompts/html/Draghi-faboulous-800bln-funding-02.html))
 
+---
+
 ### Novelli primati
 
 Ormai in conclusione dell'anno domini 2024, tempo di fare dei bilanci. Sicchè vale la pena aggiungere ancora un paio di punti.
@@ -1621,8 +1629,18 @@ Ormai in conclusione dell'anno domini 2024, tempo di fare dei bilanci. Sicchè v
 
 Auguri per il 2025, è già stato detto? Baci, R-
 
-### Articoli correlati
+<br/>
+<br/>
+
+## Articoli correlati
 
 - [Draghi's faboulous 800 bln funding plan](Draghi-faboulous-800bln-funding-02.md#?target=_blank)
+
+<br/>
+<br/>
+
+### Copyright
+
+&copy; 2024, **Roberto A. Foglietta** &lt;roberto.foglietta<span>@</span>gmail.com&gt;, [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 </div>

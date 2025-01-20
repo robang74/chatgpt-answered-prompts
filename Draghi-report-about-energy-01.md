@@ -1,5 +1,11 @@
 <div id="firstdiv" created=":EN" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
 
+## Draghi's report about energy
+
+Mario Draghi's 400 pages report to European Commission, about energy.
+
+<hr class="post-it">
+
 ## Q&A DIALOG
 
 In this case, it is not a single prompt but a dialog: a series of answered questions about the energy topic and Ukraine proxy war against Russia viewed from Europe's perspective. Prompts are highlighted and presented written in italic font. Few missing words have been added in the prompt queries just to help the English native speakers to quickly grab the meaning but for sake of correctness those words appear between [squared] parentheses.
@@ -25,6 +31,8 @@ which has been removed here below to avoid useless repetitions.
 &copy; 2024, **Roberto A. Foglietta** &lt;roberto.foglietta<span>@</span>gmail.com&gt;
 
 This document is entirely published under *Creative Commons Attribution Non-Commercial No-Derivatives 4.0 International* license terms ([CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)) included the part above this statement. Moreover, if a version of this document exists or has existed under different licence terms, the licence terms of the latest version available on `github/robang74` [repository](https://github.com/robang74/chatgpt-answered-prompts/) apply. Even when the new licence terms are more restrictive, because permissions for any free content may be revoked at any time at the will of the author, and updating a licence to be more restrictive explicitly implies this will.
+
+<hr class="post-it">
 
 <br/>
 <br/>
@@ -282,5 +290,7 @@ The chatbot's last single word answer is "Europe," suggesting that Draghi's repo
 The considerations of the human author are more accurate in critically evaluating the report's alignment with U.S. interests and questioning the framing of global decarbonization and democratic values. The chatbot's single word answer, "Europe," does not fully capture the nuanced critique provided by the human author.
 
 Therefore, the human author's considerations are more correct in their analysis.
+
+<br/>
 
 </div>

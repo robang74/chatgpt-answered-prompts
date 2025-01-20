@@ -4,6 +4,10 @@
 
 Analisi di costituzionalità della c.d. legge Nordio sull'abolizione dell'abuso d'ufficio e sull'estensione dell'interrogatorio anticipato di garanzia e riguardo alle interciazzioni nell'ambito delle indagini.
 
+<br/>
+
+<hr class="post-it">
+
 ### CUSTOMISATION
 
 Per questa analisi ho utilizzato un chatbot specializzato, aggiornato con dati aggiuntivi specifici.
@@ -33,10 +37,11 @@ In versioni integrali e prese da il sito del [Senato della Repubblica Italiana](
 
 This document is entirely published under *Creative Commons Attribution Non-Commercial No-Derivatives 4.0 International* license terms ([CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)) included the part above this statement. Moreover, if a version of this document exists or has existed under different licence terms, the licence terms of the latest version available on `github/robang74` [repository](https://github.com/robang74/chatgpt-answered-prompts/) apply. Even when the new licence terms are more restrictive, because permissions for any free content may be revoked at any time at the will of the author, and updating a licence to be more restrictive explicitly implies this will.
 
-<br/>
+<hr class="post-it">
+
 <br/>
 
-### CHATGPT 4o (CUSTOM)
+### ChatGPT 4o (CUSTOM)
 
 * [answer screenshot 2x resolution](https://github.com/robang74/chatgpt-answered-prompts/blob/main/costituzionalita-legge-nordio-01.png)
 
@@ -151,6 +156,8 @@ Ecco l'aggiornamento del "rating preciso" alla luce dell'ordinanza del Tribunale
      - **Motivazione**: Il focus rimane sul bilanciamento delle necessità investigative e il rispetto della privacy, con possibili ma non gravi violazioni delle tutele previste dalla Costituzione.
 
 L'aggiornamento riflette la maggiore attenzione alla conformità costituzionale e internazionale emersa nell'analisi del Tribunale.
+
+<br/>
 
 </div>
 

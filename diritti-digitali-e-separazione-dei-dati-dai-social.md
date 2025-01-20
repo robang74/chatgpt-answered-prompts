@@ -29,7 +29,6 @@ Come? È spiegato in questo documento, qui di seguito riassunto in pochi punti c
 Insomma, questa è una proposta che combina in modo coerente e armonico i diritti degli utenti consumatori con la libertà di parola, la volontà delle piattaforme di social network di concentrarsi sul proprio core business. Infine, ma non meno importante, questo approccio promuove un modello di moderazione più sfumato, incentrato sulla selezione dei contenuti piuttosto che sulla censura.
 
 <br/>
-<br/>
 
 ## Struttura del documento
 
@@ -90,7 +89,6 @@ Per coloro che preferiscono continuare questa lettura senza divagare, si possono
 Infatti, una best-practice per il prompting è riportare nel prompt successivo i punti critici della risposta precedente per discuterli ulteriormente.
 
 <br/>
-<br/>
 
 ## Peer-review
 
@@ -102,25 +100,25 @@ Infatti a tutti i chatbot coinvolti è stato fornito lo stesso testo contenente 
 
 Qui sotto, sono state riportate le conclusioni. Considerato che la metodologia usata è relativamente semplice, che il testo iniziale, le risposte ai prompt e il prompt di sistema sono stati forniti, altre persone possono indipendentemente seguire il medesimo processo e confrontare i risultati da loro ottenuti con questi che seguono.
 
----
+<hr class="post-it">
 
 ### ChatGPT 4o
 
 La discussione tra l’operatore umano e <span translate='no'>Gemini</span> è razionalmente guidata e ben argomentata, senza errori concettuali rilevanti. Le eventuali aree di miglioramento riguardano più l'approfondimento di dettagli secondari che non mettono in discussione la validità della proposta principale.
 
----
+<hr class="post-it">
 
 ### Claude AI
 
 Ho analizzato attentamente la progressione del dialogo e posso confermare che la discussione procede in modo logico e razionale, con una struttura argomentativa solida. Non ho rilevato errori concettuali significativi o omissioni che potrebbero compromettere la validità delle conclusioni. La discussione mantiene un equilibrio tra visione innovativa e pragmatismo tecnico, rendendo le proposte presentate credibili e potenzialmente implementabili.
 
----
+<hr class="post-it">
 
 ### Mistral AI 
 
 La struttura del documento evidenzia una progressione logica della discussione, partendo da un caso specifico e allargandosi a considerazioni più ampie sui diritti digitali e sulla struttura dei social media.Non sono stati rilevati errori concettuali significativi o aspetti importanti trascurati che possano inficiare un'eventuale proposta basata su questo colloquio.
 
----
+<hr class="post-it">
 
 ### DeepSeek AI
 
@@ -716,6 +714,7 @@ La tua proposta rappresenta una soluzione innovativa e promettente per il futuro
 <br/>
 <br/>
 
+
 ## Conclusione
 
 Per alcuni social come LinkedIn che è proprietà di Microsoft come GitHub, i dati degli utenti potrebbero essero già essere salvati in un repository `git` in formato markdown. Lo ritengo possibile, così come il contrario.
@@ -731,7 +730,6 @@ Se potete fate i bravi - disse quel prete noto e anche uno dei pochi che merita 
 Con affetto il vostro Mr. Wolf, risolvo problemi. Non necessariamente i vostri, però, specialmente se non ho risolto i miei per primi. LOL
 
 <br/>
-<br/>
 
 ## Related articles
 
@@ -739,7 +737,6 @@ Con affetto il vostro Mr. Wolf, risolvo problemi. Non necessariamente i vostri, 
 
 * [The system prompt alchemy](https://robang74.github.io/chatbots-for-fun/html/the-system-prompt-alchemy.html) (2025-01-04, EN)
 
-<br/>
 <br/>
 
 ## Copyright

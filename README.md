@@ -142,7 +142,7 @@ This index is divided in tre sections related to different topics.
 
    - Simplicity is a value, but in times of crisis it becomes a pragmatic and emerging necessity, yet it is precisely something we forgot during the Covid-19 pandemic and its management.
 
-5. **diritti-digitali-e-separazione-dei-dati-dai-social.md** (2025-01-11) [[**`md`**](diritti-digitali-e-separazione-dei-dati-dai-social.md)] [[**`html`**](html/diritti-digitali-e-separazione-dei-dati-dai-social.html)] [[**`pdf:IT`**](pdf/diritti-digitali-e-separazione-dei-dati-dai-social-IT.pdf?target=_blank)] [[**`pdf:EN`**](pdf/diritti-digitali-e-separazione-dei-dati-dai-social-EN.pdf?target=_blank)]
+5. **Diritti digitali e separazione dei dati dai social** (2025-01-11) [[**`md`**](diritti-digitali-e-separazione-dei-dati-dai-social.md)] [[**`html`**](html/diritti-digitali-e-separazione-dei-dati-dai-social.html)] [[**`pdf:IT`**](pdf/diritti-digitali-e-separazione-dei-dati-dai-social-IT.pdf?target=_blank)] [[**`pdf:EN`**](pdf/diritti-digitali-e-separazione-dei-dati-dai-social-EN.pdf?target=_blank)]
 
    - A network is a network and not a cloud storage service. Not just a matter of pedantic definition rather than consumer users' rights protection about the ownership and independent management of their data, for moving from a set of monopolies to a free market. How? It is explained.
 
