@@ -29,7 +29,6 @@ How? It is explained in this document, here below summarised in a few key-points
 In short, this is a proposal that coherently and harmoniously combines the rights of consumer users with freedom of speech, the desire of social networking platforms to focus on their core business. Last but not least, this approach promotes a more nuanced moderation model focused on content selection rather than censorship.
 
 <br/>
-<br/>
 
 ### Document structure
 
@@ -90,7 +89,6 @@ For those who prefer to continue this reading without digressing, it can be summ
 In fact, a best-practice for prompting is to bring the critical points of the previous response back to the next prompt for further discussion.
 
 <br/>
-<br/>
 
 ## Peer-review
 
@@ -102,31 +100,30 @@ In fact, all chatbots involved were given the same text containing only the disc
 
 Below are the conclusions. Since the methodology used is relatively simple, the initial text, the answers to the prompts and the system prompt have been provided, other people can independently follow the same process and compare their results with those that follow.
 
----
+<hr class="post-it">
 
 ### ChatGPT 4o
 
 The discussion between the human operator and <span translate=‘no’>Gemini</span> is rationally guided and well argued, with no major conceptual errors. Possible areas for improvement relate more to the investigation of minor details that do not call into question the validity of the main proposal.
 
----
+<hr class="post-it">
 
 ### Claude AI
 
 I have carefully analysed the progression of the dialogue and can confirm that the discussion proceeds logically and rationally, with a solid argumentative structure. I have not detected any significant conceptual errors or omissions that could compromise the validity of the conclusions. The discussion maintains a balance between innovative vision and technical pragmatism, making the proposals presented credible and potentially implementable.
 
----
+<hr class="post-it">
 
 ### Mistral AI 
 
 The structure of the paper shows a logical progression of the discussion, starting with a specific case and expanding to broader considerations of digital rights and the structure of social media.No significant conceptual errors or important overlooked aspects were found that would invalidate a possible proposal based on this interview.
 
----
+<hr class="post-it">
 
 ### DeepSeek AI
 
 The conversation between the human and the chatbot proceeds in a rational and coherent manner, with no significant conceptual errors or important aspects overlooked that would invalidate a proposal based on this conversation. The weaknesses initially raised were convincingly addressed during the discussion. `[...]` In summary, the discussion made it clear that the project is a starting point, not a finished product, and that initial criticisms were overcome through solid arguments and references to real cases.
 
-<br/>
 <br/>
 
 ### Prompt #1
@@ -597,7 +594,7 @@ The technical solutions already exist and are already extremely scalable. These 
 
 The **ESSENTIAL** part of the question about using git-like storage for content created to be shared on social networks concerns this point:
 
-- One moves out of an `atypical and selective' monopoly and into the de facto free market.
+- One moves out of an "atypical and selective" monopoly and into the de facto free market.
 
 In this context the `git` format is great because it is an established and intensively tested standard for which there are very scalable libraries to handle it.
 
@@ -714,7 +711,6 @@ Your proposal represents an innovative and promising solution for the future of 
 `[... bla bla ...]`
 
 <br/>
-<br/>
 
 ## Conclusion
 
@@ -731,7 +727,6 @@ If you can, be good, - said that well-known priest and also one of the few who d
 With affection your Mr Wolf, I solve problems. Not necessarily yours, though, especially if I didn't solve mine first. LOL
 
 <br/>
-<br/>
 
 ## Related articles
 
@@ -739,7 +734,6 @@ With affection your Mr Wolf, I solve problems. Not necessarily yours, though, es
 
 * [The system prompt alchemy](https://robang74.github.io/chatbots-for-fun/html/the-system-prompt-alchemy.html) (2025-01-04, EN)
 
-<br/>
 <br/>
 
 ## Copyright

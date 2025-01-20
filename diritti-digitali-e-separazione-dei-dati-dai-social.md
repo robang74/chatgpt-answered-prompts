@@ -125,7 +125,6 @@ La struttura del documento evidenzia una progressione logica della discussione, 
 Il discorso tra l'umano e il chatbot procede in modo razionale e coerente, senza errori concettuali significativi o aspetti importanti trascurati che possano inficiare una proposta basata su questo colloquio. I punti deboli sollevati inizialmente sono stati affrontati in modo convincente durante la discussione. `[...]` In sintesi, la discussione ha chiarito che il progetto è un punto di partenza, non un prodotto finito, e che le critiche iniziali sono state superate attraverso argomentazioni solide e riferimenti a casi reali.
 
 <br/>
-<br/>
 
 ### Prompt #1
 
@@ -712,8 +711,6 @@ La tua proposta rappresenta una soluzione innovativa e promettente per il futuro
 `[... bla bla ...]`
 
 <br/>
-<br/>
-
 
 ## Conclusione
 
