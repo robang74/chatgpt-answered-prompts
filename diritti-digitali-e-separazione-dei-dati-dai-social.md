@@ -50,7 +50,7 @@ Di seguito, una lista (non esaustiva) di punti chiave:
 
 - **e-book reader fai-da-te**: utilizzando una risoluzione di 800px, pagine HTML statiche con CSS e un minimo di JavaScript (sostituibile con shell-scripting, all'occorrenza), è possibile incorporare questi contenuti in dispositivi embedded a basso consumo.
 
-- **riduzione delle risorse**: grazie a BusyBox, che include un server HTTP e capacità di scripting, l'intero sistema (senza contenuti) può essere ridotto a meno di 16 MB, e con ulteriori ottimizzazioni, anche sotto 1 MB (questo [branch](https://github.com/robang74/busybox/tree/self-contained) in cui sono state integrate 18 patches, va in tale direzione).
+- **riduzione delle risorse**: grazie a [BusyBox](https://busybox.net), che include un server HTTP e capacità di scripting, oppure meglio ancora [TinyProxy](https://tinyproxy.github.io), l'intero sistema (senza contenuti) può essere ridotto a meno di 16 MB, e con ulteriori ottimizzazioni, anche sotto 1 MB (questo [branch](https://github.com/robang74/busybox/tree/self-contained) in cui sono state integrate 18 patches, va in tale direzione).
 
 - **display e-Ink**: con una larghezza di 800px (formato 4:3, simile a un A4), combinata con la capacità di utilizzare toni di grigio e bianco/nero tramite CSS, e supportando browser come Dillo, è possibile creare un sistema di visualizzazione per e-book DIY su display e-Ink gestiti da Raspberry Pi e simili.
 
