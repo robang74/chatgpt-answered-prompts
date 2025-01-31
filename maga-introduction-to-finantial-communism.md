@@ -22,7 +22,7 @@ This document is entirely published under *Creative Commons Attribution Non-Comm
 
 ### Introduction
 
-(**\*!!\***) *Skip this part, if you are interested in the topic but not being introduced to it.*
+(**--!!--**) *Skip this part, if you are interested in the topic but not being introduced to it.*
 
 There is a HUGE difference between those who print money from thin air (paper money) and those who earn money from their work (real money like silver dollars).
 
@@ -36,7 +36,7 @@ This explain why the price of gold in USD is increasing as well as the stuff at 
 
 ### Historical perspective
 
-(**\*!!\***) *Skip this part, if you are interested in the topic but not being educated about it.*
+(**--!!--**) *Skip this part, if you are interested in the topic but not being educated about it.*
 
 Up to this point, printing money by thin air - paper money - can seen as a fraud or a governative scam, only. Nothing new and not so terrible, anyway. For comparison, we can give a look back to our history.
 
@@ -74,7 +74,7 @@ Order is order and it has its own laws.
 
 ### American imperialism
 
-(**\*!!\***) *Skip this part, if you don't give a sh*t about the rest of the world or you just know already.*
+(**--!!--**) *Skip this part, if you don't give a sh*t about the rest of the world or you just know already.*
 
 While US grocery stores are enforced by law to accept USD banknotes or credit cards, Arabs are not enforced by US law in favour of the FED paper money as legal tender.
 
@@ -106,7 +106,7 @@ Under this point of view, it is irrelevant losing all the wars as long as those 
 
 ### Afghanistan the Empires' tomb
 
-(**\*!!\***) *Skip this part, if you are fainth of heart and senetivive or you just know already.*
+(**--!!--**) *Skip this part, if you are fainth of heart and senetivive or you just know already.*
 
 Historically speaking the Afghanistan is called the "*Empires' tomb", for a good reason, in fact. However, the story about the wars in Afganistan is quite amusign as well as the Iraq war but with a complete different outcome more similar to the Vietnam war. So, how could a group of goat herders walking in sandals managed to win a war against the most powerful war machine in the world?
 
@@ -152,7 +152,7 @@ Historically speaking the Afghanistan is called the "*Empires' tomb", for a good
 
 ### Imperialism -vs- Empire
 
-(**\*!!\***) *Skip this part, if you are not concerned about missing fundamentals differences or you just know already.*
+(**--!!--**) *Skip this part, if you are not concerned about missing fundamentals differences or you just know already.*
 
 Despite all of this, things were bad but not so bad. After all, we still were into the St. Augustine citation frame, and our sorrow was just limited to see that American imperialism was not even far away comparable with the ancient Roman Empire. Which is the reason because of the term "*imperialism*" with the "*-ism*" at the end of that adjective.
 
@@ -233,7 +233,7 @@ Such a great evaded ethical responsibility and its related risks are now being r
 
 ### Financial communism, the begins
 
-(**\*!!\***) *Skip this part, if you think that can understand the today having forgot the yesterdy or you just know already.*
+(**--!!--**) *Skip this part, if you think that can understand the today having forgot the yesterdy or you just know already.*
 
 Financial communism is far away outside the St. Augustine frame. It is not simply unfair, it is a novel form of a real-world communism despite its apperently soft touch. It has a soft touch, to put consciences to sleep (TV watching, not acting), just as opium does. When the mass is sleeping, the touch is getting stronger and stronger against those who are still awake (critical thinking) and system followers should not know about it, they did not even want to know or have the desire to know (curiosity).
 
