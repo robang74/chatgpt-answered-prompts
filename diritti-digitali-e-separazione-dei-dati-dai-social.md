@@ -2,6 +2,8 @@
 
 ## Diritti digitali e separazione dei dati dai social network
 
+* La **2a edizione** aggiunge la sessione [Extended Markdown](#extended-markdown) a partire dalla rev. 20.
+
 Questo articolo ha origine da un post su Facebook pubblicato l'11 gennaio 2025 che poi ha generato una discussione con un chatbot arrivando a formulare la proposta qui sotto riassunta brevemente.
 
 Ovviamente non potevo prescindere dall'indicare anche il come vi fossi arrivato perché in qualche misura è interessante come esempio di serendipity. Però, il proof-of-concept, di cui si parla nel post, **NON** è l'oggetto di questo documento così come non lo sono le mie vicissitudini personali che mi hanno portato a svilupparlo.
@@ -755,6 +757,60 @@ Perchè - noi peones dall'umile estrazione sociale - dobbiamo essere cauti e com
 Se potete fate i bravi - disse quel prete noto e anche uno dei pochi che merita di essere ricordato - e se non potete ricordatevi di me non solo nelle vostre bestemmie ma anche nei vostri bonifici, che poi le bestemmie arrivano a destinazione e vi serve aiuto!
 
 Con affetto il vostro Mr. Wolf, risolvo problemi. Non necessariamente i vostri, però, specialmente se non ho risolto i miei per primi. LOL
+
+<br/>
+
+## Extended Markdown
+
+Uno dei linguaggi più potenti per scrivere articoli è il LaTEX che va benissimo per le pubblicazioni scientifiche o tecniche specialmente quelle in cui vi sono formule matematiche piuttosto elaborate però ha una curva di apprendimento piuttosto difficile.
+
+Vero che esistono delle interfacce grafiche per utilizzare il LaTex ma in sostanza servono per velocizzare la scrittura. Infatti, per quanto siano utili, comunque il loro utilizzo non prescinde dalla conoscenza del linguaggio LaTEX.
+
+Per fortuna la maggior parte dei post e degli articoli che si pubblicano sui social network sono di gran lunga meno sofisticati e perciò non richiedono un linguaggio sofisticato come il LaTEX ma è sufficiente il markdown declinato in qualche dialetto.
+
+Il markdown ha - oltre l'imbattibile semplicità sia nell'usarlo e sia nell'impararlo - il vantaggio di essere puramente testuale quindi intrinsecamente adatto per essere versionato e conservato in un repository git. Ma soprattutto, la sua base utenti è già molto ampia.
+
+Infatti chiunque abbia modificato o creato una pagina di Wikipedia (o di qualsiasi altro wiki) ha usato il markdown. Chi usa GitHub, necessariamente utilizza anche il markdown. Quindi è un linguaggio ottimo per fornire una base di partenza.
+
+Un punto debole delle pagine web ulteriormente aggravato nei social network è la stampa in PDF che presenta quasi universalmente due problemi:
+
+1. la dimensione esorbitante del PDF prodotto, relativamente al suo contenuto, quando abbiamo la fortuna di poterlo stampare;
+
+2. l'interruzione di pagina è pressoché casuale e quando il documento è lungo, è pressoché scontato che l'estetica ne sarà compromessa.
+
+Occorre aggiungere, però, che il markdown nella sua forma base non è in gradi di risolvere questi problemi e infatti spesso viene integrato con codice HTML oppure si adottano delle estensioni basate su template, i quali sono però legati a una determinata piattaforma, come GitHub per esempio.
+
+Sicchè estendere il linguaggio markdown attraverso delle espressioni regolari lo renderebbe potenzialmente universale perché qualsiasi dispositivo, anche quelli embedded con risorse relativamente limitate, sarebbero in grado di gestirlo.
+
+Per fare un esempio concreto, quattro pagine in formato A4 senza immagini scritte in OpenOffice - ma è sostanzialmente uguale se vengono scritte con Microsoft Word - presentano una dimensione del file che varia tra 32Kb e 113Kb a seconda del formato scelto:
+
+### Impaginare con il Markdown
+
+La cosa interessante è che con una piccola estensione si riesce a produrre un risultato soddisfacente in soli 6Kb. Oltretutto con il vantaggio di poter salvare ed editare quel documento direttamente dall'interfaccia web di GitHub o con un banale editor di testo.
+
+Certamente, le dimensioni della pagina, i margini e i font devono essere in qualche maniera fissati altrimenti il documento non sarà stampato con le interruzioni di pagina dove si era deciso che fossero. Ma questo avviene anche con gli editor come MS Word o OO Writer.
+
+Certamente un'interfaccia grafica aiuterebbe molto l'utente ad utilizzare un linguaggio markdown esteso anche per impaginare i PDF prodotti a partire da delle pagine HTML. Anche sotto questo il markdown presenta il vantaggio di accontentarsi di una UI assai banale.
+
+Infatti, questi editor markdown sono solitamente integrati nei siti web, nelle piattaforme come GitHub e nei social network. Oppure nei wiki inclusa Wikipedia. Il che evita di dover scrivere un software apposito esistendo molti online e anche di installarlo.
+
+Non è strettamente necessaria nemmeno la connessione a Internet visto che far girare in locale tali software è ormai alla portata di qualsiasi home personal computer e di molti dispositivi embedded come smartphone e tablets.
+
+### Da Markdown a HTML e PDF
+
+Per concludere, vale la pena di notare che un manuale di 15 pagine con diverse immagini a 800 pixel o anche 1600 pixel, stampato a 216 dpi, presenta una dimensione di 770Kb. Quindi ogni pagina in media occupa circa 51Kb quando stampata in PDF.
+
+Non è affatto un risultato disprezzabile anche considerando che la dimensione delle pagine HTML, con tutte le immagini, fogli di stile (CSS) e javascript risulta essere 1.1MB non comprimibile visto che per la maggiore si tratta di immagini JPG o PNG.
+
+- [p910-k80-installation-manual.md](https://robang74.github.io/chatbots-for-fun/p910-k80-installation-manual.md)
+
+- [tesla-k80-with-esprimo-p910.html](https://robang74.github.io/chatbots-for-fun/html/tesla-k80-with-esprimo-p910.html)
+
+- [dual-psu-fujitsu-esprimo-p910.html](https://robang74.github.io/chatbots-for-fun/html/dual-psu-fujitsu-esprimo-p910.html)
+
+Mentre la generazione di un PDF senza alcuna particolare attenzione, avrebbe una dimensione di 1.4Mb, quando invece producendolo con attenzione alla dimensione, essa quasi si dimezza.
+
+Naturalmente il progetto è ancora allo stato embrionale eppure nella sua piccolezza presenta già degli aspetti interessanti, soprattutto in termini di prospettive future.
 
 <br/>
 
