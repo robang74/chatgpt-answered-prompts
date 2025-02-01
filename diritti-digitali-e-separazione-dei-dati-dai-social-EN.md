@@ -2,6 +2,8 @@
 
 ## Digital users' rights and social networks data separation
 
+* The **2nd Edition** adds the [Extended Markdown](#extended-markdown) session since rev. 20.
+
 This article originates from a Facebook post published on January 11, 2025, which then generated a discussion with a chatbot, arriving at the proposal summarized briefly below. 
 
 Of course, I could not refrain from also stating how I arrived at it because to some extent it is interesting as an example of serendipity. However, the proof-of-concept, mentioned in the post, is **NOT** the subject of this paper as are my personal vicissitudes that led me to develop it.
@@ -755,6 +757,76 @@ Because - we peons from humble backgrounds - we have to be cautious and sympathe
 If you can, be good, - said that well-known priest and also one of the few who deserves to be remembered - and if you can't, at least remember me not only in your swearing but also in your payments, that then the swearing comes to pass and you need help!
 
 With affection your Mr Wolf, I solve problems. Not necessarily yours, though, especially if I didn't solve mine first. LOL
+
+<br/>
+
+## Extended Markdown
+
+One of the most powerful languages for writing articles is LaTEX, which is very good for scientific or technical publications, especially those in which there are rather elaborate mathematical formulae, but it has a rather difficult learning curve, also.
+
+Of course, there are graphical interfaces for using LaTex but they basically serve to speed up writing. In fact, however useful they are, their use can not leveraged without a relative good knowledge of the LaTEX language.
+
+Fortunately, most of the posts and articles that are published on social networks are far less sophisticated and therefore do not require a sophisticated language such as LaTEX, but markdown declined into some dialect is sufficient.
+
+Markdown has - besides the unbeatable simplicity in both using and learning it - the advantage of being purely textual and therefore inherently suitable for versioning and storing in a git repository. And above all, its user base is much broader.
+
+In fact, anyone who has edited or created a Wikipedia page (or any other wiki) has used markdown. Anyone who uses GitHub necessarily also uses markdown. So it is a very good language to provide a starting point.
+
+---
+
+### Printing in PDF
+
+A weakness of web pages, further aggravated in social networks, is PDF printing, which almost universally presents two problems:
+
+1. the exorbitant size of the PDF produced, relative to its content, when we are lucky enough to be able to print it;
+
+2. page breaks are almost random, and when the document is long, it is almost certain that the aesthetics will be compromised.
+
+It should be added, however, that markdown in its basic form is not able to solve these problems, and in fact it is often supplemented with HTML code or template-based extensions are adopted, which are, however, tied to a particular platform, such as GitHub.
+
+So, extending the markdown language through regular expressions would make it potentially universal, as any device, even those embedded with relatively limited resources, would be able to handle it.
+
+To give a concrete example, four A4 pages without images written in OpenOffice - but it is basically the same if they are written in Microsoft Word - have a file size of between 32Kb and 113Kb depending on the chosen format. While the markdown file 6Kb.
+
+---
+
+### Page layout with Markdown
+
+The most interesting thing is that with a small extension we can produce a satisfactory result in only 6Kb of ASCII text. Moreover, with the advantage of being able to save and edit that document directly from the GitHub web interface or with a trivial text editor.
+
+Of course, page size, margins and fonts must be fixed in some way otherwise the document will not be printed with the page breaks where you decided they should be. But this is also the case with editors such as MS Word or OO Writer.
+
+Certainly, a graphical user interface would greatly help the user to use an extended markdown language also to layout PDFs produced from HTML pages. Even under this, markdown has the advantage of making do with a very trivial UI.
+
+In fact, these markdown editors are usually integrated into websites, platforms such as GitHub and social networks. Or in wikis, including Wikipedia. This avoids having to write special software, as there are many online, and even having to install it.
+
+Nor is an Internet connection strictly necessary, since running such software locally is now within the reach of any home personal computer and many embedded devices such as smartphones and tablets.
+
+---
+
+### Markdown to HTML and PDF
+
+In conclusion, it is worth noting that a 15-page manual with several 800 pixel or even 1600 pixel images, printed at 216 dpi, is 770Kb in size. So each page on average takes up about 51Kb when printed in PDF.
+
+This is by no means a despicable result, also considering that the size of the HTML pages, with all the images, style sheets (CSS) and javascript (a single short and trivial function that is not even strictly necessary), amounts to 1.1 MB, which cannot be compressed, since most of this size is made up of JPG or PNG images.
+
+- [p910-k80-installation-manual.md](https://robang74.github.io/chatbots-for-fun/p910-k80-installation-manual.md)
+
+- [tesla-k80-with-esprimo-p910.html](https://robang74.github.io/chatbots-for-fun/html/tesla-k80-with-esprimo-p910.html)
+
+- [dual-psu-fujitsu-esprimo-p910.html](https://robang74.github.io/chatbots-for-fun/html/dual-psu-fujitsu-esprimo-p910.html)
+
+While the generation of a PDF without any special attention would have a size of 1.4Mb, when producing it with attention to size, it is almost halved.
+
+Obviously, the project is still in its infancy (2025-02-01) but despite this it already has some interesting aspects, especially in terms of future outlook.
+
+<br/>
+
+## Related articles
+
+* [Neutrality vs biases for chatbots](https://robang74.github.io/chatbots-for-fun/html/neutrality-vs-biases-for-chatbots.html) (2025-01-04, EN)
+
+* [The system prompt alchemy](https://robang74.github.io/chatbots-for-fun/html/the-system-prompt-alchemy.html) (2025-01-04, EN)
 
 <br/>
 

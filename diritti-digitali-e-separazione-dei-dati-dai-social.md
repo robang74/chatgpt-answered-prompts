@@ -762,17 +762,21 @@ Con affetto il vostro Mr. Wolf, risolvo problemi. Non necessariamente i vostri, 
 
 ## Extended Markdown
 
-Uno dei linguaggi più potenti per scrivere articoli è il LaTEX che va benissimo per le pubblicazioni scientifiche o tecniche specialmente quelle in cui vi sono formule matematiche piuttosto elaborate però ha una curva di apprendimento piuttosto difficile.
+Uno dei linguaggi più potenti per la scrittura di articoli è LaTEX, che è ottimo per le pubblicazioni scientifiche o tecniche, soprattutto quelle in cui sono presenti formule matematiche piuttosto elaborate, ma ha anche una curva di apprendimento piuttosto difficile.
 
-Vero che esistono delle interfacce grafiche per utilizzare il LaTex ma in sostanza servono per velocizzare la scrittura. Infatti, per quanto siano utili, comunque il loro utilizzo non prescinde dalla conoscenza del linguaggio LaTEX.
+Naturalmente, esistono interfacce grafiche per l'utilizzo di LaTex, ma servono essenzialmente a velocizzare la scrittura. Infatti, per quanto utili, il loro utilizzo non può essere sfruttato senza una relativa buona conoscenza del linguaggio LaTEX.
 
-Per fortuna la maggior parte dei post e degli articoli che si pubblicano sui social network sono di gran lunga meno sofisticati e perciò non richiedono un linguaggio sofisticato come il LaTEX ma è sufficiente il markdown declinato in qualche dialetto.
+Per fortuna la maggior parte dei post e degli articoli che si pubblicano sui social network sono di gran lunga meno sofisticati e perciò non richiedono un linguaggio sofisticato come il LaTEX ma è sufficiente il markdown declinato in un qualche dialetto.
 
-Il markdown ha - oltre l'imbattibile semplicità sia nell'usarlo e sia nell'impararlo - il vantaggio di essere puramente testuale quindi intrinsecamente adatto per essere versionato e conservato in un repository git. Ma soprattutto, la sua base utenti è già molto ampia.
+Il markdown ha, oltre l'imbattibile semplicità sia nell'usarlo e sia nell'impararlo, il vantaggio di essere puramente testuale quindi intrinsecamente adatto per essere versionato e conservato in un repository git. Ma soprattutto, la sua base utenti è assai molto più ampia.
 
 Infatti chiunque abbia modificato o creato una pagina di Wikipedia (o di qualsiasi altro wiki) ha usato il markdown. Chi usa GitHub, necessariamente utilizza anche il markdown. Quindi è un linguaggio ottimo per fornire una base di partenza.
 
-Un punto debole delle pagine web ulteriormente aggravato nei social network è la stampa in PDF che presenta quasi universalmente due problemi:
+---
+
+### Stampare in PDF
+
+Un punto debole delle pagine web, ulteriormente aggravato nei social network, è la stampa in PDF che presenta quasi universalmente due problemi:
 
 1. la dimensione esorbitante del PDF prodotto, relativamente al suo contenuto, quando abbiamo la fortuna di poterlo stampare;
 
@@ -782,25 +786,29 @@ Occorre aggiungere, però, che il markdown nella sua forma base non è in gradi 
 
 Sicchè estendere il linguaggio markdown attraverso delle espressioni regolari lo renderebbe potenzialmente universale perché qualsiasi dispositivo, anche quelli embedded con risorse relativamente limitate, sarebbero in grado di gestirlo.
 
-Per fare un esempio concreto, quattro pagine in formato A4 senza immagini scritte in OpenOffice - ma è sostanzialmente uguale se vengono scritte con Microsoft Word - presentano una dimensione del file che varia tra 32Kb e 113Kb a seconda del formato scelto:
+Per fare un esempio concreto, quattro pagine in formato A4 senza immagini scritte in OpenOffice - ma è sostanzialmente uguale se vengono scritte con Microsoft Word - presentano una dimensione del file che varia tra 32Kb e 113Kb a seconda del formato scelto. Mentre il file markdown è di 6Kb.
+
+---
 
 ### Impaginare con il Markdown
 
-La cosa interessante è che con una piccola estensione si riesce a produrre un risultato soddisfacente in soli 6Kb. Oltretutto con il vantaggio di poter salvare ed editare quel documento direttamente dall'interfaccia web di GitHub o con un banale editor di testo.
+La cosa interessante è che con una piccola estensione si riesce a produrre un risultato soddisfacente in soli 6Kb di testo ASCII. Oltretutto con il vantaggio di poter salvare ed editare quel documento direttamente dall'interfaccia web di GitHub o con un banale editor di testo.
 
-Certamente, le dimensioni della pagina, i margini e i font devono essere in qualche maniera fissati altrimenti il documento non sarà stampato con le interruzioni di pagina dove si era deciso che fossero. Ma questo avviene anche con gli editor come MS Word o OO Writer.
+Naturalmente, le dimensioni della pagina, i margini e i caratteri devono essere fissati in qualche modo, altrimenti il documento non verrà stampato con le interruzioni di pagina al posto stabilito. Ma questo vale anche per gli editor come MS Word o OO Writer.
 
 Certamente un'interfaccia grafica aiuterebbe molto l'utente ad utilizzare un linguaggio markdown esteso anche per impaginare i PDF prodotti a partire da delle pagine HTML. Anche sotto questo il markdown presenta il vantaggio di accontentarsi di una UI assai banale.
 
-Infatti, questi editor markdown sono solitamente integrati nei siti web, nelle piattaforme come GitHub e nei social network. Oppure nei wiki inclusa Wikipedia. Il che evita di dover scrivere un software apposito esistendo molti online e anche di installarlo.
+In effetti, questi editor markdown sono solitamente integrati in siti web, nelle piattaforme come GitHub e social network. Oppure nei wiki, tra cui Wikipedia. Il che evita di dover scrivere un software apposito, dato che ne esistono molti online, e persino di doverlo installare.
 
 Non è strettamente necessaria nemmeno la connessione a Internet visto che far girare in locale tali software è ormai alla portata di qualsiasi home personal computer e di molti dispositivi embedded come smartphone e tablets.
+
+---
 
 ### Da Markdown a HTML e PDF
 
 Per concludere, vale la pena di notare che un manuale di 15 pagine con diverse immagini a 800 pixel o anche 1600 pixel, stampato a 216 dpi, presenta una dimensione di 770Kb. Quindi ogni pagina in media occupa circa 51Kb quando stampata in PDF.
 
-Non è affatto un risultato disprezzabile anche considerando che la dimensione delle pagine HTML, con tutte le immagini, fogli di stile (CSS) e javascript risulta essere 1.1MB non comprimibile visto che per la maggiore si tratta di immagini JPG o PNG.
+Non si tratta affatto di un risultato disprezzabile, considerando anche che la dimensione delle pagine HTML, con tutte le immagini, i fogli di stile (CSS) e javascript (un'unica breve e banale funzione per altro nemmeno strettamente necessaria), risulta essere di 1,1 MB, che non può essere compressa, poiché la maggior parte di tale dimensione è costituita da immagini JPG o PNG.
 
 - [p910-k80-installation-manual.md](https://robang74.github.io/chatbots-for-fun/p910-k80-installation-manual.md)
 
@@ -810,7 +818,7 @@ Non è affatto un risultato disprezzabile anche considerando che la dimensione d
 
 Mentre la generazione di un PDF senza alcuna particolare attenzione, avrebbe una dimensione di 1.4Mb, quando invece producendolo con attenzione alla dimensione, essa quasi si dimezza.
 
-Naturalmente il progetto è ancora allo stato embrionale eppure nella sua piccolezza presenta già degli aspetti interessanti, soprattutto in termini di prospettive future.
+Ovviamente il progetto è ancora allo stato embrionale (2025-02-01) ma nonostante questo presenta già degli aspetti interessanti, soprattutto in termini di prospettive future.
 
 <br/>
 
