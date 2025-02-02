@@ -8,10 +8,8 @@ declare -i start_t=$(date +%s%N)
 
 ################################################################################
 
-li_A="<li style='list-style-type: none;'><b>"
-#li_B=".</b><span>\&nbsp;\&nbsp;\&nbsp;</span>"
-#li_B=".<span style='visibility: hidden;'>_</span></b>"
-li_B=".<span style='visibility: hidden;'>--</span></b>"
+li_A="<li class='numli'><b>"
+li_B=".\&emsp;</b>"
 
 ul_A="<ul class='dqt'><li class='dqt'><blockquote class='dqt'>"
 ul_B="</blockquote></li></ul>"
@@ -96,10 +94,30 @@ function md2htmlfunc() {
     done
     eval "$cmd"
 
+    #<span style="font-family: emoji;">\&#128521</span>
+    local emoji_a="<img class='emoji wbsketch' src='img/emoji/"
+    sed -i $2 -e "s,{;-)},${emoji_a}wink.png'>,g" -e "s,{:-)},${emoji_a}smile.png'>,g" \
+-e "s,{:-O},${emoji_a}wow.png'>,g" -e "s,{wow},${emoji_a}wow.png'>,g" \
+-e "s,{zip},${emoji_a}zip.png'>,g" -e "s,{zzz},${emoji_a}zzz.png'>,g" \
+-e "s,{<3},${emoji_a}heart.png'>,g" -e "s,{</3},${emoji_a}bheart.png'>,g" \
+-e "s,{cat},${emoji_a}cat.png'>,g" -e "s,{cry},${emoji_a}cry.png'>,g" \
+-e "s,{B-)},${emoji_a}cool.png'>,g" -e "s,{8-)},${emoji_a}nerd.png'>,g" \
+-e "s,{:-|},${emoji_a}face.png'>,g" -e "s,{:-D},${emoji_a}grin.png'>,g" \
+-e "s,{lol},${emoji_a}lol.png'>,g" -e "s,{:-(},${emoji_a}sad.png'>,g" \
+-e "s,{O:-)},${emoji_a}halo.png'>,g" -e "s,{:-*},${emoji_a}kiss.png'>,g" \
+-e "s,{:-/},${emoji_a}meh.png'>,g" -e "s,{ok},${emoji_a}ok.png'>,g" \
+-e "s,{8=X},${emoji_a}death.png'>,g" -e "s,{8=},${emoji_a}skull.png'>,g" \
+-e "s,{pig},${emoji_a}pig.png'>,g" -e "s,{bot},${emoji_a}robot.png'>,g" \
+-e "s,{shh},${emoji_a}shh.png'>,g" -e "s,{hmm},${emoji_a}humm.png'>,g" \
+-e "s,{sht},${emoji_a}shh.png'>,g" -e "s,{:-#},${emoji_a}swear.png'>,g" \
+-e "s,{hug},${emoji_a}hug.png'>,g" -e "s,{shk},${emoji_a}clown.png'>,g" \
+-e "s,{wtf},${emoji_a}what.png'>,g" -e "s,{8*)},${emoji_a}clown.png'>,g" \
+-e "s,{:-J},${emoji_a}smirk.png'>,g" -e "s,{boo},${emoji_a}ghost.png'>,g"
+
     sed -i $2 -e "s,^>$,> ," -e "s,@,\&commat;,g" \
 -e 's,\\\*,\&ast;,g' -e 's,(\*),(\&ast;),g' -e 's,\[\*\],[\&ast;],g' \
 -e 's,[^!/]-->,\&rarr;,g' -e 's,<--,\&larr;,g' \
--e 's,\(>\)\{0\,1\} -- ,\1 \&mdash; ,g' -e 's,{;-)},\&#128521,g' \
+-e 's,\(>\)\{0\,1\} -- ,\1 \&mdash; ,g' \
 -e "s,>  *\[\!WARN\],> $warn_A," -e "s,>  *\[\!WARNING\],> $warn_A," \
 -e "s,>  *\[\!NOTE\],> $note_A," -e "s,>  *\[\!NOTICE\],> $note_A," \
 -e "s,>  *\[\!INFO\],> $note_A," \
@@ -120,10 +138,20 @@ function md2htmlfunc() {
 -e "s,^\( *\)[-+\*] \(.*\),\\1<li>\\2</li>," \
 -e "s,^\( *\)\([0-9]*\)\. \(.*\),\\1${li_A}\\2${li_B}\\3</li>," \
 -e "s,\\\<\(.*\)\\\>,\&lt;\\1\&gt;,g" \
+-e 's,^+\{6\,\} *$,<div class="pagebreak"><br></div>,' \
+-e 's,^+\{5\} *$,<br class="pagebreak">,' \
+-e 's,^+\{4\} *$,<div class="pagebreak"></div>,' \
+-e 's,^\.\{4\,\} *$,<div class="pagebreak"><hr class="post-it"></div>,' \
+-e 's,^\=\{4\,\} *$,<div class="pagebreak"><br><hr><br></div>,' \
+-e 's,^\-\{4\,\} *$,<div class="pagebreak"><hr></div>,' \
+-e 's,^\~\{4\,\} *$,<hr class="pagebreak">,' \
+-e 's,^\~\{3\} *$,<hr class="hidden">,' \
 -e 's,^\.\{3\} *$,<hr class="post-it">,' \
 -e "s,^\=\{3\} *$,<br><hr><br>," \
 -e "s,^\-\{3\} *$,<hr>," \
 -e "s,^+++ *$,<br><br><br>," -e "s,^++ *$,<br><br>," -e "s,^+ *$,<br>," \
+-e "s,^>>>| *$,<div class='indent'>," -e "s,^|<<< *$,</div>," \
+-e "s,^|x|> *$,<div class='center'>," -e "s,^<|x| *$,</div>," \
 -e "s,^ *$,$p_line,"
 
     eval title_tags_add "$2" $(sed -ne 's,<H[1-3] id=.\([^>]*\).>.*,"\1",p' $2)
@@ -185,14 +213,15 @@ function md2htmlfunc() {
         -e "s/<a [^>]*href=.http[^>]*/& ${TARGET_BLANK}/g" -i $2
     for i in 3 2 1; do
         let b=i*3 a=b-2 c=i+1; a=${a/1/2}; #echo "$i $a $b $c" >&2
-        sed -e "s/ \{$a,$b\}<\(li\|blockquote\|tt\)\([ >]\)"\
-"/<\\1 class='li${c}in'\\2/" -i $2
+        sed -i $2 \
+-e "s/ \{$a,$b\}<\(li\|blockquote\|tt\)>/<\\1 class='li${c}in'>/" \
+-e "s/ \{$a,$b\}<\(li\|blockquote\|tt\) *\(class=['\"]\)/<\\1 \\2li${c}in /"
     done
 }
 
 function get_images_list() {
     local dir ext
-    for dir in "data/" "img/" ""; do
+    for dir in "data/" "img/" "img/emoji/" ""; do
         for ext in jpg png pdf txt; do
             ls -1 ${dir}*.${ext}
         done 2>/dev/null
