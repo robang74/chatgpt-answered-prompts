@@ -18,9 +18,9 @@ A collection of some Q&A dialogs with various AI powered chatbots about differen
 
 ### Related
 
-* [Chatbots for Fun (humor!)](https://robang74.github.io/chatbots-for-fun) source on [github](https://github.com/robang74/chatbots-for-fun?tab=readme-ov-file#chatbots-for-fun) (2024-11-17)
+* [Chatbots for Fun (humor!)](https://robang74.github.io/chatbots-for-fun) source on [github](https://github.com/robang74/chatbots-for-fun?tab=readme-ov-file#chatbots-for-fun) &nbsp; (2024-11-17)
 
-* [Roberto A. Foglietta (blog)](https://robang74.github.io/roberto-a-foglietta) source on [github](https://github.com/robang74/roberto-a-foglietta) (2024-12-14)
+* [Roberto A. Foglietta (blog)](https://robang74.github.io/roberto-a-foglietta) source on [github](https://github.com/robang74/roberto-a-foglietta) &nbsp; (2024-12-14)
 
 <br/>
 
@@ -174,7 +174,7 @@ This allows you to have your own copy that you can read off-line with all the li
 
 One of main goals of `git` and the github web interface is to provide a versioning control which also means a catalog of every author and changes made by them on every single file. The list of these changes are named *commits*. Here below the link related to the commits pushed on this repository:
 
-* https://github.com/robang74/chatgpt-answered-prompts/commits/main/
+* [github.com/robang74/chatgpt-answered-prompts/commits/main](https://github.com/robang74/chatgpt-answered-prompts/commits/main/)
 
 As you can see, each commit is carry-on a time stamp also. The green label indicates that also the timestamp is validate by the github infrastructure system which belongs to Microsoft Corporation. In fact, github cannot validate those timestamps that are coming from 3rd party systems like the users workstations but just the receiving time, date and content. However, for most of the cases this is irrelevant.
 
