@@ -27,7 +27,7 @@ a, a:link, b.post-it { color: aquamarine; }
 
 .sup-note, a:visited, a:active, a.topbar { color: #e8ffe8; }
 
-div.pagehead h1, div.pagehead hr { color: #e8ffe8; border-color: #e8ffe8; }
+h1.title, hr.title { color: #e8ffe8; border-color: #e8ffe8; }
 
 
 .warnicon, .infoicon { background-color: transparent; }
@@ -39,3 +39,4 @@ span.warnicon { border-color: orange; }
 span.infoicon, svg.infoicon { color: lightblue; fill: lightblue; }
 
 span.infoicon { border-color: lightblue; }
+
