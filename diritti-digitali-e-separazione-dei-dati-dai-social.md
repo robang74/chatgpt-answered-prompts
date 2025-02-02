@@ -60,7 +60,7 @@ Se si considera il fallimento dei social media decentralizzati e degli e-reader 
 
 Un obiettivo raggiungibile, imponendo restrizioni alla tecnologia (standard) ma non ai contenuti, un approccio comunemente utilizzato nei sistemi embedded e in quelli dedicati, per limitare quanto più possibile la complessità dei sistemi informatici coinvolti.
 
-<br/>
++
 
 ## Struttura del documento
 
@@ -120,7 +120,7 @@ Per coloro che preferiscono continuare questa lettura senza divagare, si possono
 
 Infatti, una best-practice per il prompting è riportare nel prompt successivo i punti critici della risposta precedente per discuterli ulteriormente.
 
-<br/>
++
 
 ## Peer-review
 
@@ -132,31 +132,31 @@ Infatti a tutti i chatbot coinvolti è stato fornito lo stesso testo contenente 
 
 Qui sotto, sono state riportate le conclusioni. Considerato che la metodologia usata è relativamente semplice, che il testo iniziale, le risposte ai prompt e il prompt di sistema sono stati forniti, altre persone possono indipendentemente seguire il medesimo processo e confrontare i risultati da loro ottenuti con questi che seguono.
 
-<hr class="post-it">
+...
 
 ### ChatGPT 4o
 
 La discussione tra l’operatore umano e <span translate='no'>Gemini</span> è razionalmente guidata e ben argomentata, senza errori concettuali rilevanti. Le eventuali aree di miglioramento riguardano più l'approfondimento di dettagli secondari che non mettono in discussione la validità della proposta principale.
 
-<hr class="post-it">
+...
 
 ### Claude AI
 
 Ho analizzato attentamente la progressione del dialogo e posso confermare che la discussione procede in modo logico e razionale, con una struttura argomentativa solida. Non ho rilevato errori concettuali significativi o omissioni che potrebbero compromettere la validità delle conclusioni. La discussione mantiene un equilibrio tra visione innovativa e pragmatismo tecnico, rendendo le proposte presentate credibili e potenzialmente implementabili.
 
-<hr class="post-it">
+...
 
 ### Mistral AI 
 
 La struttura del documento evidenzia una progressione logica della discussione, partendo da un caso specifico e allargandosi a considerazioni più ampie sui diritti digitali e sulla struttura dei social media.Non sono stati rilevati errori concettuali significativi o aspetti importanti trascurati che possano inficiare un'eventuale proposta basata su questo colloquio.
 
-<hr class="post-it">
+...
 
 ### DeepSeek AI
 
 Il discorso tra l'umano e il chatbot procede in modo razionale e coerente, senza errori concettuali significativi o aspetti importanti trascurati che possano inficiare una proposta basata su questo colloquio. I punti deboli sollevati inizialmente sono stati affrontati in modo convincente durante la discussione. `[...]` In sintesi, la discussione ha chiarito che il progetto è un punto di partenza, non un prodotto finito, e che le critiche iniziali sono state superate attraverso argomentazioni solide e riferimenti a casi reali.
 
-<br/>
++
 
 ### Prompt #1
 
@@ -216,7 +216,7 @@ Il post rappresenta un interessante contributo al dibattito sulla digitalizzazio
 
 `[... bla bla ...]`
 
-<br/>
++
 
 ### Prompt #2
 
@@ -278,7 +278,7 @@ Le tue risposte sono convincenti e offrono una solida base per difendere le tue 
 
 `[... bla bla ...]`
 
-<br/>
++
 
 ### Prompt #3
 
@@ -328,7 +328,7 @@ L'informatica è un campo affascinante che offre infinite possibilità. Gli info
 
 `[... bla bla ...]`
 
-<br/>
++
 
 ### Prompt #4
 
@@ -370,7 +370,7 @@ Concentrarsi sulla creazione di un prodotto minimo vitale (MVP) può essere un o
 
 `[... bla bla ...]`
 
-<br/>
++
 
 ### Prompt #5
 
@@ -418,7 +418,7 @@ Il tuo approccio è assolutamente corretto. L'importante è godersi il processo 
 
 `[... bla bla ...]`
 
-<br/>
++
 
 ### Prompt #6
 
@@ -468,7 +468,7 @@ Hai ragione a sottolineare l'importanza di distinguere tra proof-of-concept e pr
 
 Sarei curioso di sentire il tuo punto di vista.
 
-<br/>
++
 
 ### Prompt #7
 
@@ -524,7 +524,7 @@ Questo aiuta a evitare confusioni e a comunicare efficacemente le proprie idee.
 
 `[... bla bla ...]`
 
-<br/>
++
 
 ### Prompt #8
 
@@ -570,7 +570,7 @@ Nonostante queste sfide, la tua proposta è molto interessante e merita di esser
 
 `[... bla bla ...]`
 
-<br/>
++
 
 ### Prompt #9
 
@@ -618,7 +618,7 @@ Per quanto riguarda la normativa, è fondamentale che venga definito un quadro n
 
 `[... bla bla ...]`
 
-<br/>
++
 
 ### Prompt #10
 
@@ -690,7 +690,7 @@ L'utilizzo di un sistema basato su `git` per la gestione dei contenuti sui socia
 
 `[... bla bla ...]`
 
-<br/>
++
 
 ### Prompt #11
 
@@ -742,7 +742,7 @@ La tua proposta rappresenta una soluzione innovativa e promettente per il futuro
 
 `[... bla bla ...]`
 
-<br/>
++
 
 ## Conclusione
 
@@ -758,7 +758,7 @@ Se potete fate i bravi - disse quel prete noto e anche uno dei pochi che merita 
 
 Con affetto il vostro Mr. Wolf, risolvo problemi. Non necessariamente i vostri, però, specialmente se non ho risolto i miei per primi. LOL
 
-<br/>
++
 
 ## Extended Markdown
 
@@ -820,7 +820,7 @@ Mentre la generazione di un PDF senza alcuna particolare attenzione, avrebbe una
 
 Ovviamente il progetto è ancora allo stato embrionale (2025-02-01) ma nonostante questo presenta già degli aspetti interessanti, soprattutto in termini di prospettive future.
 
-<br/>
++
 
 ## Related articles
 
@@ -828,7 +828,7 @@ Ovviamente il progetto è ancora allo stato embrionale (2025-02-01) ma nonostant
 
 * [The system prompt alchemy](https://robang74.github.io/chatbots-for-fun/html/the-system-prompt-alchemy.html) (2025-01-04, EN)
 
-<br/>
++
 
 ## Copyright
 
