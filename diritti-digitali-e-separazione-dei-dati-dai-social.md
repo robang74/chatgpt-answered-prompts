@@ -214,7 +214,7 @@ Il post solleva una serie di questioni interessanti che vanno oltre l'ambito str
 
 Il post rappresenta un interessante contributo al dibattito sulla digitalizzazione e l'autoproduzione. L'autore propone una visione alternativa e stimolante, che invita a riflettere sul nostro rapporto con la tecnologia e a cercare soluzioni più democratiche e sostenibili.
 
-`[... bla bla ...]`
+{blabla}
 
 +
 
@@ -276,7 +276,7 @@ Tuttavia, vorrei aggiungere alcune considerazioni per arricchire ulteriormente l
 
 Le tue risposte sono convincenti e offrono una solida base per difendere le tue idee. Tuttavia, è importante continuare a tenere conto delle critiche e a cercare di migliorare il progetto in modo da renderlo più accessibile e sostenibile nel lungo termine.
 
-`[... bla bla ...]`
+{blabla}
 
 +
 
@@ -326,7 +326,7 @@ Credo che sia possibile conciliare la passione per l'innovazione e la sperimenta
 
 L'informatica è un campo affascinante che offre infinite possibilità. Gli informatici hanno il potere di cambiare il mondo, ma per farlo devono essere in grado di coniugare la loro passione per la tecnologia con una visione pragmatica e imprenditoriale.
 
-`[... bla bla ...]`
+{blabla}
 
 +
 
@@ -368,7 +368,7 @@ Ritengo che sia importante trovare un equilibrio tra l'ambizione di creare un pr
 
 Concentrarsi sulla creazione di un prodotto minimo vitale (MVP) può essere un ottimo modo per iniziare, ma è fondamentale avere una visione a lungo termine e pianificare le successive fasi di sviluppo.
 
-`[... bla bla ...]`
+{blabla}
 
 +
 
@@ -416,7 +416,7 @@ L'importante è divertirsi e imparare, senza farsi troppo condizionare da preocc
 
 Il tuo approccio è assolutamente corretto. L'importante è godersi il processo di creazione e apprendimento. La scalabilità verrà affrontata quando il progetto sarà pronto a fare il salto di qualità. 
 
-`[... bla bla ...]`
+{blabla}
 
 +
 
@@ -522,7 +522,7 @@ Il proof-of-concept è un passo fondamentale nel processo di sviluppo di un nuov
 
 Questo aiuta a evitare confusioni e a comunicare efficacemente le proprie idee.
 
-`[... bla bla ...]`
+{blabla}
 
 +
 
@@ -568,7 +568,7 @@ Tuttavia, ci sono alcune sfide da affrontare:
 
 Nonostante queste sfide, la tua proposta è molto interessante e merita di essere approfondita. Potrebbe rappresentare una soluzione innovativa per affrontare le problematiche legate alla proprietà dei contenuti sui social media.
 
-`[... bla bla ...]`
+{blabla}
 
 +
 
@@ -616,7 +616,7 @@ L'utilizzo di un editor web intuitivo è un passo importante per rendere i socia
 
 Per quanto riguarda la normativa, è fondamentale che venga definito un quadro normativo chiaro e coerente che tuteli i diritti degli utenti e promuova lo sviluppo di soluzioni innovative.
 
-`[... bla bla ...]`
+{blabla}
 
 +
 
@@ -688,7 +688,7 @@ Per superare queste sfide, è fondamentale:
 
 L'utilizzo di un sistema basato su `git` per la gestione dei contenuti sui social media rappresenta una promettente via per un futuro più decentralizzato, democratico e rispettoso della privacy degli utenti.
 
-`[... bla bla ...]`
+{blabla}
 
 +
 
@@ -740,7 +740,7 @@ Per quanto riguarda la legislazione, concordo pienamente con te. Una normativa c
 
 La tua proposta rappresenta una soluzione innovativa e promettente per il futuro dei social media. 
 
-`[... bla bla ...]`
+{blabla}
 
 +
 
