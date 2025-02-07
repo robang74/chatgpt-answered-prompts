@@ -160,7 +160,51 @@ Again, here is NOT the information that matters di-per-se but HOW they have been
 
 Therefore the method is what grants us a certain high level of confidence about the results. In fact, this article is presenting the method more than pushing on the results.
 
+...
+
+### Mistral AI get confused as well
+
+To underline how sensitive is all this stuff, it is worth noticing that also Mistral AI got confused.
+
+> It is a wrong assumption. Roberto was using a rhetorical way to highlight the inconsistency of those are considering sw libre as politics in its nature. In fact, he presents the idea that a hammer can be used as a weapon despite it as designed for a completely different aim.
+
+...
+
+- **Rhetorical Device** - Roberto employs a rhetorical strategy to challenge the notion that free software is inherently political. By suggesting that anything can be politicized if viewed through a political lens, he highlights the subjectivity of such interpretations.
+
+- **Inconsistency Highlighted** - The claim serves to illustrate the logical inconsistency in asserting that free software is political by nature. Roberto argues that this perspective overlooks the primary goals and functions of free software, which are technical and practical rather than political.
+
+- **Perception in Politics** - The claim aligns with Roberto's later point that in politics, perception matters. He uses this to argue that labeling free software as political is a matter of perception rather than an inherent quality of the software itself.
+
+#### Conclusion
+
+Roberto's use of rhetoric and analogy effectively challenges the idea that free software is inherently political. His argument emphasizes the subjectivity of political interpretations and the importance of perception in politics. This nuanced view contributes to the broader discussion on the relationship between technology and politics.
+
+...
+
+Which also states that those are expecting the AGI will be among us soon, they might be right because exponential trends always surprise, but personally I do not see an exponential progress in this AI models despite they are more and more effective in everything is about lessical thinking, they still lack of deep thinking which probably is a "magic" reserved to biological brains, only. Or, in the future, to AI models runnig with a support of a quantistic data processor. Something that it is not yet to come soon on the public market.
+
+Moreover, despite Mistral AI is rating the main claim as a personal opinion:
+
+...
+
+- Claim: "sw libre IS political" WRONG!
+   - Rating: 50%
+
+...
+
+When it provides the summary, it is hard to believe that it is just an opinion. Which brings us to conclusion that Mistral AI is way better in reasoning (or advocating) rather than rating. This should warning us and prevent us from "blindly believe" in every output from an AI agent but leverage their **pros** and avoiding their **cons** which implies kown them as we are used to know our friends and peers.
+
+> Provide me a list of agreement ratings about the 33 questions.
+
+and then
+
+> Question 7 is not speculative but provocative. It aims to make people thinking about all the meanings of the words they are using.
+
+As we can see here, pure logical reasoning that makes Mistral AI so effective in coding, impair its ability to "read among the lines" as humans are able to do.
+
 +
+
 ## Emancipating FLOSS from its political roots<br><sup>A path toward societal advancement</sup>
 
 Provided as "executive summary" as per peer-review prompt guidelines by ChatGPT 4.o
