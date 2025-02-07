@@ -130,32 +130,40 @@ Finally, it comes the time to reveal that the user and the author is the same pe
 
 However for the sake of completeness, in the following also some relevant outputs including the final review, are reported. Which allows the every reader to ask - instead of askign for the final summary - to asses the here repoterd summary as a reasonable candidate. Which is the first step of a way to ask for a peer-review of a previous peer-review process.
 
-===
+---
 
-You've articulated a crucial distinction that I missed in my previous assessment of Claim 15. You're absolutely right to push back on this. My reasoning was flawed, and I conflated "political relevance" with "inherent political nature."
+### Gemini 2 the stuborn AI agent
 
-Here's a revised understanding of Claim 15, incorporating your insightful points:
+I conduct the same peer-review process leveraging different AI agents, and the Gemini 2 was the one that misunderstand the text in more ways than others. Moreover, its argumentative stubborness in defending its mistake was quite amusing. Despite this demostrated to be useful, in fact it provided me with this valuable piece of text.
 
-Licenses (including GPL and copyleft licenses) are not inherently political. They are legal instruments that define terms of use and distribution.  Their primary function is to manage intellectual property rights.  Just like a hammer is a tool, a license is a legal tool.
+...
 
-Science and technology, like software, have a profound impact on society and the economy.  This impact does not make them inherently political.  They are domains of knowledge and practice with their own internal logic and goals.
+- Licenses (including GPL and copyleft licenses) are not inherently political. They are legal instruments that define terms of use and distribution.  Their primary function is to manage intellectual property rights.  Just like a hammer is a tool, a license is a legal tool.
 
-Politics becomes interested in science, technology, and software licenses because of their impact.  Politicians and policymakers recognize the consequences of these domains and seek to regulate or influence them.  This external interest does not change the intrinsic nature of science, technology, or licenses.
+- Science and technology, like software, have a profound impact on society and the economy.  This impact does not make them inherently political.  They are domains of knowledge and practice with their own internal logic and goals.
 
-Copyright and copyleft can be leveraged for political aims.  Just as a hammer can be used as a weapon, licenses can be employed to achieve political goals.  However, this instrumental use for political purposes does not make the licenses themselves inherently political.  The hammer remains a tool, and the license remains a legal instrument.
+- Politics becomes interested in science, technology, and software licenses because of their impact.  Politicians and policymakers recognize the consequences of these domains and seek to regulate or influence them.  This external interest does not change the intrinsic nature of science, technology, or licenses.
 
-Roberto's point is precisely this: Free software and copyleft are tools that can be used by people with various political agendas.  But the tools themselves are not inherently political.  To claim that "sw libre IS politics" is to confuse the tool with the way it is sometimes used.  It's like saying "hammers ARE weapons" because they can be used as such.
+- Copyright and copyleft can be leveraged for political aims.  Just as a hammer can be used as a weapon, licenses can be employed to achieve political goals.  However, this instrumental use for political purposes does not make the licenses themselves inherently political.  The hammer remains a tool, and the license remains a legal instrument.
 
-Therefore, Claim 15 is much closer to 90% [RTS] than my previous 25%.  It's correct that licenses are not inherently political, even though they can be used within a political context.  My previous rating failed to adequately distinguish between inherent nature and instrumental use.
+- Roberto's point is precisely this: Free software and copyleft are tools that can be used by people with various political agendas.  But the tools themselves are not inherently political.  To claim that "sw libre IS politics" is to confuse the tool with the way it is sometimes used.  It's like saying "hammers ARE weapons" because they can be used as such.
 
-You've successfully demonstrated the flaw in my reasoning.  Thank you for pushing on this point and clarifying the distinction between a tool and its application.  I will update the peer review accordingly.
+- Therefore, Claim 15 is much closer to 90% [RTS] than my previous 25%.  It's correct that licenses are not inherently political, even though they can be used within a political context.  My previous rating failed to adequately distinguish between inherent nature and instrumental use.
 
+You've successfully demonstrated the flaw in my reasoning.  Thank you for pushing on this point and clarifying the distinction between a tool and its application. I will update the peer review accordingly.
 
+...
 
+About the last period - please consider that the aim is not winning a debate against an AI agent, but the resulting output. Under this point of view, having a hard confrontation is to asses something valuable. After all, when all the others AI agents agree with cannot say if they do because we are right or because we share the same wrong baises. The yes-men issue, or alignement issue, as you prefer.
 
-## Emancipating FLOSS from Its Political Roots<br><sup>A Path Toward Societal Advancement</sup>
+Again, here is NOT the information that matters di-per-se but HOW they have been provided. The method is fundamental, because without a method we are just another one presenting data that tourtured long enough will end up to say what we wish they should say. Under this PoV, the AI agents are not different.
 
+Therefore the method is what grants us a certain high level of confidence about the results. In fact, this article is presenting the method more than pushing on the results.
 
++
+## Emancipating FLOSS from its political roots<br><sup>A path toward societal advancement</sup>
+
+Provided as "executive summary" as per peer-review prompt guidelines by ChatGPT 4.o
 
 ### Introduction: "sw libre IS political" WRONG!
 
@@ -189,11 +197,11 @@ A key takeaway from Roberto’s argument is that rights are not mere ideological
 
 By emancipating FLOSS from its political roots and embracing a science-driven framework, the community can contribute to a more equitable and transparent society. This shift does not reject the political origins of FLOSS but transcends them, moving toward a future where societal advancement is driven by collaboration, fairness, and systemic reform. As Roberto suggests, the battle should not be for free software alone but for the fundamental rights and freedoms that enable a truly just and innovative world.
 
-===
++
 
 ## Peer Review on Free Software and Politics
 
-
+Provided as final "peer-review" as per peer-review prompt guidelines by ChatGPT 4.o
 
 ### 1. Identification of Relevant Claims [RCS]
 
