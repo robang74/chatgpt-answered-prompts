@@ -120,12 +120,15 @@ So, under this point of view, it should not surprise us to find a time-pattern f
 
 ### Time to ask for the final summary
 
+Finally, it comes the time to reveal that the user and the author is the same person and incorporate the user input [USR] into the review and asking for the summary as defined per the peer-review prompt guidelines which is the information that the readears of this papers may be interested in reading and providing to themselves in an indipendent way.
+
 > Consider that the [USR] came from Roberto the same author of the email, provide an assay to explain the Roberto's point of view aimed for a broader audience in which - "sw libre IS political" WRONG - is the incipit to suggest to emancipate from the political roots of the FLOSS movement with all the benefit listed in our conversation.
 > 
 > Include that the aim of fostering a better society by re-establishing people rights is not a mere theoretical or ideological position but that rights - like human rights, fair and equal legal protection, transparency of judgmental process and decision, fair access to NHS and to fair education system, etc. - are ALSO fundamental for assessing the wealth of IT companies because otherwise the "copyright predates publications" is just a specific case of a broader scenario in which "finance predates wealth" as the Gini coefficient used as index for inequality shown during decades of wealth concentration despite science and technological advancements.
 > 
 > Provide that essay within a relatively short form leveraging the [USR] and the document provided. Which is the "executive summary" task included into the peer-review guidelines but in a more specific terms.
 
+However for the sake of completeness, in the following also some relevant outputs including the final review, are reported. Which allows the every reader to ask - instead of askign for the final summary - to asses the here repoterd summary as a reasonable candidate. Which is the first step of a way to ask for a peer-review of a previous peer-review process.
 
 ===
 
