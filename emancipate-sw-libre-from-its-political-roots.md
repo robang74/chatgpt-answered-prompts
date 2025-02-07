@@ -80,6 +80,12 @@ This allowed me to realise how far the work collected in "ChatGPT answered promp
 
 - [agreeable 33 question](data/agreeable-33-questions.txt) to submit as user input [USR] as per the peer-review prompt guidelines
 
+[!INFO]
+
+This document not just received a typo fixing but also a grammar review, as less impactuful as possible but still more relevant than few typos correction. Because of this the original version has been saved into the related github repository as per its versioning. Also here applies the principle that in any case the AI models are not totally predictable system and hence is better to have a automatic translate friendly English text rather then the original, for the human readers sake.
+
+[/INFO]
+
 I decided to go with this way instead of explain the AI agent HOW to reason becase the serendipity principle for which, in search of inspiration or discovery, it is better do not include constrains unless they are mandatory (also for the Occam's razor principle, if you prefer).
 
 > I think we have to reasoning about some things here.
@@ -90,31 +96,35 @@ I decided to go with this way instead of explain the AI agent HOW to reason beca
 
 This prompt that intruduce the user input, provide an example of reasoning, also. While the peer-review prompt guideline indicated that the [USR] input should be evaluated before being leverage for the peer-review, here I am proposing to do a step further asking for peer-reviewing it. After all, that information come from the same author but this will be relevealed later to the AI agent.
 
+---
+
+### The main claim rating
+
+After having provided the AI agent some contextual information about how to interprete the original document, it is time to ask a rating of the main claim of that text. Which is not the main goal of this peer-review but a necessary step because it forces the AI agent to re-evaluate everything under this point of view. Which is the correct way to go because that it was the author's main will to communicate that claim which obviously required to be sustained by reasonable and agreeable arguments.
+
+> With all these [USR], provide a rating about the following claim
+> 
+> - "sw libre IS political" WRONG!
+> 
+> which is the main Roberto statement.
+> 
+> Considering that WRONG means as explained here, not the best way to go for a certain battle but a problem ALSO in that aim compared to consider it as science and move the confrontation over a systemic and more effective framework. Which means fight for human rights and freedom instead of fight for free software.
+> 
+> About the FLOSS movement, emancipate by his/her own father is the primary goal of every adolescent. Which does not mean "kill your idol" like provocatory written in some shirts but go beyond and farer than our own roots (origin) which is the every next generation mission, after all.
+
+Note that in this prompt there is also included a methaphor about human grow stages. After all, human communities are undergone the same pattern of self-growth, awareness-achivement, indipendenzy and autonomy which can be observed in a single human being, usually. Which is a kind of a fractal pattern and fractality is quite common in nature.
+
+So, under this point of view, it should not surprise us to find a time-pattern fractality instead of geometry-pattern one. Or, better said, we are glad to know that for the natural laws the time dimension shares some proprierties with the 3D dimensions. Or said in a more scientific manner, in the 4D tensor (3+1), time despite its imaginary nature is not "strange" enough to not abide the same general rules of the others components.
 
 ---
 
+### Time to ask for the final summary
 
-## peer review
-
-===
-
-With all these [USR], provide a rating about 
-
-- "sw libre IS political" WRONG!
-
-which is the main Roberto statement.
-
-Considering that WRONG means as explained here, not the best way to go for a certain battle but a problem ALSO in that aim compared to consider it as science and move the confrontation over a systemic and more effective framework. Which means fight for human rights and freedom instead of fight for free software.
-
-About the FLOSS movement, emancipate by his/her own father is the primary goal of every adolescent. Which does not mean "kill your idol" like provocatory written in some shirts but go beyond and farer than our own roots (origin) which is the every next generation mission, after all. 
-
-===
-
-Consider that the [USR] came from Roberto the same author of the email, provide an assay to explain the Roberto's point of view aimed for a broader audience in which - "sw libre IS political" WRONG - is the incipit to suggest to emancipate from the political roots of the FLOSS movement with all the benefit listed in our conversation.
-
-Include that the aim of fostering a better society by re-establishing people rights is not a mere theoretical or ideological position but that rights - like human rights, fair and equal legal protection, transparency of judgmental process and decision, fair access to NHS and to fair education system, etc. - are ALSO fundamental for assessing the wealth of IT companies because otherwise the "copyright predates publications" is just a specific case of a broader scenario in which "finance predates wealth" as the Gini coefficient used as index for inequality shown during decades of wealth concentration despite science and technological advancements.
-
-Provide that essay within a relatively short form leveraging the [USR] and the document provided. Which is the "executive summary" task included into the peer-review guidelines but in a more specific terms.
+> Consider that the [USR] came from Roberto the same author of the email, provide an assay to explain the Roberto's point of view aimed for a broader audience in which - "sw libre IS political" WRONG - is the incipit to suggest to emancipate from the political roots of the FLOSS movement with all the benefit listed in our conversation.
+> 
+> Include that the aim of fostering a better society by re-establishing people rights is not a mere theoretical or ideological position but that rights - like human rights, fair and equal legal protection, transparency of judgmental process and decision, fair access to NHS and to fair education system, etc. - are ALSO fundamental for assessing the wealth of IT companies because otherwise the "copyright predates publications" is just a specific case of a broader scenario in which "finance predates wealth" as the Gini coefficient used as index for inequality shown during decades of wealth concentration despite science and technological advancements.
+> 
+> Provide that essay within a relatively short form leveraging the [USR] and the document provided. Which is the "executive summary" task included into the peer-review guidelines but in a more specific terms.
 
 
 ===
