@@ -1,0 +1,76 @@
+On Thu, 6 Feb 2025 at 22:00, Roberto A. Foglietta <roberto.foglietta@gmail.com> wrote:
+
+---
+
+On Thu, 6 Feb 2025 at 18:41, Gunnar Wolf <gwolf@debian.org> wrote:
+
+## Initial quote
+
+>> Satvik Sinha dijo [Thu, Feb 06, 2025 at 09:19:59PM +0530]:
+>>
+>> Guys come on what the hell. Since past few days all I have been hearing on this mailing list is endless arguments sparked by debian team pulling out of X.Since past few days you had been also bringing geo politics into open source space. We all know when microsoft decided to pull plug  on windows, for our older systems and one who cannot afford buying new ones just yet cause it hadn't been that long when they first bought their system we have to end up relying on Linux that is our only hope when windows start slowing down approaching end of life period.Debian is literally open source so we can see what code is being put into it so it's no issues.
+>>
+>> (...)
+
+## Reply to the quote
+
+> Free software *is* politics. Involvement in a global-scale free software project *is* by itself a political statement. No, it is not partisan or country-specific politics, but it is an expression of how a group of people want to influence the way society works.
+
+---
+
+## Reply to the reply
+
+WRONG, let me explain.
+
+- For those whom politics is everything, everything is politics.
+
+It seems like a joke of words. Then, an example is necessary.
+
+- Some people feel unsafe on X because currently it has a "strong" political orientation. For the same identical reason some people may feel unsafe using Debian.
+
+### Values, Politics & Marketing
+
+However, I am not suggesting you exchange your values in favor of marketing. After all, the first statement in capitals letter is quite "strong" and it requires strong evidence to be sustained. So, we can rewind history and go to the origin. And in the origin, it was public domain and then it was Open-Source like MIT or BSD licenses. As everyone can notice, the names are from two famous US universities. Open-Source started from the principle "public money, public code" and under this point of view the "public domain" is not exactly the correct way to go. Both for the moral right of the authors and because without an authorship notice, people working in the legal department get worried a lot. Plus, versioning does not strictly require an author but having it, whatever authorship refers to a single person or an entity (e.g. a juridical persona).
+
+### Public money, public code
+
+At the time of Open-Source by "public money, public code" someone started to make business and leverage the copyright to prevent other people from changing the software or simply sharing it. Which makes sense because the copyright has been invented by the Great Britain monarchy in order to provide an opportunity to those who were writing something interesting enough to be pressed on the paper. Naturally, since the beginning it was an exclusive which was the common way in which monarchy provided a special benefit in favour of someone who served them. In this case, it was a class of people - writers - instead of a single person. At that time the exclusivity was enduring 20 years. Like every patent today. It is worth to note that - also thanks to the so called Disney law - the copyright got progressively extended up to 70 years after the death of the author and 70 years since the date of the first publication in case of juridical persona. In fact, like the patent, the copyright existed before the publication but in practice it became enforceable only when someone shared the work with someone. Otherwise, someone could have written in his/her mind an opera and claim authorship at a late moment. Moreover, like the patent, the aim of the copyright is to provide an income to those who have provided a kind of contribution to society. GULP!!
+
+### The software libre begins
+
+The software libre was born because someone refused to give someone else the code for a printer driver that was not working with the hardware, or not working properly. At that time it was a novelty such a refusal to share know-how and the reaction was a sort of rebellion to the uprising industry of the copyright inventing the seed of the copyleft. Which would cease to exist as soon as the copyright ceased to exist. Therefore the copyleft is nothing else than the copyright which grants to everyone - at least - the right to share a work of whatever nature, including software in code format. Is there politics in any of this?
+
+### Whatever RMS might say
+
+Even if RMS will write here that - in fact, in his mind - was a political act since the beginning, I will take that information but I would not care. The reason is because "information should be shared and independently verified" has nothing to do with politics but with scientific method and its application. It might be a political act to write the GPL but by itself GPL and every other license with similar aim is NOT a political matter but a scientific pillar. Moreover, it is not only related to science but it is rooted into the concept of University which by etymology of the name which came from Latin, and it means universality (of the knowledge). As you can imagine the universality of the knowledge is about truth seeking but also about sharing because truth seeking cannot be a man alone. That could be personal enlightenment as Buddha states but it is not "truth seeking" which in modern days has a specific name "science".
+
+### Politics vs Science
+
+- For all of this the claim "Free software IS politics" is WRONG because it IS science, instead. And more in general, it is about University referring to its original meaning.
+
+### University as universality
+
+Sharing knowledge among others to learn from each other is nothing new but University had the merit to provide a method and hence a structure to that concept. Having a method makes the difference, a HUGE difference. In fact, remove its method from science and we were back to philosophy. Remove the method (how-to-do) from politics and we will go back to the time in which the law was the law because someone could enforce it otherwise it was not. The same applies to juridical procedure, in which usually is said - the form is substance - but it
+means without a method it would be a mere arbitration not law.
+
+### Copyright as a natural right
+
+Finally, who read "the copyright exists before the opera is shared with someone" and did a jump on the chair... Please consider, is proprietary a natural right of every individual? Because in using the words "intellectual property" and accepting that the "propriety" is a natural right of every free man - otherwise Communism get into the scene and in its most fundamental claims, like propriety is a theft from the community - then as every natural right, conceptually, it exists before the opera has been shared and potentially before even the opera has been written. In practice, it exists only when it can be enforced. Like in those times before Machiavelli wrote "Il Principe" for which the law was coming out a sword, literally and written by blood, when necessary as much and as long as it was necessary.
+
+### Using the proper words
+
+If someone here, might notice that it seems that not so much has changed over the centuries. Well... welcome in the real world. Fortunately, we also made a lot of hard work to emancipate us from the need of "enforcing the rules" and we try to lead by example and convince people to behave in a fair way. Which someone labeled a "soft power", the power of battle for the best idea rather than for the life XOR the gold.
+
+It is very long writing, this one. Therefore, I do not expect that many people will read it in full. Despite whether this message would be read or not, "sw libre IS politics" it is fundamentally WRONG. More than this, back to reading and notice that I wrote "propriety is a natural right of every free man". In which the key words are not "proprietary" or "right" but "every" and "free". For this reason, there is no reason to think that "free software" would be more important than "freedom for the people" rather than an ancillary concept.
+
+### Without freedom
+
+Some may notice that I used the word "men" with the meaning of human beings and bla gender bla. NO! - I wrote men, intending biologically born men and purposely excluding everyone that cannot be identified by STRICT rules as a man and it is correct in THAT way I wrote it. Why? Because that location came from the past in which women did not have any right but they were "proprietary" and also not every man was "free" but many were slaves. That sentence is - like written in a stone - a reminder to us that there is no free software unless every person is free. Which by the absurd, leads to the conclusion that free software in practice does not exist but like every other right or law exists because there is an authority that can "enforce" it. In our specific case, that "authority" is the copyright, as stated before,
+
+## NOTE
+
+(*) it doesn't matter if it is "true" or just a "perception" because in politics, perception matters, like in marketing and I do not make this association by a mistake, just to not another word more "strong" in its meaning but read "Il Principe" by Machiavelli which is universally recognised as the father of the modern politics and he will explain pretty well the concept that I did not dare to express here with a single word. (Spoiler: fraud, or as described by Machiavelli a fraud sustained by astuce). Under this point of view, branding that statement as WRONG is the bright side, because it implies that the author never read "Il Principe" and realised what politics really means by explicit definition of his father, as universally recognised.
+
+## Salute
+
+I hope this helps, R-

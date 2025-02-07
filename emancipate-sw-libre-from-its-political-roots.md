@@ -46,7 +46,11 @@ The labellig provides the AI agent a straighforward and user-driven/user-friendl
 
 ### OK-GO, the first prompt after
 
-Some webUI - commonly known as online chatbots - accepts text in attachment, others accepts input from the user only by the prompt, others create an attachment when the user paste a lot of text in the chat area. This enforce us to use a slight different prompt, also. 
+Some webUI - commonly known as online chatbots - accepts text in attachment, others accepts input from the user only by the prompt, others create an attachment when the user paste a lot of text in the chat area. This enforce us to use a slight different prompt, also.
+
+- [AI friebdly pre-formatted text to peer-review](data/free-software-is-politcs-wrong.txt?target=_blank)
+
+In the text above few typos have been fixed compared with the origina, just the spelling, in order to help automatic translation.
 
 > The document to peer-review is in attachment. 
 
@@ -65,6 +69,12 @@ The prompt is going to describe the document format in order to inform the AI ag
 > Roberto is the author of the claims to peer-review
 
 I did not do that because I was aware about who was who and able to deal with it. In fact, some AI agents included claims from others than "Roberto" and mess-up authors among them. Despite having explained the format of the document and the relationship among the answers. In replicating the process, for you as third party, I suggest append the above sentence.
+
+---
+
+### Providing the [USR] questions set
+
+The peer-review that I have conducted shown that the initial e-mail was containing a LOT of information in a relatively short text. Some of that information are contextual specific while others are not easy to catch and was included without provinding an url for reference. This allowed me to realise how far the work collected in "ChatGPT answered prompts" website went far.
 
 
 
