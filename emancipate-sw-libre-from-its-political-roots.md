@@ -104,7 +104,7 @@ After having provided the AI agent some contextual information about how to inte
 
 > With all these [USR], provide a rating about the following claim
 > 
-> - "sw libre IS political" WRONG!
+> --> "sw libre IS political" WRONG!
 > 
 > which is the main Roberto statement.
 > 
@@ -129,6 +129,14 @@ Finally, it comes the time to reveal that the user and the author is the same pe
 > Provide that essay within a relatively short form leveraging the [USR] and the document provided. Which is the "executive summary" task included into the peer-review guidelines but in a more specific terms.
 
 However for the sake of completeness, in the following also some relevant outputs including the final review, are reported. Which allows the every reader to ask - instead of askign for the final summary - to asses the here repoterd summary as a reasonable candidate. Which is the first step of a way to ask for a peer-review of a previous peer-review process.
+
+---
+
+### ChatGPT 4.o
+
+It is always a pleasure dealing with this AI agent that about peer-reviewing remains senstively ahead compared to DeepSeek. Which shoudl not surprise us because being on-line for a longer time and therefore the consequent higher level of maturity are not cheap as billions of USD invested into it.
+
+- []() TODO
 
 ---
 
@@ -202,6 +210,17 @@ and then
 > Question 7 is not speculative but provocative. It aims to make people thinking about all the meanings of the words they are using.
 
 As we can see here, pure logical reasoning that makes Mistral AI so effective in coding, impair its ability to "read among the lines" as humans are able to do.
+
+> Reading your ratings about 33 questions, I noticed that you jumped from question 7 to question 30, ignoring the middle part of the document. This is clearly a context windows issue which much probably affected also the peer-review. Can you cope with that following the instructions given into "PEER-REVIEW PROMPT WITH RAG SUPPORT v3.2", please?
+
+**Ouch!** - Despite the AI agent received specific instructions about how to handle text longer than it context window, it is not able to apply it unless someone explicely and specifically indicates WHEN and HOW to apply that guidelines. This is a HUGE issue and classify Mistral AI as not suitable for peer-reviewing unless and until fixed.
+
+In the following ignore the numbers here which are purely indicatives and have not a direct reference with the documents provided in `data` folder.
+
+> Claims 1 and 2 are both provocative, while claim 3 is explicitly states as an open question. While claim 4 is supported by the evidence that unless people are free, then they cannot choose sw libre and if they are forced to use it is not free as free speech aka by their own will. About claim 5, considering that Machiavelli is considered the father of the modern politics as much as Freud the father of psychoanalysis, Machiavelli's politic definition has an universal value and here has been used as provocative claim.
+
+And with these we can conclude that Mistral AI won the prize of the most misunderstanding AI agent without being stuborn and without providing any particular insights compared to the others AI agents. I feel that someone on Monday will get awake in a cold wind at hsi/her work place! LOL
+
 
 +
 
