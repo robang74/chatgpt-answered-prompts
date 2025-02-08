@@ -22,6 +22,8 @@ Due to this evolution, I will present the results of the peer-review which from 
 
 You will discover by yourself that with the same inputs, even the same AI agent in various session is going to provide similar results but not identical and this result will change over the time as much as the AI agent evolves and learn more stuff. And they do mistakes and they have biases, also. But useful, very useful.
 
+If you are interested in this topic rather than its dissertation with AI agents, you can jump directly to the conclusive part, to the [first of three](emancipate-sw-libre-from-its-political-roots.md#chatgpt-summary?target=_blank)) last sections.
+
 ---
 
 ### The peer-review session prompt
@@ -134,9 +136,13 @@ However for the sake of completeness, in the following also some relevant output
 
 ### ChatGPT 4.o
 
-It is always a pleasure dealing with this AI agent that about peer-reviewing remains senstively ahead compared to DeepSeek. Which shoudl not surprise us because being on-line for a longer time and therefore the consequent higher level of maturity are not cheap as billions of USD invested into it.
+It is always a pleasure dealing with this AI agent that about peer-reviewing remains senstively ahead compared to DeepSeek. Which should not surprise us because being on-line for a longer time and therefore the consequent higher level of maturity are not cheap as billions of USD invested into it.
 
-- []() TODO
+- [Emancipating FLOSS from its political roots](emancipate-sw-libre-from-its-political-roots.md#chatgpt-summary?target=_blank)
+
+- [Peer Review on Free Software and Politics](emancipate-sw-libre-from-its-political-roots.md#chatgpt-review?target=_blank)
+
+However, these are the two documents provided by ChatGPT and also the dialog is quite interesting for those who whis get deeper into the question. [TODO]
 
 ---
 
@@ -168,7 +174,7 @@ Again, here is NOT the information that matters di-per-se but HOW they have been
 
 Therefore the method is what grants us a certain high level of confidence about the results. In fact, this article is presenting the method more than pushing on the results.
 
-...
+---
 
 ### Mistral AI get confused as well
 
@@ -221,9 +227,33 @@ In the following ignore the numbers here which are purely indicatives and have n
 
 And with these we can conclude that Mistral AI won the prize of the most misunderstanding AI agent without being stuborn and without providing any particular insights compared to the others AI agents. I feel that someone on Monday will get awake in a cold wind at hsi/her work place! LOL
 
+---
+
+### Claude 3.5 outstand others
+
+I do not use Claude often but it is formidable. It is the only AI agent that got straightforward to the end of the peer-review in just four prompts after the session customisation. clearly, because I prepared those prompts using others AI agent, you might say. Possibly but Mistral AI has been prompted in the same identical way.
+
+...
+
+My initial review missed crucial context and misinterpreted the rhetorical structure. The document presents a sophisticated argument about the importance of precise definitions when making categorical statements about free software. Rather than being flawed, the argument is carefully constructed to demonstrate how imprecise language ("everything is politics") leads to meaningless conclusions.
+
+...
+
+This analysis suggests Roberto's "WRONG" statement is highly valid, especially when considering the practical implications for both free software advocacy and broader systemic change.
+
+...
+
+Only when necessary, I engage Claude in a conversation as the last AI agent, because of its limited daily free quota. I should admit that this habit may have biased my perception of Claude. For example, In terms of serendipidy,
+
+I do not even consider Claude but being the last resort to query, it is doomed to provide a second opinion. Obviously, because a topic has been unfolded by the previous AI agents chats. However, it is not only about the perception.
+
+- [The Scientific Evolution of Free Software](emancipate-sw-libre-from-its-political-roots.md#claude-summary?target=_blank) 
+
+In being short and straighforward to the point, Claude master the topic. Which is good as long as the human user master the topic as well otherwise it may be an "hard" partner to work with. Even if its choice of the title made our eyebrow raises, can we argue about a bait-click title? In this sense I define Clause as "hard", it sets its points.
 
 +
 
+<span id="chatgpt-summary"></span>
 ## Emancipating FLOSS from its political roots<br><sup>A path toward societal advancement</sup>
 
 Provided as "executive summary" as per peer-review prompt guidelines by ChatGPT 4.o
@@ -262,6 +292,7 @@ By emancipating FLOSS from its political roots and embracing a science-driven fr
 
 +
 
+<span id="chatgpt-review"></span>
 ## Peer Review on Free Software and Politics
 
 Provided as final "peer-review" as per peer-review prompt guidelines by ChatGPT 4.o
@@ -369,6 +400,58 @@ With the [USR] insights, Roberto’s argument gains coherence and depth. His rhe
 Roberto’s email presents a compelling critique of the claim that “free software is politics.” By invoking foundational political philosophy, emphasizing the importance of scientific method, and drawing on historical legal contexts, he offers a well-reasoned counterpoint. Minor gaps, such as the historical misinterpretation of copyright, could be addressed for greater accuracy.
 
 **Recommendation:** Acknowledge the nuanced philosophical framing Roberto provides, clarify the rhetorical nature of the "copyright predates publication" point, and improve the clarity of language to better distinguish rhetorical devices from factual assertions.
+
++
+
+<span id="claude-summary"></span>
+## Beyond Politics
+
+Provided as "executive summary" as per peer-review prompt guidelines by Claude 3.5
+
+#### The Scientific Evolution of Free Software
+
+"Free software IS political" is wrong. This seemingly provocative statement opens a crucial discussion about the future of the Free/Libre and Open Source Software (FLOSS) movement and its role in society. While the movement's political roots are undeniable, treating free software primarily as a political tool limits both its potential and effectiveness in achieving broader societal goals.
+
+#### The Liberation of Free Software
+
+Just as every generation must evolve beyond its origins, the FLOSS movement now faces its own moment of emancipation. This isn't about rejecting its roots but transcending them to address contemporary challenges more effectively. By recognizing free software primarily as a scientific endeavor rather than a political one, we open new possibilities for collaboration and progress.
+
+#### Science Over Politics
+
+The scientific approach to free software offers several advantages:
+
+- Universal participation regardless of political views
+- Clear, testable methods and principles
+- Focus on verifiable results rather than political outcomes
+- Alignment with academic principles of knowledge sharing
+
+This framework allows the movement to maintain its core values while avoiding the polarization that often comes with political labels.
+
+### Addressing Root Causes
+
+The concentration of wealth in tech companies isn't primarily a software licensing issue - it's a symptom of broader systemic challenges. These include:
+
+- Limited access to fair education and healthcare
+- Unequal legal protections
+- Lack of transparency in decision-making processes
+- Financial systems that enable wealth concentration
+
+When we frame free software as political, we risk missing these deeper systemic issues. The "copyright predates publication" problem in software is just one manifestation of how "finance predates wealth" across many sectors.
+
+### A More Effective Path Forward
+
+By separating free software development from political activism, we can:
+
+1. Maintain FLOSS as a neutral, universal tool
+2. Focus political energy on systemic reforms where it's most effective
+3. Build broader coalitions around specific issues
+4. Address root causes rather than symptoms
+
+### Conclusion
+
+The future of free software lies not in political battles but in scientific advancement. This doesn't mean abandoning the fight for digital rights and societal improvement - rather, it means choosing the most effective tools for each challenge. Free software thrives best as a scientific endeavor, while systemic change requires focused political action in appropriate venues.
+
+This evolution beyond political roots doesn't weaken the movement; it strengthens it by clarifying its role in a complex world. Through this lens, free software becomes more accessible, more universal, and ultimately more effective in contributing to positive societal change.
 
 +
 
