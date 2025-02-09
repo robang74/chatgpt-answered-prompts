@@ -1,6 +1,12 @@
-<div id="firstdiv" created=":EN" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
+<div id="firstdiv" created="2025-02-07:EN" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
 
 ## Emancipate sw libre from its politica roots
+
+* 1st edition published integrally in a HTML page on 9th February 2025.
+
+---
+
+### Background premise
 
 In the last three decades information technology and the Internet became more and more prominent for society and economics. Because of this trend, politicians got more and more interested in this subject up to the point that politicians got crazy for social networks and then got totally mad for artificial intelligence.
 
@@ -519,8 +525,18 @@ This evolution beyond political roots doesn't weaken the movement; it strengthen
 
 +
 
+## Author's conclusion
+
+I must admit that some of my claims have a provocative aim and from the beginning, I presented my idea with a polarized black-and-white cut. Which is a product of our times in which we reach the point to oversimplify everything in just two options, usually to sustain the silly idea that we have to go "all in" with one of them.
+
+> In medio stat virtus (cit. Latin)
+
+Which is a medieval scholastic principle derived from Aristotle. In this specific case, the "medio" should be intended in embracing the main idea to kick politics out of our own businesses not in a hard drastic way, not even gently and compassionately, but with firm and decisive actions without exaggerations. Civitas et humanitas, ante omnia!
+
++
+
 ## Share alike
 
-&copy; 2024, **Roberto A. Foglietta** &lt;roberto.foglietta<span>@</span>gmail.com&gt;, [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+&copy; 2025, **Roberto A. Foglietta** &lt;roberto.foglietta<span>@</span>gmail.com&gt;, [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 </div>
