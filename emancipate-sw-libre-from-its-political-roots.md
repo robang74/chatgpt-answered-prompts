@@ -180,7 +180,11 @@ It is always a pleasure dealing with this AI agent that peer-reviewing remains s
 
 - [Peer Review on Free Software and Politics](emancipate-sw-libre-from-its-political-roots.md#chatgpt-review?target=_blank)
 
-However, these are the two documents provided by ChatGPT and also the dialog is quite interesting for those who whis get deeper into the question. [TODO]
+However, these are the two documents provided by ChatGPT and also the dialog is quite interesting for those who whis get deeper into the question.
+
+- [The peer-review dialoge with ChatGPT](data/chatgpt-emancipate-sw-libre-from-its-political-roots.pdf?target=_blank)
+
+The original HTML file had to be modified with `sed -e "s,\\\n,&lt;BR&gt;,g" -i chat.html` command line because the two files provided by the AI agent were presented with textual `\n` instead `&lt;BR&gt;` encoded. A format change necessary for human reading.
 
 ---
 
