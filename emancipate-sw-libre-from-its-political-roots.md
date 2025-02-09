@@ -26,6 +26,26 @@ If you are interested in this topic rather than its dissertation with AI agents,
 
 ---
 
+### A short but necessary clarification
+
+In case you might think that in reading this paper you have to take action upon the Debian Project despite being not part of it or neither being involved in the FLOSS area of interest, you are wrong.
+
+For the same reason for which, if we all - we the people - start to clean our own garden, then we achieve a cleaner world in a tiny small fraction of the time compared to starting a debate about agreeing how or why we have to clean the world.
+
+Moreover, if you are working for a middle-large company or you have a role in a middle-large NGO, then it is almost guaranteed that your garden has been deeply infiltrated by politics as well.
+
+Finally, if you think that wherever there is value or value production, there is politics and it is "normal" being in such a way, then you are wrong, again.
+
+The correct term is "stakeholders" and to be more specific "external stakeholders management" from your company or NGO perspective. While being infiltrated by politics, it is exactly the vice versa and it is wrong. Let me clarify this point.
+
+We all - we the people - are paying the taxes and for this reason we have the right - and the right to freely exercise specifically this right - to influence how and how much taxpayers money is going to be invested in. Therefore, the "vice versa" above is NOT acceptable in ANY fashion.
+
+We put our money in their pockets for the benefits of all, or supposedly so, but they cannot put their hands in our pockets. This should be written cristal clear once and forever, whatever it takes.
+
+The vice versa would be: they - the politicians - go to work and we tax them. Most probably the only way this can happen is dressing them with a jail-orange forced-labour suit. Which is not such a bad vision, after all... LOL
+
+---
+
 ### The peer-review session prompt
 
 Along the time some effort has been invested in developing a better way of conducting a peer-review supported by an AI agent. An improvement that include also some kind of prompt engineering as reported here:
@@ -422,8 +442,11 @@ Just as every generation must evolve beyond its origins, the FLOSS movement now 
 The scientific approach to free software offers several advantages:
 
 - Universal participation regardless of political views
+
 - Clear, testable methods and principles
+
 - Focus on verifiable results rather than political outcomes
+
 - Alignment with academic principles of knowledge sharing
 
 This framework allows the movement to maintain its core values while avoiding the polarization that often comes with political labels.
@@ -433,8 +456,11 @@ This framework allows the movement to maintain its core values while avoiding th
 The concentration of wealth in tech companies isn't primarily a software licensing issue - it's a symptom of broader systemic challenges. These include:
 
 - Limited access to fair education and healthcare
+
 - Unequal legal protections
+
 - Lack of transparency in decision-making processes
+
 - Financial systems that enable wealth concentration
 
 When we frame free software as political, we risk missing these deeper systemic issues. The "copyright predates publication" problem in software is just one manifestation of how "finance predates wealth" across many sectors.
@@ -444,8 +470,11 @@ When we frame free software as political, we risk missing these deeper systemic 
 By separating free software development from political activism, we can:
 
 1. Maintain FLOSS as a neutral, universal tool
+
 2. Focus political energy on systemic reforms where it's most effective
+
 3. Build broader coalitions around specific issues
+
 4. Address root causes rather than symptoms
 
 ### Conclusion
