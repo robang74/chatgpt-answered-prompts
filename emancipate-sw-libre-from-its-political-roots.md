@@ -1,6 +1,6 @@
 <div id="firstdiv" created="2025-02-07:EN" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
 
-## Emancipate sw libre from its politica roots
+## Emancipate SW libre from its politica roots
 
 * 1st edition published integrally in a HTML page on 9th February 2025.
 
