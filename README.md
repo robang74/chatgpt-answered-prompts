@@ -148,7 +148,7 @@ This index is divided in tre sections related to different topics.
 
 6. **Emancipate SW libre from its politica roots** &nbsp;(2025-02-07)&nbsp; [[**`md`**](emancipate-sw-libre-from-its-political-roots.md)] [[**`html`**](html/emancipate-sw-libre-from-its-political-roots.html)] [[**`pdf`**](pdf/emancipate-sw-libre-from-its-political-roots.pdf?target=_blank)]
 
-   - Software Libre is politics or like Open Source is science? The intrinsic nature of a tool does not change because people use it in a different way than it has been designed. Anyway, kick the politcs out of our businesses seems a general good way to go. Civitas et humanitas, ante omnia!
+   - Software Libre is politics or like Open Source is science? The intrinsic nature of a tool does not change because people use it in a different way than it has been designed. Anyway, kick the politics out of our businesses seems a general good way to go. Civitas et humanitas, ante omnia!
 
 <br/>
 
