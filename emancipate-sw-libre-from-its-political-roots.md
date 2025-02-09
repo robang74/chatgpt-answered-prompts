@@ -22,8 +22,6 @@ Due to this evolution, I am presenting the results of the peer-review from which
 
 You will discover by yourself that with the same inputs, even the same AI agent in various sessions, is going to provide similar results but not identical and the result will change over the time, as much as the AI agent evolves and learns more stuff. And they make mistakes and they have biases, also.
 
-If you are interested in this topic rather than its dissertation with AI agents, you can jump directly to the conclusive part, to the [first of three](emancipate-sw-libre-from-its-political-roots.md#chatgpt-summary?target=_blank)) last sections.
-
 ---
 
 ### A short but necessary clarification
@@ -44,9 +42,17 @@ We put our money in their pockets for the benefits of all, or supposedly so, but
 
 The vice versa would be: they - the politicians - go to work and we tax them. Most probably the only way this can happen is dressing them with a jail-orange forced-labour suit. Which is not such a bad vision, after all... LOL
 
----
+===
 
-### The peer-review session prompt
+[!INFO]
+
+If you are interested in this topic rather than its dissertation with AI agents, you can jump directly to the conclusive part, to the [first of three](emancipate-sw-libre-from-its-political-roots.md#chatgpt-summary?target=_blank) last sections and later, possibly, these [agreeable 33 questions](data/agreeable-33-questions.txt) for thinking about.
+
+[/INFO]
+
+===
+
+## The peer-review session
 
 Along the time some effort has been invested in developing a better way of conducting a peer-review supported by an AI agent. An improvement that include also some kind of prompt engineering as reported here:
 
@@ -100,7 +106,7 @@ The peer-review that I have conducted showed that the initial e-mail contains a 
 
 This allowed me to realise how far the work collected in "ChatGPT answered prompts" website went far. Including the need of providing the AI agent much more information to correctly set the context and connect the dots in a smoother and more continuous way by providing a finer grained set of dots in form of 33 questions on which it can agree or not.
 
-- [agreeable 33 question](data/agreeable-33-questions.txt) to submit as user input [USR] as per the peer-review prompt guidelines
+- [agreeable 33 questions](data/agreeable-33-questions.txt) to submit as user input [USR] as per the peer-review prompt guidelines
 
 [!INFO]
 
@@ -152,9 +158,15 @@ Finally, it comes the time to reveal that the user and the author is the same pe
 
 However for the sake of completeness, in the following also some relevant outputs including the final review, are reported. Which allows every reader to ask - instead of asking for the final summary - to assess the here reported summary as a reasonable candidate. Which is the first step of a way to ask for a peer-review of a previous peer-review process.
 
++
+
+## How vary AI agents reacted 
+
+Not all the humans are made the same and this fits to the AI agents, as well.
+
 ---
 
-### ChatGPT 4.o
+### ChatGPT 4.o, the pleasent one
 
 It is always a pleasure dealing with this AI agent that peer-reviewing remains sensitively ahead compared to DeepSeek. Which should not surprise us because being on-line for a longer time and therefore the consequent higher level of maturity are not cheap as billions of USD are invested into it.
 
@@ -166,7 +178,7 @@ However, these are the two documents provided by ChatGPT and also the dialog is 
 
 ---
 
-### Gemini 2 the stubborn AI agent
+### Gemini 2.0, the stubborn one
 
 I conduct the same peer-review process leveraging different AI agents, and the Gemini 2 was the one that misunderstands the text in more ways than others. Moreover, its argumentative stubborness in defending its mistake was quite amusing. Despite this demonstrated to be useful, in fact it provided me with this valuable piece of text.
 
@@ -194,15 +206,37 @@ Again, here is NOT the information that matters di-per-se but HOW they have been
 
 Therefore the method is what grants us a certain high level of confidence about the results. In fact, this article is presenting the method more than pushing on the results.
 
+...
+
+> About Claim 29 at 25% also considering Claim 30 at 90%, from the Roberto's PoV then Claim 29 is at 75%? Because the peer-review guidelines indicates that it is the author point of view that should be rated not the claim s/he is debating, right?
+
+You're absolutely correct! I apologize for the error in my rating of Claim 29.  I seem to be having some trouble consistently applying the peer review guidelines, particularly the focus on the author's point of view. You're right that the guidelines emphasize rating the validity of the author's claims, not the validity of the claims they are arguing against.
+
+...
+
+Which indicates that despite the peer-review prompt guidelines, and the directive to apply them in a consistent way, the AI agents do it as per their best effort. Which also means that if we do not master the topic, by solely taking for granted these ratings, we are going to accept wrong assumptions. Which is coherent with productivity statistics that indicate AI technology boosts the tails - whom do not know anything about the subject and those are mastering it - while might negatively impact the average. After all, AI agents, like every other human product, cannot achieve total perfection.
+
+Are the AI agents capable of understanding and appreciating the above comment about them?
+
+...
+
+> What do you think about this reflexive comment related to your mistake?
+
+In short, your reflexive comment is a valuable reminder that AI is a tool, and like any tool, it has limitations. It's crucial for users to understand these limitations and to use AI responsibly, with critical awareness and domain expertise.
+
+...
+
+Yes indeed, something like Gemini 2 totally agrees.
+
 ---
 
-### Mistral AI get confused as well
+### Mistral AI get confused, as well
 
 To underline how sensitive all this stuff is, it is worth noticing that also Mistral AI got confused.
 
-> It is a wrong assumption. Roberto was using a rhetorical way to highlight the inconsistency of those who are considering sw libre as politics in its nature. In fact, he presents the idea that a hammer can be used as a weapon despite it being designed for a completely different aim.
-
 ...
+
+> It is a wrong assumption. Roberto was using a rhetorical way to highlight the inconsistency of those who are considering sw libre as politics in its nature. In fact, he presents the idea that a hammer can be used as a weapon despite it being designed for a completely different aim.
 
 - **Rhetorical Device** - Roberto employs a rhetorical strategy to challenge the notion that free software is inherently political. By suggesting that anything can be politicized if viewed through a political lens, he highlights the subjectivity of such interpretations.
 
@@ -222,8 +256,8 @@ Moreover, despite Mistral AI is rating the main claim as a personal opinion:
 
 ...
 
-- Claim: "sw libre IS political" WRONG!
-   - Rating: 50%
+**Claim**: "sw libre IS political" WRONG!
+   - **Rating**: 50%
 
 ...
 
@@ -246,7 +280,7 @@ In the following ignore the numbers here which are purely indicatives and have n
 > Claims 1 and 2 are both provocative, while claim 3 is explicitly stated as an open question. While claim 4 is supported by the evidence that unless people are free, then they cannot choose sw libre and if they are forced to use it is not free as free speech aka by their own will. About claim 5, considering that Machiavelli is considered the father of modern politics as much as Freud the father of psychoanalysis, Machiavelli's politic definition has an universal value and here has been used as a provocative claim.
 
 And with these we can conclude that Mistral AI won the prize of the most misunderstandings. Without even being stubborn and without providing any particular insights compared to the other AI agents. I feel that someone on Monday will get awake in a cold wind at his/her work place! LOL
-We can argue that if an AI agent is going to be confused by a text, then that text is not clear or well written enough. Correct, in this specific case. In fact, to the initial email document has been added the "agreeable 33 question" user input, by the same author. Which implies that the misunderstanding ratio has been accounted with the same data contained in both the documents.
+We can argue that if an AI agent is going to be confused by a text, then that text is not clear or well written enough. Correct, in this specific case. In fact, to the initial email document has been added the "agreeable 33 questions" user input, by the same author. Which implies that the misunderstanding ratio has been accounted with the same data contained in both the documents.
 
 ---
 
@@ -258,7 +292,7 @@ I do not use Claude often but it is formidable. It is the only AI agent that got
 
 My initial review missed crucial context and misinterpreted the rhetorical structure. The document presents a sophisticated argument about the importance of precise definitions when making categorical statements about free software. Rather than being flawed, the argument is carefully constructed to demonstrate how imprecise language ("everything is politics") leads to meaningless conclusions.
 
-...
+ &nbsp; [ ... omissis ... ]
 
 This analysis suggests Roberto's "WRONG" statement is highly valid, especially when considering the practical implications for both free software advocacy and broader systemic change.
 
@@ -281,7 +315,7 @@ Provided as "executive summary" as per peer-review prompt guidelines by ChatGPT 
 
 ### Introduction: "sw libre IS political" WRONG!
 
-Roberto’s assertion—*"sw libre IS political" WRONG!* —is not merely a critique but an incipit inviting us to rethink the role of Free/Libre and Open Source Software (FLOSS). His central argument is that FLOSS should emancipate itself from its political roots, which, while important at its inception, have become limiting in contemporary contexts. Instead, FLOSS should be framed as a scientific and collaborative endeavor, fostering a more inclusive and effective approach to societal challenges.
+Roberto’s assertion — *"sw libre IS political" WRONG!* — is not merely a critique but an incipit inviting us to rethink the role of Free/Libre and Open Source Software (FLOSS). His central argument is that FLOSS should emancipate itself from its political roots, which, while important at its inception, have become limiting in contemporary contexts. Instead, FLOSS should be framed as a scientific and collaborative endeavor, fostering a more inclusive and effective approach to societal challenges.
 
 ### Moving Beyond Political Agendas
 
@@ -356,23 +390,23 @@ Provided as final "peer-review" as per peer-review prompt guidelines by ChatGPT 
 
 1. **Free software is inherently political [GNR] - RTS: 75%**
 
-   - Politics often emerges in collaborative projects, but not all software development qualifies as political. Scope matters.
+   - Politics often emerges in collaborative projects, but not all software development qualifies as political. Scope matters.
 
 2. **Free software is NOT political but scientific [SPC] - RTS: 90%**
 
-   - This claim gains strength when “politics” is defined in the Machiavellian sense as manipulation and deception, contrasting with the structured pursuit of truth in science.
+   - This claim gains strength when “politics” is defined in the Machiavellian sense as manipulation and deception, contrasting with the structured pursuit of truth in science.
 
 3. **The scientific method underpins software development and licensing [SPC] - RTS: 90%**
 
-   - Accurate within the context of methodical development practices and structured knowledge-sharing.
+   - Accurate within the context of methodical development practices and structured knowledge-sharing.
 
 4. **Copyright as a natural right predates publication [GNR] - RTS: 50%**
 
-   - In the context of the email, this statement sets a rhetorical point rather than making a claim that must be universally valid.
+   - In the context of the email, this statement sets a rhetorical point rather than making a claim that must be universally valid.
 
 5. **Freedom in software is secondary to human freedom [SPC] - RTS: 90%**
 
-   - A philosophically robust and defensible claim.
+   - A philosophically robust and defensible claim.
 
 ### 3. Check Coherence
 
