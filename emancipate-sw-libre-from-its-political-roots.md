@@ -68,7 +68,7 @@ Along the time some effort has been invested in developing a better way of condu
 
 - [AI peer-review prompt with RAG v3.2](https://raw.githubusercontent.com/robang74/chatbots-for-fun/67361a51de830a7fa0edd69b4b2c47a684ded847/data/alex-peer-review-with-rag-v3.txt)
 
-The version 3.2 was used for customising the peer-review processing chat section and the link above refers to its ASCII text versionated in github, which is a static content.
+The version 3.2 was used for customising the peer-review processing chat section and the link above refers to its ASCII text versionated in github, which is a static content. Alternatively, the [v3.3.1](https://github.com/robang74/chatbots-for-fun/blob/7de3d0380a7129d82c74d7a1f331ff8d431d472c/data/alex-peer-review-with-rag-v3.txt) has been updated to correct some recurrent issues of AI agents which are explained later in this paper.
 
 Then, the second step is to provide the document to peer-review in a format that can be easily handled by the AI agent during its peer-review process. In this specific case applying some aesthetic changes to the text format like:
 
@@ -161,20 +161,39 @@ Finally, it comes the time to reveal that the user and the author is the same pe
 > Consider that the [USR] came from Roberto the same author of the email, provide an assay to explain the Roberto's point of view aimed for a broader audience in which - "sw libre IS political" WRONG - is the incipit to suggest to emancipate from the political roots of the FLOSS movement with all the benefit listed in our conversation.
 > 
 > Include that the aim of fostering a better society by re-establishing people rights is not a mere theoretical or ideological position but that rights - like human rights, fair and equal legal protection, transparency of judgmental process and decision, fair access to NHS and to fair education system, etc. - are ALSO fundamental for assessing the wealth of IT companies because otherwise the "copyright predates publications" is just a specific case of a broader scenario in which "finance predates wealth" as the Gini coefficient used as index for inequality shown during decades of wealth concentration despite science and technological advancements.
+
+...
+
+This part has been added with the introduction of [prompt v3.3.1](https://github.com/robang74/chatbots-for-fun/blob/7de3d0380a7129d82c74d7a1f331ff8d431d472c/data/alex-peer-review-with-rag-v3.txt) which address some issue about inverse or context mismatch ratings.
+
+> About - Wealth concentration in big tech may be due to the financial system (fiat currency), not just copyright - this has been peer-reviewed in a separate session with 90% of overall score.
 > 
-> Provide that essay within a relatively short form leveraging the [USR] and the document provided. Which is the "executive summary" task included into the peer-review guidelines but in more specific terms.
+> About some not high-score claims - I must admit that some of my claims have a provocative aim and from the beginning, I presented my idea with a polarized black-and-white cut. Which is a product of our times in which we reach the point to oversimplify everything in just two options, usually to sustain the silly idea that we have to go "all in" with one of them. Consider that the B/W is a rhetorical approach (show two extremes to find an agreement in the between or in some other manner), not just a current time issue.
+> 
+> Does this [USR] from the same author of the document change any ratings? Show me those have been changed after the peer-review update, if any.
+
+Using the original prompt v3.2, the following part below is not a separate prompt but part of the previous while the above is not included. Please, notice that some AI agents tend to low-rate those arguments that are provocative or confrontative (biases) unless they have been informed that it is a rhetorical technique of communication.
+
+- [Paper Money is financial communism](paper-money-financial-communism-03.md#?target=_blank) &nbsp; (2024-09-15) 
+
+- [Quantitative Easing is like drug addiction](quantitative-easing-drug-addiction-01.md#?target=_blank) &nbsp; (2024-09-18)
+
+These two articles are the main reason for which wealth concentration is not a trend strictly related to the Digital Era like it happened because the Industrial Revolution in which automation reshaped the society entirely included the wealth transition from nobles to entrepreneurs.
+
+...
+
+> Provide the essay within a relatively short form leveraging the [USR] and the document provided. Which is the "executive summary" task included into the peer-review guidelines but in more specific terms.
 
 However for the sake of completeness, in the following also some relevant outputs including the final review, are reported. Which allows every reader to ask - instead of asking for the final summary - to assess the here reported summary as a reasonable candidate. Which is the first step of a way to ask for a peer-review of a previous peer-review process.
 
-+
+===
 
-## How vary AI agents reacted 
-
+## How vary AI agents reacted<br>
 Not all the humans are made the same and this fits to the AI agents, as well.
 
-+
+===
 
-### ChatGPT 4.o, the pleasent one
+## ChatGPT 4.o, the pleasent one
 
 It is always a pleasure dealing with this AI agent that peer-reviewing remains sensitively ahead compared to DeepSeek. Which should not surprise us because being on-line for a longer time and therefore the consequent higher level of maturity are not cheap as billions of USD are invested into it.
 
@@ -190,7 +209,7 @@ The original HTML file had to be modified with `sed -e "s,\\\n,&lt;BR&gt;,g" -i 
 
 +
 
-### Gemini 2.0, the stubborn one
+## Gemini 2.0, the stubborn one
 
 I conduct the same peer-review process leveraging different AI agents, and the Gemini 2 was the one that misunderstands the text in more ways than others. Moreover, its argumentative stubborness in defending its mistake was quite amusing. Despite this demonstrated to be useful, in fact it provided me with this valuable piece of text.
 
@@ -242,7 +261,7 @@ Yes indeed, something like Gemini 2 totally agrees.
 
 +
 
-### Mistral AI get confused, as well
+## Mistral AI get confused, as well
 
 To underline how sensitive all this stuff is, it is worth noticing that also Mistral AI got confused.
 
@@ -296,7 +315,7 @@ We can argue that if an AI agent is going to be confused by a text, then that te
 
 +
 
-### Claude 3.5 outstand others
+## Claude 3.5 outstand others
 
 I do not use Claude often but it is formidable. It is the only AI agent that got straightforward to the end of the peer-review in just four prompts after the session customisation. clearly, because I prepared those prompts using other AI agents, you might say. Possibly but Mistral AI has been prompted in the same identical way.
 
@@ -318,7 +337,13 @@ I do not even consider Claude but being the last resort to query, it is doomed t
 
 In being short and straightforward to the point, Claude masters the topic. Which is good as long as the human user masters the topic as well otherwise it may be a "hard" partner to work with. Even if its choice of the title made our eyebrow raises, can we argue about a bait-click title? In this sense I define Clause as "hard", it sets its points.
 
-+
+===
+
+## Topic development with AI support
+
+In the following sections, before the human author's conclusion, some interesting AI agents output are collected to provide information and perspectives to this topic. Which is the main aim of a peer-review to reach a more agreeable and correct way of proposing an opinion or advocating a cause.
+
+===
 
 <span id="chatgpt-summary"></span>
 ## Emancipating FLOSS from its political roots<br><sup>A path toward societal advancement by ChatGPT 4.o</sup>
@@ -531,17 +556,17 @@ This evolution beyond political roots doesn't weaken the movement; it strengthen
 
 +
 
-## Emancipating Free Software<br><sup>Beyond Politics by Gemini 2.0</sup>
+## Emancipating Free Software:Beyond Politics<br><sup>provided by Gemini 2.0 with the prompt [v3.3.1](https://github.com/robang74/chatbots-for-fun/blob/7de3d0380a7129d82c74d7a1f331ff8d431d472c/data/alex-peer-review-with-rag-v3.txt)</sup>
 
-Roberto's assertion, "sw libre IS political" WRONG, isn't a dismissal of free software's political *aspects*, but a call to transcend them. He argues that focusing on free software *as a primary political tool* is a strategic misstep, limiting its potential and obscuring deeper societal issues. His "WRONG" is about strategic direction, not factual denial.
+Roberto's assertion, "sw libre IS political" WRONG, serves as a **rhetorical call to arms**, a deliberate provocation aimed at transcending the political limitations of the free software movement. By presenting a stark contrast between "political" maneuvering and the pursuit of scientific truth, he challenges the reader to reconsider the strategic focus of the movement. His "WRONG" isn't about denying the political *aspects* of free software, but rather about highlighting the potential pitfalls of a purely political approach.
 
-Roberto suggests a shift from a *political* to a *scientific* approach. He defines "political" in a Machiavellian sense, implying maneuvering and potentially deceptive tactics. He contrasts this with the universality and truth-seeking inherent in science, aligning free software with open knowledge and collaboration. This isn't to say free software has *no* political implications—everything that impacts society has—but that framing it *primarily* through a political lens within the existing system may be counterproductive.
+He argues that framing free software primarily as a political tool within the existing system risks entangling it in power struggles and ineffective "battles," potentially leading to co-option or strategic misdirection. Instead, he advocates for a shift towards a "scientific" approach, emphasizing open knowledge, collaboration, and the pursuit of universal truths. This isn't to say free software has *no* political implications—everything that impacts society does—but that focusing on its political nature alone may be insufficient for achieving broader societal change.
 
-His argument rests on the idea that true societal change requires addressing fundamental rights and freedoms. He emphasizes that rights like access to healthcare, education, and fair legal processes are not merely abstract concepts but are intrinsically linked to economic power. He argues that the "copyright predates publication" issue within free software is symptomatic of a larger problem: "finance predates wealth." Just as copyright can be manipulated by those with power, so can financial systems contribute to wealth concentration, as evidenced by rising Gini coefficients despite technological progress. This suggests that focusing solely on free software's political aspects risks treating a symptom rather than the disease.
+Roberto's argument rests on the idea that true progress requires addressing fundamental rights and freedoms. He emphasizes that rights like access to healthcare, education, and fair legal processes are not merely abstract concepts but are intrinsically linked to economic power. He argues that the "copyright predates publication" issue within free software is symptomatic of a larger problem: "finance predates wealth." Just as copyright can be manipulated by those with power, so can financial systems contribute to wealth concentration, as evidenced by rising Gini coefficients despite technological progress.
 
-Roberto's call for emancipation from the "political roots" of the free software movement isn't about abandoning the pursuit of a better society. It's about recognizing that free software, while a valuable tool, is insufficient on its own. He argues that a broader focus on universal rights and freedoms—the foundation upon which a just society is built—is essential. Only by addressing these root causes can we truly create a level playing field where tools like free software can reach their full potential for positive change.
+This suggests that focusing solely on free software's political aspects risks treating a symptom rather than the disease. Roberto's call for emancipation from the "political roots" of the free software movement isn't about abandoning the pursuit of a better society. It's about recognizing that free software, while a valuable tool, is insufficient on its own. He argues that a broader focus on universal rights and freedoms—the foundation upon which a just society is built—is essential. 
 
-He believes that this shift in focus will not only be more effective in achieving societal goals but also reduce internal divisions within the free software community, allowing for a more unified and impactful approach. By framing the discussion around universal rights, a broader coalition can be built, encompassing those who may not be primarily interested in software but are deeply concerned about social justice.
+Only by addressing these root causes can we truly create a level playing field where tools like free software can reach their full potential for positive change. He believes that this shift in focus will not only be more effective in achieving societal goals but also reduce internal divisions within the free software community, allowing for a more unified and impactful approach. By framing the discussion around universal rights, a broader coalition can be built, encompassing those who may not be primarily interested in software but are deeply concerned about social justice.
 
 +
 
