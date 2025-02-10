@@ -144,11 +144,11 @@ This index is divided in tre sections related to different topics.
 
 5. **Diritti digitali e separazione dei dati dai social** &nbsp;(2025-01-11)&nbsp; [[**`md`**](diritti-digitali-e-separazione-dei-dati-dai-social.md)] [[**`html`**](html/diritti-digitali-e-separazione-dei-dati-dai-social.html)] [[**`pdf:IT`**](pdf/diritti-digitali-e-separazione-dei-dati-dai-social-IT.pdf?target=_blank)] [[**`pdf:EN`**](pdf/diritti-digitali-e-separazione-dei-dati-dai-social-EN.pdf?target=_blank)]
 
-   - A network is a network and not a cloud storage service. Not just a matter of pedantic definition rather than consumer users' rights protection about the ownership and independent management of their data, for moving from a set of monopolies to a free market. How? It is explained.
+   - A network is a network and not a cloud storage service. Not just a matter of pedantic definition rather than consumer users' rights protection about the ownership and independent management of their data, for moving from a set of monopolies to a free market. How? It is explained. &nbsp; (2nd edt.)
 
 6. **Emancipate SW libre from its politica roots** &nbsp;(2025-02-07)&nbsp; [[**`md`**](emancipate-sw-libre-from-its-political-roots.md)] [[**`html`**](html/emancipate-sw-libre-from-its-political-roots.html)] [[**`pdf`**](pdf/emancipate-sw-libre-from-its-political-roots.pdf?target=_blank)]
 
-   - Software Libre is politics or like Open Source is science? The intrinsic nature of a tool does not change because people use it in a different way than it has been designed. Anyway, kick the politics out of our businesses seems a general good way to go. Civitas et humanitas, ante omnia!
+   - Software Libre is politics or like Open Source is science? The intrinsic nature of a tool does not change because people use it in a different way than it has been designed. Anyway, kick the politics out of our businesses seems a general good way to go. Civitas et humanitas, ante omnia! &nbsp; (2nd edt.)
 
 <br/>
 

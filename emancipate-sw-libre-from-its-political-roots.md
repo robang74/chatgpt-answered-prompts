@@ -1,8 +1,12 @@
 <div id="firstdiv" created="2025-02-07:EN" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
 
+<div align="center"><img class="bwsketch darkinv" src="img/arpanet-1989.png" width="800px"><br/></div>
+
 ## Emancipate SW libre from its politica roots
 
-* 1st edition published integrally in a HTML page on 9th February 2025.
+- 1st edition (rev. 14) published integrally in a HTML page on 9th February 2025.
+
+- 2nd edition (rev. 17) published on 2025-02-10 includes the summary by Gemini 2.
 
 ---
 
@@ -52,7 +56,7 @@ The vice versa would be: they - the politicians - go to work and we tax them. Mo
 
 [!INFO]
 
-If you are interested in this topic rather than its dissertation with AI agents, you can jump directly to the conclusive part, to the [first of three](emancipate-sw-libre-from-its-political-roots.md#chatgpt-summary?target=_blank) last sections and later, possibly, these [agreeable 33 questions](data/agreeable-33-questions.txt) for thinking about.
+If you are interested in this topic rather than its dissertation with AI agents, you can jump directly to the conclusive part, to the [first of four](emancipate-sw-libre-from-its-political-roots.md#chatgpt-summary?target=_blank) last sections before the [author's conclusion](#authors-conclusion) and later, possibly, these [agreeable 33 questions](data/agreeable-33-questions.txt) for thinking about.
 
 [/INFO]
 
@@ -110,7 +114,7 @@ The peer-review that I have conducted showed that the initial e-mail contains a 
 
 This allowed me to realise how far the work collected in "ChatGPT answered prompts" website went far. Including the need of providing the AI agent much more information to correctly set the context and connect the dots in a smoother and more continuous way by providing a finer grained set of dots in form of 33 questions on which it can agree or not.
 
-- [Agreeable 33 questions](data/agreeable-33-questions.txt) to submit as user input [USR] as per the peer-review prompt guidelines
+- [Agreeable 33 questions](data/agreeable-33-questions.txt?target=_blank) to submit as user input [USR] as per the peer-review prompt guidelines
 
 [!INFO]
 
@@ -524,6 +528,20 @@ By separating free software development from political activism, we can:
 The future of free software lies not in political battles but in scientific advancement. This doesn't mean abandoning the fight for digital rights and societal improvement - rather, it means choosing the most effective tools for each challenge. Free software thrives best as a scientific endeavor, while systemic change requires focused political action in appropriate venues.
 
 This evolution beyond political roots doesn't weaken the movement; it strengthens it by clarifying its role in a complex world. Through this lens, free software becomes more accessible, more universal, and ultimately more effective in contributing to positive societal change.
+
++
+
+## Emancipating Free Software<br><sup>Beyond Politics by Gemini 2.0</sup>
+
+Roberto's assertion, "sw libre IS political" WRONG, isn't a dismissal of free software's political *aspects*, but a call to transcend them. He argues that focusing on free software *as a primary political tool* is a strategic misstep, limiting its potential and obscuring deeper societal issues. His "WRONG" is about strategic direction, not factual denial.
+
+Roberto suggests a shift from a *political* to a *scientific* approach. He defines "political" in a Machiavellian sense, implying maneuvering and potentially deceptive tactics. He contrasts this with the universality and truth-seeking inherent in science, aligning free software with open knowledge and collaboration. This isn't to say free software has *no* political implications—everything that impacts society has—but that framing it *primarily* through a political lens within the existing system may be counterproductive.
+
+His argument rests on the idea that true societal change requires addressing fundamental rights and freedoms. He emphasizes that rights like access to healthcare, education, and fair legal processes are not merely abstract concepts but are intrinsically linked to economic power. He argues that the "copyright predates publication" issue within free software is symptomatic of a larger problem: "finance predates wealth." Just as copyright can be manipulated by those with power, so can financial systems contribute to wealth concentration, as evidenced by rising Gini coefficients despite technological progress. This suggests that focusing solely on free software's political aspects risks treating a symptom rather than the disease.
+
+Roberto's call for emancipation from the "political roots" of the free software movement isn't about abandoning the pursuit of a better society. It's about recognizing that free software, while a valuable tool, is insufficient on its own. He argues that a broader focus on universal rights and freedoms—the foundation upon which a just society is built—is essential. Only by addressing these root causes can we truly create a level playing field where tools like free software can reach their full potential for positive change.
+
+He believes that this shift in focus will not only be more effective in achieving societal goals but also reduce internal divisions within the free software community, allowing for a more unified and impactful approach. By framing the discussion around universal rights, a broader coalition can be built, encompassing those who may not be primarily interested in software but are deeply concerned about social justice.
 
 +
 
