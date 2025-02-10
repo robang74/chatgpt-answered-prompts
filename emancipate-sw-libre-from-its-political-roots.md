@@ -56,7 +56,7 @@ The vice versa would be: they - the politicians - go to work and we tax them. Mo
 
 [!INFO]
 
-If you are interested in this topic rather than its dissertation with AI agents, you can jump directly to the conclusive part, to the [first of four](emancipate-sw-libre-from-its-political-roots.md#chatgpt-summary?target=_blank) last sections before the [author's conclusion](#authors-conclusion) and later, possibly, these [agreeable 33 questions](data/agreeable-33-questions.txt) for thinking about.
+If you are interested in this topic rather than its dissertation with AI agents, you can jump directly to the conclusive part, to the [first of four](emancipate-sw-libre-from-its-political-roots.md#chatgpt-summary) last sections before the [author's conclusion](#authors-conclusion) and later, possibly, these [agreeable 33 questions](data/agreeable-33-questions.txt?target=_blank) for thinking about.
 
 [/INFO]
 
