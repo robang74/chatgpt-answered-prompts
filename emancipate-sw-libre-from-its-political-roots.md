@@ -60,13 +60,11 @@ If you are interested in this topic rather than its dissertation with AI agents,
 
 ## The peer-review session
 
-Along the time some effort has been invested in developing a better way of conducting a peer-review supported by an AI agent. An improvement that include also some kind of prompt engineering as reported here:
+Along the time some effort has been invested in developing a better way of conducting a peer-review supported by an AI agent. So, the first step is to customise the session by injecting this prompt and waiting for the 'OK' from the AI agent.
 
-- the "Prompt engineering for peer-reviewing with RAG support" part of the [Chatbots for fun, index](https://robang74.github.io/chatbots-for-fun/index.html#index).
+- [AI peer-review prompt with RAG v3.2](https://raw.githubusercontent.com/robang74/chatbots-for-fun/67361a51de830a7fa0edd69b4b2c47a684ded847/data/alex-peer-review-with-rag-v3.txt)
 
-So, the first step is to customise the session by injecting this prompt and waiting for the 'OK' from the AI agent.
-
-- [AI peer-review prompt with RAG](https://robang74.github.io/chatbots-for-fun/data/alex-peer-review-with-rag-v3.txt) v3.2 was used here.
+The version 3.2 was used for customising the peer-review processing chat section and the link above refers to its ASCII text versionated in github, which is a static content.
 
 Then, the second step is to provide the document to peer-review in a format that can be easily handled by the AI agent during its peer-review process. In this specific case applying some aesthetic changes to the text format like:
 
@@ -112,7 +110,7 @@ The peer-review that I have conducted showed that the initial e-mail contains a 
 
 This allowed me to realise how far the work collected in "ChatGPT answered prompts" website went far. Including the need of providing the AI agent much more information to correctly set the context and connect the dots in a smoother and more continuous way by providing a finer grained set of dots in form of 33 questions on which it can agree or not.
 
-- [agreeable 33 questions](data/agreeable-33-questions.txt) to submit as user input [USR] as per the peer-review prompt guidelines
+- [Agreeable 33 questions](data/agreeable-33-questions.txt) to submit as user input [USR] as per the peer-review prompt guidelines
 
 [!INFO]
 
@@ -138,7 +136,7 @@ After having provided the AI agent some contextual information about how to inte
 
 > With all these [USR], provide a rating about the following claim
 > 
-> --> "sw libre IS political" WRONG!
+> --> **"sw libre IS political" WRONG!**
 > 
 > which is the main Roberto statement.
 > 
@@ -170,7 +168,7 @@ However for the sake of completeness, in the following also some relevant output
 
 Not all the humans are made the same and this fits to the AI agents, as well.
 
----
++
 
 ### ChatGPT 4.o, the pleasent one
 
@@ -186,7 +184,7 @@ However, these are the two documents provided by ChatGPT and also the dialog is 
 
 The original HTML file had to be modified with `sed -e "s,\\\n,&lt;BR&gt;,g" -i chat.html` command line because the two files provided by the AI agent were presented with textual `\n` instead `&lt;BR&gt;` encoded. A format change necessary for human reading.
 
----
++
 
 ### Gemini 2.0, the stubborn one
 
@@ -238,7 +236,7 @@ In short, your reflexive comment is a valuable reminder that AI is a tool, and l
 
 Yes indeed, something like Gemini 2 totally agrees.
 
----
++
 
 ### Mistral AI get confused, as well
 
@@ -292,7 +290,7 @@ In the following ignore the numbers here which are purely indicatives and have n
 And with these we can conclude that Mistral AI won the prize of the most misunderstandings. Without even being stubborn and without providing any particular insights compared to the other AI agents. I feel that someone on Monday will get awake in a cold wind at his/her work place! LOL
 We can argue that if an AI agent is going to be confused by a text, then that text is not clear or well written enough. Correct, in this specific case. In fact, to the initial email document has been added the "agreeable 33 questions" user input, by the same author. Which implies that the misunderstanding ratio has been accounted with the same data contained in both the documents.
 
----
++
 
 ### Claude 3.5 outstand others
 
@@ -319,7 +317,7 @@ In being short and straightforward to the point, Claude masters the topic. Which
 +
 
 <span id="chatgpt-summary"></span>
-## Emancipating FLOSS from its political roots<br><sup>A path toward societal advancement</sup>
+## Emancipating FLOSS from its political roots<br><sup>A path toward societal advancement by ChatGPT 4.o</sup>
 
 Provided as "executive summary" as per peer-review prompt guidelines by ChatGPT 4.o
 
@@ -358,7 +356,7 @@ By emancipating FLOSS from its political roots and embracing a science-driven fr
 +
 
 <span id="chatgpt-review"></span>
-## Peer Review on Free Software and Politics
+## Peer Review on Free Software and Politics<br><sup>provided by ChatGPT 4.o</sup>
 
 Provided as final "peer-review" as per peer-review prompt guidelines by ChatGPT 4.o
 
@@ -469,7 +467,7 @@ Roberto’s email presents a compelling critique of the claim that “free softw
 +
 
 <span id="claude-summary"></span>
-## Beyond Politics
+## Beyond Politics<br><sup>provided by Claude 3.5</sup>
 
 Provided as "executive summary" as per peer-review prompt guidelines by Claude 3.5
 
@@ -529,7 +527,7 @@ This evolution beyond political roots doesn't weaken the movement; it strengthen
 
 +
 
-## Author's conclusion
+## Author's conclusion<br><sup>written by Roberto</sup>
 
 I must admit that some of my claims have a provocative aim and from the beginning, I presented my idea with a polarized black-and-white cut. Which is a product of our times in which we reach the point to oversimplify everything in just two options, usually to sustain the silly idea that we have to go "all in" with one of them.
 
