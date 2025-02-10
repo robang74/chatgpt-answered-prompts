@@ -179,7 +179,7 @@ Però non può ne commentare e neppure prendere in considerazione una notizia ch
 
 * [Le mie gioie, di dicembre](data/le-mie-gioie-di-dicembre.txt?target=_blank) - Testo ASCII del post su Facebook
 
-* [Methane reduction in livestock breeding](data/methane-reduction-in-livestock-breeding.png?target=_blank) - Composizione degli creenshot relativi ad un thread su LinkedIn
+* [Methane reduction in livestock breeding](data/methane-reduction-in-livestock-breeding.png?target=_blank) - Composizione degli screenshot relativi ad un thread su LinkedIn
 
 <br/>
 <br/>
