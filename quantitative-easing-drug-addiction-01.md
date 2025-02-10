@@ -1,6 +1,6 @@
 <div id="firstdiv" created=":EN" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
 
-## Quantitative Easing (QE) is like drug addiction
+## Quantitative Easing is like drug addiction
 
 The quantitative easing monetary policy has been an extended and ciclical way of anesthetize a bad system that otherwise should have faced its own need to change itself for the better. This way of doing has been among us for decades and considering the dot-com bubble as a early precursor sign of the consequences, we might relate to this policy back in time for 30 years and even more. Unsurprinsingly, this policy started to be adopted in USA where giving Fentanyl to people instead of curing them gone so far that it grown up as a geopolitical issue.
 
