@@ -74,13 +74,13 @@ Consider that role that plays increasing the primary monetary mass (QE monetary 
 
 - [Subprime mortgage crisis](https://en.wikipedia.org/w/index.php?title=Subprime_mortgage_crisis&oldid=1242979597) by Wikipedia (that time version link)
 
-- [The rising burden of U.S. government debt](https://econofact.org/the-rising-burden-of-u-s-government-debt) by EconoFact saved in [PDF](../data/the-rising-burden-of-us-government-debt-econofact.pdf?target=_blank) document.
+- [The rising burden of U.S. government debt](https://econofact.org/the-rising-burden-of-u-s-government-debt) by EconoFact saved in [PDF](data/the-rising-burden-of-us-government-debt-econofact.pdf?target=_blank) document.
 
-- [Price of gold 880px image graph](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Price_of_gold.webp/880px-Price_of_gold.webp.png) by Wikimedia saved in [PNG](../data/price-of-gold-880px-graph.png?target=_blank) image.
+- [Price of gold 880px image graph](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Price_of_gold.webp/880px-Price_of_gold.webp.png) by Wikimedia saved in [PNG](data/price-of-gold-880px-graph.png?target=_blank) image.
 
 Rate the following linkedin article about paper money as a form of novel communism driven by financial surplus.
 
-- [278-The_paper_money_is_financial_communism.txt](../data/278-The_paper_money_is_financial_communism.txt?target=_blank) <sup>(`1`)</sup>
+- [278-The_paper_money_is_financial_communism.txt](data/278-The_paper_money_is_financial_communism.txt?target=_blank) <sup>(`1`)</sup>
   
 Rate it on a scale from 0 (pure fiction) to 10 (established facts) and provide just the rating.
 
