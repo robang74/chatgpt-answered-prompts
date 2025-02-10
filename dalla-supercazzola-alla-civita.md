@@ -179,7 +179,7 @@ Questa conclusione non pretende di essere universale e riconosce la necessità d
 
 In questo contesto aggiungiamo questo [meme] e questo testo. Pensi che ora gli aspetti negativi siano stati superati?
 
-<div align="center"><img class="wbsketch paleinv" src="data/warp-speed-jump.jpg"></br></div>
+<div align="center"><img class="wbsketch paleinv" src="img/warp-speed-jump.jpg"></br></div>
 
 Sun Tzu ne **L'Arte della Guerra** è scritto che lo scopo della guerra non è vincere, ma creare le condizioni per una pace duratura e, all'inizio di quel saggio, scrisse anche che “*L'arte suprema della guerra è sottomettere il nemico senza combattere*”, affermando chiaramente che non è con la violenza che si può ottenere il meglio. La citazione di Joseph Joubert riporta un concetto quasi identico: “Lo scopo dell'argomentazione non deve essere la vittoria, ma il progresso”.
 
