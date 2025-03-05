@@ -40,11 +40,11 @@ note_A=$(echo "$note_A" | sed -e "s,\,,\\\,g" -e "s,\&,\\\&,g")
 info_A='<div class="post-it"><b class="post-it">\&#9432;</b>'
 info_B='</div>'
 
-code_A='<div class="codeblock">'
-code_B='</div>'
+#code_A='<div class="codeblock">'
+#code_B='</div>'
 
-code_A='<blockquote class="code"><code><tt>'
-code_B='</tt></code></blockquote>'
+code_A='<blockquote class="code"><code>'
+code_B='</code></blockquote>'
 
 cite_A='<blockquote class="cite">'
 cite_B='</blockquote>'
@@ -88,13 +88,64 @@ function title_tags_add() {
     done
 }
 
+function boldconv() {
+    local str
+    sed -i $1 -e "s,b\*tch,b\&ast;tch,g " -e "s,c\*zzo,c\&ast;zzo,g" \
+        -e "s,c\*glion,c\&ast;oglion,g" -e "s,m\*rda,m\&ast;rda,g" \
+        -e "s,sh\*t,sh\&ast;t,g"  -e "s,\([fd]\)\*ck,\\1\&ast;ck,g"
+    while true; do
+        str=$(sed -ne 's,\*\*,<b>,' -e 's,\*\*,</b>,p' $1);
+        if [ -n "$str" ]; then
+            sed -e 's,\*\*,<b>,' -e 's,\*\*,</b>,' -i $1
+        else
+            break
+        fi
+    done
+}
+
+function italconv() {
+    local str
+    while true; do
+        str=$(sed -ne 's,\*,<i>,' -e 's,\*,</i>,p' $1);
+        if [ -n "$str" ]; then
+            sed -e 's,\*,<i>,' -e 's,\*,</i>,' -i $1
+        else
+            break
+        fi
+    done
+}
+
+function undlconv() {
+    local str
+    while true; do
+        str=$(sed -ne 's,__,<u>,' -e 's,__,</u>,p' $1);
+        if [ -n "$str" ]; then
+            sed -e 's,__,<u>,' -e 's,__,</u>,' -i $1
+        else
+            break
+        fi
+    done
+}
+
+function mnspconv() {
+    local str
+    while true; do
+        str=$(sed -ne 's,`,<tt>,' -e 's,`,</tt>,p' $1);
+        if [ -n "$str" ]; then
+            sed -e 's,`,<tt>,' -e 's,`,</tt>,' -i $1
+        else
+            break
+        fi
+    done
+}
+
 function md2htmlfunc() {
     local a b c i str=$(basename ${2%.html}) dir="" title txt cmd
     test "$str" == "index" && dir="html/"
     title=${str/index/${PWD##*/}};
     #title=${str//-/ };
 
-    grep -ve "^<style>" $1 | { if [ "$str" = "index" ]; then
+    grep -ve "^<style.*>" $1 | { if [ "$str" = "index" ]; then
         sed -e "s, - (\[...raw...\]([^)]*\.md)) , - ,"; else
         cat - ; fi ; } | full_mdlinkconv >$2
 
@@ -124,17 +175,15 @@ function md2htmlfunc() {
 -e "s,{:-J},${emoji_a}smirk.png'>,g" -e "s,{boo},${emoji_a}ghost.png'>,g"
 
     sed -i $2 -e "s,^>$,> ," -e "s,@,\&commat;,g" \
--e 's,\\\*,\&ast;,g' -e 's,(\*),(\&ast;),g' -e 's,\[\*\],[\&ast;],g' \
+-e 's,\(>\)\{0\,1\} -- ,\1 \&mdash; ,g' -e 's,\\\*,\&ast;,g' \
 -e 's,\([^!/]\)-->,\1\&rarr;,g' -e 's,<--,\&larr;,g' \
--e 's,\(>\)\{0\,1\} -- ,\1 \&mdash; ,g' \
+-e 's,(\*),(\&ast;),g' -e 's,\[\*\],[\&ast;],g' \
+-e "s,>  *\[\!INFO\],> $note_A," \
 -e "s,>  *\[\!WARN\],> $warn_A," -e "s,>  *\[\!WARNING\],> $warn_A," \
 -e "s,>  *\[\!NOTE\],> $note_A," -e "s,>  *\[\!NOTICE\],> $note_A," \
--e "s,>  *\[\!INFO\],> $note_A," \
 -e "s,^\[\!CITE\],$cite_A," -e "s,^\[/CITE\],$cite_B," \
 -e "s,^\[\!INFO\],$info_A," -e "s,^\[/INFO\],$info_B," \
 -e "s,^\[\!CODE\],$code_A," -e "s,^\[/CODE\],$code_B," \
--e "s,m\*rda,m\&ast;rda,g" -e "s,sh\*t,sh\&ast;t,g" \
--e "s,c\*zzo,c\&ast;zzo,g" -e "s,\([fd]\)\*ck,\\1\&ast;ck,g" \
 -e 's,^ *!\[\([^]]*\)\](\([^)]*\)) *$,<center><img src="\2"><br>\1</center>,' \
 -e 's,!\[\([^]]*\)\](\([^)]*\)),<img src="\2" alt="\1">,g' \
 -e 's,^# \([^<]*\)\(.*\),<H1 id="\1">\1\2</H1>,' \
@@ -150,6 +199,7 @@ function md2htmlfunc() {
 -e "s,\\\<\(.*\)\\\>,\&lt;\\1\&gt;,g" \
 -e 's,^+\{6\,\} *$,<div class="pagebreak"><br></div>,' \
 -e 's,^+\{5\} *$,<br class="pagebreak">,' \
+-e 's,^\.\{5\,\} *$,<hr class="post-it pagebreak">,' \
 -e 's,^+\{4\} *$,<div class="pagebreak"></div>,' \
 -e 's,^\=\{5\,\} *$,<div class="ghosted"><br><hr><br></div>,' \
 -e 's,^\=\{4\} *$,<div class="pagebreak"><br><hr><br></div>,' \
@@ -160,8 +210,8 @@ function md2htmlfunc() {
 -e 's,^\.\{3\} *$,<hr class="post-it">,' \
 -e "s,^\=\{3\} *$,<br><hr><br>," \
 -e "s,^\-\{3\} *$,<hr>," \
--e 's,^\+\{3\} *$,<hr class="hidden post-it">,' \
--e "s,^++ *$,<p><br></p>," -e "s,^+ *$,<br>," \
+-e 's,^\+\{3\} *$,<hr class="pagebreak">,' \
+-e 's,^++ *$,<p class="printline"><br></p>,' -e "s,^+ *$,<br>," \
 -e "s,^>>>| *$,<div class='indent'>," -e "s,^|<<< *$,</div>," \
 -e "s,^|x|> *$,<div class='center'>," -e "s,^<|x| *$,</div>," \
 -e "s,^ *$,$p_line,"
@@ -170,38 +220,7 @@ function md2htmlfunc() {
 
     tf=$2.tmp
     cat $2 | tr '\n' '@' | sed -e "s,$p_line,<p class='topbar'></p>," >$tf
-    while true; do
-        str=$(sed -ne 's,__,<u>,' -e 's,__,</u>,p' $tf);
-        if [ -n "$str" ]; then
-            sed -e 's,__,<u>,' -e 's,__,</u>,' -i $tf
-        else
-            break
-        fi
-    done
-    while true; do
-        str=$(sed -ne 's,\*\*,<b>,' -e 's,\*\*,</b>,p' $tf);
-        if [ -n "$str" ]; then
-            sed -e 's,\*\*,<b>,' -e 's,\*\*,</b>,' -i $tf
-        else
-            break
-        fi
-    done
-    while true; do
-        str=$(sed -ne 's,\*,<i>,' -e 's,\*,</i>,p' $tf);
-        if [ -n "$str" ]; then
-            sed -e 's,\*,<i>,' -e 's,\*,</i>,' -i $tf
-        else
-            break
-        fi
-    done
-    while true; do
-        str=$(sed -ne 's,`,<tt>,' -e 's,`,</tt>,p' $tf);
-        if [ -n "$str" ]; then
-            sed -e 's,`,<tt>,' -e 's,`,</tt>,' -i $tf
-        else
-            break
-        fi
-    done
+
     sed -e 's,</blockquote>\(@*\)<blockquote>,<br>,g' \
         -e 's,<blockquote>\(@*\)</blockquote>,<br>,g' -i $tf
 
@@ -209,7 +228,7 @@ function md2htmlfunc() {
     declare -i n=$(grep -n "BODY_CONTENT" $txt | cut -d: -f1)
     txt=$(head -n$[n-1] $txt)
     eval "echo \"$txt\" >$2"
-    grep -e "^<style>" $1 >>$2
+    grep -e "^<style.*>" $1 >>$2
     source tools/ptopbar.sh $1 >>$2
 
     cat $tf | tr '@' '\n' >>$2; rm  $tf
@@ -217,12 +236,13 @@ function md2htmlfunc() {
     TOPLINK=$(get_html_item_str html/items/toplink.htm)
     get_html_item_str html/items/footnote.htm >> $2
 
-    echo "<br>
+    echo "<br class='pagebreak'>
     </body>
 </html>" >> $2
 
     sed -e 's,^\&copy; 202[4-9].*Roberto A. Foglietta.*\&lt;.*,<p>&</p>,' \
         -e "s/<a [^>]*href=.http[^>]*/& ${TARGET_BLANK}/g" -i $2
+    mnspconv $2
     for i in 3 2 1; do
         let b=i*3 a=b-2 c=i+1; a=${a/1/2}; #echo "$i $a $b $c" >&2
         sed -i $2 \
@@ -307,25 +327,29 @@ function main_md2html() {
 
     printf "$a"
     # replacing $1 markdown links
-    if [ "${PWD##*/}" == "chatgpt-answered-prompts" ]; then
-        index=0
-    fi
     for i in $(ls -1 *.md italian/*.md 2>/dev/null); do
         i=${i%.md}
         test "$i" == "template" && continue
         for j in $list; do
             link_md2html $i $j
         done
-        if [ $index -ne 0 ]; then
-            link_md2html $i index.html
+        if [ "${PWD##*/}" != "chatgpt-answered-prompts" ]; then
+            if [ $index -ne 0 ]; then
+                link_md2html $i index.html
+            fi
         fi
     done
     printf "$b" #3
 
     printf "$a"
     #echo "list: $list" >&2
-    test -n "$list" && \
-        source tools/tabl2html.sh $list 2>/dev/null >&2
+    test $index -ne 0 && list+=" index.html"
+    for f in $list; do
+        boldconv "$f"
+        italconv "$f"
+        source tools/tabl2html.sh "$f" >/dev/null 2>&1
+        undlconv "$f"
+    done
     printf "$b" #4
 }
 
