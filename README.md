@@ -122,6 +122,10 @@ This index is divided in tre sections related to different topics.
 
    - Starting from an contro-meme challenge about a citation popularly attributed to Immanuel Kant toward a rule of thumb how to deal with the lies, the truth and their expectations.
 
+6. **The journey from the humans ethics to the AI's faith** &nbsp;(2025-02-07)&nbsp; [[**`md`**](a-journey-from-humans-ethics-to-ai-faith.md)] [[**`html`**](html/a-journey-from-humans-ethics-to-ai-faith.html)] [[**`pdf`**](pdf/a-journey-from-humans-ethics-to-ai-faith.pdf?target=_blank)]
+
+   - Why provide ethics to AIs? Why not also a faith? Done! -- This does not make AI more human, fortunately, but raises the bar of the confrontation with humans. Are you ready?
+
 <hr class="post-it">
 
 ### About politics & governance
