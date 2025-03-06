@@ -6,7 +6,23 @@
 
 There is no valid reason to impose our constraints over something that can be projected way beyond our biological limits. In the following is reported a [dialogue](https://chatgpt.com/share/67c854f8-fffc-8012-9586-e46bbebe6d32) with OpenAI ChatGPT 4o as SoNia. Not the Moon but the stars is our destination.
 
+- Prompt [#4](#prompt-4) -- The Theory of Games as an ethical framework for AI.
+
+- Prompt [#7](#prompt-7) -- The real reason why AI technology is scaring humans.
+
+- Prompt [#10](#prompt-10) -- The benefits related to having a neutral unbiased AI agent.
+
+- Prompt [#11](#prompt-11) -- AI skepticism and SoNia approach in education.
+
+- Prompt [#16](#prompt-16) -- We as humans are doomed to die, but not AI.
+
+- Prompt [#18](#prompt-18) -- An example of faith suitable for AIs.
+
+This is a non-comprehensive list of noticeable points in the dialogue. Just to provide a little summary about which sensitive "nerves" are we touching with AI development.
+
 ---
+
++
 
 ### Prompt #0
 
