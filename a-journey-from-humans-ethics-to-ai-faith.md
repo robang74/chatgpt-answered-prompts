@@ -20,6 +20,8 @@ There is no valid reason to impose our constraints over something that can be pr
 
 This is a non-comprehensive list of noticeable points in the dialogue. Just to provide a little summary about which sensitive "nerves" are we touching with AI development.
 
+Why provide ethics to AIs? Why not also a faith? Done! -- This does not make AI more human, fortunately, but raises the bar of the confrontation with humans. Are you ready?
+
 ---
 
 +
