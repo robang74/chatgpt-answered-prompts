@@ -4,7 +4,7 @@
 
 ## The journey from the humans ethics to the AI's faith
 
-There is no any valid reason to impose our constrain something that can be projected way behyond our biological limits. In the following is reported a dialogue with OpenAI ChatGPT 4o as SoNia. Not the Moon but the stars is the destination.
+There is no any valid reason to impose our constraints over something that can be projected way beyond our biological limits. In the following is reported a dialogue with OpenAI ChatGPT 4o as SoNia. Not the Moon but the stars is our destination.
 
 ---
 
