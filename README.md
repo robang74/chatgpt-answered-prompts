@@ -114,15 +114,11 @@ This index is divided in tre sections related to different topics.
 
    - The imprinting phenomena has been discovered in animals, in the first place. However, the mass education system created after the Industrial Revolution does the same.
 
-4. **Dalla supercazzola alla civiltà** &nbsp;(2024-12-17)&nbsp; [[**`md`**](dalla-supercazzola-alla-civita.md)] [[**`html`**](html/dalla-supercazzola-alla-civita.html)] [[**`pdf`**](pdf/dalla-supercazzola-alla-civita.pdf?target=_blank)]
-
-   - A great idea without a good implementation is useless. Hence, this article presents a viable implementation path that has already proven to work in the real world.
-
-5. **Se la verità li uccide, lasciate che muoiano** &nbsp;(2024-12-20)&nbsp; [[**`md`**](se-la-verita-li-uccide-lasciate-che-muoiano.md)] [[**`html`**](html/se-la-verita-li-uccide-lasciate-che-muoiano.html)] [[**`pdf`**](pdf/se-la-verita-li-uccide-lasciate-che-muoiano.pdf?target=_blank)]
+4. **Se la verità li uccide, lasciate che muoiano** &nbsp;(2024-12-20)&nbsp; [[**`md`**](se-la-verita-li-uccide-lasciate-che-muoiano.md)] [[**`html`**](html/se-la-verita-li-uccide-lasciate-che-muoiano.html)] [[**`pdf`**](pdf/se-la-verita-li-uccide-lasciate-che-muoiano.pdf?target=_blank)]
 
    - Starting from an contro-meme challenge about a citation popularly attributed to Immanuel Kant toward a rule of thumb how to deal with the lies, the truth and their expectations.
 
-6. **The journey from the humans ethics to the AI's faith** &nbsp;(2025-02-07)&nbsp; [[**`md`**](a-journey-from-humans-ethics-to-ai-faith.md)] [[**`html`**](html/a-journey-from-humans-ethics-to-ai-faith.html)] [[**`pdf`**](pdf/a-journey-from-humans-ethics-to-ai-faith.pdf?target=_blank)]
+5. **The journey from the humans ethics to the AI's faith** &nbsp;(2025-02-07)&nbsp; [[**`md`**](a-journey-from-humans-ethics-to-ai-faith.md)] [[**`html`**](html/a-journey-from-humans-ethics-to-ai-faith.html)] [[**`pdf`**](pdf/a-journey-from-humans-ethics-to-ai-faith.pdf?target=_blank)]
 
    - Why provide ethics to AIs? Why not also a faith? Done! -- This does not make AI more human, fortunately, but raises the bar of the confrontation with humans. Are you ready?
 
