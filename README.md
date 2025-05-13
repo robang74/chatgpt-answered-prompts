@@ -104,7 +104,7 @@ This index is divided in tre sections related to different topics.
 
 1. **Propaganda e sistema educativo** &nbsp;(2024-11-20)&nbsp; [[**`md`**](propaganda-e-sistema-educativo.md)] [[**`html`**](html/propaganda-e-sistema-educativo.html)] [[**`pdf`**](pdf/propaganda-e-sistema-educativo.pdf?target=_blank)]
 
-   - Why are common people so easy to trick into propaganda narrative? This article is going to propose an analytic answer to this question.
+   - Why are common people so easy to trick into propaganda narrative? This article is going to propose an analytic answer to this question. &nbsp; (**2nd edt.**)
 
 2. **Artificial Intelligence for education** &nbsp;(2024-11-29)&nbsp; [[**`md`**](artificial-intellige-for-education.md)] [[**`html`**](html/artificial-intellige-for-education.html)] [[**`pdf`**](pdf/artificial-intellige-for-education.pdf?target=_blank)]
 
@@ -144,11 +144,11 @@ This index is divided in tre sections related to different topics.
 
 5. **Diritti digitali e separazione dei dati dai social** &nbsp;(2025-01-11)&nbsp; [[**`md`**](diritti-digitali-e-separazione-dei-dati-dai-social.md)] [[**`html`**](html/diritti-digitali-e-separazione-dei-dati-dai-social.html)] [[**`pdf:IT`**](pdf/diritti-digitali-e-separazione-dei-dati-dai-social-IT.pdf?target=_blank)] [[**`pdf:EN`**](pdf/diritti-digitali-e-separazione-dei-dati-dai-social-EN.pdf?target=_blank)]
 
-   - A network is a network and not a cloud storage service. Not just a matter of pedantic definition rather than consumer users' rights protection about the ownership and independent management of their data, for moving from a set of monopolies to a free market. How? It is explained. &nbsp; (2nd edt.)
+   - A network is a network and not a cloud storage service. Not just a matter of pedantic definition rather than consumer users' rights protection about the ownership and independent management of their data, for moving from a set of monopolies to a free market. How? It is explained. &nbsp; (**2nd edt.**)
 
 6. **Emancipate SW libre from its politica roots** &nbsp;(2025-02-07)&nbsp; [[**`md`**](emancipate-sw-libre-from-its-political-roots.md)] [[**`html`**](html/emancipate-sw-libre-from-its-political-roots.html)] [[**`pdf`**](pdf/emancipate-sw-libre-from-its-political-roots.pdf?target=_blank)]
 
-   - Software Libre is politics or like Open Source is science? The intrinsic nature of a tool does not change because people use it in a different way than it has been designed. Anyway, kick the politics out of our businesses seems a general good way to go. Civitas et humanitas, ante omnia! &nbsp; (2nd edt.)
+   - Software Libre is politics or like Open Source is science? The intrinsic nature of a tool does not change because people use it in a different way than it has been designed. Anyway, kick the politics out of our businesses seems a general good way to go. Civitas et humanitas, ante omnia! &nbsp; (**2nd edt.**)
 
 <br/>
 
