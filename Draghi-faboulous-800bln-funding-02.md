@@ -4,9 +4,11 @@
 
 * Post [published](https://www.linkedin.com/posts/robertofoglietta_i-favolosi-800-miliardi-di-draghi-penso-activity-7239923791705833472-7-Nl) on LinkedIn, 12th September 2024.
 
+...
+
 I think the time has come to reveal where the fabulous 800 billions EU support plan would like to be invested in innovation comes from.
 
-#### 1. Sabotage of Nord Stream I & II
+### 1. Sabotage of Nord Stream I & II
 
 * a. - **Biden as principal** - see the joint interview immediately after the bilateral meeting with Olaf Scholtz in Berlin in which Biden, as president of the USA, said that if Russia invaded Ukraine those pipelines would cease to exist;
 
@@ -16,11 +18,11 @@ I think the time has come to reveal where the fabulous 800 billions EU support p
 
 * d. - **human resources** to the Ukrainians, this is now well established, albeit with overtones that verge on the ridiculous like four drunk men on a boat who, bored, blow up a transnational submarine pipeline in the depths of the Baltic Sea.
 
-#### 2. War damages and sanctions losses
+### 2. War damages and sanctions losses
 
 * War damages and related sanctions losses. For the sake of completeness, also indirect ones. In this regard, Angela Merkel's revelations to BILD in September 2022, regarding the Americans' bad faith in signing the Minsk agreements, are already enough to nail the Americans, but for good measure let's also add the bill passed by the US Congress that legalised the financing and military training of neo-Nazi paramilitary groups in Ukraine, which until then were activities only carried out by covert CIA operations.
 
-#### 3. Covid-19 frauds compensations
+### 3. Covid-19 frauds compensations
 
 * Compensations due to the lobbying activities in connection with the Covid-19 pandemic, a series of practices that easily constitute a criminal offence in Europe, which have mainly, if not exclusively, favoured American pharmaceutical companies thanks to supplies without tenders and elegantly seasoned with partially confidential contracts, which alone, in normal times, would be enough to verge on fraud and for which Ursula von der Leyen has already been convicted but not yet punished because she was re-elected. Like Ilaria Salis, just for comparison.
 
@@ -36,9 +38,9 @@ Should we switch to electric cars in 2035 for which there is no adequate chargin
 
 Would you accept 800 Monopoly's dollars to have your legs broken?
 
-<br/>
+...
 
-<hr class="post-it">
++
 
 ## Q&A DIALOG
 
@@ -54,6 +56,12 @@ some links to public web pages have been provided since the first prompt and lat
 
 none
 
+### LINKS
+
+- S1: [Nord Stream Sabotage Ratings](https://chatgpt.com/share/68af2ce1-6ec4-8012-9c7c-dc65e7c40b73)
+
+- S2: [Nord Stream Sabotage Ratings](https://chatgpt.com/share/68af2d2f-4cc0-8012-ab91-d2446ea468e0)
+
 ### TRANSLATION
 
 Some parts of this document (tag: 2024-10-09) were originally written in Italian. The English translation of those parts have been made by an Italia native speaker fluently in English, who has been supported by the automatic translator [deepl.com](https://www.deepl.com/) in free-of-charge version to fasten the translation.
@@ -66,9 +74,9 @@ If you wish to send a translation in any other language, it is necessary that yo
 
 This document is entirely published under *Creative Commons Attribution Non-Commercial No-Derivatives 4.0 International* license terms ([CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)) included the part above this statement. Moreover, if a version of this document exists or has existed under different licence terms, the licence terms of the latest version available on `github/robang74` [repository](https://github.com/robang74/chatgpt-answered-prompts/) apply. Even when the new licence terms are more restrictive, because permissions for any free content may be revoked at any time at the will of the author, and updating a licence to be more restrictive explicitly implies this will.
 
-<hr class="post-it">
+...
 
-<br/>
++
 
 ### Prompt #1
 
