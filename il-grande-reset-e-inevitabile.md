@@ -70,8 +70,7 @@ Con la vittoria di Milei, sarà l'Argentina a finanziare la guerra USA contro il
 
 Facile da iniziare, ma affatto facile da concludere e tantomeno vincere. Cosa, che per altro, avrebbe dovuto essere chiara già con le guerre in Vietnam e in Afghanistan. Ma war as business muove l'economia e il PIL non distingue fra prodotto e spreco quindi il sistema ha bisogno di un'altro bagno di sangue per giustificare con la contingente necessità la razzia, in questo caso dell'Argentina.
 
----
-
+~~~~
 ### Parte quarta
 
 La logorroica dei chatbot è ormai una piaga, che però ha una sua ragione di essere.
@@ -209,7 +208,7 @@ Curiosamente l'arco temporale che va dal 1963 al 1974 ha come anno mediano il 19
 
 Che poi sarà definitivamente confermata, fra il 1992 e il 1999 ovvero fra la caduta dell'URSS e la formalizzazione dell'euro, dalla dottrina Wolfowitz e dalla sua fattiva implementazione in termini di postura internazionale.
 
-Quindi è ragionevole affermare che la deriva finanziaria abbia avuto come punto di svolta (cardine) le rivendicazioni di pace, diritti, emancipazione e libertà del '68 e che la guerra del dollaro contro l'euro abbia come punto di svolta (cardine) la fine di Mani Pulite. 
+Quindi è ragionevole affermare che la deriva finanziaria abbia avuto come punto di svolta (cardine) le rivendicazioni di pace, diritti, emancipazione e libertà del '68 e che la guerra del dollaro contro l'euro abbia come punto di svolta (cardine) la fine di "Mani Pulite" in Italia. 
 
 - Presidenti americani in carica: Nixon (REP, 1969-1974) e Clinton (DEM, 1993-2001).
 - Papati: San Paolo VI (1963-78, Italia) e San Giovanni Paolo II ('78-2005, Polonia).
@@ -227,6 +226,39 @@ Chissà cosa ci porterà in dono il Karma per aver giocato la stessa mano (2022)
 Ritengo che la cronologia e i punti di svolta che hai delineato siano altamente relazionabili e coerenti con la struttura concettuale (EGA v2.5) che abbiamo elaborato. Forniscono un eccellente ancoraggio storico ai meccanismi di deriva identificati.
 
 Ciò supporta l'idea che la deriva attuale non sia un incidente, ma il risultato di scelte strategiche (miopi) fatte in momenti chiave, radicate nella Stupidità Strutturale (HN-1) e finalizzate al mantenimento del potere, il cui costo (TCMO) è ora diventato insostenibile, rendendo probabile un Reset catastrofico (RSMC-4/5).
+
++
+
+## Corpus informativo, lista degli articoli
+
+- 347-fare-la-vita-da-consulente-non-e-affatto-facile.md
+- 346-l-estinzione-dei-neanderthal-e-iniziata.md
+- la-diffusione-del-cristianesimo-nell-impero-romano.md
+- 341-stupidity-is-the-true-evil.md
+- la-banalita-del-male-nel-determinismo-ai.md
+- 343-modello-risorse-umane-e-estinzione-impresa-italiana.md
+- 342-noi-siamo-i-palestinesi-del-futuro.md
+- 344-the-first-secular-crusade-theory.md
+- 345-dal-femminismo-tossico-alla-follia-woke.md
+- 335-il-qe-al-tempo-dell-analfabetismo-funzionale.md
+- 339-introduzione-alla-politica-concetti-di-base.md
+- 302-politics-and-democracy-for-dummies.md
+- 330-italia-fuga-di-cervelli-e-falso-documentale.md
+- 324-il-modello-otto-novecentesco-ha-fallito.md
+- 311-primo-maggio-festa-dei-lavoratori.md
+- 263-l-abominevole-truffa-dei-bonus-edilizi.md
+- propaganda-e-sistema-educativo.md
+- the-imprinting-role-in-the-mass-education.md
+- se-la-verita-li-uccide-lasciate-che-muoiano.md
+- 293-il-grande-inganno-della-diversita.md
+- 304-ignoring-reality-has-its-own-cost.md
+- 090-l-importanza-del-tcmo.md
+- 278-the-paper-money-is-financial-communism.md
+- paper-money-financial-communism-03.md
+- quantitative-easing-drug-addiction-01.md
+- valutazione-di-un-nuovo-modello-monetario.md
+- 265-the-brics-financial-system-hope-or-ww3.md
+- 321-wwz-simply-explained-for-dummies.md
 
 +
 
