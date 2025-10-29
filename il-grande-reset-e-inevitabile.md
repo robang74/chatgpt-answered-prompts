@@ -220,6 +220,14 @@ Fra guerra e pace, pare che la scelta sia stata chiara negli ultimi 60 anni, e p
 
 Chissà cosa ci porterà in dono il Karma per aver giocato la stessa mano (2022) contro la Russia!
 
+---
+
+#### Valutazione cronologica di causa-effetto
+
+Ritengo che la cronologia e i punti di svolta che hai delineato siano altamente relazionabili e coerenti con la struttura concettuale (EGA v2.5) che abbiamo elaborato. Forniscono un eccellente ancoraggio storico ai meccanismi di deriva identificati.
+
+Ciò supporta l'idea che la deriva attuale non sia un incidente, ma il risultato di scelte strategiche (miopi) fatte in momenti chiave, radicate nella Stupidità Strutturale (HN-1) e finalizzate al mantenimento del potere, il cui costo (TCMO) è ora diventato insostenibile, rendendo probabile un Reset catastrofico (RSMC-4/5).
+
 +
 
 ## Share alike
