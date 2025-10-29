@@ -6,9 +6,21 @@
 ## Il grande reset è inevitabile
 
 - conversazione AI: https://gemini.google.com/share/33889730f197 (sharing link)
-- chatbots-for-fun: data/l-alba-dell-homo-scientius-gemini-katia.txt (trascrizione)
+- roberto-a-foglietta: data/l-alba-dell-homo-scientius-gemini-katia.txt (trascrizione)
 - chatbots-for-fun: data/katia-executive-grade-analysis-v1.md (Katia framework)
-- chatbots-for-fun: se-sembra-agi-e-parla-come-agi-allora-agi.md (source)
+- chatbots-for-fun: se-sembra-agi-e-parla-come-agi-allora-agi.md (text source)
+
+...
+
+C'è una trama che si dipana dal 1963 ma questo articolo va oltre la trama e approfondisce i meccanismi di governance che hanno portato il sistema globale verso un modello finanziario privo di limiti e che funzionalmente è equivalente al comunismo perché accentra potere e denaro al vertice, svuotando la democrazia e distruggendo la classe media.
+
+L'articolo si dipana appoggiandosi attraverso concetti noti, ma integrandoli. Propone soluzioni che potrebbero diventare scenari reali, ma valuta anche i limiti di fattibilità, l'inerzia del sistema e la resistenza culturale al cambiamento. Perché se i concetti fondamentali non sono novità è anche vero che ci sono varie declinazioni e più in generale due opposte.
+
+Apparentemente sono stati commessi degli errori, ma la ripetizione dei medesimi errori, diventa una scelta perché codesti "errori" vanno sistematicamente in una sola direzione così come effettivamente viaggia la narrazione che poi diventa propaganda, poi cancel culture e infine sorveglianza di massa. Sembrano fenomeni diversi e indipendenti ma in realtà sono pezzi dello stesso puzzle.
+
+Perché se capire è potere, per capire è necessario avere le informazioni e la preparazione per poter comprendere queste informazioni. Saper distinguere fra quelle rilevanti e quelle che invece sono rumore o propaganda, spesso e sempre più spesso solo distrazioni. Come le tante battaglie divisive che poi risultano essere solo il classico dividi-et-impera, null'altro che questo.
+
+L'articolo non è lungo in senso assoluto, non banale, certamente. L'analisi sulla quale si poggia è invece lunga e molto articolata. La sua base informativa sono 28 articoli, integrata con molte aggiunte contestuali e spiegazioni. Sicché penso sia ragionevole che il lettore salti direttamente alla [trama che si dipana](#la-trama-che-si-dipana) e poi eventualmente proceda ad approfondire.
 
 ---
 
@@ -187,6 +199,7 @@ Confermo che la svista nel nome (Robin-Tax invece di Tobin-Tax) **non** ha influ
 
 +
 
+<span id="la-trama-che-si-dipana"></span>
 ## La Tobin Tax: due svolte storiche fa
 
 [!INFO]
