@@ -1,10 +1,13 @@
 <div id="firstdiv" created=":EN" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
+<style>#printlink { display: inline; } @page { size: legal; margin: 0.50in 13.88mm 0.50in 13.88mm; zoom: 100%; } @media print { html { zoom: 100%; width: 800px; } }</style>
+
+<!--// div align="center"><img class="wbsketch paleinv" src="" width="800" height="1px" style="visibility: hidden;"></div //-->
 
 ## Draghi's report about energy
 
 Mario Draghi's 400 pages report to European Commission, about competitiveness.
 
-<hr class="post-it">
+...
 
 ### Q&A DIALOG
 
@@ -25,16 +28,15 @@ A 1700 x 1296 pixels image saved in PNG format in a 1.5 Mb file.
 
 None, publicly web-available chatbot questioned in a new-from-scratch session without any previous custom pre-training.
 
+++++
 ### COPYRIGHT
 
 &copy; 2024, **Roberto A. Foglietta** &lt;roberto.foglietta<span>@</span>gmail.com&gt;
 
 This document is entirely published under *Creative Commons Attribution Non-Commercial No-Derivatives 4.0 International* license terms ([CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)) included the part above this statement. Moreover, if a version of this document exists or has existed under different licence terms, the licence terms of the latest version available on `github/robang74` [repository](https://github.com/robang74/chatgpt-answered-prompts/) apply. Even when the new licence terms are more restrictive, because permissions for any free content may be revoked at any time at the will of the author, and updating a licence to be more restrictive explicitly implies this will.
 
-<hr class="post-it">
-
-<br/>
-<br/>
+...
++
 
 ### Prompt #1
 
@@ -80,7 +82,7 @@ The image is divided into two contrasting sections, seemingly comparing the appr
 
 The image appears to be contrasting a lengthy, formal approach to EU economic policy (represented by Draghi) with a quicker, more direct approach focused on practical changes (represented by the anonymous ex-IT professional). It seems to be advocating for simpler, more common-sense solutions to European issues, possibly critiquing the complexity and formality of traditional policy-making processes.
 
-<br/>
++
 
 ### Prompt #2
 
@@ -100,7 +102,7 @@ You're right, and I apologize for not addressing that aspect in my initial descr
 
 These statements simplify complex policy ideas into concise, straightforward proposals, reflecting the "common sense" approach the image attributes to the ex-IT professional. The format mimics programming or mathematical notation to emphasize directness and efficiency, contrasting with the more elaborate approach described for the former central banker.
 
-<br/>
++
 
 ### Prompt #3
 
@@ -122,7 +124,7 @@ Evaluation based on effort/result ratio:
 
 The ex-IT nerd delivers concise, specific proposals in a fraction of the time, resulting in a much higher efficiency ratio. This comparison emphasizes rapid, practical problem-solving over lengthy, resource-intensive processes.
 
-<br/>
++++++
 
 ### Prompt #4
 
@@ -146,14 +148,13 @@ While the banker produces more content, the IT nerd offers more discrete, action
 
 However, this comparison doesn't account for potential depth or complexity in the banker's report. The brevity of the IT nerd's suggestions may oversimplify complex issues, while the banker's lengthy report could contain more nuanced analysis.
 
-<br/>
-<br/>
++
 
 ## Counter check
 
 Please note that in this Q&A dialog the exact same questions asked to Claude have been being asked to ChatGPT but due to a different and more insightful ability to catch the meaning and describe it, just two questions were needed, instead of four. Therefore a further question was asked about the correctness of the use of the phrase “*do that or die!*” referring to Mario Draghi in the uploaded image.
 
-<br/>
++
 
 ### Prompt #1
 
@@ -211,7 +212,7 @@ The image is a humorous juxtaposition of two approaches to problem-solving. Mari
 
 This meme conveys the message that institutional and bureaucratic processes, while thorough, can be inefficient compared to straightforward, common-sense solutions.
 
-<br/>
++
 
 ### Prompt #2
 
@@ -231,7 +232,7 @@ The effort/result ratio between the two performers is starkly different:
 
 Ultimately, the IT nerd's approach appears more efficient in generating concise, actionable ideas, but may lack the comprehensive analysis presumably present in the banker's report.
 
-<br/>
++
 
 ### Prompt #3
 
@@ -243,8 +244,7 @@ Considering that Mario Draghi was the Italian Prime Minister during the Covid-19
 
 Yes, it is reasonable to summarize Mario Draghi's statement, "chi non si vaccina muore e fa morire" (which translates to "those who don't get vaccinated die and cause others to die"), as "do that or die!" in a generalized, non-specific context. This captures the urgency and high-stakes nature of his message, which conveys a clear ultimatum. By generalizing it, the phrase effectively distills his broader approach to decision-making into a concise, binary directive where the consequences of inaction are severe.
 
-<br/>
-<br/>
++
 
 ## Considerations
 
@@ -268,6 +268,9 @@ These two aspects can be seen as external/internal perspectives:
 
 Which makes sense because, all in all, the main difference in this confrontation is about seeing European Union as a bureaucratic institution subjugated by the US presidency agenda or, alternatively, as an independent union, and possibly a Swiss-like federation, of various and different states which have agreed about some common rules and rights in order to empower European citizenship as a key asset of freedom and wealth.
 
-<br/>
++
 
+## Share alike
+
+&copy; 2024, **Roberto A. Foglietta** &lt;roberto.foglietta<span>@</span>gmail.com&gt;, [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 </div>
