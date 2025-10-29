@@ -7,7 +7,7 @@
 
 Mario Draghi's 400 pages report to European Commission, about energy.
 
-<hr class="post-it">
+...
 
 ## Q&A DIALOG
 
