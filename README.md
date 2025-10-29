@@ -1,4 +1,5 @@
-<div id="firstdiv" created=":EN" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
+<div id="firstdiv" created=":EN" style="width:800px; max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
+<style>#printlink { display: inline; } @page { size: legal; margin: 0.50in 13.88mm 0.50in 13.88mm; zoom: 100%; } @media print { html { zoom: 100%; } }</style>
 
 <div class="pagehead" align="center"><img class="wbsketch paleinv" src="warp-speed-jump.png" width="800"><br/>
 
@@ -67,8 +68,7 @@ This index is divided in tre sections related to different topics.
 
 - About [politics & governance](#about-politics--governance)
 
-<hr class="post-it">
-
+....
 ### About finance & economics
 
 1. **Draghi's report about energy** &nbsp;(2024-09-11)&nbsp; [[**`md`**](Draghi-report-about-energy-01.md)] [[**`html`**](html/Draghi-report-about-energy-01.html)] [[**`pdf`**](pdf/Draghi-report-about-energy-01.pdf?target=_blank)]
@@ -207,7 +207,7 @@ If you wish to send a translation, it is necessary that you know well one of the
 
 This table was produced by having ChatGPT interact with Gemini in such a way that they freely and progressively agreed on the evaluation of different chatbots. In this context 10.0 means the best available at the moment (2024-12-19).
 
-<div align="center"><img src="ai-chatbots-ratings-table-dark.png" width="800"><br/></div>
+<div align="center"><img class="bwsketch paleinv" src="ai-chatbots-ratings-table-dark.png" width="800"><br/></div>
 
 Both chatbots changed their ratings by a total of 18% and 19%. However, in some, albeit a few cases, they changed their opinion completely, changing their grades by 7 or 5 points out of 10. Both relied on [Chatbot Arena](https://lmarena.ai/) LLM Leaderboard, also.
 
