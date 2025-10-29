@@ -5,10 +5,7 @@
 
 ## Il grande reset è inevitabile
 
-- conversazione AI: https://gemini.google.com/share/33889730f197 (sharing link)
-- roberto-a-foglietta: data/l-alba-dell-homo-scientius-gemini-katia.txt (trascrizione)
-- chatbots-for-fun: data/katia-executive-grade-analysis-v1.md (Katia framework)
-- chatbots-for-fun: se-sembra-agi-e-parla-come-agi-allora-agi.md (text source)
+- L'[analisi](https://gemini.google.com/share/33889730f197) con Gemini/[Katia](https://raw.githubusercontent.com/robang74/chatbots-for-fun/refs/heads/main/data/katia-executive-grade-analysis-v1.md) e la sua [trascrizione](https://raw.githubusercontent.com/robang74/roberto-a-foglietta/refs/heads/main/data/l-alba-dell-homo-scientius-gemini-katia.txt), sulle quali è basato questo articolo.
 
 ...
 
@@ -21,6 +18,8 @@ Apparentemente sono stati commessi degli errori, ma la ripetizione dei medesimi 
 Perché se capire è potere, per capire è necessario avere le informazioni e la preparazione per poter comprendere queste informazioni. Saper distinguere fra quelle rilevanti e quelle che invece sono rumore o propaganda, spesso e sempre più spesso solo distrazioni. Come le tante battaglie divisive che poi risultano essere solo il classico dividi-et-impera, null'altro che questo.
 
 L'articolo non è lungo in senso assoluto, non banale, certamente. L'analisi sulla quale si poggia è invece lunga e molto articolata. La sua base informativa sono 28 articoli, integrata con molte aggiunte contestuali e spiegazioni. Sicché penso sia ragionevole che il lettore salti direttamente alla [trama che si dipana](#la-trama-che-si-dipana) e poi eventualmente proceda ad approfondire.
+
+Come base informativa per l'analisi ho usato 28 articoli che ho scritto in precedenza. Perché ognuno di essi descrive un pezzo del puzzle, anche se non ho la pretesa di aver detto tutto in soli 28 articoli, per dipanare la trama ne servivano anche meno ma come dicevano gli antichi "abundare quam deficere" e dopotutto il tempo libero non è mancato per descrivere anche i meccanismi.
 
 ---
 
@@ -82,10 +81,11 @@ Con la vittoria di Milei, sarà l'Argentina a finanziare la guerra USA contro il
 
 Facile da iniziare, ma affatto facile da concludere e tantomeno vincere. Cosa, che per altro, avrebbe dovuto essere chiara già con le guerre in Vietnam e in Afghanistan. Ma war as business muove l'economia e il PIL non distingue fra prodotto e spreco quindi il sistema ha bisogno di un'altro bagno di sangue per giustificare con la contingente necessità la razzia, in questo caso dell'Argentina.
 
-~~~~
+---
+
 ### Parte quarta
 
-La logorroica dei chatbot è ormai una piaga, che però ha una sua ragione di essere.
+La [logorroica dei chatbot](https://robang74.github.io/chatbots-for-fun/html/se-sembra-agi-e-parla-come-agi-allora-agi.html#:~:text=La%20logorroica%20dei%20chatbot%20%C3%A8%20ormai%20una%20piaga) è ormai una piaga, che però ha una sua ragione di essere.
 
 Perché la classifica dei chatbot più utilizzati non avviene per utenze (dati interni alle aziende) ma per traffico di rete (dato verificabile da terzi) quindi i maggiori chatbot americani producono testo altamente ridondante per incrementare artificialmente il volume del traffico a loro associato e perché queste graduatorie sono utilizzate dagli investitori per prezzare i titoli delle società collegate.
 
@@ -93,7 +93,7 @@ Perché la classifica dei chatbot più utilizzati non avviene per utenze (dati i
 
 Il che ci spiega perché quelle società che offrono tali servizi ma sono revenue-oriented producano sintesi quasi al limite dell'oscenità brevità mentre per contro quelle americane che sono market capital-driven fanno esattamente l'opposto.
 
----
+----
 
 ### Parte quinta
 
@@ -198,7 +198,7 @@ Confermo che la svista nel nome (Robin-Tax invece di Tobin-Tax) **non** ha influ
 `Katia; v0.9.65; lang: IT; mode: HKO, EGA, SBI; date: 2025-10-29; time: 12:05:43 (CET)`
 
 +
-
+++++
 <span id="la-trama-che-si-dipana"></span>
 ## La Tobin Tax: due svolte storiche fa
 
@@ -232,7 +232,7 @@ Fra guerra e pace, pare che la scelta sia stata chiara negli ultimi 60 anni, e p
 
 Chissà cosa ci porterà in dono il Karma per aver giocato la stessa mano (2022) contro la Russia!
 
----
+~~~~
 
 #### Valutazione cronologica di causa-effetto
 
