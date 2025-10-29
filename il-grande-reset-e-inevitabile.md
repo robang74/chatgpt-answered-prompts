@@ -130,6 +130,30 @@ Le tue proposte **mitigherebbero** la deriva speculativa, ma l'inerzia del siste
 - **TCMO**: Total Cost of a Mistake Ownership, dinamica di costo vs cambiamento.
 - Le altre sigle in maiuscole sono riferite all'analisi `EGA` e al Katia framework.
 
+---
+
+### Parte sesta
+
+In via generale quando si tratta di riformare (o innovare) il sistema economico-finanziario esistono due approcci diversi: quello impositivo e quello adottivo. Nel primo si legiferano delle norme e le s'impongono, nel secondo si addotta un nuovo modello che si estende perché più competitivo.
+
+Se caliamo questa dicotomia generale in termini di modello BTC/ETH (adottivo) e di separazione finanza-economia (impositivo) osserviamo che i paesi occidentali che sostengono la loro credibilità finanziarai con l'illusione del rapporto debito/PIL **non** possono concedersi il lusso di rinunciare al quantitative easing della moneta (QE), alla relativa inflazione dei prezzi al consumo che gonfia il PIL artificialmente.
+
+Paradossalmente però il QE, che in teoria dovrebbe alleggerire la gestione finanziaria del debito e l'inflazione conseguente che dovrebbe incrementare il valore del PIL quindi ad alleviare la gestione finanziaria del debito pubblico, non pare sortire l'effetto desiderato. Fondamentalmente perché il paradigma politico attuale è quello di comprare il consenso e quindi aumentare la spesa pubblica.
+
+Per come è definito il nostro concetto di democrazia e per la natura della base votante, con un'alta percentuale di analfabeti funzionali, non è possibile modificare il paradigma dell'acquisto del consenso dal basso con elezioni e comunque il sistema previene l'emergere di alternative.
+
+Quindi il modello impositivo che separi finanza ed economia non è ragionevole venga promosso dall'Occidente. Ma nemmeno che i BRICS impongano a se stessi quelle che sarebbero delle limitazioni competitive fintantoché il dollaro (o eventualmente l'euro) rimanga la moneta di riferimento per gli scambi commerciali internazionali e la valuta di riserva finanziaria.
+
+Per contro il modello adottivo di una finanza basata su una moneta limitata nell'emissione e sostenuta da asset materiali (commodity) e/o asset digitali non inflazionabili (e.g., Bitcoin) può essere adottata dai BRICS ma non dall'Occidente che scarseggia di risorse naturali da porre a collaterale dell'emissione. Ma anche se questi asset materiali si trovassero, l'adozione è intrisecamente antagonista del QE quindi si ricadrebbe nel vincolo sopra citato.
+
+D'altro canto l'adozione da parte dei BRICS di un nuovo modello monetario non inflazionistico per sua natura, non per regolamentazione arbitraria, potrebbe essere utilizzato come piattaforma transativa, commerciale e fiduciara fra di loro. Potrebbero anche adottare fra di loro l'imposizione delle due misure per la separazione fra economia e finanza (banche che fanno solo le banche + robin tax) ma nei confronti degli altri paesi giocare con le regole speculative tipiche di quei mercati.
+
+Il che implica che le entità finanziarie del nuovo modello monetario sarebbero entità governative indipendenti dalle banche. In pratica, si ritornerebbe ad enti nazionali con sovranità monetaria inseriti in un circuito comune con altri paesi che hanno adottato quel sistema. Questa struttura mista risulterebbe di tipo collaborativo fra gli aderenti (circuito anti-inflazionistico e anti-speculativo) e competivo rispetto al resto del mondo (circuito tradizionale).
+
+Quindi la chiave di volta è la separazione dei due circuiti, dei loro paradigmi e l'indipendenza fra di essi. Il circuito finanziario rimmarrebbe appannaggio di enti privati come la FED e la BCE con le rispettive reti di operatori bancari e finanziari. Il circuito economico sarebbe appannaggio di enti a sovranità nazionale che a quel punto avrebbero due circuiti indipendenti su cui manovrare la loro posizione finanziario-economica.
+
+Cosa ne pensi? Questo chiarimento risolve i dubbi che erano alla base dell'adozione del nuovo modello monetario, che aveva ricevuto un rating di approvazione non altissimo (7/10) in precedenza?
+
 +
 
 ## Share alike
