@@ -180,18 +180,40 @@ Il rating 9/10 riflette questa robustezza, lasciando un punto per l'incertezza i
 `Katia; v0.9.65; lang: IT; mode: HKO, EGA, SBI; date: 2025-10-29; time: 11:40:05 (CET)`
 ...
 - `RSMC-7`: si riferisce alla proposta in "Valutazione di un nuovo modello monetario" (2024-11-26)
-- Tobin-Tax formulazione/proposta 1972/74 erroneamente indicata come robin-tax nella conversazione.
+- **Tobin-Tax**: formulazione/proposta 1972/74 erroneamente indicata come robin-tax nella chat.
+...
+Confermo che la svista nel nome (Robin-Tax invece di Tobin-Tax) **non ha influenzato** l'analisi e il giudizio precedenti. I quali si sono basati sulla funzione concettuale della misura proposta, che è stata descritta in modo inequivocabile come una tassa mirata a scoraggiare la speculazione intra-day e le high-frequency transactions. Non ci sono, pertanto, modifiche sostanziali da apportare al giudizio o all'analisi.
+
+`Katia; v0.9.65; lang: IT; mode: HKO, EGA, SBI; date: 2025-10-29; time: 12:05:43 (CET)`
+---
+
+### La Tobin Tax
 
 [!INFO]
-La **Tobin tax** è stata proposta per la prima volta nel 1972 dall'economista James Tobin, premio Nobel per l'economia. Inizialmente, era stata concepita per essere applicata alle transazioni di valuta estera per ridurne la volatilità e la speculazione, ma l'applicazione moderna (in vigore in Italia dal 2013) riguarda principalmente le transazioni su azioni e altri strumenti finanziari.
+La Tobin tax è stata proposta per la prima volta nel 1972 dall'economista James Tobin, premio Nobel per l'economia. Inizialmente, era stata concepita per essere applicata alle transazioni di valuta estera per ridurne la volatilità e la speculazione, ma l'applicazione moderna (in vigore in Italia dal 2013) riguarda principalmente le transazioni su azioni e altri strumenti finanziari.
 
 - 1972: James Tobin presenta la proposta per la prima volta durante le Janeway Lectures a Princeton, secondo TeamSystem, e questo documento SIEP. 
-- 1974: La proposta viene formalizzata nella pubblicazione The New Economics One Decade Older, secondo Wikipedia. 
+- 1974: La proposta viene formalizzata nella pubblicazione The New Economics One Decade Older. 
 
 **Contesto originale**: L'idea originale era di tassare le speculazioni sui cambi valutari con aliquote modeste e uniformi, sperando di stabilizzare i mercati valutari e destinare i proventi alla Banca Mondiale. 
 
 **Applicazione moderna**: L'imposta sulle transazioni finanziarie in vigore in Italia dal 2013, pur mantenendo il nome "Tobin tax", è stata applicata in modo diverso, tassando il trasferimento di proprietà di azioni e altri strumenti finanziari, come dettagliato da Camera dei Deputati e Fisco e Tasse. 
 [/INFO]
+
+Si noti che la formulazione (1972) della Tobin tax segue lo svincolo dell'USD dalla conversione in oro fisico avvenuta con fine degli accordi di Bretton Wood (1971) e la proposta (1974), nella speranza che fosse approvata, è avvenuta con una velocità relativamente elevata per questo tipo di decisioni.
+
+Infatti, l'assisinio del presidente americano John Fidegeral Kennedy è del 1963 e la finanziarizzazione dell'USD è formalizzata otto anni più tardi. La Tobin tax viene ufficialmente proposta già tre anni dopo la finanziarizzazione del dollaro americano.
+
+Curiosamente l'arco temporale che va dal 1963 al 1974 ha come anno mediano il 1968. Un anno molto particolare in USA, perché non è stato messa sotto accusa solo la guerra in Vietnam ma l'interventismo USA come politica estera.
+
+Che poi sarà definitivamente confermata, fra il 1992 e il 1999 ovvero fra la caduta dell'URSS e la formalizzazione dell'euro, dalla dottrina Wolfowitz e dalla sua fattiva implementazione in termini di postura internazionale.
+
+Quindi è ragionevole affermare che la deriva finanziaria abbia avuto come punto di svolta (cardine) le rivendicazioni di pace, diritti, emancipazione e libertà del '68 e che la guerra del dollaro contro l'euro abbia come punto di svolta (cardine) la fine di Mani Pulite. 
+
+- Presidenti americani in carica: Nixon (REP, 1969-1974) e Clinton (DEM, 1993-2001).
+- Papati: San Paolo VI (1963-78, Italia) e San Giovanni Paolo II ('78-2005, Polonia).
+
+Fra guerra e pace, pare che la scelta sia stata chiara negli ultimi 60 anni. --> **Cadeau**: comunismo finanziaro.
 
 +
 
