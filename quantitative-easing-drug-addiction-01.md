@@ -218,6 +218,7 @@ However, it's important to note that Draghi's intentions were more likely pragma
 Stock market inflation due to QE: **9/10**
 - Draghi's policies had a profound effect on inflating stock prices and creating speculative bubbles.
 
+++++
 Consumer goods price inflation later: **7/10**
 - QE did eventually lead to inflation in consumer goods, but with a delayed and uneven impact.
 
@@ -455,6 +456,7 @@ A fairy tale that usually develops in a nightmare when high-level managers decid
 
 Let’s break down and rate each claim based on their reasonableness and connection to existing principles and observations:
 
+++++
 #### 1. Top-Down Control of Large Systems as an Illusion
 
 Due to Heisenberg Principle, Chaos Theory, Theory of Constraints:
