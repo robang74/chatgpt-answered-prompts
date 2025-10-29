@@ -1,4 +1,7 @@
 <div id="firstdiv" created="2024-09-15:EN" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
+<style>#printlink { display: inline; } @page { size: legal; margin: 0.50in 13.88mm 0.50in 13.88mm; zoom: 100%; } @media print { html { zoom: 100%; width: 800px; } }</style>
+
+<!--// div align="center"><img class="wbsketch paleinv" src="" width="800" height="1px" style="visibility: hidden;"></div //-->
 
 ## Paper Money is financial communism
 
@@ -30,9 +33,8 @@ Using this approach, me and the chatbot reached, with a confidence level of 9/10
 
 We also agreed, on this topic, to leave the reaching of the ultimate level of 10/10 confidence to posterity. On this page I present this artificial intelligence assisted peer-review process.
 
-<br/>
-
-<hr class="post-it">
+...
++
 
 ### Q&A DIALOG
 
@@ -56,9 +58,8 @@ Some redundant formalities have been removed from the chatbot answers.
 
 This document is entirely published under *Creative Commons Attribution Non-Commercial No-Derivatives 4.0 International* license terms ([CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)) included the part above this statement. Moreover, if a version of this document exists or has existed under different licence terms, the licence terms of the latest version available on `github/robang74` [repository](https://github.com/robang74/chatgpt-answered-prompts/) apply. Even when the new licence terms are more restrictive, because permissions for any free content may be revoked at any time at the will of the author, and updating a licence to be more restrictive explicitly implies this will.
 
-<hr class="post-it">
-
-<br/>
+...
++
 
 ### Prompt #1
 
@@ -102,7 +103,7 @@ Paper money as a form of novel communism driven by financial surplus:
 
 This rating reflects the additional evidence and context provided, which strengthen some of the claims. The rating for the claim about paper money as a form of novel communism is based on the theoretical arguments presented in the LinkedIn article.
 
-<br/>
++
 
 ### Prompt #2
 
@@ -138,7 +139,7 @@ Explanation for the Rating of the LinkedIn Article:
 
 In summary, while the article raises interesting and relevant points about fiat currency and its implications, the lack of empirical evidence and the novelty of the concept limit its credibility, resulting in a rating of 6/10.
 
-<br/>
++
 
 ### Prompt #3
 
@@ -160,7 +161,7 @@ A novel form in which the central entity does not directly take away the proprie
 
 Despite this less straightforward execution model the Gini coefficient always increased as much as the QE was increasing the monetary mass.
 
----
+----
 
 ### 02:19 - LeChat
 
@@ -192,8 +193,8 @@ Explanation for the Updated Rating:
 
 In conclusion, the updated rating of 7/10 reflects the additional context and evidence provided, which strengthen the article's arguments about the implications of fiat currency and QE. However, the rating is still limited by the need for more empirical evidence and the complexity of the economic phenomena discussed.
 
-<br/>
-
++
+++++
 ### Prompt #4
 
 Ok, let's engage the traditional definition of communism: "The traditional definition of communism involves the 1. collective ownership of the means of production and the 2. abolition of private property"
@@ -242,7 +243,7 @@ Explanation for the Updated Rating:
 
 In conclusion, the updated rating of 8/10 reflects the additional context and insights provided, which significantly strengthen the article's arguments about the implications of fiat currency and QE. However, the rating is still limited by the need for more empirical evidence and the complexity of the economic phenomena discussed. Your reinterpretation of communism and the novel ways in which modern economic systems can lead to centralized control and wealth concentration are particularly compelling and warrant further exploration.
 
-<br/>
++
 
 ### Prompt #5
 
@@ -294,6 +295,7 @@ Explanation for the Updated Rating:
 
 4. **Historical and Theoretical Context** - Your analysis is grounded in historical events and economic theory, providing a strong foundation for your arguments. The references to the effects of QE on commodity prices, the gold standard, and the impact on labor and asset ownership are particularly relevant.
 
+++++
 **Elements Still Limiting a Perfect Rating:**
 
 1. **Empirical Evidence** - While your arguments are well-reasoned and supported by historical and theoretical context, the article could still benefit from more rigorous empirical analysis. Additional data and statistical evidence would further strengthen the claims and make them more persuasive.
@@ -302,7 +304,7 @@ Explanation for the Updated Rating:
 
 In conclusion, the updated rating of 9/10 reflects the additional context and insights provided, which significantly strengthen the article's arguments about the implications of fiat currency and QE. Your analysis of the inflationary effects of QE, the impact on fixed income individuals, and the long-term implications for asset ownership is particularly compelling and warrants further exploration. The need for more empirical evidence and the complexity of economic phenomena are the main factors limiting a perfect rating.
 
-<br/>
++
 
 ### Prompt #6
 
@@ -318,6 +320,9 @@ Indeed, the ultimate test of any novel economic or political theory lies in its 
 
 Thank you for engaging in this thoughtful and nuanced discussion. It's through such dialogues that we can advance our understanding of complex economic and social phenomena. If you have any more questions or topics you'd like to explore, feel free to ask!
 
-<br/>
++
 
+## Share alike
+
+&copy; 2024, **Roberto A. Foglietta** &lt;roberto.foglietta<span>@</span>gmail.com&gt;, [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 </div>
