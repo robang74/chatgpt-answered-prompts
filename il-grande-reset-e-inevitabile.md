@@ -244,34 +244,34 @@ Ciò supporta l'idea che la deriva attuale non sia un incidente, ma il risultato
 
 ## Corpus informativo, lista degli articoli
 
-- 347-fare-la-vita-da-consulente-non-e-affatto-facile.md
-- 346-l-estinzione-dei-neanderthal-e-iniziata.md
-- la-diffusione-del-cristianesimo-nell-impero-romano.md
-- 341-stupidity-is-the-true-evil.md
-- la-banalita-del-male-nel-determinismo-ai.md
-- 343-modello-risorse-umane-e-estinzione-impresa-italiana.md
-- 342-noi-siamo-i-palestinesi-del-futuro.md
-- 344-the-first-secular-crusade-theory.md
-- 345-dal-femminismo-tossico-alla-follia-woke.md
-- 335-il-qe-al-tempo-dell-analfabetismo-funzionale.md
-- 339-introduzione-alla-politica-concetti-di-base.md
-- 302-politics-and-democracy-for-dummies.md
-- 330-italia-fuga-di-cervelli-e-falso-documentale.md
-- 324-il-modello-otto-novecentesco-ha-fallito.md
-- 311-primo-maggio-festa-dei-lavoratori.md
-- 263-l-abominevole-truffa-dei-bonus-edilizi.md
-- propaganda-e-sistema-educativo.md
-- the-imprinting-role-in-the-mass-education.md
-- se-la-verita-li-uccide-lasciate-che-muoiano.md
-- 293-il-grande-inganno-della-diversita.md
-- 304-ignoring-reality-has-its-own-cost.md
-- 090-l-importanza-del-tcmo.md
-- 278-the-paper-money-is-financial-communism.md
-- paper-money-financial-communism-03.md
-- quantitative-easing-drug-addiction-01.md
-- valutazione-di-un-nuovo-modello-monetario.md
-- 265-the-brics-financial-system-hope-or-ww3.md
-- 321-wwz-simply-explained-for-dummies.md
+- 01 -- [Fare la vita da consulente non è affatto facile](https://robang74.github.io/roberto-a-foglietta/html/347-fare-la-vita-da-consulente-non-e-affatto-facile.html) &nbsp; (2025-10-23)
+- 02 -- [L'estinzione dei Neanderthal è iniziata](https://robang74.github.io/roberto-a-foglietta/html/346-l-estinzione-dei-neanderthal-e-iniziata.html) &nbsp; (2025-10-20)
+- 03 -- [La diffusione del cristianesimo nell'impero romano](https://robang74.github.io/chatbots-for-fun/html/la-diffusione-del-cristianesimo-nell-impero-romano.html) &nbsp; (2025-04-30)
+- 04 -- [Stupidity is the true Evil](https://robang74.github.io/roberto-a-foglietta/html/341-stupidity-is-the-true-evil.html) &nbsp; (2025-10-05)
+- 05 -- [La Banalità del Male nel determinismo AI](https://robang74.github.io/chatbots-for-fun/html/la-banalita-del-male-nel-determinismo-ai.html) &nbsp; (2025-09-29)
+- 06 -- [Il modello HR e l'estinzione impresa italiana](https://robang74.github.io/roberto-a-foglietta/html/343-modello-risorse-umane-e-estinzione-impresa-italiana.html) &nbsp; (2025-10-11)
+- 07 -- [Noi siamo i palestinesi del futuro](https://robang74.github.io/roberto-a-foglietta/html/342-noi-siamo-i-palestinesi-del-futuro.html) &nbsp; (2025-10-09)
+- 08 -- [The first Secular Crusade theory](https://robang74.github.io/roberto-a-foglietta/html/344-the-first-secular-crusade-theory.html) &nbsp; (2025-10-13)
+- 09 -- [Dal femminismo tossico alla follia woke](https://robang74.github.io/roberto-a-foglietta/html/345-dal-femminismo-tossico-alla-follia-woke.html) &nbsp; (2025-10-15)
+- 10 -- [Il QE al tempo dell'analfabetismo funzionale](https://robang74.github.io/roberto-a-foglietta/html/335-il-qe-al-tempo-dell-analfabetismo-funzionale.html) &nbsp; (2025-09-03)
+- 11 -- [Introduzione alla politica, concetti di base](https://robang74.github.io/roberto-a-foglietta/html/339-introduzione-alla-politica-concetti-di-base.html) &nbsp; (2025-10-03)
+- 12 -- [Politics and democracy for dummies](https://robang74.github.io/roberto-a-foglietta/html/302-politics-and-democracy-for-dummies.html) &nbsp; (2025-03-03)
+- 13 -- [Italia: fuga di cervelli e falso documentale](https://robang74.github.io/roberto-a-foglietta/html/330-italia-fuga-di-cervelli-e-falso-documentale.html) &nbsp; (2025-07-01)
+- 14 -- [Il modello otto-novecentesco ha fallito](https://robang74.github.io/roberto-a-foglietta/html/324-il-modello-otto-novecentesco-ha-fallito.html) &nbsp; (2025-06-14)
+- 15 -- [Primo maggio, festa dei lavoratori](https://robang74.github.io/roberto-a-foglietta/html/311-primo-maggio-festa-dei-lavoratori.html) &nbsp; (2025-05-01)
+- 16 -- [L'abominevole truffa dei bonus edilizi](https://robang74.github.io/roberto-a-foglietta/html/263-l-abominevole-truffa-dei-bonus-edilizi.html) &nbsp; (2024-05-22)
+- 17 -- [Propaganda e sistema educativo](propaganda-e-sistema-educativo.md#?target=_blank) &nbsp; (2024-11-20)
+- 18 -- [The imprinting role in the mass education](the-imprinting-role-in-the-mass-education.md#?target=_blank) &nbsp; (2024-12-01)
+- 19 -- [Se la verità li uccide, lasciate che muoiano](se-la-verita-li-uccide-lasciate-che-muoiano.md#?target=_blank) &nbsp; (2024-12-20)
+- 20 -- [Il grande inganno della diversità](https://robang74.github.io/roberto-a-foglietta/html/293-il-grande-inganno-della-diversita.html) &nbsp; (2024-11-03)
+- 21 -- [Ignoring reality has its own cost](https://robang74.github.io/roberto-a-foglietta/html/304-ignoring-reality-has-its-own-cost.html) &nbsp; (2025-03-07)
+- 22 -- [L'importanza del TCMO](https://robang74.github.io/roberto-a-foglietta/html/090-l-importanza-del-tcmo.html) &nbsp; (2017-10-31)
+- 23 -- [The paper money is financial communism](https://robang74.github.io/roberto-a-foglietta/html/278-the-paper-money-is-financial-communism.html) &nbsp; (2024-07-31)
+- 24 -- [Paper Money is financial communism](paper-money-financial-communism-03.md#?target=_blank) &nbsp; (2024-09-15)
+- 25 -- [Quantitative easing is drug addiction](https://robang74.github.io/chatgpt-answered-prompts/html/quantitative-easing-drug-addiction-01.html) &nbsp; (2024-09-18)
+- 26 -- [Valutazione di un nuovo modello monetario](https://robang74.github.io/chatgpt-answered-prompts/html/valutazione-di-un-nuovo-modello-monetario.html) &nbsp; (2024-11-26)
+- 27 -- [The BRICS financial system, hope or WW3?](https://robang74.github.io/roberto-a-foglietta/html/265-the-brics-financial-system-hope-or-ww3.html) &nbsp; (2024-06-07)
+- 28 -- [WWZ simply explained, for dummies](https://robang74.github.io/roberto-a-foglietta/html/321-wwz-simply-explained-for-dummies.html) &nbsp; (2025-06-10)
 
 +
 
