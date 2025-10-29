@@ -22,7 +22,7 @@ A collection of some Q&A dialogs with various AI powered chatbots about differen
 
 * [Roberto A. Foglietta (blog)](https://robang74.github.io/roberto-a-foglietta) source on [github](https://github.com/robang74/roberto-a-foglietta) &nbsp; (2024-12-14)
 
-<br/>
++
 
 ## Warnings
 
@@ -54,8 +54,9 @@ Few but relevant warnings for those are not aware how artificial intelligence an
 
 * In case you wish not abandon your habit to decide or act on driven by random inputs also known as "*the art of divination*" or "*ghosts' suggestion*", then using the "*traditional*" tools - like reading cards, tea spots in the tea cup, fractal images in coffee grounds, arbitrary recognition of structures in animal entrails - is way lesser energy intensive approach with grants you even better results. Be traditional!
 
-<br/><span id="pages-index"></span>
++
 
+<span id="pages-index"></span>
 ## Index
 
 This index is divided in tre sections related to different topics.
@@ -150,7 +151,11 @@ This index is divided in tre sections related to different topics.
 
    - Software Libre is politics or like Open Source is science? The intrinsic nature of a tool does not change because people use it in a different way than it has been designed. Anyway, kick the politics out of our businesses seems a general good way to go. Civitas et humanitas, ante omnia! &nbsp; (**2nd edt.**)
 
-<br/>
+7. **Il grande reset è inevitabile** &nbsp;(2025-02-29)&nbsp; [[**`md`**](il-grande-reset-e-inevitabile.md)] [[**`html`**](html/il-grande-reset-e-inevitabile.md.html)] 
+
+   - The financialization of currency since the end of the Bretton Woods agreements in 1971 is the root cause of the progressive degradation of the global system. A derive from real economy which leads to a financial and systemic collapse, inevitably.
+
++
 
 ## Download
 
@@ -172,7 +177,7 @@ The advantage of downloading a tagged release is having an archive 'freezed' by 
 
 This allows you to have your own copy that you can read off-line with all the links converted to point to local files, only. It includes also the related projects.
 
-<br/>
++
 
 ## Versioning
 
@@ -182,7 +187,7 @@ One of main goals of `git` and the github web interface is to provide a versioni
 
 As you can see, each commit is carry-on a time stamp also. The green label indicates that also the timestamp is validate by the github infrastructure system which belongs to Microsoft Corporation. In fact, github cannot validate those timestamps that are coming from 3rd party systems like the users workstations but just the receiving time, date and content. However, for most of the cases this is irrelevant.
 
-<br/>
++
 
 ## Translations
 
@@ -196,7 +201,7 @@ As you can see the translated document should contain a reference about the orig
 
 If you wish to send a translation, it is necessary that you know well one of the languages in which this document is available, even better if you know English and can start from the original version, and that you are a native speaker or equivalent in the language in which the translation is being made.
 
-<br/>
++
 
 ## AI chatbots
 
@@ -206,7 +211,7 @@ This table was produced by having ChatGPT interact with Gemini in such a way tha
 
 Both chatbots changed their ratings by a total of 18% and 19%. However, in some, albeit a few cases, they changed their opinion completely, changing their grades by 7 or 5 points out of 10. Both relied on [Chatbot Arena](https://lmarena.ai/) LLM Leaderboard, also.
 
-<br/>
++
 
 ## Copyright
 
