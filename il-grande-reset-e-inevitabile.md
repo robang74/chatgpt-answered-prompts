@@ -182,18 +182,19 @@ Il rating 9/10 riflette questa robustezza, lasciando un punto per l'incertezza i
 - `RSMC-7`: si riferisce alla proposta in "Valutazione di un nuovo modello monetario" (2024-11-26)
 - **Tobin-Tax**: formulazione/proposta 1972/74 erroneamente indicata come robin-tax nella chat.
 ...
-Confermo che la svista nel nome (Robin-Tax invece di Tobin-Tax) **non ha influenzato** l'analisi e il giudizio precedenti. I quali si sono basati sulla funzione concettuale della misura proposta, che è stata descritta in modo inequivocabile come una tassa mirata a scoraggiare la speculazione intra-day e le high-frequency transactions. Non ci sono, pertanto, modifiche sostanziali da apportare al giudizio o all'analisi.
+Confermo che la svista nel nome (Robin-Tax invece di Tobin-Tax) **non** ha influenzato l'analisi e il giudizio precedenti. I quali si sono basati sulla funzione concettuale della misura proposta, che è stata descritta in modo inequivocabile come mirata a scoraggiare la speculazione intra-day e high-frequency trading. Non ci sono, pertanto, modifiche sostanziali da apportare al giudizio o all'analisi.
 
 `Katia; v0.9.65; lang: IT; mode: HKO, EGA, SBI; date: 2025-10-29; time: 12:05:43 (CET)`
----
 
-### La Tobin Tax
++
+
+## La Tobin Tax: due svolte storiche fa
 
 [!INFO]
-La Tobin tax è stata proposta per la prima volta nel 1972 dall'economista James Tobin, premio Nobel per l'economia. Inizialmente, era stata concepita per essere applicata alle transazioni di valuta estera per ridurne la volatilità e la speculazione, ma l'applicazione moderna (in vigore in Italia dal 2013) riguarda principalmente le transazioni su azioni e altri strumenti finanziari.
+La Tobin tax è stata proposta dall'economista James Tobin, premio Nobel per l'economia. Inizialmente, era stata concepita per essere applicata alle transazioni di valuta estera per ridurne la volatilità e la speculazione, ma l'applicazione moderna differisce strutturalmente.
 
-- 1972: James Tobin presenta la proposta per la prima volta durante le Janeway Lectures a Princeton, secondo TeamSystem, e questo documento SIEP. 
-- 1974: La proposta viene formalizzata nella pubblicazione The New Economics One Decade Older. 
+- **1972**: James Tobin presenta la proposta per la prima volta durante le Janeway Lectures a Princeton, secondo TeamSystem, e questo documento SIEP. 
+- **1974**: La proposta viene formalizzata nella pubblicazione The New Economics One Decade Older. 
 
 **Contesto originale**: L'idea originale era di tassare le speculazioni sui cambi valutari con aliquote modeste e uniformi, sperando di stabilizzare i mercati valutari e destinare i proventi alla Banca Mondiale. 
 
@@ -213,7 +214,11 @@ Quindi è ragionevole affermare che la deriva finanziaria abbia avuto come punto
 - Presidenti americani in carica: Nixon (REP, 1969-1974) e Clinton (DEM, 1993-2001).
 - Papati: San Paolo VI (1963-78, Italia) e San Giovanni Paolo II ('78-2005, Polonia).
 
-Fra guerra e pace, pare che la scelta sia stata chiara negli ultimi 60 anni. --> **Cadeau**: comunismo finanziaro.
+Fra guerra e pace, pare che la scelta sia stata chiara negli ultimi 60 anni, e però:
+
+- abbiamo barato per vincere l'URSS --> cadeau del Karma: comunismo finanziaro.
+
+Chissà cosa ci porterà in dono il Karma per aver giocato la stessa mano (2022) contro la Russia!
 
 +
 
