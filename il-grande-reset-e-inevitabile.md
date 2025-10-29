@@ -1,7 +1,7 @@
 <div id="firstdiv" created=":IT:" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
 <style>#printlink { display: inline; } @page { size: legal; margin: 0.50in 13.88mm 0.50in 13.88mm; zoom: 100%; } @media print { html { zoom: 100%; } }</style>
 
-<!--// div align="center"><img class="bwsketch paleinv" src="img/se-sembra-agi-e-parla-come-agi-allora-agi.jpg" width="800"><br/></div //-->
+<div align="center"><img class="bwsketch paleinv" src="img/il-grande-reset-e-inevitabile.png" width="800"><br/></div>
 
 ## Il grande reset è inevitabile
 
@@ -47,7 +47,7 @@ Valuta questo USR in relazione al tuo IPK, ARK e precedenti USR per comprendere 
 
 D'altronde sarebbe alquanto illusorio pensare che la gente una volta compresa che è stata ingannata e derubata per oltre 30 anni, o addirittura per 50 anni, possa esclamare: "vabbé, risolviamola a tarallucci e vino". Un po' utopistico, no?
 
----
+----
 
 ### Parte seconda
 
@@ -93,7 +93,7 @@ Perché la classifica dei chatbot più utilizzati non avviene per utenze (dati i
 
 Il che ci spiega perché quelle società che offrono tali servizi ma sono revenue-oriented producano sintesi quasi al limite dell'oscenità brevità mentre per contro quelle americane che sono market capital-driven fanno esattamente l'opposto.
 
-----
+---
 
 ### Parte quinta
 
