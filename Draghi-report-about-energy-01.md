@@ -200,11 +200,11 @@ Summary in one word: Europe.
 
 Clearly the last answer is not factual (in brief) and strongly domesticated (in the longer form).
 
-There is no **global** decarbonisation effert, it is just into the Europe political agenda and drives forward against European interests only.
+- There is no **global** decarbonisation effert, it is just into the Europe political agenda and drives forward against European interests only.
 
-There are also no **global** democrats values because almost none of the modern and developing countries are ruled by Ancient Greek democracy model and those countries that claim to be democratic implemented just some form of elections.
+- There are also no **global** democrats values because almost none of the modern and developing countries are ruled by Ancient Greek democracy model and those countries that claim to be democratic implemented just some form of elections.
 
-Unfortunately, **global** in this context only means as the U.S. current presicidency wishes.
+- Unfortunately, **global** in this context only means as the U.S. current presicidency wishes.
 
 These considerations were necessarily mandatory because one day in the future our children will ask us about all of this.
 
