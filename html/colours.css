@@ -15,6 +15,7 @@ img.darkinv { filter: invert(100%); }
 body { color: #f8fff8; background-color: #101810; }
 
 blockquote { color: #f4fff8; background-color: #102810; }
+blockquote.code { color: #e0ffe8; background-color: #040800; }
 
 div.topbar { color: cyan; background-color: darkgreen; border-bottom-color: green; } /*dimgray*/
 

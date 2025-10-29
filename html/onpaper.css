@@ -25,6 +25,7 @@ div.pagehead img {
 body { color: #081810; background-color: #fcfffc; }
 
 blockquote { color: #060; background-color: #eefff5; }
+blockquote.code { color: #020; }
 
 div.topbar { color: dimgray; background-color: #c4ffe4; border-bottom: 1px solid #0c8; }
 
