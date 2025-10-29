@@ -5,7 +5,7 @@
 
 ## Il grande reset è inevitabile
 
-- conversazione AI: https://gemini.google.com/share/7a4a51ad8c39 (sharing link)
+- conversazione AI: https://gemini.google.com/share/33889730f197 (sharing link)
 - chatbots-for-fun: data/l-alba-dell-homo-scientius-gemini-katia.txt (trascrizione)
 - chatbots-for-fun: data/katia-executive-grade-analysis-v1.md (Katia framework)
 - chatbots-for-fun: se-sembra-agi-e-parla-come-agi-allora-agi.md (source)
@@ -133,9 +133,9 @@ Le tue proposte **mitigherebbero** la deriva speculativa, ma l'inerzia del siste
 
 ### Parte sesta
 
-In via generale quando si tratta di riformare (o innovare) il sistema economico-finanziario esistono due approcci diversi: quello impositivo e quello adottivo. Nel primo si legiferano delle norme e le s'impongono, nel secondo si addotta un nuovo modello che si estende perché più competitivo.
+In via generale quando si tratta di riformare (o innovare) il sistema economico-finanziario esistono due approcci diversi: quello impositivo e quello adottivo. Nel primo si legiferano delle norme e le s'impongono, nel secondo si adotta un nuovo modello che si estende perché più competitivo.
 
-Se caliamo questa dicotomia generale in termini di modello BTC/ETH (adottivo) e di separazione finanza-economia (impositivo) osserviamo che i paesi occidentali che sostengono la loro credibilità finanziarai con l'illusione del rapporto debito/PIL **non** possono concedersi il lusso di rinunciare al quantitative easing della moneta (QE), alla relativa inflazione dei prezzi al consumo che gonfia il PIL artificialmente.
+Se caliamo questa dicotomia generale in termini di modello BTC/ETH (adottivo) e di separazione finanza-economia (impositivo) osserviamo che i paesi occidentali che sostengono la loro credibilità finanziaria con l'illusione del rapporto debito/PIL **non** possono concedersi il lusso di rinunciare al quantitative easing della moneta (QE), alla relativa inflazione dei prezzi al consumo che gonfia il PIL artificialmente.
 
 Paradossalmente però il QE, che in teoria dovrebbe alleggerire la gestione finanziaria del debito e l'inflazione conseguente che dovrebbe incrementare il valore del PIL quindi ad alleviare la gestione finanziaria del debito pubblico, non pare sortire l'effetto desiderato. Fondamentalmente perché il paradigma politico attuale è quello di comprare il consenso e quindi aumentare la spesa pubblica.
 
@@ -143,13 +143,13 @@ Per come è definito il nostro concetto di democrazia e per la natura della base
 
 Quindi il modello impositivo che separi finanza ed economia non è ragionevole venga promosso dall'Occidente. Ma nemmeno che i BRICS impongano a se stessi quelle che sarebbero delle limitazioni competitive fintantoché il dollaro (o eventualmente l'euro) rimanga la moneta di riferimento per gli scambi commerciali internazionali e la valuta di riserva finanziaria.
 
-Per contro il modello adottivo di una finanza basata su una moneta limitata nell'emissione e sostenuta da asset materiali (commodity) e/o asset digitali non inflazionabili (e.g., Bitcoin) può essere adottata dai BRICS ma non dall'Occidente che scarseggia di risorse naturali da porre a collaterale dell'emissione. Ma anche se questi asset materiali si trovassero, l'adozione è intrisecamente antagonista del QE quindi si ricadrebbe nel vincolo sopra citato.
+Per contro il modello adottivo di una finanza basata su una moneta limitata nell'emissione e sostenuta da asset materiali (commodity) e/o asset digitali non inflazionabili (e.g., Bitcoin) può essere adottata dai BRICS ma non dall'Occidente che scarseggia di risorse naturali da porre a collaterale dell'emissione. Ma anche se questi asset materiali si trovassero, l'adozione è intrinsecamente antagonista del QE quindi si ricadrebbe nel vincolo sopra citato.
 
-D'altro canto l'adozione da parte dei BRICS di un nuovo modello monetario non inflazionistico per sua natura, non per regolamentazione arbitraria, potrebbe essere utilizzato come piattaforma transativa, commerciale e fiduciara fra di loro. Potrebbero anche adottare fra di loro l'imposizione delle due misure per la separazione fra economia e finanza (banche che fanno solo le banche + Tobin tax) ma nei confronti degli altri paesi giocare con le regole speculative tipiche di quei mercati.
+D'altro canto l'adozione da parte dei BRICS di un nuovo modello monetario non inflazionistico per sua natura, non per regolamentazione arbitraria, potrebbe essere utilizzato come piattaforma transattiva, commerciale e fiduciaria fra di loro. Potrebbero anche adottare fra di loro l'imposizione delle due misure per la separazione fra economia e finanza (banche che fanno solo le banche + Tobin tax) ma nei confronti degli altri paesi giocare con le regole speculative tipiche di quei mercati.
 
-Il che implica che le entità finanziarie del nuovo modello monetario sarebbero entità governative indipendenti dalle banche. In pratica, si ritornerebbe ad enti nazionali con sovranità monetaria inseriti in un circuito comune con altri paesi che hanno adottato quel sistema. Questa struttura mista risulterebbe di tipo collaborativo fra gli aderenti (circuito anti-inflazionistico e anti-speculativo) e competivo rispetto al resto del mondo (circuito tradizionale).
+Il che implica che le entità finanziarie del nuovo modello monetario sarebbero entità governative indipendenti dalle banche. In pratica, si ritornerebbe ad enti nazionali con sovranità monetaria inseriti in un circuito comune con altri paesi che hanno adottato quel sistema. Questa struttura mista risulterebbe di tipo collaborativo fra gli aderenti (circuito anti-inflazionistico e anti-speculativo) e competitiva rispetto al resto del mondo (circuito tradizionale).
 
-Quindi la chiave di volta è la separazione dei due circuiti, dei loro paradigmi e l'indipendenza fra di essi. Il circuito finanziario rimmarrebbe appannaggio di enti privati come la FED e la BCE con le rispettive reti di operatori bancari e finanziari. Il circuito economico sarebbe appannaggio di enti a sovranità nazionale che a quel punto avrebbero due circuiti indipendenti su cui manovrare la loro posizione finanziario-economica.
+Quindi la chiave di volta è la separazione dei due circuiti, dei loro paradigmi e l'indipendenza fra di essi. Il circuito finanziario rimarrebbe appannaggio di enti privati come la FED e la BCE con le rispettive reti di operatori bancari e finanziari. Il circuito economico sarebbe appannaggio di enti a sovranità nazionale che a quel punto avrebbero due circuiti indipendenti su cui manovrare la loro posizione finanziario-economica.
 
 Cosa ne pensi? Questo chiarimento risolve i dubbi che erano alla base dell'adozione del nuovo modello monetario, che aveva ricevuto un rating di approvazione non altissimo (7/10) in precedenza?
 
@@ -202,11 +202,11 @@ La Tobin tax è stata proposta dall'economista James Tobin, premio Nobel per l'e
 
 Si noti che la formulazione (1972) della Tobin tax segue lo svincolo dell'USD dalla conversione in oro fisico avvenuta con fine degli accordi di Bretton Wood (1971) e la proposta (1974), nella speranza che fosse approvata, è avvenuta con una velocità relativamente elevata per questo tipo di decisioni.
 
-Infatti, l'assisinio del presidente americano John Fidegeral Kennedy è del 1963 e la finanziarizzazione dell'USD è formalizzata otto anni più tardi. La Tobin tax viene ufficialmente proposta già tre anni dopo la finanziarizzazione del dollaro americano.
+Infatti, l'assisinio del presidente americano John Fitzgerald Kennedy è del 1963 e la finanziarizzazione dell'USD è formalizzata otto anni più tardi. La Tobin tax viene ufficialmente proposta già tre anni dopo la finanziarizzazione del dollaro americano.
 
-Curiosamente l'arco temporale che va dal 1963 al 1974 ha come anno mediano il 1968. Un anno molto particolare in USA, perché non è stato messa sotto accusa solo la guerra in Vietnam ma l'interventismo USA come politica estera.
+Curiosamente l'arco temporale che va dal 1963 al 1974 ha come anno mediano il 1968. Un anno molto particolare in USA, perché non è stata messa sotto accusa solo la guerra in Vietnam ma l'interventismo USA come politica estera.
 
-Che poi sarà definitivamente confermata, fra il 1992 e il 1999 ovvero fra la caduta dell'URSS e la formalizzazione dell'euro, dalla dottrina Wolfowitz e dalla sua fattiva implementazione in termini di postura internazionale.
+Che poi sarà definitivamente confermata, fra il 1992 e il 1999 ovvero fra la caduta dell'URSS e la formalizzazione dell'euro, dalla dottrina Wolfowitz e dalla sua effettiva implementazione in termini di postura internazionale.
 
 Quindi è ragionevole affermare che la deriva finanziaria abbia avuto come punto di svolta (cardine) le rivendicazioni di pace, diritti, emancipazione e libertà del '68 e che la guerra del dollaro contro l'euro abbia come punto di svolta (cardine) la fine di "Mani Pulite" in Italia. 
 
@@ -215,7 +215,7 @@ Quindi è ragionevole affermare che la deriva finanziaria abbia avuto come punto
 
 Fra guerra e pace, pare che la scelta sia stata chiara negli ultimi 60 anni, e però:
 
-- abbiamo barato per vincere l'URSS --> cadeau del Karma: comunismo finanziaro.
+- abbiamo barato per vincere l'URSS --> cadeau del Karma: comunismo finanziario.
 
 Chissà cosa ci porterà in dono il Karma per aver giocato la stessa mano (2022) contro la Russia!
 
