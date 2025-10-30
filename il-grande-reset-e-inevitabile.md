@@ -218,9 +218,7 @@ Si noti che la formulazione (1972) della Tobin tax segue lo svincolo dell'USD da
 
 Infatti, l'assisinio del presidente americano John Fitzgerald Kennedy è del 1963 e la finanziarizzazione dell'USD è formalizzata otto anni più tardi. La Tobin tax viene ufficialmente proposta già tre anni dopo la finanziarizzazione del dollaro americano.
 
-Curiosamente l'arco temporale che va dal 1963 al 1974 ha come anno mediano il 1968. Un anno molto particolare in USA, perché non è stata messa sotto accusa solo la guerra in Vietnam ma l'interventismo USA come politica estera.
-
-Che poi sarà definitivamente confermata, fra il 1992 e il 1999 ovvero fra la caduta dell'URSS e la formalizzazione dell'euro, dalla dottrina Wolfowitz e dalla sua effettiva implementazione in termini di postura internazionale.
+Curiosamente l'arco temporale che va dal 1963 al 1974 ha come anno mediano il 1968. Un anno molto particolare in USA, perché non è stata messa sotto accusa solo la guerra in Vietnam ma l'interventismo USA come politica estera. Che poi sarà definitivamente confermata, fra il 1992 e il 1999 ovvero fra la caduta dell'URSS e la formalizzazione dell'euro, dalla dottrina Wolfowitz e dalla sua effettiva implementazione in termini di postura internazionale.
 
 Quindi è ragionevole affermare che la deriva finanziaria abbia avuto come punto di svolta (cardine) le rivendicazioni di pace, diritti, emancipazione e libertà del '68 e che la guerra del dollaro contro l'euro abbia come punto di svolta (cardine) la fine di "Mani Pulite" in Italia. 
 
@@ -241,7 +239,7 @@ Ritengo che la cronologia e i punti di svolta che hai delineato siano altamente 
 
 Ciò supporta l'idea che la deriva attuale non sia un incidente, ma il risultato di scelte strategiche (miopi) fatte in momenti chiave, radicate nella Stupidità Strutturale (HN-1) e finalizzate al mantenimento del potere, il cui costo (TCMO) è ora diventato insostenibile, rendendo probabile un Reset catastrofico (RSMC-4/5).
 
-+
++++++
 
 ## Metodologia
 
@@ -269,9 +267,9 @@ La seconda fase (6-12) punta a evolvere il framework cognitivo dell'agente (cara
 
 A questo punto il processo di agentic fine-tunig (training + caratterizzazione) è completato avendo raggiunto un livello di performance adeguato. Quindi non resta che utilizzare il sistema per il compito per il quale è stato preparato, la terza fase (13), appunto. Che poi è la base sulla quale è stato scritto questo articolo.
 
-+
+---
 
-## Corpus informativo, lista degli articoli
+### Corpus informativo, lista degli articoli
 
 - 01 -- [Fare la vita da consulente non è affatto facile](https://robang74.github.io/roberto-a-foglietta/html/347-fare-la-vita-da-consulente-non-e-affatto-facile.html) &nbsp; (2025-10-23)
 - 02 -- [L'estinzione dei Neanderthal è iniziata](https://robang74.github.io/roberto-a-foglietta/html/346-l-estinzione-dei-neanderthal-e-iniziata.html) &nbsp; (2025-10-20)
@@ -301,6 +299,14 @@ A questo punto il processo di agentic fine-tunig (training + caratterizzazione) 
 - 26 -- [Valutazione di un nuovo modello monetario](https://robang74.github.io/chatgpt-answered-prompts/html/valutazione-di-un-nuovo-modello-monetario.html) &nbsp; (2024-11-26)
 - 27 -- [The BRICS financial system, hope or WW3?](https://robang74.github.io/roberto-a-foglietta/html/265-the-brics-financial-system-hope-or-ww3.html) &nbsp; (2024-06-07)
 - 28 -- [WWZ simply explained, for dummies](https://robang74.github.io/roberto-a-foglietta/html/321-wwz-simply-explained-for-dummies.html) &nbsp; (2025-06-10)
+
+---
+
+### Articoli di riferimento per Katia
+
+- [How to use Katia for educating Katia](https://robang74.github.io/chatbots-for-fun/html/how-to-use-katia-for-educating-katia.html) &nbsp; (2025-10-28)
+- [How to use Katia for improving Katia](https://robang74.github.io/chatbots-for-fun/html/how-to-use-katia-for-improving-katia.html) &nbsp; (2025-10-25)
+- [Introducing Katia, text analysis framework](https://robang74.github.io/chatbots-for-fun/html/introducing-katia-text-analysis-framework.html) &nbsp; (2025-10-05)
 
 +
 
