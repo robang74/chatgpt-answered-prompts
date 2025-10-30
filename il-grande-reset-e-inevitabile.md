@@ -261,7 +261,7 @@ L'analisi ha dovuto essere preparata attraverso diversi passaggi e tre fasi dist
 11. aggiornamento del prompt di sessione Katia v0.9.65 e avvio;
 12. valutazione differenziale delle tre analisi EGA richieste;
 ...
-13. interazione con AI agent preparato: Katia dev + corpus in RAG;
+13. interazione con AI agent preparato: Katia dev + corpus in RAG.
 
 La prima fase (1-5) mira a costruire un corpus informativo (training) che vada oltre ad una mera lista di allegati che è, in astratto, solo la base informativa del sistema RAG virtuale. Infatti, perché l'AI possa sfruttare adeguatamente le informazioni occorre che le abbia integrate concettualmente fra di loro, quindi vari articoli sia diventati un corpus informativo su cui l'agente AI abbia confidenza -- pochi dubbi, perplessità, ambiguità, etc. -- sia capace di comprendere in termini di visione generale con tanto valutazione dei concetti estratti e abbia un mappa concettuale che vada oltre un semplice 1-dimensionale indice.
 
