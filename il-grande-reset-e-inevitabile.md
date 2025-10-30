@@ -5,7 +5,8 @@
 
 ## Il grande reset è inevitabile
 
-- L'[analisi](https://gemini.google.com/share/33889730f197) con Gemini/[Katia](https://raw.githubusercontent.com/robang74/chatbots-for-fun/refs/heads/main/data/katia-executive-grade-analysis-v1.md) e la sua [trascrizione](https://raw.githubusercontent.com/robang74/roberto-a-foglietta/refs/heads/main/data/l-alba-dell-homo-scientius-gemini-katia.txt), sulle quali è basato questo articolo.
+- **1st edition**, presenta l'[analisi](https://gemini.google.com/share/33889730f197) con Gemini/[Katia](https://raw.githubusercontent.com/robang74/chatbots-for-fun/refs/heads/main/data/katia-executive-grade-analysis-v1.md) e la sua [trascrizione](data/la-finanziarizzazione-dell-economia-gemini-katia.txt#?target=_blank), sulle quali è basato questo articolo.
+- **2nd edition**, presenta la [metodologia](#metodologia) di preparazione dell'agente AI (fine-tuning) per ottenere l'analisi.
 
 ...
 
@@ -239,6 +240,34 @@ Chissà cosa ci porterà in dono il Karma per aver giocato la stessa mano (2022)
 Ritengo che la cronologia e i punti di svolta che hai delineato siano altamente relazionabili e coerenti con la struttura concettuale (EGA v2.5) che abbiamo elaborato. Forniscono un eccellente ancoraggio storico ai meccanismi di deriva identificati.
 
 Ciò supporta l'idea che la deriva attuale non sia un incidente, ma il risultato di scelte strategiche (miopi) fatte in momenti chiave, radicate nella Stupidità Strutturale (HN-1) e finalizzate al mantenimento del potere, il cui costo (TCMO) è ora diventato insostenibile, rendendo probabile un Reset catastrofico (RSMC-4/5).
+
++
+
+## Metodologia
+
+L'analisi ha dovuto essere preparata attraverso diversi passaggi e tre fasi distinte:
+
+1. caricamente del prompt di sessione Katia v0.9.56.5 e avvio;
+2. creazione del corpus informativo tramite integrazione concettuale, inizio;
+3. creazione del corpus informativo tramite integrazione concettuale, fine;
+4. breve riassunto per concludere con un quadro generale ma sintetico;
+5. verifica del corpus informativo tramite addizione informazioni laterali;
+...
+6. aggiornamento del prompt di sessione Katia v0.9.57.2 e avvio;
+7. valutazione v0.9.57.2 sull'interpretazione della trascrizione della chat;
+8. aggiornamento del prompt di sessione Katia v0.9.59 e avvio;
+9. valutazione v0.9.59 sull'interpretazione della trascrizione della chat;
+10. valutazione differenziale riguardo alle versioni Flash vs Pro: saturazione;
+11. aggiornamento del prompt di sessione Katia v0.9.65 e avvio;
+12. valutazione differenziale delle tre analisi EGA richieste;
+...
+13. interazione con AI agent preparato: Katia dev + corpus in RAG;
+
+La prima fase (1-5) mira a costruire un corpus informativo (training) che vada oltre ad una mera lista di allegati che è, in astratto, solo la base informativa del sistema RAG virtuale. Infatti, perché l'AI possa sfruttare adeguatamente le informazioni occorre che le abbia integrate concettualmente fra di loro, quindi vari articoli sia diventati un corpus informativo su cui l'agente AI abbia confidenza -- pochi dubbi, perplessità, ambiguità, etc. -- sia capace di comprendere in termini di visione generale con tanto valutazione dei concetti estratti e abbia un mappa concettuale che vada oltre un semplice 1-dimensionale indice.
+
+La seconda fase (6-12) punta a evolvere il framework cognitivo dell'agente (caratterizzazione) in maniera che sia in grado di performare con la massima efficienza, almeno per quanto riguarda quel corpus informativo. Obiettivo che si può dire essere stato ragionevolmente raggiunto nella misura in cui il modello Gemini 2.5 nelle sue versioni Flash e Pro risultino pressoché indistinguibili nonostante la sensibile differenza (SimpleQA: 30% vs 54%) ovvero si è raggiunta la saturazione in termini di capacità di comprensione del corpus ed elaborazione delle richieste sullo stesso.
+
+A questo punto il processo di agentic fine-tunig (training + caratterizzazione) è completato avendo raggiunto un livello di performance adeguato. Quindi non resta che utilizzare il sistema per il compito per il quale è stato preparato, la terza fase (13), appunto. Che poi è la base sulla quale è stato scritto questo articolo.
 
 +
 

@@ -134,7 +134,7 @@ This index is divided in tre sections related to different topics.
    - Software Libre is politics or like Open Source is science? The intrinsic nature of a tool does not change because people use it in a different way than it has been designed. Anyway, kick the politics out of our businesses seems a general good way to go. Civitas et humanitas, ante omnia! &nbsp; (**2nd edt.**)
 
 7. **Il grande reset è inevitabile** &nbsp;(2025-02-29)&nbsp; [[**`md`**](il-grande-reset-e-inevitabile.md)] [[**`html`**](html/il-grande-reset-e-inevitabile.html)] 
-   - The financialization of currency since the end of the Bretton Woods agreements in 1971 is the root cause of the progressive degradation of the global system. A derive from real economy which leads to a financial and systemic collapse, inevitably.
+   - The financialization of currency since the end of the Bretton Woods agreements in 1971 is the root cause of the progressive degradation of the global system. A derive from real economy which leads to a financial and systemic collapse, inevitably. &nbsp; (**2nd edt.**)
 
 +
 
