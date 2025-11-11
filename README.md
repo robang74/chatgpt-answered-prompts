@@ -133,7 +133,7 @@ This index is divided in tre sections related to different topics.
 6. **Emancipate SW libre from its politica roots** &nbsp;(2025-02-07)&nbsp; [[**`md`**](emancipate-sw-libre-from-its-political-roots.md)] [[**`html`**](html/emancipate-sw-libre-from-its-political-roots.html)] [[**`pdf`**](pdf/emancipate-sw-libre-from-its-political-roots.pdf?target=_blank)]
    - Software Libre is politics or like Open Source is science? The intrinsic nature of a tool does not change because people use it in a different way than it has been designed. Anyway, kick the politics out of our businesses seems a general good way to go. Civitas et humanitas, ante omnia! &nbsp; (**2nd edt.**)
 
-7. **Il grande reset è inevitabile** &nbsp;(2025-02-29)&nbsp; [[**`md`**](il-grande-reset-e-inevitabile.md)] [[**`html`**](html/il-grande-reset-e-inevitabile.html)] 
+7. **Il grande reset è inevitabile** &nbsp;(2025-10-29)&nbsp; [[**`md`**](il-grande-reset-e-inevitabile.md)] [[**`html`**](html/il-grande-reset-e-inevitabile.html)]
    - The financialization of currency since the end of the Bretton Woods agreements in 1971 is the root cause of the progressive degradation of the global system. A derive from real economy which leads to a financial and systemic collapse, inevitably. &nbsp; (**2nd edt.**)
 
 +
