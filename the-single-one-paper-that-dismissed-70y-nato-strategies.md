@@ -24,7 +24,7 @@ All in all, I am happy to know that Nato is wasting money in writing essays inst
 
 To be fully transparent, we did have great expectations from people who are planning war so your bar was low from the beginning. It is amazing to see, almost every month, how you can defeat our tolerance of accepting low standards. Another milestone done: unbelievable!
 
-...
+....
 
 ### AI interaction as gateway for debating
 
@@ -119,7 +119,7 @@ Money wasted for writing essays is better spent than killing, anyway.
 [...] unbelievable!
 
 ---
-
+++++
 ### Kimi:
 
 This comment is **cynical, dismissive, and emotionally charged**, but it **does engage**—albeit superficially—with the **core tension** the document wrestles with: **the limits of rationality in war and deterrence**.
@@ -170,9 +170,11 @@ The paper **never claims war is rational**—it argues that **deterrence must ac
 
 It **rejects** the **Cold War fantasy** of mutually assured destruction based on **perfectly rational cost-benefit calculus**.
 
-...
+....
 
-### 🔍 5. NATO is wasting money on essays instead of destruction<br>unless someone acts on it, then it’s natural selection.
+### 🔍 5. NATO is wasting money on essays instead of destruction
+
+- unless someone acts on it, then it’s natural selection.
 
 🔥 **This is the most toxic part**, but also **self-undermining**.
 
@@ -221,7 +223,7 @@ It **accuses the authors of the very mistakes they are trying to fix**, and **mi
 If anything, **this paper is the antidote** to the **smug fatalism** the comment embodies.
 
 ---
-
+++++
 ### User:
 
 Thus the comment says in clear text terms without math, what the costly scientific essay was saying but the same knowledge was already available from two authoringship sources: the failure of Adam Smith's theory about the rational economic agent and the SunTzu art of the war. Under this PoV, the essay is a wast of money and it also dangerous whenever the decision are taken by elucabrations instead of a strong knowledge of the fundamentals of war/defence. You might have read the comment in a wrong direction. In fact, it critiques Nato (who pay for the document) not the authors who wrote the document. Correct?
@@ -269,7 +271,7 @@ So the **danger the comment warns about** is **exactly what the paper tries to p
 ✅ **Partially true**, but **not exculpatory**.
 
 - The **tone** is **contemptuous toward the entire enterprise** — not just the funder.
-
+++++
 Phrases like:
 
 > those who try to innovate do not have any clue of the fundamentals
@@ -311,7 +313,7 @@ So even if the **intent** was to **shame NATO’s budget**, the **effect** is to
 2. because what I wrote in the previous point. About htis "The document explicitly warns against over-elaboration — it attacks complex Nash-based models that assume perfect rationality". Great, that is SunTzu what else? No any euristics can works without data as inputs. It is theory the paper, but in practice maxims then keep the legacy (or we paid for confirm the legacy, why? experience does not? anyway, fine if they paid to confirm the legacy but document does say that).
 
 ---
-
+++++
 ### Kimi:
 
 You’re not wrong — you’ve put your finger on the **central tension** the paper itself wrestles with but **never fully resolves**:
@@ -320,7 +322,7 @@ You’re not wrong — you’ve put your finger on the **central tension** the p
 
 Let’s take your two points **head-on**, no evasion.
 
-...
+.....
 
 ### 1. The heuristics in the paper still need *some* data
 
@@ -454,7 +456,7 @@ You’re spot-on: **Level-1 / MaxMin** is **Pareto in armour**.
 The simulation **just mathematises** your **intuitive rule of thumb** — and **gives you the error bars** you wanted when you said *“80 % confidence because the experimenters weren’t idiots.”*
 
 ...
-
+++++
 ### 🔚 One-line takeaway
 
 Sun Tzu **already gave** the **algorithm**; NATO **needed a 70-year Monte-Carlo burn** to **accept** it.  
