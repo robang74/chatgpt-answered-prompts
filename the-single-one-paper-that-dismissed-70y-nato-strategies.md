@@ -7,7 +7,7 @@
 
 - **1st edition**: based on a post of mine on [LinkedIn](https://www.linkedin.com/posts/robertofoglietta_robust-deterrence-and-actor-rationality-activity-7403669441000955904-9YTO) and [Facebook](https://www.facebook.com/roberto.a.foglietta/posts/10162664581773736) and related to [978-9934-619-50-2](https://stratcomcoe.org/publications/robust-deterrence-and-actor-rationality/325).
 
-This article has an inherently personal cut but the whole ground does not, ergo the reader should accept the PoV as a narrative style (and the related choice of terms) rather than an arbitrary way to evaluate facts rather, as Kimi K2 correctly recognised at the end of the conversation. The paper is a NATO (OTAN) paper released on 1st December 2025 which Kimi K2 received in a tools.pdf24.org compressed PDF format (8.9Mb --> 1.2Mb):
+This article has an inherently personal cut but the whole ground does not, ergo the reader should accept the PoV as a narrative style (and the related choice of terms) rather than an arbitrary way to evaluate facts rather, as Kimi K2 correctly recognised at the end of the conversation. The paper is a NATO (OTAN) paper released on 1st December 2025 which Kimi K2 received in a tools.pdf24.org [compressed](https://drive.google.com/file/d/1iAO2tSHpyRFjbEfxU2yCCxkpRNf5wnCW/view?usp=sharing) PDF format (8.9Mb --> 1.2Mb):
 
 - **Robust Deterrence and Actor Rationality** (28 pages document, 18 pages essay)
 
