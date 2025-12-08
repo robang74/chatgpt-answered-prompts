@@ -92,7 +92,7 @@ This index is divided in tre sections related to different topics.
 7. **Valutazione di un nuovo modello monetario** &nbsp;(2024-11-26)&nbsp; [[**`md`**](valutazione-di-un-nuovo-modello-monetario.md)] [[**`html`**](html/valutazione-di-un-nuovo-modello-monetario.html)]
     - How to globally escape from the current dystopic financial model and connect the economics with reality, avoid WW3 and save the planet.
 
-<hr class="post-it">
+...
 
 ### About education & innovation
 
@@ -111,7 +111,10 @@ This index is divided in tre sections related to different topics.
 5. **The journey from the humans ethics to the AI's faith** &nbsp;(2025-02-07)&nbsp; [[**`md`**](a-journey-from-humans-ethics-to-ai-faith.md)] [[**`html`**](html/a-journey-from-humans-ethics-to-ai-faith.html)] [[**`pdf`**](pdf/a-journey-from-humans-ethics-to-ai-faith.pdf?target=_blank)]
    - Why provide ethics to AIs? Why not also a faith? Done! -- This does not make AI more human, fortunately, but raises the bar of the confrontation with humans. Are you ready?
 
-<hr class="post-it">
+6. **The single one paper that dismissed 70y nato strategies!** &nbsp;(2025-12-08)&nbsp; [[**`md`**](the-single-one-paper-that-dismissed-70y-nato-strategies.md)] [[**`html`**](html/the-single-one-paper-that-dismissed-70y-nato-strategies.html)] [[**`pdf`**](pdf/the-single-one-paper-that-dismissed-70y-nato-strategies.pdf?target=_blank)]
+   - Fighting against contrary-opposite analysis implies a fundamental incapability to elaborate negative feedback, a tragedy in war time. Unsurprisingly, how to cope with negative feedback is the first essential lesson to learn about learning.
+
+...
 
 ### About politics & governance
 
