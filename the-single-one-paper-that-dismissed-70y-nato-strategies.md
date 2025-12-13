@@ -13,6 +13,8 @@ This article has an inherently personal cut but the whole ground does not, ergo 
 
 Fighting against contrary-opposite analysis implies a fundamental incapability to elaborate negative feedback, a tragedy in war time. Unsurprisingly, how to cope with negative feedback is the first essential lesson to learn about learning. Tomorrow’s superiority belongs to those who learn faster than their opponent today.
 
+* L'auto-debunking è la NATO in sintesi: gente così astuta che pubblica solidi paper contro se stessa!
+
 ---
 
 <span id="part-one"></span>
