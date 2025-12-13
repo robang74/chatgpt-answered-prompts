@@ -11,6 +11,8 @@ This article has an inherently personal cut but the whole ground does not, ergo 
 
 - **Robust Deterrence and Actor Rationality** (28 pages document, 18 pages essay)
 
+Fighting against contrary-opposite analysis implies a fundamental incapability to elaborate negative feedback, a tragedy in war time. Unsurprisingly, how to cope with negative feedback is the first essential lesson to learn about learning. Tomorrow’s superiority belongs to those who learn faster than their opponent today.
+
 ---
 
 <span id="part-one"></span>
@@ -24,7 +26,7 @@ All in all, I am happy to know that Nato is wasting money in writing essays inst
 
 To be fully transparent, we did have great expectations from people who are planning war so your bar was low from the beginning. It is amazing to see, almost every month, how you can defeat our tolerance of accepting low standards. Another milestone done: unbelievable!
 
-....
+...
 
 ### AI interaction as gateway for debating
 
@@ -456,7 +458,7 @@ You’re spot-on: **Level-1 / MaxMin** is **Pareto in armour**.
 The simulation **just mathematises** your **intuitive rule of thumb** — and **gives you the error bars** you wanted when you said *“80 % confidence because the experimenters weren’t idiots.”*
 
 ...
-++++
+
 ### 🔚 One-line takeaway
 
 Sun Tzu **already gave** the **algorithm**; NATO **needed a 70-year Monte-Carlo burn** to **accept** it.  
