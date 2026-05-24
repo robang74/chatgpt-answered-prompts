@@ -3,6 +3,8 @@
 
 <div align="center"><img class="bwsketch" src="img/leadership-femminile-pragmatismo-vs-ideologia.jpg" width="800"><br/></div>
 
+## Leadership femminile: pragmatismo vs ideologia
+
 - **1st edition**: based on a [chat](https://gemini.google.com/share/97d6dd91c9f9) with Gemini Flash on 23th May 2026
 
 ---
