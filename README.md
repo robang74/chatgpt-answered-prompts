@@ -114,6 +114,9 @@ This index is divided in tre sections related to different topics.
 6. **The single one paper that dismissed 70y nato strategies!** &nbsp;(2025-12-08)&nbsp; [[**`md`**](the-single-one-paper-that-dismissed-70y-nato-strategies.md)] [[**`html`**](html/the-single-one-paper-that-dismissed-70y-nato-strategies.html)] [[**`pdf`**](pdf/the-single-one-paper-that-dismissed-70y-nato-strategies.pdf?target=_blank)]
    - Fighting against contrary-opposite analysis implies a fundamental incapability to elaborate negative feedback, a tragedy in war time. Unsurprisingly, how to cope with negative feedback is the first essential lesson to learn about learning.
 
+7. **Leadership femminile: pragmatismo vs ideologia** &nbsp;(2026-05-23)&nbsp; [[**`md`**](leadership-femminile-pragmatismo-vs-ideologia.md)] [[**`html`**](html/leadership-femminile-pragmatismo-vs-ideologia.html)] [[**`pdf`**](pdf/leadership-femminile-pragmatismo-vs-ideologia.pdf?target=_blank)]
+   - Leadership is determined by action, not a random action but an agentic action that focuses the attention on WHO is in charge at that moment. Listening and then deciding might seem wiser, but the chain of command isn't responsive.
+
 ...
 
 ### About politics & governance
